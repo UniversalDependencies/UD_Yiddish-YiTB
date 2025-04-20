@@ -1549,12 +1549,12 @@
 # text = ער לײענט נישט אַ בוך.
 # translit = er leyent nisht a bukh.
 # rtl = yes
-1	ער	_	_	_	_	2	nsubj	_	TokenRange=838:840|Translit=er
-2	לײענט	_	_	_	_	0	root	_	TokenRange=841:846|Translit=leyent
-3	נישט	_	_	_	_	_	_	_	TokenRange=847:851|Translit=nisht
-4	אַ	_	_	_	_	_	_	_	TokenRange=852:854|Translit=a
-5	בוך	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=855:858|Translit=bukh
-6	.	_	_	_	_	_	_	_	SpacesAfter=\n|TokenRange=858:859|Translit=.
+1	ער	_	PRON	_	_	2	nsubj	_	TokenRange=838:840|Translit=er
+2	לײענט	_	VERB	_	_	0	root	_	TokenRange=841:846|Translit=leyent
+3	נישט	_	PART	_	_	2	advmod	_	TokenRange=847:851|Translit=nisht
+4	אַ	_	DET	_	_	5	det	_	TokenRange=852:854|Translit=a
+5	בוך	_	NOUN	_	_	2	obj	_	SpaceAfter=No|TokenRange=855:858|Translit=bukh
+6	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=858:859|Translit=.
 
 # sent_id = 84
 # text = איך טו פֿיר זאַכן מיט אַ מאָל.
@@ -5245,8 +5245,8 @@
 6	גאָט	_	PROPN	_	_	2	nmod	_	SpaceAfter=No|TokenRange=5363:5367|Translit=got
 7	}	_	PUNCT	_	_	6	punct	_	TokenRange=5367:5368|Translit=}
 8-9	זאָלסטו	_	_	_	_	_	_	_	_
-8	זאָלסט	_	AUX	_	_	15	aux	_	SpaceAfter=No|TokenRange=5369:5376|Translit=zolst
-9	דו	_	PRON	_	_	15	nsubj	_	SpaceAfter=No|TokenRange=5369:5376|Translit=du
+8	זאָלסט	_	AUX	_	_	15	aux	_	TokenRange=5369:5376|Translit=zolst
+9	דו	_	PRON	_	_	15	nsubj	_	TokenRange=5369:5376|Translit=du
 10	,	_	PUNCT	_	_	12	punct	_	TokenRange=5376:5377|Translit=,
 11	מײַן	_	DET	_	_	12	det:poss	_	TokenRange=5378:5382|Translit=mayn
 12	זון	_	NOUN	_	_	15	vocative	_	SpaceAfter=No|TokenRange=5383:5386|Translit=zun
@@ -5509,7 +5509,7 @@
 # rtl = yes
 1	דענצמאָל	_	ADV	_	_	4	advmod	_	TokenRange=6333:6341|Translit=dentsmol
 2-3	װעסטו	_	_	_	_	_	_	_	_
-2	װעסט	-	AUX	_	_	4	aux	_	TokenRange=6342:6347|Translit=vest
+2	װעסט	_	AUX	_	_	4	aux	_	TokenRange=6342:6347|Translit=vest
 3	דו	דו	PRON	_	_	4	nsubj	_	TokenRange=6342:6347|Translit=du
 4	גײן	_	VERB	_	_	0	root	_	TokenRange=6348:6351|Translit=geyn
 5	אין	_	ADP	_	_	6	case	_	TokenRange=6352:6355|Translit=in
@@ -10663,8 +10663,8 @@
 # rtl = yes
 1	פֿאַרװאָס	_	ADV	_	_	2	advmod	_	TokenRange=947:956|Translit=farvos
 2-3	לערנסטו	_	_	_	_	_	_	_	_
-2	לערנסט	לערנסט	VERB	_	_	0	root	_	SpaceAfter=No|TokenRange=957:964|Translit=lernst
-3	דו	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|TokenRange=957:964|Translit=du
+2	לערנסט	לערנסט	VERB	_	_	0	root	_	TokenRange=957:964|Translit=lernst
+3	דו	_	PRON	_	_	2	nsubj	_	TokenRange=957:964|Translit=du
 4	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=964:965|Translit=?
 
 # sent_id = 815
@@ -12303,15 +12303,17 @@
 5	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|TokenRange=28780:28781|Translit=.
 
 # sent_id = 955
-# text = צי איז זי אַן איטאַליענערקע ?
-# translit = tsi iz zi an italienerke?
+# text = הינדי און אורדו זענען די זעלביקע שפּראַך.
+# translit = hindi un urdu zenen di zelbike shprakh.
 # rtl = yes
-1	צי	_	_	_	_	_	_	_	TokenRange=28935:28937|Translit=tsi
-2	איז	_	_	_	_	_	_	_	TokenRange=28938:28941|Translit=iz
-3	זי	_	_	_	_	_	_	_	TokenRange=28942:28944|Translit=zi
-4	אַן	_	_	_	_	_	_	_	TokenRange=28945:28948|Translit=an
-5	איטאַליענערקע	איטאַליענערקע	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	SpacesAfter=\n|TokenRange=28962:28963|Translit=?
+1	הינדי	_	PROPN	_	_	7	nsubj	_	TokenRange=30984:30989|Translit=hindi
+2	און	_	CCONJ	_	_	3	cc	_	TokenRange=30990:30993|Translit=un
+3	אורדו	_	PROPN	_	_	1	conj	_	TokenRange=30994:30999|Translit=urdu
+4	זענען	_	AUX	_	_	7	cop	_	TokenRange=31000:31005|Translit=zenen
+5	די	_	DET	_	_	7	det	_	TokenRange=31006:31008|Translit=di
+6	זעלביקע	_	ADJ	_	_	7	amod	_	TokenRange=31009:31016|Translit=zelbike
+7	שפּראַך	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=31017:31024|Translit=shprakh
+8	.	_	PUNCT	_	_	7	punct	_	SpacesAfter=\n|TokenRange=31024:31025|Translit=.
 
 # sent_id = 956
 # text = איך האָב געגעסן אַן עפּל.
@@ -12763,17 +12765,4 @@
 5	אײן	_	NUM	_	_	6	nummod	_	TokenRange=30971:30974|Translit=eyn
 6	שפּראַך	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=30975:30982|Translit=shprakh
 7	.	_	PUNCT	_	_	6	punct	_	SpacesAfter=\n|TokenRange=30982:30983|Translit=.
-
-# sent_id = 1002
-# text = הינדי און אורדו זענען די זעלביקע שפּראַך.
-# translit = hindi un urdu zenen di zelbike shprakh.
-# rtl = yes
-1	הינדי	_	PROPN	_	_	7	nsubj	_	TokenRange=30984:30989|Translit=hindi
-2	און	_	CCONJ	_	_	3	cc	_	TokenRange=30990:30993|Translit=un
-3	אורדו	_	PROPN	_	_	1	conj	_	TokenRange=30994:30999|Translit=urdu
-4	זענען	_	AUX	_	_	7	cop	_	TokenRange=31000:31005|Translit=zenen
-5	די	_	DET	_	_	7	det	_	TokenRange=31006:31008|Translit=di
-6	זעלביקע	_	ADJ	_	_	7	amod	_	TokenRange=31009:31016|Translit=zelbike
-7	שפּראַך	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=31017:31024|Translit=shprakh
-8	.	_	PUNCT	_	_	7	punct	_	SpacesAfter=\n|TokenRange=31024:31025|Translit=.
 
