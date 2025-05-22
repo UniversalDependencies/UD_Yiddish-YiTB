@@ -8005,12 +8005,12 @@
 4	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=32675:32676|Translit=.
 
 # sent_id = 636
-# text = ווי הייסט איר‎?
-# translit = vi heyst ir‎?
+# text = ווי הייסט איר?
+# translit = vi heyst ir?
 # rtl = yes
 1	ווי	_	ADV	_	_	2	advmod	_	TokenRange=32730:32733|Translit=vi
 2	הייסט	_	VERB	_	_	0	root	_	TokenRange=32734:32739|Translit=heyst
-3	איר‎	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|TokenRange=32740:32744|Translit=ir‎
+3	איר	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|TokenRange=32740:32744|Translit=ir
 4	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=32744:32745|Translit=?
 
 # sent_id = 637
@@ -13004,10 +13004,10 @@
 11	.	_	PUNCT	_	_	6	punct	_	SpacesAfter=\n|TokenRange=853:854|Translit=.
 
 # sent_id = 946
-# text = ‎אַ ײִד האָט אַכט און צװאַנציק פּראָצענט פּחד, צװײ פּראָצענט צוקער און זיבעציק פּראָצענט חוצפּה.
-# translit = ‎a eyid hot akht un tsvantsik protsent pkhd, tsvey protsent tsuker un zibetsik protsent khutsph.
+# text = אַ ײִד האָט אַכט און צװאַנציק פּראָצענט פּחד, צװײ פּראָצענט צוקער און זיבעציק פּראָצענט חוצפּה.
+# translit = a eyid hot akht un tsvantsik protsent pkhd, tsvey protsent tsuker un zibetsik protsent khutsph.
 # rtl = yes
-1	‎אַ	_	DET	_	_	2	det	_	TokenRange=961:964|Translit=‎a
+1	אַ	_	DET	_	_	2	det	_	TokenRange=961:964|Translit=a
 2	ײִד	_	NOUN	_	_	3	nsubj	_	TokenRange=965:968|Translit=eyid
 3	האָט	_	VERB	_	_	0	root	_	TokenRange=969:973|Translit=hot
 4	אַכט	_	NUM	_	_	7	nummod	_	TokenRange=974:978|Translit=akht
@@ -13138,10 +13138,10 @@
 13	.	_	PUNCT	_	_	1	punct	_	SpacesAfter=\n|TokenRange=1392:1393|Translit=.
 
 # sent_id = 954
-# text = ‎אַז גאָט האָט געטײלט דעם שׂכל ביסטו געשלאָפֿן.
-# translit = ‎az got hot geteylt dem skhl bistu geshlofn.
+# text = אַז גאָט האָט געטײלט דעם שׂכל ביסטו געשלאָפֿן.
+# translit = az got hot geteylt dem skhl bistu geshlofn.
 # rtl = yes
-1	‎אַז	_	SCONJ	_	_	4	mark	_	TokenRange=1394:1398|Translit=‎az
+1	אַז	_	SCONJ	_	_	4	mark	_	TokenRange=1394:1398|Translit=az
 2	גאָט	_	NOUN	_	_	4	nsubj	_	TokenRange=1399:1403|Translit=got
 3	האָט	_	AUX	_	_	4	aux	_	TokenRange=1404:1408|Translit=hot
 4	געטײלט	_	VERB	_	_	9	advcl	_	TokenRange=1409:1415|Translit=geteylt
@@ -13564,10 +13564,10 @@
 6	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=3262:3263|Translit=.
 
 # sent_id = 984
-# text = ‎‎דער ים איז אָן אַ ברעג — די תּורה איז אָן אַן עק.
-# translit = ‎‎der ym iz on a breg — di turh iz on an ek.
+# text = דער ים איז אָן אַ ברעג — די תּורה איז אָן אַן עק.
+# translit = der ym iz on a breg — di turh iz on an ek.
 # rtl = yes
-1	‎‎דער	_	DET	_	_	2	det	_	TokenRange=3264:3269|Translit=‎‎der
+1	דער	_	DET	_	_	2	det	_	TokenRange=3264:3269|Translit=der
 2	ים	_	NOUN	_	_	6	nsubj	_	TokenRange=3270:3272|Translit=ym
 3	איז	_	AUX	_	_	6	cop	_	TokenRange=3273:3276|Translit=iz
 4	אָן	_	ADP	_	_	6	case	_	TokenRange=3277:3280|Translit=on
@@ -19390,14 +19390,14 @@
 5	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|TokenRange=60434:60435|Translit=.
 
 # sent_id = 1496
-# text = יעדע קאַץ האָט איר אייגענע‎ פּערזענלעכקייט.
-# translit = yede kats hot ir eygene‎ perzenlekhkeyt.
+# text = יעדע קאַץ האָט איר אייגענע פּערזענלעכקייט.
+# translit = yede kats hot ir eygene perzenlekhkeyt.
 # rtl = yes
 1	יעדע	_	DET	_	_	2	det	_	TokenRange=60466:60470|Translit=yede
 2	קאַץ	_	NOUN	_	_	3	nsubj	_	TokenRange=60471:60475|Translit=kats
 3	האָט	_	VERB	_	_	0	root	_	TokenRange=60476:60480|Translit=hot
 4	איר	_	DET	_	_	6	det:poss	_	TokenRange=60481:60484|Translit=ir
-5	אייגענע‎	_	ADJ	_	_	6	amod	_	TokenRange=60485:60493|Translit=eygene‎
+5	אייגענע	_	ADJ	_	_	6	amod	_	TokenRange=60485:60493|Translit=eygene
 6	פּערזענלעכקייט	_	NOUN	_	_	3	obj	_	SpaceAfter=No|TokenRange=60494:60508|Translit=perzenlekhkeyt
 7	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=60508:60509|Translit=.
 
@@ -23766,8 +23766,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=21550:21551|Translit=.
 
 # sent_id = 1858
-# text = מײַן בלוט איז נישט רויטער פֿון דײַנעם‎.
-# translit = mayn blut iz nisht royter fun daynem‎.
+# text = מײַן בלוט איז נישט רויטער פֿון דײַנעם.
+# translit = mayn blut iz nisht royter fun daynem.
 # rtl = yes
 1	מײַן	_	DET	_	_	2	det:poss	_	TokenRange=21552:21556|Translit=mayn
 2	בלוט	_	NOUN	_	_	5	nsubj	_	TokenRange=21557:21561|Translit=blut
@@ -23775,7 +23775,7 @@
 4	נישט	_	PART	_	_	5	advmod	_	TokenRange=21566:21570|Translit=nisht
 5	רויטער	_	ADJ	_	_	0	root	_	TokenRange=21571:21577|Translit=royter
 6	פֿון	_	ADP	_	_	7	case	_	TokenRange=21578:21582|Translit=fun
-7	דײַנעם‎	_	PRON	_	_	5	obl	_	SpaceAfter=No|TokenRange=21583:21590|Translit=daynem‎
+7	דײַנעם	_	PRON	_	_	5	obl	_	SpaceAfter=No|TokenRange=21583:21590|Translit=daynem
 8	.	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n|TokenRange=21590:21591|Translit=.
 
 # sent_id = 1859
@@ -23834,21 +23834,21 @@
 6	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=21873:21874|Translit=.
 
 # sent_id = 1864
-# text = איך האָב‎ געהאַט‎ אַ קאַץ.
-# translit = ikh hob‎ gehat‎ a kats.
+# text = איך האָב געהאַט אַ קאַץ.
+# translit = ikh hob gehat a kats.
 # rtl = yes
 1	איך	_	PRON	_	_	3	nsubj	_	TokenRange=22142:22145|Translit=ikh
-2	האָב‎	_	AUX	_	_	3	aux	_	TokenRange=22146:22151|Translit=hob‎
-3	געהאַט‎	_	VERB	_	_	0	root	_	TokenRange=22152:22159|Translit=gehat‎
+2	האָב	_	AUX	_	_	3	aux	_	TokenRange=22146:22151|Translit=hob
+3	געהאַט	_	VERB	_	_	0	root	_	TokenRange=22152:22159|Translit=gehat
 4	אַ	_	DET	_	_	5	det	_	TokenRange=22160:22162|Translit=a
 5	קאַץ	_	NOUN	_	_	3	obj	_	SpaceAfter=No|TokenRange=22163:22167|Translit=kats
 6	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=22167:22168|Translit=.
 
 # sent_id = 1865
-# text = אַ‎ פֿערד איז אַ חיה.
-# translit = a‎ ferd iz a khih.
+# text = אַ פֿערד איז אַ חיה.
+# translit = a ferd iz a khih.
 # rtl = yes
-1	אַ‎	_	DET	_	_	2	det	_	TokenRange=22242:22245|Translit=a‎
+1	אַ	_	DET	_	_	2	det	_	TokenRange=22242:22245|Translit=a
 2	פֿערד	_	NOUN	_	_	5	nsubj	_	TokenRange=22246:22251|Translit=ferd
 3	איז	_	AUX	_	_	5	cop	_	TokenRange=22252:22255|Translit=iz
 4	אַ	_	DET	_	_	5	det	_	TokenRange=22256:22258|Translit=a
@@ -23890,22 +23890,22 @@
 15	?	_	PUNCT	_	_	7	punct	_	SpacesAfter=\n|TokenRange=22496:22497|Translit=?
 
 # sent_id = 1868
-# text = דאָס איז אַ‎ גוטע פֿראַ‎גע.
-# translit = dos iz a‎ gute fra‎ge.
+# text = דאָס איז אַ גוטע פֿראַגע.
+# translit = dos iz a gute frage.
 # rtl = yes
 1	דאָס	_	PRON	_	_	5	nsubj	_	TokenRange=22498:22502|Translit=dos
 2	איז	_	AUX	_	_	5	cop	_	TokenRange=22503:22506|Translit=iz
-3	אַ‎	_	DET	_	_	5	det	_	TokenRange=22507:22510|Translit=a‎
+3	אַ	_	DET	_	_	5	det	_	TokenRange=22507:22510|Translit=a
 4	גוטע	_	ADJ	_	_	5	amod	_	TokenRange=22511:22515|Translit=gute
-5	פֿראַ‎גע	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=22516:22524|Translit=fra‎ge
+5	פֿראַגע	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=22516:22524|Translit=frage
 6	.	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n|TokenRange=22524:22525|Translit=.
 
 # sent_id = 1869
-# text = איך קען‎ רעדן שפּאַניש.
-# translit = ikh ken‎ redn shpanish.
+# text = איך קען רעדן שפּאַניש.
+# translit = ikh ken redn shpanish.
 # rtl = yes
 1	איך	_	PRON	_	_	3	nsubj	_	TokenRange=22526:22529|Translit=ikh
-2	קען‎	_	AUX	_	_	3	aux	_	TokenRange=22530:22534|Translit=ken‎
+2	קען	_	AUX	_	_	3	aux	_	TokenRange=22530:22534|Translit=ken
 3	רעדן	_	VERB	_	_	0	root	_	TokenRange=22535:22539|Translit=redn
 4	שפּאַניש	_	PROPN	_	_	3	obj	_	SpaceAfter=No|TokenRange=22540:22548|Translit=shpanish
 5	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=22548:22549|Translit=.
@@ -23943,12 +23943,12 @@
 7	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|TokenRange=22765:22766|Translit=.
 
 # sent_id = 1873
-# text = איך האָב אַ‎ גוט ווערטערבוך.
-# translit = ikh hob a‎ gut verterbukh.
+# text = איך האָב אַ גוט ווערטערבוך.
+# translit = ikh hob a gut verterbukh.
 # rtl = yes
 1	איך	_	PRON	_	_	2	nsubj	_	TokenRange=22767:22770|Translit=ikh
 2	האָב	_	VERB	_	_	0	root	_	TokenRange=22771:22775|Translit=hob
-3	אַ‎	_	DET	_	_	5	det	_	TokenRange=22776:22779|Translit=a‎
+3	אַ	_	DET	_	_	5	det	_	TokenRange=22776:22779|Translit=a
 4	גוט	_	ADJ	_	_	5	amod	_	TokenRange=22780:22783|Translit=gut
 5	ווערטערבוך	_	NOUN	_	_	2	obj	_	SpaceAfter=No|TokenRange=22784:22794|Translit=verterbukh
 6	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=22794:22795|Translit=.
@@ -23974,22 +23974,22 @@
 15	.	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n|TokenRange=22905:22906|Translit=.
 
 # sent_id = 1875
-# text = איך האָב זיך פֿאַרקילט‎.
-# translit = ikh hob zikh farkilt‎.
+# text = איך האָב זיך פֿאַרקילט.
+# translit = ikh hob zikh farkilt.
 # rtl = yes
 1	איך	_	PRON	_	_	4	nsubj	_	TokenRange=22952:22955|Translit=ikh
 2	האָב	_	AUX	_	_	4	aux	_	TokenRange=22956:22960|Translit=hob
 3	זיך	_	PRON	_	_	4	expl:pv	_	TokenRange=22961:22964|Translit=zikh
-4	פֿאַרקילט‎	_	VERB	_	_	0	root	_	SpaceAfter=No|TokenRange=22965:22975|Translit=farkilt‎
+4	פֿאַרקילט	_	VERB	_	_	0	root	_	SpaceAfter=No|TokenRange=22965:22975|Translit=farkilt
 5	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|TokenRange=22975:22976|Translit=.
 
 # sent_id = 1876
-# text = איך האָב געגעסן‎ דעם עפּל.
-# translit = ikh hob gegesn‎ dem epl.
+# text = איך האָב געגעסן דעם עפּל.
+# translit = ikh hob gegesn dem epl.
 # rtl = yes
 1	איך	_	PRON	_	_	3	nsubj	_	TokenRange=22977:22980|Translit=ikh
 2	האָב	_	AUX	_	_	3	aux	_	TokenRange=22981:22985|Translit=hob
-3	געגעסן‎	_	VERB	_	_	0	root	_	TokenRange=22986:22993|Translit=gegesn‎
+3	געגעסן	_	VERB	_	_	0	root	_	TokenRange=22986:22993|Translit=gegesn
 4	דעם	_	DET	_	_	5	det	_	TokenRange=22994:22997|Translit=dem
 5	עפּל	_	NOUN	_	_	3	obj	_	SpaceAfter=No|TokenRange=22998:23002|Translit=epl
 6	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=23002:23003|Translit=.
@@ -24117,11 +24117,11 @@
 
 # sent_id = 1889
 # text = צי פֿאַרשטײסטו זײ?
-# translit = tsi farshteyst‎u zey?
+# translit = tsi farshteystu zey?
 # rtl = yes
 1	צי	_	PART	_	_	2	dep	_	TokenRange=23612:23614|Translit=tsi
 2-3	פֿאַרשטײסטו	_	_	_	_	_	_	_	_
-2	פֿאַרשטײסט	_	VERB	_	_	0	root	_	TokenRange=23615:23627|Translit=farshteyst‎
+2	פֿאַרשטײסט	_	VERB	_	_	0	root	_	TokenRange=23615:23627|Translit=farshteyst
 3	דו	דו	PRON	_	_	2	nsubj	_	TokenRange=23615:23627|Translit=du
 4	זײ	_	PRON	_	_	2	obj	_	SpaceAfter=No|TokenRange=23628:23630|Translit=zey
 5	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=23630:23631|Translit=?
@@ -24210,12 +24210,12 @@
 7	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|TokenRange=24368:24369|Translit=.
 
 # sent_id = 1897
-# text = מע שרײַבט ייִדיש‎ מיטן העברעיִשן אַלף־בית.
-# translit = me shraybt eyidish‎ mitn hebreishn alf־bis.
+# text = מע שרײַבט ייִדיש מיטן העברעיִשן אַלף־בית.
+# translit = me shraybt eyidish mitn hebreishn alf־bis.
 # rtl = yes
 1	מע	_	PRON	_	_	2	nsubj	_	TokenRange=24370:24372|Translit=me
 2	שרײַבט	_	VERB	_	_	0	root	_	TokenRange=24373:24379|Translit=shraybt
-3	ייִדיש‎	_	PROPN	_	_	2	obj	_	TokenRange=24380:24387|Translit=eyidish‎
+3	ייִדיש	_	PROPN	_	_	2	obj	_	TokenRange=24380:24387|Translit=eyidish
 4-5	מיטן	_	_	_	_	_	_	_	_
 4	מיט	מיט	ADP	_	_	7	case	_	TokenRange=24388:24392|Translit=mit
 5	דעם	דעם	DET	_	_	7	det	_	TokenRange=24388:24392|Translit=dem
@@ -24263,12 +24263,12 @@
 3	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|TokenRange=24512:24513|Translit=.
 
 # sent_id = 1902
-# text = מיר זענען שׂונאים‎.
-# translit = mir zenen sunim‎.
+# text = מיר זענען שׂונאים.
+# translit = mir zenen sunim.
 # rtl = yes
 1	מיר	_	PRON	_	_	3	nsubj	_	TokenRange=24514:24517|Translit=mir
 2	זענען	_	AUX	_	_	3	cop	_	TokenRange=24518:24523|Translit=zenen
-3	שׂונאים‎	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=24524:24532|Translit=sunim‎
+3	שׂונאים	_	NOUN	_	_	0	root	_	SpaceAfter=No|TokenRange=24524:24532|Translit=sunim
 4	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|TokenRange=24532:24533|Translit=.
 
 # sent_id = 1903
