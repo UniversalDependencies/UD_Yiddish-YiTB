@@ -9563,21 +9563,21 @@
 
 # sent_id = 731
 # text = – איר האָט ניט קיין נאָטן? – האָט בעטהאָװען פֿאַרװוּנדערט געפֿרעגט –
-# translit = – ir hot nit keyn notn? – hot bethoven farvundert gefregt – vi azoy zhe shpilt ir?
+# translit = – ir hot nit keyn notn? – hot bethoven farvundert gefregt – 
 # rtl = yes
 1	–	_	PUNCT	_	_	3	punct	_	Translit=–
 2	איר	_	PRON	_	_	3	nsubj	_	Translit=ir
-3	האָט	_	AUX	_	_	12	ccomp	_	Translit=hot
+3	האָט	_	VERB	_	_	12	ccomp	_	Translit=hot
 4	ניט	_	PART	_	_	3	advmod	_	Translit=nit
 5	קיין	_	DET	_	_	6	det	_	Translit=keyn
-6	נאָטן	_	NOUN	_	_	3	ccomp	_	SpaceAfter=No|Translit=notn
+6	נאָטן	_	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=notn
 7	?	_	PUNCT	_	_	3	punct	_	Translit=?
-8	–	_	_	_	_	3	_	_	_
-9	האָט	_	_	_	_	12	aux	_	_
-10	בעטהאָװען	_	_	_	_	12	nsubj	_	_
-11	פֿאַרװוּנדערט	_	_	_	_	12	advmod	_	_
-12	געפֿרעגט	_	_	_	_	0	root	_	_
-13	–	_	_	_	_	12	punct	_	_
+8	–	_	PUNCT	_	_	3	punct	_	Translit=–
+9	האָט	_	AUX	_	_	12	aux	_	Translit=hot
+10	בעטהאָװען	_	PROPN	_	_	12	nsubj	_	Translit=bethoven
+11	פֿאַרװוּנדערט	_	ADJ	_	_	12	advmod	_	Translit=farvundert
+12	געפֿרעגט	_	VERB	_	_	0	root	_	Translit=gefregt
+13	–	_	PUNCT	_	_	12	punct	_	Translit=–
 
 # sent_id = 732
 # text = ער האָט אַרײַנגעקוקט אין פּנים דער יונגער מיידל און דאָ ערשט האָבן מיר באַמערקט, אַז זי איז בלינד…
