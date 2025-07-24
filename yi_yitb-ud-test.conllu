@@ -3776,7 +3776,7 @@
 6	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 315
-# text = אסתּר איז אַ לעבן־געבליבענעפֿונעם פֿון דעם
+# text = אסתּר איז אַ לעבן־געבליבענעפֿונעם חורבן.
 # translit = ister iz a lebn-geblibene funem fun dem.
 # rtl = yes
 # source = tatoeba.org
@@ -3784,7 +3784,7 @@
 2	איז	_	AUX	_	_	4	cop	_	Translit=iz
 3	אַ	_	DET	_	_	4	det	_	Translit=a
 4	לעבן־געבליבענע	_	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=lebn-geblibene
-7-8	פֿונעם	_	_	_	_	_	_	_	Translit=funem
+5-6	פֿונעם	_	_	_	_	_	_	_	Translit=funem
 5	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun
 6	דעם	_	DET	_	_	7	det	_	Translit=dem
 7	חורבן	_	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=khurbn
@@ -13663,7 +13663,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1029
-# text = צי פֿאַרשטײסטו ?
+# text = צי פֿאַרשטײסטו?
 # translit = tsi farshteystu?
 # rtl = yes
 # source = tatoeba.org
@@ -14194,7 +14194,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1073
-# text = אַלץ, וואָס מ׳האָט , קען מען פֿאַרלירן.
+# text = אַלץ, וואָס מ׳האָט, קען מען פֿאַרלירן.
 # translit = alts, vos m'hot, ken men farlirn.
 # rtl = yes
 # source = tatoeba.org
@@ -15534,7 +15534,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1183
-# text = אויף דער פֿראַגע איז קײן גרינגער ענטפֿער נישטאָ .
+# text = אויף דער פֿראַגע איז קײן גרינגער ענטפֿער נישטאָ.
 # translit = oyf der frage iz keyn gringer entfer nishto.
 # rtl = yes
 # source = tatoeba.org
@@ -21503,7 +21503,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1658
-# text = איך האָב ליב אַז קיינער איז נישטאָ .
+# text = איך האָב ליב אַז קיינער איז נישטאָ.
 # translit = ikh hob lib az keyner iz nishto.
 # rtl = yes
 # source = tatoeba.org
