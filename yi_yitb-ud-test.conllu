@@ -6738,7 +6738,7 @@
 3	בעטן	_	VERB	_	_	0	root	_	Translit=betn
 4	ייִדן	_	NOUN	_	_	3	nsubj	_	Translit=yidn
 5	מחילה	_	NOUN	_	_	3	obj	_	Translit=mkhile
-6-7	פֿונעם	_	_	_	_	_	_	_	SpaceAfter=No|Translit=funem
+6-7	פֿונעם	_	_	_	_	_	_	_	Translit=funem
 6	פֿון	_	ADP	_	_	8	case	_	Translit=fun
 7	דעם	_	DET	_	_	8	det	_	Translit=dem
 8	אייבערשטן	_	PROPN	_	_	5	nmod	_	SpaceAfter=No|Translit=eybershtn
@@ -22690,12 +22690,12 @@
 8	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1754
-# text = וויפֿל ניטל־מתּנותהאָסטו האָסט דו ?
+# text = וויפֿל ניטל־מתּנות האָסטו געגעבן הײַיאָר?
 # translit = vifl nitl-mitnes hostu host du?
 # rtl = yes
 # source = tatoeba.org
 1	וויפֿל	_	DET	_	_	2	det	_	Translit=vifl
-2	ניטל־מתּנות	_	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=nitl-mitnes
+2	ניטל־מתּנות	_	NOUN	_	_	5	obj	_	Translit=nitl-mitnes
 3-4	האָסטו	_	_	_	_	_	_	_	Translit=hostu
 3	האָסט	_	AUX	_	_	5	aux	_	Translit=host
 4	דו	_	PRON	_	_	5	nsubj	_	Translit=du
@@ -23740,7 +23740,7 @@
 9	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1832
-# text = פֿאַרװאָס לערנסטו ?
+# text = פֿאַרװאָס לערנסטו?
 # translit = farvos lernstu?
 # rtl = yes
 # source = tatoeba.org
@@ -35391,7 +35391,7 @@
 37	.	_	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 2540
-# text = דעם מוסר פֿון {dn גאָט} זאָלסטו , מײַן זון, ניט פֿאַראַכטן, און זאָלסט ניט פֿאַראומװערדיקן זײַן שטראָף.
+# text = דעם מוסר פֿון {dn גאָט} זאָלסטו, מײַן זון, ניט פֿאַראַכטן, און זאָלסט ניט פֿאַראומװערדיקן זײַן שטראָף.
 # translit = dem moyser fun{ e'en got} zolstu, mayn zun, nit farakhtn, un zolst nit farumverdikn zayn shtrof.
 # rtl = yes
 # source = Book of Proverbs
