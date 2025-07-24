@@ -9060,9 +9060,9 @@
 # source = tatoeba.org
 1	וויפֿל	_	DET	_	_	2	det	_	Translit=vifl
 2	משרתים	_	NOUN	_	_	3	obj	_	Translit=mashrosem
-3-4	האָסטו	_	_	_	_	_	_	_	Translit=hostu
+3-4	האָסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=hostu
 3	האָסט	-	VERB	_	_	0	root	_	Translit=host
-4	דו	דו	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=du
+4	דו	דו	PRON	_	_	3	nsubj	_	Translit=du
 5	?	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=?
 
 # sent_id = 700
@@ -13670,7 +13670,7 @@
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
 2-3	פֿאַרשטײסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=farshteystu
 2	פֿאַרשטײסט	_	VERB	_	_	0	root	_	Translit=farshteyst
-3	דו	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=du
+3	דו	_	PRON	_	_	2	nsubj	_	Translit=du
 4	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=?
 
 # sent_id = 1030
@@ -14203,7 +14203,7 @@
 3	וואָס	_	PRON	_	_	5	obj	_	Translit=vos
 4-5	מ׳האָט	_	_	_	_	_	_	_	SpaceAfter=No|Translit=m'hot
 4	מע	_	PRON	_	_	5	nsubj	_	Translit=me
-5	האָט	_	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Translit=hot
+5	האָט	_	VERB	_	_	1	acl:relcl	_	Translit=hot
 6	,	_	PUNCT	_	_	5	punct	_	Translit=,
 7	קען	_	AUX	_	_	9	aux	_	Translit=ken
 8	מען	_	PRON	_	_	9	nsubj	_	Translit=men
@@ -15547,7 +15547,7 @@
 7	ענטפֿער	_	NOUN	_	_	9	nsubj	_	Translit=entfer
 8-9	נישטאָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nishto
 8	נישט	_	PART	_	_	9	advmod	_	Translit=nisht
-9	דאָ	_	ADV	_	_	0	root	_	SpaceAfter=No|Translit=do
+9	דאָ	_	ADV	_	_	0	root	_	Translit=do
 10	.	_	PUNCT	_	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1184
@@ -21515,7 +21515,7 @@
 6	איז	_	AUX	_	_	8	cop	_	Translit=iz
 7-8	נישטאָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nishto
 7	נישט	_	PART	_	_	8	advmod	_	Translit=nisht
-8	דאָ	_	ADV	_	_	2	ccomp	_	SpaceAfter=No|Translit=do
+8	דאָ	_	ADV	_	_	2	ccomp	_	Translit=do
 9	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 1659
@@ -23747,7 +23747,7 @@
 1	פֿאַרװאָס	_	ADV	_	_	2	advmod	_	Translit=farvos
 2-3	לערנסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=lernstu
 2	לערנסט	לערנסט	VERB	_	_	0	root	_	Translit=lernst
-3	דו	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=du
+3	דו	_	PRON	_	_	2	nsubj	_	Translit=du
 4	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=?
 
 # sent_id = 1833
@@ -35404,7 +35404,7 @@
 7	}	_	PUNCT	_	_	6	punct	_	Translit=}
 8-9	זאָלסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=zolstu
 8	זאָלסט	_	AUX	_	_	15	aux	_	Translit=zolst
-9	דו	_	PRON	_	_	15	nsubj	_	SpaceAfter=No|Translit=du
+9	דו	_	PRON	_	_	15	nsubj	_	Translit=du
 10	,	_	PUNCT	_	_	12	punct	_	Translit=,
 11	מײַן	_	DET	_	_	12	det:poss	_	Translit=mayn
 12	זון	_	NOUN	_	_	15	vocative	_	SpaceAfter=No|Translit=zun
@@ -36282,7 +36282,7 @@
 12	אַמאָל	_	ADV	_	_	13	advmod	_	Translit=amol
 13	גערעדט	_	VERB	_	_	8	acl:relcl	_	Translit=geredt
 14	אין	_	ADP	_	_	15	case	_	Translit=in
-15	אייראָפּע	_	PROPN	_	_	13	obl	_	SpaceAfter=No|Translit=eyrope
+15	אייראָפּע	_	PROPN	_	_	13	obl	_	Translit=eyrope
 16	(	_	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit=(
 17	וואָס	_	PRON	_	_	21	nsubj	_	Translit=vos
 18	איז	_	AUX	_	_	21	aux	_	Translit=iz
@@ -36448,7 +36448,7 @@
 13	פעסטגעשטעלט	_	VERB	_	_	11	conj	_	Translit=festgeshtelt
 14	מיט	_	ADP	_	_	16	case	_	Translit=mit
 15	מאדערנער	_	ADJ	_	_	16	amod	_	Translit=maderner
-16	קולטור	_	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=kultur
+16	קולטור	_	NOUN	_	_	13	obl	_	Translit=kultur
 17	(	_	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit=(
 18	ליטעראטור	_	NOUN	_	_	16	appos	_	SpaceAfter=No|Translit=litertur
 19	,	_	PUNCT	_	_	20	punct	_	Translit=,
@@ -36562,7 +36562,7 @@
 5	געוואָרן	_	AUX	_	_	4	aux:pass	_	Translit=gevorn
 6	מיט	_	ADP	_	_	8	case	_	Translit=mit
 7	לשון־קודש'דיקע	_	ADJ	_	_	8	amod	_	SpaceAfter=No|Translit=loshn-kudesh'dike
-8	אותיות	_	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=esyes
+8	אותיות	_	NOUN	_	_	4	obl	_	Translit=esyes
 9	(	_	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=(
 10	א"ב	_	NOUN	_	_	8	appos	_	SpaceAfter=No|Translit=ub
 11	)	_	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=)
@@ -37643,7 +37643,7 @@
 2	איז	_	AUX	_	_	5	aux	_	Translit=iz
 3	געװען	_	AUX	_	_	5	cop	_	Translit=geven
 4	אין	_	ADP	_	_	5	case	_	Translit=in
-5	באָן	_	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=bon
+5	באָן	_	PROPN	_	_	0	root	_	Translit=bon
 6	(	_	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=(
 7	די	_	DET	_	_	8	det	_	Translit=di
 8	שטאָט	_	NOUN	_	_	5	appos	_	SpaceAfter=No|Translit=shtot
@@ -38916,7 +38916,7 @@
 9	דעם	_	DET	_	_	10	det	_	Translit=dem
 10	ד“ר	_	NOUN	_	_	7	nmod	_	Translit=daller
 11	צמח	_	PROPN	_	_	10	flat:name	_	Translit=tsamekh
-12	שאַבאַד	_	PROPN	_	_	10	flat:name	_	SpaceAfter=No|Translit=shabad
+12	שאַבאַד	_	PROPN	_	_	10	flat:name	_	Translit=shabad
 13	(	_	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=(
 14	געשטאָרבן	_	VERB	_	_	10	parataxis	_	Translit=geshtorbn
 15	פֿאַר	_	ADP	_	_	17	case	_	Translit=far
@@ -38926,7 +38926,7 @@
 19	,	_	PUNCT	_	_	21	punct	_	Translit=,
 20	נאָך	_	ADP	_	_	21	case	_	Translit=nokh
 21	ד“ר	_	PROPN	_	_	10	conj	_	Translit=daller
-22	קאָװאַרסקי	_	PROPN	_	_	21	flat:name	_	SpaceAfter=No|Translit=kovarski
+22	קאָװאַרסקי	_	PROPN	_	_	21	flat:name	_	Translit=kovarski
 23	(	_	PUNCT	_	_	24	punct	_	SpaceAfter=No|Translit=(
 24	געשטאָרבן	_	VERB	_	_	21	parataxis	_	Translit=geshtorbn
 25	אין	_	ADP	_	_	28	case	_	Translit=in
@@ -40960,7 +40960,7 @@
 7	געזעגנט	_	VERB	_	_	0	root	_	Translit=gezegnt
 8	בײַ	_	ADP	_	_	10	case	_	Translit=bay
 9	דער	_	DET	_	_	10	det	_	Translit=der
-10	נאַרעװ־גרענעץ	_	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=narev-grenets
+10	נאַרעװ־גרענעץ	_	NOUN	_	_	7	obl	_	Translit=narev-grenets
 11	(	_	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=(
 12	מיט	_	ADP	_	_	13	case	_	Translit=mit
 13	פֿ.ס.ס.ר.	_	PROPN	_	_	10	nmod	_	SpaceAfter=No|Translit=f.s.s.r.
@@ -41715,7 +41715,7 @@
 9	,	_	PUNCT	_	_	21	punct	_	Translit=,
 10	נאָר	_	CCONJ	_	_	21	cc	_	Translit=nor
 11	דער	_	DET	_	_	12	det	_	Translit=der
-12	הווה	_	NOUN	_	_	21	nsubj	_	SpaceAfter=No|Translit=have
+12	הווה	_	NOUN	_	_	21	nsubj	_	Translit=have
 13	(	_	PUNCT	_	_	19	punct	_	SpaceAfter=No|Translit=(
 14	און	_	CCONJ	_	_	19	cc	_	Translit=un
 15	חיי־שעה	_	NOUN	_	_	19	nsubj	_	SpaceAfter=No|Translit=khaye-sho
