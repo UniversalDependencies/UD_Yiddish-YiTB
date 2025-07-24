@@ -6729,7 +6729,7 @@
 23	.	_	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 553
-# text = אין חודש־אלולבעטן ייִדן מחילה פֿונעם פֿון דעם
+# text = אין חודש־אלולבעטן ייִדן מחילה פֿונעם אייבערשטן.
 # translit = in khoydesh-alel betn yidn mkhile funem fun dem.
 # rtl = yes
 # source = tatoeba.org
@@ -6738,7 +6738,7 @@
 3	בעטן	_	VERB	_	_	0	root	_	Translit=betn
 4	ייִדן	_	NOUN	_	_	3	nsubj	_	Translit=yidn
 5	מחילה	_	NOUN	_	_	3	obj	_	Translit=mkhile
-8-9	פֿונעם	_	_	_	_	_	_	_	Translit=funem
+6-7	פֿונעם	_	_	_	_	_	_	_	SpaceAfter=No|Translit=funem
 6	פֿון	_	ADP	_	_	8	case	_	Translit=fun
 7	דעם	_	DET	_	_	8	det	_	Translit=dem
 8	אייבערשטן	_	PROPN	_	_	5	nmod	_	SpaceAfter=No|Translit=eybershtn
@@ -22696,7 +22696,7 @@
 # source = tatoeba.org
 1	וויפֿל	_	DET	_	_	2	det	_	Translit=vifl
 2	ניטל־מתּנות	_	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=nitl-mitnes
-5-6	האָסטו	_	_	_	_	_	_	_	Translit=hostu
+3-4	האָסטו	_	_	_	_	_	_	_	Translit=hostu
 3	האָסט	_	AUX	_	_	5	aux	_	Translit=host
 4	דו	_	PRON	_	_	5	nsubj	_	Translit=du
 5	געגעבן	_	VERB	_	_	0	root	_	Translit=gegebn
@@ -23745,9 +23745,9 @@
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַרװאָס	_	ADV	_	_	2	advmod	_	Translit=farvos
-2-3	לערנסטו	_	_	_	_	_	_	_	Translit=lernstu
-2	לערנסט	לערנסט	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lernst
-3	דו	_	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=du
+2-3	לערנסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=lernstu
+2	לערנסט	לערנסט	VERB	_	_	0	root	_	Translit=lernst
+3	דו	_	PRON	_	_	2	nsubj	_	Translit=du
 4	?	_	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=?
 
 # sent_id = 1833
@@ -35402,9 +35402,9 @@
 5	dn	_	X	_	_	6	dep	_	Translit=e'en
 6	גאָט	_	PROPN	_	_	2	nmod	_	SpaceAfter=No|Translit=got
 7	}	_	PUNCT	_	_	6	punct	_	Translit=}
-8-9	זאָלסטו	_	_	_	_	_	_	_	Translit=zolstu
-8	זאָלסט	_	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=zolst
-9	דו	_	PRON	_	_	15	nsubj	_	SpaceAfter=No|Translit=du
+8-9	זאָלסטו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=zolstu
+8	זאָלסט	_	AUX	_	_	15	aux	_	Translit=zolst
+9	דו	_	PRON	_	_	15	nsubj	_	Translit=du
 10	,	_	PUNCT	_	_	12	punct	_	Translit=,
 11	מײַן	_	DET	_	_	12	det:poss	_	Translit=mayn
 12	זון	_	NOUN	_	_	15	vocative	_	SpaceAfter=No|Translit=zun
