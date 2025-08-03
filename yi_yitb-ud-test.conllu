@@ -136,8 +136,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 12
-# text = ס׳איז עס איז שרעקלעך.
-# translit = s'iz es iz shreklekh.
+# text = ס׳איז שרעקלעך.
+# translit = s'iz shreklekh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -195,8 +195,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 17
-# text = ס׳איז עס איז אַ באַוווּסט זינגליד.
-# translit = s'iz es iz a bavust zinglid.
+# text = ס׳איז אַ באַוווּסט זינגליד.
+# translit = s'iz a bavust zinglid.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -231,8 +231,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 20
-# text = דאָס האָט זיך געלייגט אויפֿן אױף דעם שׂכל?
-# translit = dos hot zikh geleygt oyfn oyf dem seykhl?
+# text = דאָס האָט זיך געלייגט אויפֿן שׂכל?
+# translit = dos hot zikh geleygt oyfn seykhl?
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	PRON	_	_	4	nsubj	_	Translit=dos
@@ -246,8 +246,8 @@
 8	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 21
-# text = כ׳בין איך בין נישט קיין קאַנאַדער.
-# translit = kh'abin ikh bin nisht keyn kanader.
+# text = כ׳בין נישט קיין קאַנאַדער.
+# translit = kh'abin nisht keyn kanader.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -294,8 +294,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 25
-# text = צי קענסטו קענסט דו עס דערלאַנגען?
-# translit = tsi kenstu kenst du es derlangen?
+# text = צי קענסטו עס דערלאַנגען?
+# translit = tsi kenstu es derlangen?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -327,8 +327,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 28
-# text = כ׳בין איך בין געווען אַן אידעאַליסט.
-# translit = kh'abin ikh bin geven an idealist.
+# text = כ׳בין געווען אַן אידעאַליסט.
+# translit = kh'abin geven an idealist.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -572,8 +572,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 48
-# text = כ׳האָב איך האָב ליב פֿונגוסן.
-# translit = kh'hob ikh hob lib fungusn.
+# text = כ׳האָב ליב פֿונגוסן.
+# translit = kh'hob lib fungusn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -597,8 +597,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 50
-# text = צי האָסטו האָסט דו עס באַמערקט?
-# translit = tsi hostu host du es bamerkt?
+# text = צי האָסטו עס באַמערקט?
+# translit = tsi hostu es bamerkt?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -956,8 +956,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 80
-# text = כ׳בין איך בין נישט העטעראָסעקסועל.
-# translit = kh'abin ikh bin nisht heteroseksuel.
+# text = כ׳בין נישט העטעראָסעקסועל.
+# translit = kh'abin nisht heteroseksuel.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -1045,8 +1045,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 88
-# text = די קלאָרקייט איז וויכטיקער פֿונעם פֿון דעם פּשטות.
-# translit = di klorkeyt iz vikhtiker funem fun dem pashtes.
+# text = די קלאָרקייט איז וויכטיקער פֿונעם פּשטות.
+# translit = di klorkeyt iz vikhtiker funem pashtes.
 # rtl = yes
 # source = tatoeba.org
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -1060,8 +1060,8 @@
 8	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 89
-# text = ס׳איז עס איז אויף מײַן חשבון.
-# translit = s'iz es iz oyf mayn kheshbn.
+# text = ס׳איז אויף מײַן חשבון.
+# translit = s'iz oyf mayn kheshbn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -1131,8 +1131,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 95
-# text = ס׳איז עס איז נאָך קאָמישער, אַז זיי וויצלען זיך נישט.
-# translit = s'iz es iz nokh komisher, az zey vitslen zikh nisht.
+# text = ס׳איז נאָך קאָמישער, אַז זיי וויצלען זיך נישט.
+# translit = s'iz nokh komisher, az zey vitslen zikh nisht.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -1383,8 +1383,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 116
-# text = כ׳בין איך בין געווען אויבן.
-# translit = kh'abin ikh bin geven oybn.
+# text = כ׳בין געווען אויבן.
+# translit = kh'abin geven oybn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -1405,8 +1405,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 118
-# text = וואָס האָסטו האָסט דו געזען אין אויסטראַליע?
-# translit = vos hostu host du gezen in oystralye?
+# text = וואָס האָסטו געזען אין אויסטראַליע?
+# translit = vos hostu gezen in oystralye?
 # rtl = yes
 # source = tatoeba.org
 1	וואָס	_	PRON	_	_	4	obj	_	Translit=vos
@@ -1490,8 +1490,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 125
-# text = זיי גייען צום צו דעם דאָקטער.
-# translit = zey geyen tsum tsu dem dokter.
+# text = זיי גייען צום דאָקטער.
+# translit = zey geyen tsum dokter.
 # rtl = yes
 # source = tatoeba.org
 1	זיי	_	PRON	_	_	2	nsubj	_	Translit=zey
@@ -1617,8 +1617,8 @@
 5	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 135
-# text = כ׳האָב איך האָב באַקומען אַן אויסשיט פֿון סם־בלעטלעך.
-# translit = kh'hob ikh hob bakumen an oysshit fun sam-bletlekh.
+# text = כ׳האָב באַקומען אַן אויסשיט פֿון סם־בלעטלעך.
+# translit = kh'hob bakumen an oysshit fun sam-bletlekh.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -1692,8 +1692,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 141
-# text = ס׳זענען עס זענען נישטאָ נישט דאָ קיין וואַשצימערן.
-# translit = s'zenen es zenen nishto nisht do keyn vashtsimern.
+# text = ס׳זענען נישטאָ קיין וואַשצימערן.
+# translit = s'zenen nishto keyn vashtsimern.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -1832,8 +1832,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 153
-# text = ביסטו ביסט דו שוואנגער?
-# translit = bistu bist du shvanger?
+# text = ביסטו שוואנגער?
+# translit = bistu shvanger?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -1946,8 +1946,8 @@
 8	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 162
-# text = ס׳האָט עס האָט געדויערט אַ חודש.
-# translit = s'hot es hot gedoyert a khoydesh.
+# text = ס׳האָט געדויערט אַ חודש.
+# translit = s'hot gedoyert a khoydesh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳האָט	_	_	_	_	_	_	_	Translit=s'hot
@@ -1959,8 +1959,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 163
-# text = ווער איז געווען דער פֿאַרטראַכטער פֿונעם פֿון דעם ראַדיאָ?
-# translit = ver iz geven der fartrakhter funem fun dem radyo?
+# text = ווער איז געווען דער פֿאַרטראַכטער פֿונעם ראַדיאָ?
+# translit = ver iz geven der fartrakhter funem radyo?
 # rtl = yes
 # source = tatoeba.org
 1	ווער	_	PRON	_	_	5	nsubj	_	Translit=ver
@@ -2117,8 +2117,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 176
-# text = צי ביסטו ביסט דו אַ מוסולמענער?
-# translit = tsi bistu bist du a musulmener?
+# text = צי ביסטו אַ מוסולמענער?
+# translit = tsi bistu a musulmener?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -2299,8 +2299,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 191
-# text = ס׳איז עס איז נישט געווען מײַן שולד.
-# translit = s'iz es iz nisht geven mayn shuld.
+# text = ס׳איז נישט געווען מײַן שולד.
+# translit = s'iz nisht geven mayn shuld.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -2363,8 +2363,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 196
-# text = טאָם האַלט בײַם בײַ דעם שטאַרבן.
-# translit = tom halt baym bay dem shtarbn.
+# text = טאָם האַלט בײַם שטאַרבן.
+# translit = tom halt baym shtarbn.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	2	nsubj	_	Translit=tom
@@ -2466,8 +2466,8 @@
 9	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 204
-# text = צי האָסטו האָסט דו אַ מאָל געזען די בערג פֿון אונדזער הייליק לאַנד?
-# translit = tsi hostu host du a mol gezen di berg fun undzer heylik land?
+# text = צי האָסטו אַ מאָל געזען די בערג פֿון אונדזער הייליק לאַנד?
+# translit = tsi hostu a mol gezen di berg fun undzer heylik land?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	6	dep	_	Translit=tsi
@@ -2530,8 +2530,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 209
-# text = ס׳זעט עס זעט אויס ווי אַ פֿוקס.
-# translit = s'zet es zet oys vi a fuks.
+# text = ס׳זעט אויס ווי אַ פֿוקס.
+# translit = s'zet oys vi a fuks.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זעט	_	_	_	_	_	_	_	Translit=s'zet
@@ -2620,8 +2620,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 217
-# text = ס׳זענען עס זענען נישטאָ נישט דאָ קיין שלעכטע מענטשן.
-# translit = s'zenen es zenen nishto nisht do keyn shlekhte mentshn.
+# text = ס׳זענען נישטאָ קיין שלעכטע מענטשן.
+# translit = s'zenen nishto keyn shlekhte mentshn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -2736,8 +2736,8 @@
 6	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 225
-# text = כ׳בין איך בין אַן אַמעריקאַנער ייִדישקע.
-# translit = kh'abin ikh bin an amerikaner yidishke.
+# text = כ׳בין אַן אַמעריקאַנער ייִדישקע.
+# translit = kh'abin an amerikaner yidishke.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -2861,8 +2861,8 @@
 5	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 236
-# text = די דינסט האָט אויסגעסדרט די מעסערס און לעפֿל אויפֿן אױף דעם טיש.
-# translit = di dinst hot oysgesdrt di mesers un lefl oyfn oyf dem tish.
+# text = די דינסט האָט אויסגעסדרט די מעסערס און לעפֿל אויפֿן טיש.
+# translit = di dinst hot oysgesdrt di mesers un lefl oyfn tish.
 # rtl = yes
 # source = tatoeba.org
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -3077,8 +3077,8 @@
 9	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 254
-# text = ס׳איז עס איז נישט גרינג, אויפֿצוהערן צו זײַן אַ נאַר.
-# translit = s'iz es iz nisht gring, oyftsuhern tsu zayn a nar.
+# text = ס׳איז נישט גרינג, אויפֿצוהערן צו זײַן אַ נאַר.
+# translit = s'iz nisht gring, oyftsuhern tsu zayn a nar.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -3776,8 +3776,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 315
-# text = אסתּר איז אַ לעבן־געבליבענע פֿונעם פֿון דעם חורבן.
-# translit = ister iz a lebn-geblibene funem fun dem khurbn.
+# text = אסתּר איז אַ לעבן־געבליבענע פֿונעם חורבן.
+# translit = ister iz a lebn-geblibene funem khurbn.
 # rtl = yes
 # source = tatoeba.org
 1	אסתּר	_	PROPN	_	_	4	nsubj	_	Translit=ister
@@ -4337,8 +4337,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 365
-# text = ביסטו ביסט דו פֿאַרנומען?
-# translit = bistu bist du farnumen?
+# text = ביסטו פֿאַרנומען?
+# translit = bistu farnumen?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -4542,8 +4542,8 @@
 5	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 383
-# text = ס׳איז עס איז דאָ אַ סך געלט.
-# translit = s'iz es iz do a sakh gelt.
+# text = ס׳איז דאָ אַ סך געלט.
+# translit = s'iz do a sakh gelt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -4568,8 +4568,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 385
-# text = לאָמיר לאָז מיר שטענדיק זײַן חבֿרים.
-# translit = lomir loz mir shtendik zayn khavorem.
+# text = לאָמיר שטענדיק זײַן חבֿרים.
+# translit = lomir shtendik zayn khavorem.
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
@@ -4785,8 +4785,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 404
-# text = ס'איז עס איז נאָך ניט גרייט.
-# translit = s'iz es iz nokh nit greyt.
+# text = ס'איז נאָך ניט גרייט.
+# translit = s'iz nokh nit greyt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -4923,8 +4923,8 @@
 6	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 416
-# text = צי קענסטו קענסט דו פֿאַרשטיין טאָמען?
-# translit = tsi kenstu kenst du farshteyn tomen?
+# text = צי קענסטו פֿאַרשטיין טאָמען?
+# translit = tsi kenstu farshteyn tomen?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	4	dep	_	Translit=tsi
@@ -5107,8 +5107,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 432
-# text = ייִדיש װערט געשריבן מיטן מיט דעם אַלף־בת.
-# translit = yidish vert geshribn mitn mit dem alef-bes.
+# text = ייִדיש װערט געשריבן מיטן אַלף־בת.
+# translit = yidish vert geshribn mitn alef-bes.
 # rtl = yes
 # source = tatoeba.org
 1	ייִדיש	_	PROPN	_	_	3	nsubj:pass	_	Translit=yidish
@@ -5294,8 +5294,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 445
-# text = פֿאַרװאָס ביסטו ביסט דו פּלוצלינג אַזױ נערװעיִש?
-# translit = farvos bistu bist du plutsling azoy nerveish?
+# text = פֿאַרװאָס ביסטו פּלוצלינג אַזױ נערװעיִש?
+# translit = farvos bistu plutsling azoy nerveish?
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַרװאָס	_	ADV	_	_	6	advmod	_	Translit=farvos
@@ -5308,8 +5308,8 @@
 7	?	_	PUNCT	_	_	6	punct	_	Translit=?
 
 # sent_id = 446
-# text = כ'האָב איך האָב געקויפֿט זײַן נײַסטן ראָמאַן.
-# translit = khob ikh hob gekoyft zayn naystn roman.
+# text = כ'האָב געקויפֿט זײַן נײַסטן ראָמאַן.
+# translit = khob gekoyft zayn naystn roman.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'האָב	_	_	_	_	_	_	_	Translit=khob
@@ -5322,8 +5322,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 447
-# text = כ'האָב איך האָב געקויפֿט זײַן לעצטן ראָמאַן.
-# translit = khob ikh hob gekoyft zayn letstn roman.
+# text = כ'האָב געקויפֿט זײַן לעצטן ראָמאַן.
+# translit = khob gekoyft zayn letstn roman.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'האָב	_	_	_	_	_	_	_	Translit=khob
@@ -5443,8 +5443,8 @@
 12	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 457
-# text = כ'בין איך בין געי, נו?
-# translit = khabin ikh bin gey, nu?
+# text = כ'בין געי, נו?
+# translit = khabin gey, nu?
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'בין	_	_	_	_	_	_	_	Translit=khabin
@@ -5586,8 +5586,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 469
-# text = ביסטו ביסט דו אַ פּאָליגלאָט?
-# translit = bistu bist du a poliglot?
+# text = ביסטו אַ פּאָליגלאָט?
+# translit = bistu a poliglot?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -5609,8 +5609,8 @@
 5	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 471
-# text = כ'בין איך בין אַ פּאָליגלאָט.
-# translit = khabin ikh bin a poliglot.
+# text = כ'בין אַ פּאָליגלאָט.
+# translit = khabin a poliglot.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'בין	_	_	_	_	_	_	_	Translit=khabin
@@ -5643,8 +5643,8 @@
 5	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 474
-# text = ביסטו ביסט דו אין בערלין?
-# translit = bistu bist du in berlin?
+# text = ביסטו אין בערלין?
+# translit = bistu in berlin?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -5665,8 +5665,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 476
-# text = כ'בין איך בין אָפּטימיסטיש.
-# translit = khabin ikh bin optimistish.
+# text = כ'בין אָפּטימיסטיש.
+# translit = khabin optimistish.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'בין	_	_	_	_	_	_	_	Translit=khabin
@@ -5765,8 +5765,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 485
-# text = צי גלייבסטו גלײבסט דו אין גאָט?
-# translit = tsi gleybstu glaybst du in got?
+# text = צי גלייבסטו אין גאָט?
+# translit = tsi gleybstu in got?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -5811,8 +5811,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 489
-# text = כ'וועל איך וועל פֿליִען קיין דײַטשלאַנד.
-# translit = kh'vel ikh vel flien keyn daytshland.
+# text = כ'וועל פֿליִען קיין דײַטשלאַנד.
+# translit = kh'vel flien keyn daytshland.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'וועל	_	_	_	_	_	_	_	Translit=kh'vel
@@ -5907,8 +5907,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 497
-# text = קענסטו קענסט דו טאָמס טאַטן?
-# translit = kenstu kenst du toms tatn?
+# text = קענסטו טאָמס טאַטן?
+# translit = kenstu toms tatn?
 # rtl = yes
 # source = tatoeba.org
 1-2	קענסטו	_	_	_	_	_	_	_	Translit=kenstu
@@ -5919,8 +5919,8 @@
 5	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 498
-# text = האָסטו האָסט דו געקויפֿט באַנאַנען?
-# translit = hostu host du gekoyft bananen?
+# text = האָסטו געקויפֿט באַנאַנען?
+# translit = hostu gekoyft bananen?
 # rtl = yes
 # source = tatoeba.org
 1-2	האָסטו	_	_	_	_	_	_	_	Translit=hostu
@@ -5966,8 +5966,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 502
-# text = איך שעם זיך אַז כ'האָב איך האָב עס געטאָן.
-# translit = ikh shem zikh az khob ikh hob es geton.
+# text = איך שעם זיך אַז כ'האָב עס געטאָן.
+# translit = ikh shem zikh az khob es geton.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -6361,8 +6361,8 @@
 10	.	_	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = 534
-# text = אַלע דרײַ קינדער פֿון לייזער זאַמענהאָף זענען אומגעקומען אינעם אין דעם חורבן.
-# translit = ale dray kinder fun leyzer zamenhof zenen umgekumen inem in dem khurbn.
+# text = אַלע דרײַ קינדער פֿון לייזער זאַמענהאָף זענען אומגעקומען אינעם חורבן.
+# translit = ale dray kinder fun leyzer zamenhof zenen umgekumen inem khurbn.
 # rtl = yes
 # source = tatoeba.org
 1	אַלע	_	DET	_	_	3	det	_	Translit=ale
@@ -6432,8 +6432,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 538
-# text = די פֿרײַהייט איז אַלע מאָל די פֿרײַהייט פֿונעם פֿון דעם ניינזאָגער.
-# translit = di frayheyt iz ale mol di frayheyt funem fun dem neynzoger.
+# text = די פֿרײַהייט איז אַלע מאָל די פֿרײַהייט פֿונעם ניינזאָגער.
+# translit = di frayheyt iz ale mol di frayheyt funem neynzoger.
 # rtl = yes
 # source = tatoeba.org
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -6468,8 +6468,8 @@
 12	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 540
-# text = איך וויל בעסער פֿאָרן מיטן מיט דעם וועלאָ ווי גיין.
-# translit = ikh vil beser forn mitn mit dem velo vi gayen.
+# text = איך וויל בעסער פֿאָרן מיטן וועלאָ ווי גיין.
+# translit = ikh vil beser forn mitn velo vi gayen.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	4	nsubj	_	Translit=ikh
@@ -6516,8 +6516,8 @@
 10	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 543
-# text = ס׳איז עס איז אמת אַז אַלבערט אײַנשטײַן איז נישט געווען קיין גוטער תּלמיד?
-# translit = s'iz es iz emes az albert aynshtayn iz nisht geven keyn guter talmed?
+# text = ס׳איז אמת אַז אַלבערט אײַנשטײַן איז נישט געווען קיין גוטער תּלמיד?
+# translit = s'iz emes az albert aynshtayn iz nisht geven keyn guter talmed?
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -6552,8 +6552,8 @@
 10	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 545
-# text = וואָס מאַך איך איצט כּדי צו באַקומען וואָס איך וויל פֿונעם פֿון דעם לעבן?
-# translit = vos makh ikh itst kedey tsu bakumen vos ikh vil funem fun dem lebn?
+# text = וואָס מאַך איך איצט כּדי צו באַקומען וואָס איך וויל פֿונעם לעבן?
+# translit = vos makh ikh itst kedey tsu bakumen vos ikh vil funem lebn?
 # rtl = yes
 # source = tatoeba.org
 1	וואָס	_	PRON	_	_	2	obj	_	Translit=vos
@@ -6615,8 +6615,8 @@
 11	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 548
-# text = בײַ מיר ביסטו ביסט דו שיין, בײַ מיר האָסטו האָסט דו חן, בײַ מיר ביסטו ביסט דו דער שענסטער אויף דער וועלט.
-# translit = bay mir bistu bist du shayen, bay mir hostu host du khan, bay mir bistu bist du der shenster oyf der velt.
+# text = בײַ מיר ביסטו שיין, בײַ מיר האָסטו חן, בײַ מיר ביסטו דער שענסטער אויף דער וועלט.
+# translit = bay mir bistu shayen, bay mir hostu khan, bay mir bistu der shenster oyf der velt.
 # rtl = yes
 # source = tatoeba.org
 1	בײַ	_	ADP	_	_	2	case	_	Translit=bay
@@ -6662,8 +6662,8 @@
 10	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 550
-# text = ווען טאָם וואָלט אָפּגעשפּרונגען פֿון אַ בריק, וואָלטסטו וואָלטסט דו געמאַכט אויך דאָס זעלבע?
-# translit = ven tom volt opgeshprungen fun a brik, voltstu voltst du gemakht oykh dos zelbe?
+# text = ווען טאָם וואָלט אָפּגעשפּרונגען פֿון אַ בריק, וואָלטסטו געמאַכט אויך דאָס זעלבע?
+# translit = ven tom volt opgeshprungen fun a brik, voltstu gemakht oykh dos zelbe?
 # rtl = yes
 # source = tatoeba.org
 1	ווען	_	SCONJ	_	_	4	mark	_	Translit=ven
@@ -6729,8 +6729,8 @@
 23	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 553
-# text = אין חודש־אלול בעטן ייִדן מחילה פֿונעם פֿון דעם אייבערשטן.
-# translit = in khoydesh-alel betn yidn mkhile funem fun dem eybershtn.
+# text = אין חודש־אלול בעטן ייִדן מחילה פֿונעם אייבערשטן.
+# translit = in khoydesh-alel betn yidn mkhile funem eybershtn.
 # rtl = yes
 # source = tatoeba.org
 1	אין	_	ADP	_	_	2	case	_	Translit=in
@@ -6809,8 +6809,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 558
-# text = ווען מערי איז אריינגעקומען אינעם אין דעם צימער, דזשעק האט פלוצלינג אפגעשטעלט רעדן.
-# translit = ven meri iz eyngekumen inem in dem tsimer, dzhek hot flutsling apgeshtelt redn.
+# text = ווען מערי איז אריינגעקומען אינעם צימער, דזשעק האט פלוצלינג אפגעשטעלט רעדן.
+# translit = ven meri iz eyngekumen inem tsimer, dzhek hot flutsling apgeshtelt redn.
 # rtl = yes
 # source = tatoeba.org
 1	ווען	_	SCONJ	_	_	4	mark	_	Translit=ven
@@ -6893,8 +6893,8 @@
 11	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 563
-# text = ער האָט געלייענט די העברעיִשע איבערזעצונג פֿונעם פֿון דעם קאָראַן אין ווייניקער ווי איין וואָך.
-# translit = er hot geleyent di hebreishe iberzetsung funem fun dem koran in veyniker vi eyn vokh.
+# text = ער האָט געלייענט די העברעיִשע איבערזעצונג פֿונעם קאָראַן אין ווייניקער ווי איין וואָך.
+# translit = er hot geleyent di hebreishe iberzetsung funem koran in veyniker vi eyn vokh.
 # rtl = yes
 # source = tatoeba.org
 1	ער	_	PRON	_	_	3	nsubj	_	Translit=er
@@ -6929,8 +6929,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 565
-# text = לויף נישט גיך, וועסטו וועסט דו נישט צערײַסן די שיך.
-# translit = loyf nisht gikh, vestu vest du nisht tseraysn di shikh.
+# text = לויף נישט גיך, וועסטו נישט צערײַסן די שיך.
+# translit = loyf nisht gikh, vestu nisht tseraysn di shikh.
 # rtl = yes
 # source = tatoeba.org
 1	לויף	_	VERB	_	_	8	advcl	_	Translit=loyf
@@ -7064,8 +7064,8 @@
 11	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 573
-# text = די קאַץ האָט אַראָפּגעזעצט די וואַזע פֿונעם פֿון דעם טיש.
-# translit = di kats hot aropgezetst di vaze funem fun dem tish.
+# text = די קאַץ האָט אַראָפּגעזעצט די וואַזע פֿונעם טיש.
+# translit = di kats hot aropgezetst di vaze funem tish.
 # rtl = yes
 # source = tatoeba.org
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -7131,8 +7131,8 @@
 10	!	_	PUNCT	_	_	7	punct	_	Translit=!
 
 # sent_id = 577
-# text = ס׳זענען עס זענען פֿאַראַן נאָר צוויי מינים: דער מענלעכער און דער פּאָליטישער.
-# translit = s'zenen es zenen faran nor tsvey minem: der menlekher un der politisher.
+# text = ס׳זענען פֿאַראַן נאָר צוויי מינים: דער מענלעכער און דער פּאָליטישער.
+# translit = s'zenen faran nor tsvey minem: der menlekher un der politisher.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -7432,8 +7432,8 @@
 8	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 594
-# text = עס זײַנען נישטאָ נישט דאָ קיין נאַרישע שאלות, נאָר נאַרישע פֿראַגעס.
-# translit = es zaynen nishto nisht do keyn narishe shayles, nor narishe frages.
+# text = עס זײַנען נישטאָ קיין נאַרישע שאלות, נאָר נאַרישע פֿראַגעס.
+# translit = es zaynen nishto keyn narishe shayles, nor narishe frages.
 # rtl = yes
 # source = tatoeba.org
 1	עס	_	PRON	_	_	4	expl	_	Translit=es
@@ -7565,8 +7565,8 @@
 11	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 602
-# text = ס׳איז עס איז נישט גענוג וואַרעם כּדי צו עפֿענען דעם פֿענצטער.
-# translit = s'iz es iz nisht genug varem kedey tsu éfenen dem fentster.
+# text = ס׳איז נישט גענוג וואַרעם כּדי צו עפֿענען דעם פֿענצטער.
+# translit = s'iz nisht genug varem kedey tsu éfenen dem fentster.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -8065,8 +8065,8 @@
 10	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 631
-# text = אַלע רעליגיעס, קונסטן און וויסנשאַפֿטן זענען צווײַגן פֿונעם פֿון דעם זעלבן בוים.
-# translit = ale religyes, kunstn un visnshaftn zenen tsvaygn funem fun dem zelbn boym.
+# text = אַלע רעליגיעס, קונסטן און וויסנשאַפֿטן זענען צווײַגן פֿונעם זעלבן בוים.
+# translit = ale religyes, kunstn un visnshaftn zenen tsvaygn funem zelbn boym.
 # rtl = yes
 # source = tatoeba.org
 1	אַלע	_	DET	_	_	2	det	_	Translit=ale
@@ -8085,8 +8085,8 @@
 13	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 632
-# text = צי ווילסטו װילסט דו מיך אָנרופֿן, צי זאָל איך דיך אָנרופֿן?
-# translit = tsi vilstu vilst du mikh onrufn, tsi zol ikh dikh onrufn?
+# text = צי ווילסטו מיך אָנרופֿן, צי זאָל איך דיך אָנרופֿן?
+# translit = tsi vilstu mikh onrufn, tsi zol ikh dikh onrufn?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -8150,8 +8150,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 636
-# text = צי וועסטו וועסט דו צוזאָגן, אַז דו וועסט זיך באַטראַכטן וועגן מײַן אָנבאָט?
-# translit = tsi vestu vest du tsuzogn, az du vest zikh batrakhtn vegn mayn onbot?
+# text = צי וועסטו צוזאָגן, אַז דו וועסט זיך באַטראַכטן וועגן מײַן אָנבאָט?
+# translit = tsi vestu tsuzogn, az du vest zikh batrakhtn vegn mayn onbot?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	4	dep	_	Translit=tsi
@@ -8271,8 +8271,8 @@
 11	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 643
-# text = אַז מען עסט חזיר, זאָל עס שוין רינען איבערן איבער דעם פּיסק.
-# translit = az men est khazer, zol es shoyn rinen ibern iber dem pisk.
+# text = אַז מען עסט חזיר, זאָל עס שוין רינען איבערן פּיסק.
+# translit = az men est khazer, zol es shoyn rinen ibern pisk.
 # rtl = yes
 # source = tatoeba.org
 1	אַז	_	SCONJ	_	_	3	mark	_	Translit=az
@@ -8398,8 +8398,8 @@
 8	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 651
-# text = ס׳איז עס איז אַ משׂא־אויטאָ מיט אַ נאָכפֿאָרער.
-# translit = s'iz es iz a mase-oyto mit a nokhforer.
+# text = ס׳איז אַ משׂא־אויטאָ מיט אַ נאָכפֿאָרער.
+# translit = s'iz a mase-oyto mit a nokhforer.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -8413,8 +8413,8 @@
 8	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 652
-# text = אָ ראָמעאָ, ראָמעאָ, פֿאַר וואָס ביסטו ביסט דו ראָמעאָ?
-# translit = o romeo, romeo, far vos bistu bist du romeo?
+# text = אָ ראָמעאָ, ראָמעאָ, פֿאַר וואָס ביסטו ראָמעאָ?
+# translit = o romeo, romeo, far vos bistu romeo?
 # rtl = yes
 # source = tatoeba.org
 1	אָ	_	INTJ	_	_	10	discourse	_	Translit=o
@@ -8447,8 +8447,8 @@
 10	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 654
-# text = ס'איז עס איז נישטאָ נישט דאָ קיין זאַך וויכטיקערע ווי חבֿרשאַפֿט.
-# translit = s'iz es iz nishto nisht do keyn zakh vikhtikere vi khavershaft.
+# text = ס'איז נישטאָ קיין זאַך וויכטיקערע ווי חבֿרשאַפֿט.
+# translit = s'iz nishto keyn zakh vikhtikere vi khavershaft.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -8857,8 +8857,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 682
-# text = כ׳פֿיל איך פֿיל זיך שרעקלעך.
-# translit = kh'fil ikh fil zikh shreklekh.
+# text = כ׳פֿיל זיך שרעקלעך.
+# translit = kh'fil zikh shreklekh.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳פֿיל	_	_	_	_	_	_	_	Translit=kh'fil
@@ -8935,8 +8935,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 689
-# text = ס׳ווויעט עס װױעט אַ וואָלף.
-# translit = s'voyet es voyet a volf.
+# text = ס׳ווויעט אַ וואָלף.
+# translit = s'voyet a volf.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳ווויעט	_	_	_	_	_	_	_	Translit=s'voyet
@@ -9054,8 +9054,8 @@
 5	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 699
-# text = וויפֿל משרתים האָסטוהאָסט דו ?
-# translit = vifl mashrosem hostuhost du ?
+# text = וויפֿל משרתים האָסטו?
+# translit = vifl mashrosem hostu?
 # rtl = yes
 # source = tatoeba.org
 1	וויפֿל	_	DET	_	_	2	det	_	Translit=vifl
@@ -9192,8 +9192,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 710
-# text = כ׳הייס איך הײס ראָבין.
-# translit = kh'heys ikh hays robin.
+# text = כ׳הייס ראָבין.
+# translit = kh'heys robin.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳הייס	_	_	_	_	_	_	_	Translit=kh'heys
@@ -9285,8 +9285,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 718
-# text = כ׳בין איך בין אײַנגעשלאָפֿן.
-# translit = kh'abin ikh bin ayngeshlofn.
+# text = כ׳בין אײַנגעשלאָפֿן.
+# translit = kh'abin ayngeshlofn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -9317,8 +9317,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 721
-# text = כ׳האָב איך האָב געגעסן אַ באַר.
-# translit = kh'hob ikh hob gegesn a bar.
+# text = כ׳האָב געגעסן אַ באַר.
+# translit = kh'hob gegesn a bar.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -9330,8 +9330,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 722
-# text = ס׳איז עס איז נישט געווען דײַן שולד.
-# translit = s'iz es iz nisht geven dayn shuld.
+# text = ס׳איז נישט געווען דײַן שולד.
+# translit = s'iz nisht geven dayn shuld.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -9344,8 +9344,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 723
-# text = ס׳איז עס איז נישט מײַן שולד.
-# translit = s'iz es iz nisht mayn shuld.
+# text = ס׳איז נישט מײַן שולד.
+# translit = s'iz nisht mayn shuld.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -9377,8 +9377,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 726
-# text = כ׳בין איך בין אין זיבעטן הימל.
-# translit = kh'abin ikh bin in zibetn himl.
+# text = כ׳בין אין זיבעטן הימל.
+# translit = kh'abin in zibetn himl.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -9443,8 +9443,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 731
-# text = כ׳בין איך בין נישט פֿרום, אָבער ייִדישקייט איז מיר וויכטיק.
-# translit = kh'abin ikh bin nisht frum, ober yidishkeyt iz mir vikhtik.
+# text = כ׳בין נישט פֿרום, אָבער ייִדישקייט איז מיר וויכטיק.
+# translit = kh'abin nisht frum, ober yidishkeyt iz mir vikhtik.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -9513,8 +9513,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 736
-# text = כ׳וועל איך װעל איר געבן עטלעכע בלומען.
-# translit = kh'vel ikh vel ir gebn etlekhe blumen.
+# text = כ׳וועל איר געבן עטלעכע בלומען.
+# translit = kh'vel ir gebn etlekhe blumen.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
@@ -9572,8 +9572,8 @@
 8	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 740
-# text = כ׳וועל איך װעל טרינקען וואַסער.
-# translit = kh'vel ikh vel trinken vaser.
+# text = כ׳וועל טרינקען וואַסער.
+# translit = kh'vel trinken vaser.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
@@ -9638,8 +9638,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 745
-# text = פֿאַרוואָס רופֿסטו רופֿסט דו נישט אָן דאָס קינד בײַם נאָמען?
-# translit = farvos rufstu rufst du nisht on dos kind baym nomen?
+# text = פֿאַרוואָס רופֿסטו נישט אָן דאָס קינד בײַם נאָמען?
+# translit = farvos rufstu nisht on dos kind baym nomen?
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַרוואָס	_	ADV	_	_	2	advmod	_	Translit=farvos
@@ -9683,8 +9683,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 748
-# text = צי גלייבט טאָם אינעם אין דעם אייבערשטן?
-# translit = tsi glaybt tom inem in dem eybershtn?
+# text = צי גלייבט טאָם אינעם אייבערשטן?
+# translit = tsi glaybt tom inem eybershtn?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -9709,8 +9709,8 @@
 6	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 750
-# text = כ׳האָב איך האָב אַ קעצעלע און אַ הונט.
-# translit = kh'hob ikh hob a ketsele un a hunt.
+# text = כ׳האָב אַ קעצעלע און אַ הונט.
+# translit = kh'hob a ketsele un a hunt.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -9724,8 +9724,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 751
-# text = כ׳בין איך בין גרויס און שטאַרק.
-# translit = kh'abin ikh bin groys un shtark.
+# text = כ׳בין גרויס און שטאַרק.
+# translit = kh'abin groys un shtark.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -9737,8 +9737,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 752
-# text = וואָס ווייסטו װײסט דו וועגן מדינת־ישׂראל?
-# translit = vos veystu vayst du vegn medines-yasrayel?
+# text = וואָס ווייסטו וועגן מדינת־ישׂראל?
+# translit = vos veystu vegn medines-yasrayel?
 # rtl = yes
 # source = tatoeba.org
 1	וואָס	_	PRON	_	_	2	obj	_	Translit=vos
@@ -9786,8 +9786,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 756
-# text = כ׳האָב איך האָב נישט געטרונקען קיין קאַווע.
-# translit = kh'hob ikh hob nisht getrunken keyn kave.
+# text = כ׳האָב נישט געטרונקען קיין קאַווע.
+# translit = kh'hob nisht getrunken keyn kave.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -9800,8 +9800,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 757
-# text = כ׳האָב איך האָב נישט געטרונקען קיין שום קאַווע.
-# translit = kh'hob ikh hob nisht getrunken keyn shum kave.
+# text = כ׳האָב נישט געטרונקען קיין שום קאַווע.
+# translit = kh'hob nisht getrunken keyn shum kave.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -9815,8 +9815,8 @@
 8	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 758
-# text = כ׳בין איך בין בײַ דער אַרבעט.
-# translit = kh'abin ikh bin bay der arbet.
+# text = כ׳בין בײַ דער אַרבעט.
+# translit = kh'abin bay der arbet.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -9838,8 +9838,8 @@
 4	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 760
-# text = כ׳האָב איך האָב געגעסן צו פֿיל.
-# translit = kh'hob ikh hob gegesn tsu fil.
+# text = כ׳האָב געגעסן צו פֿיל.
+# translit = kh'hob gegesn tsu fil.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -9851,8 +9851,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 761
-# text = כ׳האָב איך האָב געפֿרעסן.
-# translit = kh'hob ikh hob gefresn.
+# text = כ׳האָב געפֿרעסן.
+# translit = kh'hob gefresn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -10058,8 +10058,8 @@
 9	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 778
-# text = כ׳האָב איך האָב ליב טאַטאָעבע.
-# translit = kh'hob ikh hob lib tatoebe.
+# text = כ׳האָב ליב טאַטאָעבע.
+# translit = kh'hob lib tatoebe.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -10154,8 +10154,8 @@
 9	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 785
-# text = ס׳זענען עס זענען דאָ געווען אַ סך מערבֿ־ייִדישע דיאַלעקטן.
-# translit = s'zenen es zenen do geven a sakh mayrev-yidishe dyalektn.
+# text = ס׳זענען דאָ געווען אַ סך מערבֿ־ייִדישע דיאַלעקטן.
+# translit = s'zenen do geven a sakh mayrev-yidishe dyalektn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -10319,8 +10319,8 @@
 10	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 797
-# text = לאָמיך לאָז מיך זינגען צו דיר דאָס ליד פֿון מײַן פֿאָלק.
-# translit = lomikh loz mikh zingen tsu dir dos lid fun mayn folk.
+# text = לאָמיך זינגען צו דיר דאָס ליד פֿון מײַן פֿאָלק.
+# translit = lomikh zingen tsu dir dos lid fun mayn folk.
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיך	_	_	_	_	_	_	_	Translit=lomikh
@@ -10337,8 +10337,8 @@
 11	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 798
-# text = מ׳האָט מע האָט שוין געזאָגט טאָמען, אַז ער מוז אַוועק.
-# translit = m'hot me hot shoyn gezogt tomen, az er muz avek.
+# text = מ׳האָט שוין געזאָגט טאָמען, אַז ער מוז אַוועק.
+# translit = m'hot shoyn gezogt tomen, az er muz avek.
 # rtl = yes
 # source = tatoeba.org
 1-2	מ׳האָט	_	_	_	_	_	_	_	Translit=m'hot
@@ -10408,8 +10408,8 @@
 6	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 803
-# text = רודי דזשוליִאַני, וואָס איז ניט קיין ייִד, זאָגט, אַז ער איז ייִדישער פֿונעם פֿון דעם חורבן־לעבן־געבליבענעם דזשאָרזש סאָראָס, ווײַל סאָראָס „גייט ניט צו קירך.‟
-# translit = rudi dzhuliani, vos iz nit keyn yid, zogt, az er iz yidisher funem fun dem khurbn-leblibenem dzhorzh soros, vayl soros „gayt nit tsu kirkh.‟
+# text = רודי דזשוליִאַני, וואָס איז ניט קיין ייִד, זאָגט, אַז ער איז ייִדישער פֿונעם חורבן־לעבן־געבליבענעם דזשאָרזש סאָראָס, ווײַל סאָראָס „גייט ניט צו קירך.‟
+# translit = rudi dzhuliani, vos iz nit keyn yid, zogt, az er iz yidisher funem khurbn-leblibenem dzhorzh soros, vayl soros „gayt nit tsu kirkh.‟
 # rtl = yes
 # source = tatoeba.org
 1	רודי	_	PROPN	_	_	10	nsubj	_	Translit=rudi
@@ -10491,8 +10491,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 807
-# text = די ייִדישע רעליגיע איז די טראַדיציאָנעלע רעליגיע פֿונעם פֿון דעם ייִדישן פֿאָלק.
-# translit = di yidishe religye iz di traditsyonele religye funem fun dem yidishn folk.
+# text = די ייִדישע רעליגיע איז די טראַדיציאָנעלע רעליגיע פֿונעם ייִדישן פֿאָלק.
+# translit = di yidishe religye iz di traditsyonele religye funem yidishn folk.
 # rtl = yes
 # source = tatoeba.org
 1	די	_	DET	_	_	3	det	_	Translit=di
@@ -10533,8 +10533,8 @@
 5	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 810
-# text = כ׳בין איך בין אַ ייִדיש־קינד.
-# translit = kh'abin ikh bin a yidish-kind.
+# text = כ׳בין אַ ייִדיש־קינד.
+# translit = kh'abin a yidish-kind.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -10697,8 +10697,8 @@
 7	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 822
-# text = כ׳לערן איך לערן אויך ייִדיש.
-# translit = kh'lern ikh lern oykh yidish.
+# text = כ׳לערן אויך ייִדיש.
+# translit = kh'lern oykh yidish.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳לערן	_	_	_	_	_	_	_	Translit=kh'lern
@@ -10758,8 +10758,8 @@
 13	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 826
-# text = דאָס עספּעראַנטישע וואָרט „נו״ איז נישט לגמרי גלײַכטײַטשיק מיטן מיט דעם ייִדישן וואָרט.
-# translit = dos esperantishe vort „nu״ iz nisht lagmeri glaykhtaytshik mitn mit dem yidishn vort.
+# text = דאָס עספּעראַנטישע וואָרט „נו״ איז נישט לגמרי גלײַכטײַטשיק מיטן ייִדישן וואָרט.
+# translit = dos esperantishe vort „nu״ iz nisht lagmeri glaykhtaytshik mitn yidishn vort.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	3	det	_	Translit=dos
@@ -10829,8 +10829,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 830
-# text = ייִדן האָבן דאָס רעכט צו דאַוונען בײַם בײַ דעם כּותל־מערבֿי.
-# translit = yidn hobn dos rekht tsu davnen baym bay dem koysl-ma(a)rovi.
+# text = ייִדן האָבן דאָס רעכט צו דאַוונען בײַם כּותל־מערבֿי.
+# translit = yidn hobn dos rekht tsu davnen baym koysl-ma(a)rovi.
 # rtl = yes
 # source = tatoeba.org
 1	ייִדן	_	NOUN	_	_	2	nsubj	_	Translit=yidn
@@ -10899,8 +10899,8 @@
 11	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 835
-# text = יצחק איז געווען אַן אָנפֿירער פֿונעם פֿון דעם ייִדישן פֿאָלק.
-# translit = yetsekhk iz geven an onfirer funem fun dem yidishn folk.
+# text = יצחק איז געווען אַן אָנפֿירער פֿונעם ייִדישן פֿאָלק.
+# translit = yetsekhk iz geven an onfirer funem yidishn folk.
 # rtl = yes
 # source = tatoeba.org
 1	יצחק	_	PROPN	_	_	5	nsubj	_	Translit=yetsekhk
@@ -10916,8 +10916,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 836
-# text = כ׳בין איך בין אַן אַמעריקאַנער ייִד.
-# translit = kh'abin ikh bin an amerikaner yid.
+# text = כ׳בין אַן אַמעריקאַנער ייִד.
+# translit = kh'abin an amerikaner yid.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -10940,8 +10940,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 838
-# text = אַדאָלף היטלער האָט באַרעכענט מאַגנוס הירשפֿעלדן, וואָס איז געווען אַ פֿריִער פֿאָרשער פֿונעם פֿון דעם מין־בײַט, ווי „די וועלטס סכּונהדיקסטער ייִד״.
-# translit = adolf hitler hot barekhent magnus hirshfeldn, vos iz geven a frier forsher funem fun dem min-bayt, vi „di velts skunedikster yid״.
+# text = אַדאָלף היטלער האָט באַרעכענט מאַגנוס הירשפֿעלדן, וואָס איז געווען אַ פֿריִער פֿאָרשער פֿונעם מין־בײַט, ווי „די וועלטס סכּונהדיקסטער ייִד״.
+# translit = adolf hitler hot barekhent magnus hirshfeldn, vos iz geven a frier forsher funem min-bayt, vi „di velts skunedikster yid״.
 # rtl = yes
 # source = tatoeba.org
 1	אַדאָלף	_	PROPN	_	_	4	nsubj	_	Translit=adolf
@@ -11065,8 +11065,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 846
-# text = כ׳בין איך בין אַ ייִד אָבער נישט קיין שומר־מיצוות.
-# translit = kh'abin ikh bin a yid ober nisht keyn shumer-mitsves.
+# text = כ׳בין אַ ייִד אָבער נישט קיין שומר־מיצוות.
+# translit = kh'abin a yid ober nisht keyn shumer-mitsves.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -11081,8 +11081,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 847
-# text = כ׳לערן איך לערן זיך ייִדיש.
-# translit = kh'lern ikh lern zikh yidish.
+# text = כ׳לערן זיך ייִדיש.
+# translit = kh'lern zikh yidish.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳לערן	_	_	_	_	_	_	_	Translit=kh'lern
@@ -11093,8 +11093,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 848
-# text = איך האָב זיך באַקענט מיט אַ ייִדן מיטן מיט דעם נאָמען מאַריאָ.
-# translit = ikh hob zikh bakent mit a yidn mitn mit dem nomen maryo.
+# text = איך האָב זיך באַקענט מיט אַ ייִדן מיטן נאָמען מאַריאָ.
+# translit = ikh hob zikh bakent mit a yidn mitn nomen maryo.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	4	nsubj	_	Translit=ikh
@@ -11177,8 +11177,8 @@
 18	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 853
-# text = ס׳רובֿ דאָס רובֿ ייִדן האָבן ברוינע אויגן.
-# translit = s'rov dos rov yidn hobn broyne oygn.
+# text = ס׳רובֿ ייִדן האָבן ברוינע אויגן.
+# translit = s'rov yidn hobn broyne oygn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳רובֿ	_	_	_	_	_	_	_	Translit=s'rov
@@ -11242,8 +11242,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 858
-# text = ייִדן דאַוונען מיטן מיט דעם פּנים צו ירושלים.
-# translit = yidn davnen mitn mit dem ponem tsu yerusholaym.
+# text = ייִדן דאַוונען מיטן פּנים צו ירושלים.
+# translit = yidn davnen mitn ponem tsu yerusholaym.
 # rtl = yes
 # source = tatoeba.org
 1	ייִדן	_	NOUN	_	_	2	nsubj	_	Translit=yidn
@@ -11270,8 +11270,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 860
-# text = כ׳בין איך בין אַ ייִדישקע.
-# translit = kh'abin ikh bin a yidishke.
+# text = כ׳בין אַ ייִדישקע.
+# translit = kh'abin a yidishke.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -11294,8 +11294,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 862
-# text = כ׳בין איך בין נישט קיין שומר־מיצוות, אָבער ייִדישקייט איז מיר וויכטיק.
-# translit = kh'abin ikh bin nisht keyn shumer-mitsves, ober yidishkeyt iz mir vikhtik.
+# text = כ׳בין נישט קיין שומר־מיצוות, אָבער ייִדישקייט איז מיר וויכטיק.
+# translit = kh'abin nisht keyn shumer-mitsves, ober yidishkeyt iz mir vikhtik.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -11571,8 +11571,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 882
-# text = ווי ס׳רובֿ דאָס רובֿ ייִדן האָב איך ברוינע האָר און אויגן.
-# translit = vi s'rov dos rov yidn hob ikh broyne hor un oygn.
+# text = ווי ס׳רובֿ ייִדן האָב איך ברוינע האָר און אויגן.
+# translit = vi s'rov yidn hob ikh broyne hor un oygn.
 # rtl = yes
 # source = tatoeba.org
 1	ווי	_	SCONJ	_	_	4	case	_	Translit=vi
@@ -11645,8 +11645,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 887
-# text = כ׳בין איך בין אַ ייִד.
-# translit = kh'abin ikh bin a yid.
+# text = כ׳בין אַ ייִד.
+# translit = kh'abin a yid.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -11704,8 +11704,8 @@
 10	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 891
-# text = לויט דער ייִדישקייט איז דער שׂטן אַ מלאך אין דינסט פֿונעם פֿון דעם אייבערשטן.
-# translit = loyt der yidishkeyt iz der sotn a malakh in dinst funem fun dem eybershtn.
+# text = לויט דער ייִדישקייט איז דער שׂטן אַ מלאך אין דינסט פֿונעם אייבערשטן.
+# translit = loyt der yidishkeyt iz der sotn a malakh in dinst funem eybershtn.
 # rtl = yes
 # source = tatoeba.org
 1	לויט	_	ADP	_	_	3	case	_	Translit=loyt
@@ -11826,8 +11826,8 @@
 8	!	_	PUNCT	_	_	4	punct	_	Translit=!
 
 # sent_id = 899
-# text = דאָס יהדות איז די טראַדיציאָנעלע רעליגיע פֿונעם פֿון דעם ייִדישן פֿאָלק.
-# translit = dos yehudes iz di traditsyonele religye funem fun dem yidishn folk.
+# text = דאָס יהדות איז די טראַדיציאָנעלע רעליגיע פֿונעם ייִדישן פֿאָלק.
+# translit = dos yehudes iz di traditsyonele religye funem yidishn folk.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -11844,8 +11844,8 @@
 11	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 900
-# text = סטאַלין יש”ו האָט אומגעבראַכט די מיטגלידער פֿונעם פֿון דעם ייִדישן אַנטי־פֿאַשיסטישן קאָמיטעט.
-# translit = stalin yashnmu hot umgebrakht di mitglider funem fun dem yidishn anti-fashistishn komitet.
+# text = סטאַלין יש”ו האָט אומגעבראַכט די מיטגלידער פֿונעם ייִדישן אַנטי־פֿאַשיסטישן קאָמיטעט.
+# translit = stalin yashnmu hot umgebrakht di mitglider funem yidishn anti-fashistishn komitet.
 # rtl = yes
 # source = tatoeba.org
 1	סטאַלין	_	PROPN	_	_	4	nsubj	_	Translit=stalin
@@ -11863,8 +11863,8 @@
 12	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 901
-# text = ס׳רובֿ דאָס רובֿ ישׂראלדיקע ייִדן זענען מזרחיש צי ספֿרדיש.
-# translit = s'rov dos rov yisroeldike yidn zenen mizrokhish tsi sfardish.
+# text = ס׳רובֿ ישׂראלדיקע ייִדן זענען מזרחיש צי ספֿרדיש.
+# translit = s'rov yisroeldike yidn zenen mizrokhish tsi sfardish.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳רובֿ	_	_	_	_	_	_	_	Translit=s'rov
@@ -12128,8 +12128,8 @@
 11	.	_	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = 919
-# text = צי רעדסטו רעדסט דו ייִדיש־שפּאַניש?
-# translit = tsi redstu redst du yidish-shpanish?
+# text = צי רעדסטו ייִדיש־שפּאַניש?
+# translit = tsi redstu yidish-shpanish?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -12277,8 +12277,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 930
-# text = ס׳זענען עס זענען דאָ געווען אַ סך מערבֿ־ייִדישע דיאַלעקטן.
-# translit = s'zenen es zenen do geven a sakh mayrev-yidishe dyalektn.
+# text = ס׳זענען דאָ געווען אַ סך מערבֿ־ייִדישע דיאַלעקטן.
+# translit = s'zenen do geven a sakh mayrev-yidishe dyalektn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -12293,8 +12293,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 931
-# text = יצחק אבֿינו איז געווען אַן אָנפֿירער פֿונעם פֿון דעם ייִדישן פֿאָלק.
-# translit = yetsekhk evinu iz geven an onfirer funem fun dem yidishn folk.
+# text = יצחק אבֿינו איז געווען אַן אָנפֿירער פֿונעם ייִדישן פֿאָלק.
+# translit = yetsekhk evinu iz geven an onfirer funem yidishn folk.
 # rtl = yes
 # source = tatoeba.org
 1	יצחק	_	PROPN	_	_	6	nsubj	_	Translit=yetsekhk
@@ -12350,8 +12350,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 935
-# text = צי רעדסטו רעדסט דו ייִדיש?
-# translit = tsi redstu redst du yidish?
+# text = צי רעדסטו ייִדיש?
+# translit = tsi redstu yidish?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -12390,8 +12390,8 @@
 9	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 938
-# text = לאָמיר לאָז מיר רעדן ייִדיש!
-# translit = lomir loz mir redn yidish!
+# text = לאָמיר רעדן ייִדיש!
+# translit = lomir redn yidish!
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
@@ -12431,8 +12431,8 @@
 12	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 941
-# text = ס׳רובֿ דאָס רובֿ ישׂראלדיקע ייִדן זענען מזרחים צי ספֿרדים.
-# translit = s'rov dos rov yisroeldike yidn zenen mizrokhem tsi sfardim.
+# text = ס׳רובֿ ישׂראלדיקע ייִדן זענען מזרחים צי ספֿרדים.
+# translit = s'rov yisroeldike yidn zenen mizrokhem tsi sfardim.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳רובֿ	_	_	_	_	_	_	_	Translit=s'rov
@@ -12585,8 +12585,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 952
-# text = דאָס וואָרט „ייִד״ שטאַמט פֿונעם פֿון דעם לאַטיינישן וואָרט „Iudaeus״ וואָס הייסט „וואָס איז שייך ארץ־יהודה״.
-# translit = dos vort „yid״ shtamt funem fun dem lateynishn vort „udayes״ vos heyst „vos iz shiyekh erts-yehude״.
+# text = דאָס וואָרט „ייִד״ שטאַמט פֿונעם לאַטיינישן וואָרט „Iudaeus״ וואָס הייסט „וואָס איז שייך ארץ־יהודה״.
+# translit = dos vort „yid״ shtamt funem lateynishn vort „udayes״ vos heyst „vos iz shiyekh erts-yehude״.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -12819,8 +12819,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 968
-# text = ס׳זענען עס זענען נישטאָ נישט דאָ קיין באַווײַזן אַז היטלער יש״ו איז געווען ייִדיש־שטאַמיק.
-# translit = s'zenen es zenen nishto nisht do keyn bavayzn az hitler yash'e iz geven yidish-shtamik.
+# text = ס׳זענען נישטאָ קיין באַווײַזן אַז היטלער יש״ו איז געווען ייִדיש־שטאַמיק.
+# translit = s'zenen nishto keyn bavayzn az hitler yash'e iz geven yidish-shtamik.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -12952,8 +12952,8 @@
 8	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 977
-# text = כ׳לערן איך לערן זיך צו לייענען ייִדיש.
-# translit = kh'lern ikh lern zikh tsu leyenen yidish.
+# text = כ׳לערן זיך צו לייענען ייִדיש.
+# translit = kh'lern zikh tsu leyenen yidish.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳לערן	_	_	_	_	_	_	_	Translit=kh'lern
@@ -13068,8 +13068,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 986
-# text = איזאָלירטע קהילות פֿון מערבֿ־ייִדיש־רעדער האָבן איבערגעלעבט ביזן ביז דעם 20טן יאָרהונדערט, אָבער די דיאַלעקטן זענען איצט אויסגעשטאָרבן.
-# translit = izolirte kehiles fun mayrev-yidish-reder hobn ibergelebt bizn biz dem tan yorhundert, ober di dyalektn zenen itst oysgeshtorbn.
+# text = איזאָלירטע קהילות פֿון מערבֿ־ייִדיש־רעדער האָבן איבערגעלעבט ביזן 20טן יאָרהונדערט, אָבער די דיאַלעקטן זענען איצט אויסגעשטאָרבן.
+# translit = izolirte kehiles fun mayrev-yidish-reder hobn ibergelebt bizn tan yorhundert, ober di dyalektn zenen itst oysgeshtorbn.
 # rtl = yes
 # source = tatoeba.org
 1	איזאָלירטע	_	ADJ	_	_	2	amod	_	Translit=izolirte
@@ -13125,8 +13125,8 @@
 12	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 989
-# text = מע שרײַבט ייִדיש מיטן מיט דעם העברעיִשן אַלף־בית.
-# translit = me shraybt yidish mitn mit dem hebreishn alef-beys.
+# text = מע שרײַבט ייִדיש מיטן העברעיִשן אַלף־בית.
+# translit = me shraybt yidish mitn hebreishn alef-beys.
 # rtl = yes
 # source = tatoeba.org
 1	מע	_	PRON	_	_	2	nsubj	_	Translit=me
@@ -13272,8 +13272,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1000
-# text = ייִדן האָבן דאָס רעכט צו דאַווענען אויפֿן אױף דעם הר־הבית.
-# translit = yidn hobn dos rekht tsu davenen oyfn oyf dem harebos.
+# text = ייִדן האָבן דאָס רעכט צו דאַווענען אויפֿן הר־הבית.
+# translit = yidn hobn dos rekht tsu davenen oyfn harebos.
 # rtl = yes
 # source = tatoeba.org
 1	ייִדן	_	NOUN	_	_	2	nsubj	_	Translit=yidn
@@ -13453,8 +13453,8 @@
 8	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 1013
-# text = ס׳רובֿ דאָס רובֿ ייִדן האַלטן ארץ־ישׂראל פֿאַר וויכטיק.
-# translit = s'rov dos rov yidn haltn irts-yisróel far vikhtik.
+# text = ס׳רובֿ ייִדן האַלטן ארץ־ישׂראל פֿאַר וויכטיק.
+# translit = s'rov yidn haltn irts-yisróel far vikhtik.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳רובֿ	_	_	_	_	_	_	_	Translit=s'rov
@@ -13550,8 +13550,8 @@
 8	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 1020
-# text = לויט דער ייִדישקײט איז נישטאָ נישט דאָ קיין פּערפֿעקטער מענטש.
-# translit = loyt der yidishkeyt iz nishto nisht do keyn perfekter mentsh.
+# text = לויט דער ייִדישקײט איז נישטאָ קיין פּערפֿעקטער מענטש.
+# translit = loyt der yidishkeyt iz nishto keyn perfekter mentsh.
 # rtl = yes
 # source = tatoeba.org
 1	לויט	_	ADP	_	_	3	case	_	Translit=loyt
@@ -13663,8 +13663,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1029
-# text = צי פֿאַרשטײסטופֿאַרשטײסט דו ?
-# translit = tsi farshteystufarshteyst du ?
+# text = צי פֿאַרשטײסטו?
+# translit = tsi farshteystu?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -13709,8 +13709,8 @@
 6	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 1033
-# text = צום צו דעם סוף זענען אַלע קרייצקריגן געווען מפּלות.
-# translit = tsum tsu dem sof zenen ale kreytskrign geven mapoles.
+# text = צום סוף זענען אַלע קרייצקריגן געווען מפּלות.
+# translit = tsum sof zenen ale kreytskrign geven mapoles.
 # rtl = yes
 # source = tatoeba.org
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -13725,8 +13725,8 @@
 9	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 1034
-# text = כ׳בין איך בין מער נישט אויף אַ דיעטע.
-# translit = kh'abin ikh bin mer nisht oyf a dyete.
+# text = כ׳בין מער נישט אויף אַ דיעטע.
+# translit = kh'abin mer nisht oyf a dyete.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -13775,8 +13775,8 @@
 5	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1038
-# text = כ׳וויל איך װיל נישט ווערן פֿעט.
-# translit = kh'vil ikh vil nisht vern fet.
+# text = כ׳וויל נישט ווערן פֿעט.
+# translit = kh'vil nisht vern fet.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳וויל	_	_	_	_	_	_	_	Translit=kh'vil
@@ -13882,8 +13882,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1047
-# text = כ'בין איך בין אַ מאָנאַשקע.
-# translit = khabin ikh bin a monashke.
+# text = כ'בין אַ מאָנאַשקע.
+# translit = khabin a monashke.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'בין	_	_	_	_	_	_	_	Translit=khabin
@@ -13955,8 +13955,8 @@
 5	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 1053
-# text = ס׳איז עס איז געווען אַ פֿאַרלײַכטערונג.
-# translit = s'iz es iz geven a farlaykhterung.
+# text = ס׳איז געווען אַ פֿאַרלײַכטערונג.
+# translit = s'iz geven a farlaykhterung.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -14142,8 +14142,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1069
-# text = ס׳איז עס איז שווער צו לערנען אַ פֿרעמדע שפּראַך.
-# translit = s'iz es iz shver tsu lernen a fremde shprakh.
+# text = ס׳איז שווער צו לערנען אַ פֿרעמדע שפּראַך.
+# translit = s'iz shver tsu lernen a fremde shprakh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -14181,8 +14181,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1072
-# text = ס׳איז עס איז נישט דער סוף־וואָך.
-# translit = s'iz es iz nisht der sof-vokh.
+# text = ס׳איז נישט דער סוף־וואָך.
+# translit = s'iz nisht der sof-vokh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -14194,8 +14194,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1073
-# text = אַלץ, וואָס מ׳האָטמע האָט , קען מען פֿאַרלירן.
-# translit = alts, vos m'hotme hot , ken men farlirn.
+# text = אַלץ, וואָס מ׳האָט, קען מען פֿאַרלירן.
+# translit = alts, vos m'hot, ken men farlirn.
 # rtl = yes
 # source = tatoeba.org
 1	אַלץ	_	PRON	_	_	9	obj	_	SpaceAfter=No|Translit=alts
@@ -14257,8 +14257,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1078
-# text = ס׳איז עס איז פּשוט.
-# translit = s'iz es iz poshet.
+# text = ס׳איז פּשוט.
+# translit = s'iz poshet.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -14333,8 +14333,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1084
-# text = איך וויל בעסער פֿאָרן מיטן מיט דעם וועלאָ איידער גיין.
-# translit = ikh vil beser forn mitn mit dem velo eyder gayen.
+# text = איך וויל בעסער פֿאָרן מיטן וועלאָ איידער גיין.
+# translit = ikh vil beser forn mitn velo eyder gayen.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	4	nsubj	_	Translit=ikh
@@ -14350,8 +14350,8 @@
 10	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1085
-# text = ס׳איז עס איז געווען איר פֿאָרלייג.
-# translit = s'iz es iz geven ir forleyg.
+# text = ס׳איז געווען איר פֿאָרלייג.
+# translit = s'iz geven ir forleyg.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -14444,8 +14444,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1093
-# text = כ׳בין איך בין אַ כּישוף־מאַכערין.
-# translit = kh'abin ikh bin a kishef-makherin.
+# text = כ׳בין אַ כּישוף־מאַכערין.
+# translit = kh'abin a kishef-makherin.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -14529,8 +14529,8 @@
 7	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 1100
-# text = יאָ, כ׳בין איך בין משוגע.
-# translit = yo, kh'abin ikh bin meshuge.
+# text = יאָ, כ׳בין משוגע.
+# translit = yo, kh'abin meshuge.
 # rtl = yes
 # source = tatoeba.org
 1	יאָ	_	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=yo
@@ -14681,8 +14681,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1112
-# text = איך זע, אַז ס׳איז עס איז יעצט אין אָרדענונג.
-# translit = ikh ze, az s'iz es iz yetst in ordenung.
+# text = איך זע, אַז ס׳איז יעצט אין אָרדענונג.
+# translit = ikh ze, az s'iz yetst in ordenung.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -14794,8 +14794,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1121
-# text = כ׳האָב איך האָב געהאַט געטראַכט דערוועגן.
-# translit = kh'hob ikh hob gehat getrakht dervegn.
+# text = כ׳האָב געהאַט געטראַכט דערוועגן.
+# translit = kh'hob gehat getrakht dervegn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -14820,8 +14820,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1123
-# text = לאָמיך לאָז מיך צוריקטראָגן מײַן פֿילמירקע.
-# translit = lomikh loz mikh tsuriktrogn mayn filmirke.
+# text = לאָמיך צוריקטראָגן מײַן פֿילמירקע.
+# translit = lomikh tsuriktrogn mayn filmirke.
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיך	_	_	_	_	_	_	_	Translit=lomikh
@@ -15033,8 +15033,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1141
-# text = ס׳איז עס איז וווּנדערלעך צו געווינען.
-# translit = s'iz es iz vunderlekh tsu gevinen.
+# text = ס׳איז וווּנדערלעך צו געווינען.
+# translit = s'iz vunderlekh tsu gevinen.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -15119,8 +15119,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1148
-# text = כ׳בין איך בין אַ האַמסטער.
-# translit = kh'abin ikh bin a hamster.
+# text = כ׳בין אַ האַמסטער.
+# translit = kh'abin a hamster.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -15205,8 +15205,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1156
-# text = כ'פֿײַף איך פֿײַף אויף יאָשקען.
-# translit = kh'fayf ikh fayf oyf yoshken.
+# text = כ'פֿײַף אויף יאָשקען.
+# translit = kh'fayf oyf yoshken.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'פֿײַף	_	_	_	_	_	_	_	Translit=kh'fayf
@@ -15333,8 +15333,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1167
-# text = ס׳איז עס איז געווען נאָר אַ היפּאָטעז.
-# translit = s'iz es iz geven nor a hipotez.
+# text = ס׳איז געווען נאָר אַ היפּאָטעז.
+# translit = s'iz geven nor a hipotez.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -15534,8 +15534,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1183
-# text = אויף דער פֿראַגע איז קײן גרינגער ענטפֿער נישטאָנישט דאָ .
-# translit = oyf der frage iz keyn gringer entfer nishtonisht do .
+# text = אויף דער פֿראַגע איז קײן גרינגער ענטפֿער נישטאָ.
+# translit = oyf der frage iz keyn gringer entfer nishto.
 # rtl = yes
 # source = tatoeba.org
 1	אויף	_	ADP	_	_	3	case	_	Translit=oyf
@@ -15551,8 +15551,8 @@
 10	.	_	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = 1184
-# text = צי האָסטו האָסט דו געזאָגט נײַנציק אָדער נײַנצן?
-# translit = tsi hostu host du gezogt nayntsik oder nayntsn?
+# text = צי האָסטו געזאָגט נײַנציק אָדער נײַנצן?
+# translit = tsi hostu gezogt nayntsik oder nayntsn?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	4	dep	_	Translit=tsi
@@ -15566,8 +15566,8 @@
 8	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 1185
-# text = כ'בין איך בין זייער אַ קלוגער מענטש.
-# translit = khabin ikh bin zeyer a kluger mentsh.
+# text = כ'בין זייער אַ קלוגער מענטש.
+# translit = khabin zeyer a kluger mentsh.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'בין	_	_	_	_	_	_	_	Translit=khabin
@@ -15580,8 +15580,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1186
-# text = ביסטו ביסט דו גיי?
-# translit = bistu bist du gey?
+# text = ביסטו גיי?
+# translit = bistu gey?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -15653,8 +15653,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1192
-# text = צי רעדסטו רעדסט דו העברעיִש?
-# translit = tsi redstu redst du hebreish?
+# text = צי רעדסטו העברעיִש?
+# translit = tsi redstu hebreish?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -15766,8 +15766,8 @@
 4	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 1201
-# text = ס׳איז עס איז הײַנט מוטערטאָג.
-# translit = s'iz es iz haynt mutertog.
+# text = ס׳איז הײַנט מוטערטאָג.
+# translit = s'iz haynt mutertog.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -15832,8 +15832,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1207
-# text = כ׳האָב איך האָב איינעם צעלאָזט.
-# translit = kh'hob ikh hob eynem tselozt.
+# text = כ׳האָב איינעם צעלאָזט.
+# translit = kh'hob eynem tselozt.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -16050,8 +16050,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1224
-# text = כ׳בין איך בין דאַר.
-# translit = kh'abin ikh bin dar.
+# text = כ׳בין דאַר.
+# translit = kh'abin dar.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -16122,8 +16122,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1230
-# text = כ׳וועל איך װעל אײַך תּמיד זאָגן דעם אמת.
-# translit = kh'vel ikh vel aykh tomed zogn dem emes.
+# text = כ׳וועל אײַך תּמיד זאָגן דעם אמת.
+# translit = kh'vel aykh tomed zogn dem emes.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
@@ -16307,8 +16307,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1245
-# text = וווּהין ווילסטו װילסט דו אַז מיר זאָלן גיין?
-# translit = vuhin vilstu vilst du az mir zoln gayen?
+# text = וווּהין ווילסטו אַז מיר זאָלן גיין?
+# translit = vuhin vilstu az mir zoln gayen?
 # rtl = yes
 # source = tatoeba.org
 1	וווּהין	_	ADV	_	_	2	advmod	_	Translit=vuhin
@@ -16520,8 +16520,8 @@
 11	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1262
-# text = כ׳האָב איך האָב געוואָלט זײַן זײַן פֿרוי.
-# translit = kh'hob ikh hob gevolt zayn zayn froy.
+# text = כ׳האָב געוואָלט זײַן זײַן פֿרוי.
+# translit = kh'hob gevolt zayn zayn froy.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -16534,8 +16534,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1263
-# text = לאַכסטו לאַכסט דו מיך אויס?
-# translit = lakhstu lakhst du mikh oys?
+# text = לאַכסטו מיך אויס?
+# translit = lakhstu mikh oys?
 # rtl = yes
 # source = tatoeba.org
 1-2	לאַכסטו	_	_	_	_	_	_	_	Translit=lakhstu
@@ -16557,8 +16557,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1265
-# text = צי קענסטו קענסט דו שאַצן זײַן ווערט?
-# translit = tsi kenstu kenst du shatsn zayn vert?
+# text = צי קענסטו שאַצן זײַן ווערט?
+# translit = tsi kenstu shatsn zayn vert?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	4	dep	_	Translit=tsi
@@ -16593,8 +16593,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1268
-# text = ס׳איז עס איז נישט קיין ערנסטע בקשה.
-# translit = s'iz es iz nisht keyn ernste bakoshe.
+# text = ס׳איז נישט קיין ערנסטע בקשה.
+# translit = s'iz nisht keyn ernste bakoshe.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -16643,8 +16643,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1272
-# text = כ׳בין איך בין נישט קיין סטודענטקע.
-# translit = kh'abin ikh bin nisht keyn studentke.
+# text = כ׳בין נישט קיין סטודענטקע.
+# translit = kh'abin nisht keyn studentke.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -16767,8 +16767,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1282
-# text = צי זעסטו זעסט דו נישט די פֿייגל?
-# translit = tsi zestu zest du nisht di feygl?
+# text = צי זעסטו נישט די פֿייגל?
+# translit = tsi zestu nisht di feygl?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -16781,8 +16781,8 @@
 7	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 1283
-# text = כ׳בין איך בין אין אַ טאַקסי.
-# translit = kh'abin ikh bin in a taksi.
+# text = כ׳בין אין אַ טאַקסי.
+# translit = kh'abin in a taksi.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -16794,8 +16794,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1284
-# text = ס׳איז עס איז זייער גלאַט.
-# translit = s'iz es iz zeyer glat.
+# text = ס׳איז זייער גלאַט.
+# translit = s'iz zeyer glat.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -16816,8 +16816,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1286
-# text = טאָם וווינט בײַם בײַ דעם זיידן.
-# translit = tom voynt baym bay dem zeydn.
+# text = טאָם וווינט בײַם זיידן.
+# translit = tom voynt baym zeydn.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	2	nsubj	_	Translit=tom
@@ -16852,8 +16852,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1289
-# text = כ׳האָב איך האָב אַ חבֿרטע וואָס וווינט אין שפּאַניע.
-# translit = kh'hob ikh hob a khaverte vos voynt in shpanye.
+# text = כ׳האָב אַ חבֿרטע וואָס וווינט אין שפּאַניע.
+# translit = kh'hob a khaverte vos voynt in shpanye.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -17007,8 +17007,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1302
-# text = ס׳איז עס איז פֿאַראַן אַן אַלטערנאַטיוו.
-# translit = s'iz es iz faran an alternativ.
+# text = ס׳איז פֿאַראַן אַן אַלטערנאַטיוו.
+# translit = s'iz faran an alternativ.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -17020,8 +17020,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1303
-# text = יאָ, ס׳איז עס איז אַבסאָלוט מעגלעך אַז דו טראָגסט.
-# translit = yo, s'iz es iz absolut meglekh az du trogst.
+# text = יאָ, ס׳איז אַבסאָלוט מעגלעך אַז דו טראָגסט.
+# translit = yo, s'iz absolut meglekh az du trogst.
 # rtl = yes
 # source = tatoeba.org
 1	יאָ	_	INTJ	_	_	6	discourse	_	SpaceAfter=No|Translit=yo
@@ -17048,8 +17048,8 @@
 5	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 1305
-# text = ס׳איז עס איז געזונט צו זײַן משוגע.
-# translit = s'iz es iz gezunt tsu zayn meshuge.
+# text = ס׳איז געזונט צו זײַן משוגע.
+# translit = s'iz gezunt tsu zayn meshuge.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -17062,8 +17062,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1306
-# text = לאָמיך לאָז מיך דיר ענטפֿערן.
-# translit = lomikh loz mikh dir entfern.
+# text = לאָמיך דיר ענטפֿערן.
+# translit = lomikh dir entfern.
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיך	_	_	_	_	_	_	_	Translit=lomikh
@@ -17085,8 +17085,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1308
-# text = ביסטו ביסט דו אַ נאַר?
-# translit = bistu bist du a nar?
+# text = ביסטו אַ נאַר?
+# translit = bistu a nar?
 # rtl = yes
 # source = tatoeba.org
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
@@ -17108,8 +17108,8 @@
 5	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1310
-# text = כ׳האָב איך האָב ליב עוף.
-# translit = kh'hob ikh hob lib eyf.
+# text = כ׳האָב ליב עוף.
+# translit = kh'hob lib eyf.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -17155,8 +17155,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1314
-# text = װאָלטסטו װאָלטסט דו מאַכן פּלאַץ פֿאַר מיר?
-# translit = voltstu voltst du makhn plats far mir?
+# text = װאָלטסטו מאַכן פּלאַץ פֿאַר מיר?
+# translit = voltstu makhn plats far mir?
 # rtl = yes
 # source = tatoeba.org
 1-2	װאָלטסטו	_	_	_	_	_	_	_	Translit=voltstu
@@ -17360,8 +17360,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1330
-# text = טאָם גלייבט אַז ס׳זענען עס זענען פֿאַראַן גוטע און שלעכטע רוחות.
-# translit = tom glaybt az s'zenen es zenen faran gute un shlekhte rukhes.
+# text = טאָם גלייבט אַז ס׳זענען פֿאַראַן גוטע און שלעכטע רוחות.
+# translit = tom glaybt az s'zenen faran gute un shlekhte rukhes.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	2	nsubj	_	Translit=tom
@@ -17424,8 +17424,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1335
-# text = כ׳בין איך בין אַ פּריוואַטער שפּראַכלערער.
-# translit = kh'abin ikh bin a privater shprakhlerer.
+# text = כ׳בין אַ פּריוואַטער שפּראַכלערער.
+# translit = kh'abin a privater shprakhlerer.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -17615,8 +17615,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1350
-# text = צי פֿירסטו פֿירסט דו אַ גאָרטן?
-# translit = tsi firstu first du a gortn?
+# text = צי פֿירסטו אַ גאָרטן?
+# translit = tsi firstu a gortn?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -17725,8 +17725,8 @@
 9	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 1358
-# text = ס׳איז עס איז מעגלעך?
-# translit = s'iz es iz meglekh?
+# text = ס׳איז מעגלעך?
+# translit = s'iz meglekh?
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -17893,8 +17893,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1372
-# text = כ'לעב איך לעב הײַנט אין באָסטאָן.
-# translit = kh'leb ikh leb haynt in boston.
+# text = כ'לעב הײַנט אין באָסטאָן.
+# translit = kh'leb haynt in boston.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ'לעב	_	_	_	_	_	_	_	Translit=kh'leb
@@ -17986,8 +17986,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1380
-# text = כ׳האָב איך האָב ליב דאָס אַקטיאָרן.
-# translit = kh'hob ikh hob lib dos aktyorn.
+# text = כ׳האָב ליב דאָס אַקטיאָרן.
+# translit = kh'hob lib dos aktyorn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -18125,8 +18125,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1391
-# text = האָסטו האָסט דו אָפּגערייניקט דאָס הויז?
-# translit = hostu host du opgereynikt dos hoyz?
+# text = האָסטו אָפּגערייניקט דאָס הויז?
+# translit = hostu opgereynikt dos hoyz?
 # rtl = yes
 # source = tatoeba.org
 1-2	האָסטו	_	_	_	_	_	_	_	Translit=hostu
@@ -18201,8 +18201,8 @@
 5	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 1397
-# text = ס'איז עס איז נישטאָ נישט דאָ קיין ראיות.
-# translit = s'iz es iz nishto nisht do keyn reyes.
+# text = ס'איז נישטאָ קיין ראיות.
+# translit = s'iz nishto keyn reyes.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -19582,8 +19582,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1511
-# text = טאָם שרײַבט נאָכאַלץ לידער צום צו דעם זינגען.
-# translit = tom shraybt nokhalts lider tsum tsu dem zingen.
+# text = טאָם שרײַבט נאָכאַלץ לידער צום זינגען.
+# translit = tom shraybt nokhalts lider tsum zingen.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	2	nsubj	_	Translit=tom
@@ -19811,8 +19811,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1530
-# text = טאָם איז אויפֿן אױף דעם דאַך.
-# translit = tom iz oyfn oyf dem dakh.
+# text = טאָם איז אויפֿן דאַך.
+# translit = tom iz oyfn dakh.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	5	nsubj	_	Translit=tom
@@ -20312,8 +20312,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1570
-# text = כ׳בין איך בין נישט קיין סאַרווערין.
-# translit = kh'abin ikh bin nisht keyn sarverin.
+# text = כ׳בין נישט קיין סאַרווערין.
+# translit = kh'abin nisht keyn sarverin.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -20325,8 +20325,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1571
-# text = כ׳בין איך בין נישט קיין קעלנערין.
-# translit = kh'abin ikh bin nisht keyn kelnerin.
+# text = כ׳בין נישט קיין קעלנערין.
+# translit = kh'abin nisht keyn kelnerin.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -20601,8 +20601,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1593
-# text = אויב דו האָסט נישט געוואָלט, אַז ייִדן זאָלן דאַוונען אין אַל־אַקסאַ־פּלאַץ, זאָלסטו זאָלסט דו אים נישט געהאַט געבויט אויפֿן אױף דעם הר־הבית.
-# translit = oyb du host nisht gevolt, az yidn zoln davnen in al-aksa-plats, zolstu zolst du im nisht gehat geboyt oyfn oyf dem harebos.
+# text = אויב דו האָסט נישט געוואָלט, אַז ייִדן זאָלן דאַוונען אין אַל־אַקסאַ־פּלאַץ, זאָלסטו אים נישט געהאַט געבויט אויפֿן הר־הבית.
+# translit = oyb du host nisht gevolt, az yidn zoln davnen in al-aksa-plats, zolstu im nisht gehat geboyt oyfn harebos.
 # rtl = yes
 # source = tatoeba.org
 1	אויב	_	SCONJ	_	_	5	mark	_	Translit=oyb
@@ -20755,8 +20755,8 @@
 9	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 1604
-# text = איך ווייס אַז ס׳איז עס איז דאָס וואָס טאָם וויל.
-# translit = ikh veys az s'iz es iz dos vos tom vil.
+# text = איך ווייס אַז ס׳איז דאָס וואָס טאָם וויל.
+# translit = ikh veys az s'iz dos vos tom vil.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -20948,8 +20948,8 @@
 16	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1618
-# text = ס׳איז עס איז צו שפּעט?
-# translit = s'iz es iz tsu shpet?
+# text = ס׳איז צו שפּעט?
+# translit = s'iz tsu shpet?
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -21003,8 +21003,8 @@
 14	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 1622
-# text = ישו ־ הנוצרי איז נישט געווען דער ערשטער און נישט דער לעצטער ייִד, וואָס מ׳האָט מע האָט געקרייציקט.
-# translit = yeshu ־ hanotstri iz nisht geven der ershter un nisht der letster yid, vos m'hot me hot gekreytsikt.
+# text = ישו ־ הנוצרי איז נישט געווען דער ערשטער און נישט דער לעצטער ייִד, וואָס מ׳האָט געקרייציקט.
+# translit = yeshu ־ hanotstri iz nisht geven der ershter un nisht der letster yid, vos m'hot gekreytsikt.
 # rtl = yes
 # source = tatoeba.org
 1	ישו	_	PROPN	_	_	13	nsubj	_	Translit=yeshu
@@ -21053,8 +21053,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1625
-# text = ס׳איז עס איז נישט מעגלעך.
-# translit = s'iz es iz nisht meglekh.
+# text = ס׳איז נישט מעגלעך.
+# translit = s'iz nisht meglekh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -21503,8 +21503,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1658
-# text = איך האָב ליב אַז קיינער איז נישטאָנישט דאָ .
-# translit = ikh hob lib az keyner iz nishtonisht do .
+# text = איך האָב ליב אַז קיינער איז נישטאָ.
+# translit = ikh hob lib az keyner iz nishto.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -21519,8 +21519,8 @@
 9	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1659
-# text = כ׳בין איך בין געווען אין אוסטראַליע.
-# translit = kh'abin ikh bin geven in ustralye.
+# text = כ׳בין געווען אין אוסטראַליע.
+# translit = kh'abin geven in ustralye.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -22079,8 +22079,8 @@
 3	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1705
-# text = כ׳בין איך בין געווען אין שפּיטאָל.
-# translit = kh'abin ikh bin geven in shpitol.
+# text = כ׳בין געווען אין שפּיטאָל.
+# translit = kh'abin geven in shpitol.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -22133,8 +22133,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1709
-# text = דאָס טשיפּל איז אויפֿן אױף דעם טיש.
-# translit = dos tshipl iz oyfn oyf dem tish.
+# text = דאָס טשיפּל איז אויפֿן טיש.
+# translit = dos tshipl iz oyfn tish.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -22193,8 +22193,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1714
-# text = אָן שפּראַך וואָלט עס נישטאָ נישט דאָ געווען קיין געדאַנקען.
-# translit = on shprakh volt es nishto nisht do geven keyn gedankn.
+# text = אָן שפּראַך וואָלט עס נישטאָ געווען קיין געדאַנקען.
+# translit = on shprakh volt es nishto geven keyn gedankn.
 # rtl = yes
 # source = tatoeba.org
 1	אָן	_	ADP	_	_	2	case	_	Translit=on
@@ -22260,8 +22260,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1719
-# text = וווּ אין גיהנום ביסטו ביסט דו געווען, טאָם?
-# translit = vu in gihnum bistu bist du geven, tom?
+# text = וווּ אין גיהנום ביסטו געווען, טאָם?
+# translit = vu in gihnum bistu geven, tom?
 # rtl = yes
 # source = tatoeba.org
 1	וווּ	_	ADV	_	_	0	root	_	Translit=vu
@@ -22299,8 +22299,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1722
-# text = כ׳בין איך בין אַן אַנאַרכיסטקע.
-# translit = kh'abin ikh bin an anarkhistke.
+# text = כ׳בין אַן אַנאַרכיסטקע.
+# translit = kh'abin an anarkhistke.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -22322,8 +22322,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1724
-# text = כ׳האָב איך האָב אָפּגעטאָן אַן עבֿירה.
-# translit = kh'hob ikh hob opgeton an ivire.
+# text = כ׳האָב אָפּגעטאָן אַן עבֿירה.
+# translit = kh'hob opgeton an ivire.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -22335,8 +22335,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1725
-# text = כ׳האָב איך האָב געזינדיקט.
-# translit = kh'hob ikh hob gezindikt.
+# text = כ׳האָב געזינדיקט.
+# translit = kh'hob gezindikt.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -22478,8 +22478,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1737
-# text = ס׳איז עס איז זייער הינטל.
-# translit = s'iz es iz zeyer hintl.
+# text = ס׳איז זייער הינטל.
+# translit = s'iz zeyer hintl.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -22490,8 +22490,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1738
-# text = ס׳וועט עס װעט דיר זײַן קאַלט.
-# translit = s'vet es vet dir zayn kalt.
+# text = ס׳וועט דיר זײַן קאַלט.
+# translit = s'vet dir zayn kalt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
@@ -22503,8 +22503,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1739
-# text = ס׳וועט עס װעט אײַך זײַן קאַלט.
-# translit = s'vet es vet aykh zayn kalt.
+# text = ס׳וועט אײַך זײַן קאַלט.
+# translit = s'vet aykh zayn kalt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
@@ -22627,8 +22627,8 @@
 8	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 1749
-# text = לאָמיר לאָז מיר אים העלפֿן.
-# translit = lomir loz mir im helfn.
+# text = לאָמיר אים העלפֿן.
+# translit = lomir im helfn.
 # rtl = yes
 # source = tatoeba.org
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
@@ -22690,8 +22690,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1754
-# text = וויפֿל ניטל־מתּנות האָסטו האָסט דו געגעבן הײַיאָר?
-# translit = vifl nitl-mitnes hostu host du gegebn hayyor?
+# text = וויפֿל ניטל־מתּנות האָסטו געגעבן הײַיאָר?
+# translit = vifl nitl-mitnes hostu gegebn hayyor?
 # rtl = yes
 # source = tatoeba.org
 1	וויפֿל	_	DET	_	_	2	det	_	Translit=vifl
@@ -22973,8 +22973,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1779
-# text = ער גייט צום צו דעם דאָקטער.
-# translit = er gayt tsum tsu dem dokter.
+# text = ער גייט צום דאָקטער.
+# translit = er gayt tsum dokter.
 # rtl = yes
 # source = tatoeba.org
 1	ער	_	PRON	_	_	2	nsubj	_	Translit=er
@@ -22986,8 +22986,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1780
-# text = ער פֿאָרט צום צו דעם דאָקטער.
-# translit = er fort tsum tsu dem dokter.
+# text = ער פֿאָרט צום דאָקטער.
+# translit = er fort tsum dokter.
 # rtl = yes
 # source = tatoeba.org
 1	ער	_	PRON	_	_	2	nsubj	_	Translit=er
@@ -23021,8 +23021,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1783
-# text = איך וואַרט אויפֿן אױף דעם אָוונט.
-# translit = ikh vart oyfn oyf dem ovnt.
+# text = איך וואַרט אויפֿן אָוונט.
+# translit = ikh vart oyfn ovnt.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -23113,8 +23113,8 @@
 15	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1790
-# text = פֿאַר זאַראַטוסטראַ האָבן די פּערסער געגלייבט אין אַ סך גאָטהייטן, ווי אויך ס׳רובֿ דאָס רובֿ דעמאָלטיקע נאָמאַדישע שבֿטים.
-# translit = far zaratustra hobn di perser gegleybt in a sakh gotheytn, vi oykh s'rov dos rov demoltike nomadishe shavtem.
+# text = פֿאַר זאַראַטוסטראַ האָבן די פּערסער געגלייבט אין אַ סך גאָטהייטן, ווי אויך ס׳רובֿ דעמאָלטיקע נאָמאַדישע שבֿטים.
+# translit = far zaratustra hobn di perser gegleybt in a sakh gotheytn, vi oykh s'rov demoltike nomadishe shavtem.
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַר	_	ADP	_	_	2	case	_	Translit=far
@@ -23191,8 +23191,8 @@
 25	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1793
-# text = זאָראָאַסטריאַניזם איז באַזירט אויף די אַנטפּלעקונגען פֿונעם פֿון דעם פּערסער נבֿיא זאַראַטוסטראַ, אָדער זאָראָאַסטער אויף גריכיש.
-# translit = zoroastryanizm iz bazirt oyf di antplekungen funem fun dem perser novi zaratustra, oder zoroaster oyf grikhish.
+# text = זאָראָאַסטריאַניזם איז באַזירט אויף די אַנטפּלעקונגען פֿונעם פּערסער נבֿיא זאַראַטוסטראַ, אָדער זאָראָאַסטער אויף גריכיש.
+# translit = zoroastryanizm iz bazirt oyf di antplekungen funem perser novi zaratustra, oder zoroaster oyf grikhish.
 # rtl = yes
 # source = tatoeba.org
 1	זאָראָאַסטריאַניזם	_	PROPN	_	_	3	nsubj	_	Translit=zoroastryanizm
@@ -23348,8 +23348,8 @@
 9	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1804
-# text = איך בין אַן אָפּשטאַמיקער פֿונעם פֿון דעם באַרימטן דוד ־ המלכן פֿון ישׂראל.
-# translit = ikh bin an opshtamiker funem fun dem barimtn doved ־ homlkhn fun yisroel.
+# text = איך בין אַן אָפּשטאַמיקער פֿונעם באַרימטן דוד ־ המלכן פֿון ישׂראל.
+# translit = ikh bin an opshtamiker funem barimtn doved ־ homlkhn fun yisroel.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	4	nsubj	_	Translit=ikh
@@ -23368,8 +23368,8 @@
 13	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1805
-# text = איך בין אַן אָפּשטאַמיקע פֿונעם פֿון דעם באַרימטן דוד ־ המלכן פֿון ישׂראל.
-# translit = ikh bin an opshtamike funem fun dem barimtn doved ־ homlkhn fun yisroel.
+# text = איך בין אַן אָפּשטאַמיקע פֿונעם באַרימטן דוד ־ המלכן פֿון ישׂראל.
+# translit = ikh bin an opshtamike funem barimtn doved ־ homlkhn fun yisroel.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	4	nsubj	_	Translit=ikh
@@ -23469,8 +23469,8 @@
 11	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 1811
-# text = לויט מיר זאָלסטו זאָלסט דו בלײַבן נאָך אַ פּאָר טעג אין באָסטאָן.
-# translit = loyt mir zolstu zolst du blaybn nokh a por teg in boston.
+# text = לויט מיר זאָלסטו בלײַבן נאָך אַ פּאָר טעג אין באָסטאָן.
+# translit = loyt mir zolstu blaybn nokh a por teg in boston.
 # rtl = yes
 # source = tatoeba.org
 1	לויט	_	ADP	_	_	2	case	_	Translit=loyt
@@ -23740,8 +23740,8 @@
 9	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1832
-# text = פֿאַרװאָס לערנסטולערנסט דו ?
-# translit = farvos lernstulernst du ?
+# text = פֿאַרװאָס לערנסטו?
+# translit = farvos lernstu?
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַרװאָס	_	ADV	_	_	2	advmod	_	Translit=farvos
@@ -23923,8 +23923,8 @@
 7	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 1846
-# text = ס'איז עס איז אַ שאָד אַז דו קענסט נישט קומען.
-# translit = s'iz es iz a shod az du kenst nisht kumen.
+# text = ס'איז אַ שאָד אַז דו קענסט נישט קומען.
+# translit = s'iz a shod az du kenst nisht kumen.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -23940,8 +23940,8 @@
 10	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1847
-# text = װאָס האָסטו האָסט דו געװאָלט?
-# translit = vos hostu host du gevolt?
+# text = װאָס האָסטו געװאָלט?
+# translit = vos hostu gevolt?
 # rtl = yes
 # source = tatoeba.org
 1	װאָס	_	PRON	_	_	4	obj	_	Translit=vos
@@ -24381,8 +24381,8 @@
 8	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1881
-# text = פארוואס ווילסטו װילסט דו לערנען דעם שפראך?
-# translit = farvas vilstu vilst du lernen dem shprakh?
+# text = פארוואס ווילסטו לערנען דעם שפראך?
+# translit = farvas vilstu lernen dem shprakh?
 # rtl = yes
 # source = tatoeba.org
 1	פארוואס	_	ADV	_	_	4	advmod	_	Translit=farvas
@@ -24395,8 +24395,8 @@
 7	?	_	PUNCT	_	_	4	punct	_	Translit=?
 
 # sent_id = 1882
-# text = קומסטו קומסט דו נישט?
-# translit = kumstu kumst du nisht?
+# text = קומסטו נישט?
+# translit = kumstu nisht?
 # rtl = yes
 # source = tatoeba.org
 1-2	קומסטו	_	_	_	_	_	_	_	Translit=kumstu
@@ -24450,8 +24450,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1887
-# text = דער טאָג איז קורץ און ס'איז עס איז דאָ אַ סך אַרבעט.
-# translit = der tog iz kurts un s'iz es iz do a sakh arbet.
+# text = דער טאָג איז קורץ און ס'איז דאָ אַ סך אַרבעט.
+# translit = der tog iz kurts un s'iz do a sakh arbet.
 # rtl = yes
 # source = tatoeba.org
 1	דער	_	DET	_	_	2	det	_	Translit=der
@@ -24604,8 +24604,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1899
-# text = איך בין געשוווּמען אינעם אין דעם ים.
-# translit = ikh bin geshvumen inem in dem yam.
+# text = איך בין געשוווּמען אינעם ים.
+# translit = ikh bin geshvumen inem yam.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	3	nsubj	_	Translit=ikh
@@ -24618,8 +24618,8 @@
 7	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1900
-# text = פֿאַר וואָס האָסטו האָסט דו זיך נישט געלערנט דײַטש בשעת דו ביסט געווען אין דײַטשלאַנד?
-# translit = far vos hostu host du zikh nisht gelernt daytsh beshos du bist geven in daytshland?
+# text = פֿאַר וואָס האָסטו זיך נישט געלערנט דײַטש בשעת דו ביסט געווען אין דײַטשלאַנד?
+# translit = far vos hostu zikh nisht gelernt daytsh beshos du bist geven in daytshland?
 # rtl = yes
 # source = tatoeba.org
 1	פֿאַר	_	ADP	_	_	2	case	_	Translit=far
@@ -24887,8 +24887,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1922
-# text = צי פֿאַרשטײסטו פֿאַרשטײסט דו זײ?
-# translit = tsi farshteystu farshteyst du zey?
+# text = צי פֿאַרשטײסטו זײ?
+# translit = tsi farshteystu zey?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -24938,8 +24938,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 1926
-# text = װאָס האָסטו האָסט דו אים געזאָגט װעגן מיר?
-# translit = vos hostu host du im gezogt vegn mir?
+# text = װאָס האָסטו אים געזאָגט װעגן מיר?
+# translit = vos hostu im gezogt vegn mir?
 # rtl = yes
 # source = tatoeba.org
 1	װאָס	_	PRON	_	_	5	obj	_	Translit=vos
@@ -24975,8 +24975,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 1929
-# text = ס׳איז עס איז נישט עכט, טאָם.
-# translit = s'iz es iz nisht ekht, tom.
+# text = ס׳איז נישט עכט, טאָם.
+# translit = s'iz nisht ekht, tom.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -24989,8 +24989,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1930
-# text = מע שרײַבט ייִדיש מיטן מיט דעם העברעיִשן אַלף־בית.
-# translit = me shraybt yidish mitn mit dem hebreishn alef-beys.
+# text = מע שרײַבט ייִדיש מיטן העברעיִשן אַלף־בית.
+# translit = me shraybt yidish mitn hebreishn alef-beys.
 # rtl = yes
 # source = tatoeba.org
 1	מע	_	PRON	_	_	2	nsubj	_	Translit=me
@@ -25015,8 +25015,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 1932
-# text = רעדסטו רעדסט דו ייִדיש?
-# translit = redstu redst du yidish?
+# text = רעדסטו ייִדיש?
+# translit = redstu yidish?
 # rtl = yes
 # source = tatoeba.org
 1-2	רעדסטו	_	_	_	_	_	_	_	Translit=redstu
@@ -25082,8 +25082,8 @@
 10	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 1938
-# text = איך זע אַ בוך אױפֿן אױפֿ דעם טיש.
-# translit = ikh ze a bukh oyfn oyf dem tish.
+# text = איך זע אַ בוך אױפֿן טיש.
+# translit = ikh ze a bukh oyfn tish.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -25327,8 +25327,8 @@
 8	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 1957
-# text = זײ לעבן אױף דער אַנדערער זײַט פֿונעם פֿון דעם טײַך.
-# translit = zey lebn oyf der anderer zayt funem fun dem taykh.
+# text = זײ לעבן אױף דער אַנדערער זײַט פֿונעם טײַך.
+# translit = zey lebn oyf der anderer zayt funem taykh.
 # rtl = yes
 # source = tatoeba.org
 1	זײ	_	PRON	_	_	2	nsubj	_	Translit=zey
@@ -26152,8 +26152,8 @@
 13	?	_	PUNCT	_	_	6	punct	_	Translit=?
 
 # sent_id = 2024
-# text = איך האב געגעסן האלב פונעם פֿון דעם עפּל, פאר איך האב געזען אז עס איז דא א תולעת אריין.
-# translit = ikh hob gegesn halb punem fun dem epl, far ikh hob gezen az es iz day e tules reyn.
+# text = איך האב געגעסן האלב פונעם עפּל, פאר איך האב געזען אז עס איז דא א תולעת אריין.
+# translit = ikh hob gegesn halb punem epl, far ikh hob gezen az es iz day e tules reyn.
 # rtl = yes
 # source = tatoeba.org
 1	איך	_	PRON	_	_	3	nsubj	_	Translit=ikh
@@ -26432,8 +26432,8 @@
 12	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2038
-# text = מענטשן האָבן זיך אַנטוויקלט כּדי צו לעבן אויפֿן אױף דעם ערד־פּלאַנעט.
-# translit = mentshn hobn zikh antviklt kedey tsu lebn oyfn oyf dem erd-planet.
+# text = מענטשן האָבן זיך אַנטוויקלט כּדי צו לעבן אויפֿן ערד־פּלאַנעט.
+# translit = mentshn hobn zikh antviklt kedey tsu lebn oyfn erd-planet.
 # rtl = yes
 # source = tatoeba.org
 1	מענטשן	_	NOUN	_	_	4	nsubj	_	Translit=mentshn
@@ -26486,8 +26486,8 @@
 12	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2041
-# text = טאָם, דײַנע ווערטער לייגן זיך נישט אויפֿן אױף דעם שׂכל.
-# translit = tom, dayne verter leygn zikh nisht oyfn oyf dem seykhl.
+# text = טאָם, דײַנע ווערטער לייגן זיך נישט אויפֿן שׂכל.
+# translit = tom, dayne verter leygn zikh nisht oyfn seykhl.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	5	vocative	_	SpaceAfter=No|Translit=tom
@@ -26504,8 +26504,8 @@
 11	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2042
-# text = ס׳וועט עס װעט דאָ זײַן אַן אייביקער שלום אויף דער ערד, ווען אַלע וועלן זײַן טויט.
-# translit = s'vet es vet do zayn an eybiker sholem oyf der erd, ven ale veln zayn toyt.
+# text = ס׳וועט דאָ זײַן אַן אייביקער שלום אויף דער ערד, ווען אַלע וועלן זײַן טויט.
+# translit = s'vet do zayn an eybiker sholem oyf der erd, ven ale veln zayn toyt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
@@ -26586,8 +26586,8 @@
 12	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2046
-# text = כ׳האָב איך האָב פֿאַרגעסן צו פֿרעגן טאָמען, צי ער וויל פֿאָרן קיין אויסטראַליע.
-# translit = kh'hob ikh hob fargesn tsu fregn tomen, tsi er vil forn keyn oystralye.
+# text = כ׳האָב פֿאַרגעסן צו פֿרעגן טאָמען, צי ער וויל פֿאָרן קיין אויסטראַליע.
+# translit = kh'hob fargesn tsu fregn tomen, tsi er vil forn keyn oystralye.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -26607,8 +26607,8 @@
 14	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2047
-# text = ווי האָסטו האָסט דו געוווּסט, אַז איך בין אַ דענערקע?
-# translit = vi hostu host du gevust, az ikh bin a denerke?
+# text = ווי האָסטו געוווּסט, אַז איך בין אַ דענערקע?
+# translit = vi hostu gevust, az ikh bin a denerke?
 # rtl = yes
 # source = tatoeba.org
 1	ווי	_	ADV	_	_	4	advmod	_	Translit=vi
@@ -26717,8 +26717,8 @@
 10	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2053
-# text = אויב ס׳איז עס איז אַזוי שלעכט, זאָלסטו זאָלסט דו גיין צום צו דעם דאָקטער.
-# translit = oyb s'iz es iz azoy shlekht, zolstu zolst du gayen tsum tsu dem dokter.
+# text = אויב ס׳איז אַזוי שלעכט, זאָלסטו גיין צום דאָקטער.
+# translit = oyb s'iz azoy shlekht, zolstu gayen tsum dokter.
 # rtl = yes
 # source = tatoeba.org
 1	אויב	_	SCONJ	_	_	5	mark	_	Translit=oyb
@@ -26739,8 +26739,8 @@
 13	.	_	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = 2054
-# text = ס׳איז עס איז פֿאַראַן אַן אָפּנאַרערײַ אין דעם וואָס ער האָט געזאָגט.
-# translit = s'iz es iz faran an opnareray in dem vos er hot gezogt.
+# text = ס׳איז פֿאַראַן אַן אָפּנאַרערײַ אין דעם וואָס ער האָט געזאָגט.
+# translit = s'iz faran an opnareray in dem vos er hot gezogt.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -26798,8 +26798,8 @@
 15	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2057
-# text = פארגלייך דיינען איבערזעצונג מיטן מיט דעם איינער וואס איז אויפען אויף דעם טאוול.
-# translit = fargleykh daynen iberzetsung mitn mit dem eyner vas iz oyfen oyf dem tayvl.
+# text = פארגלייך דיינען איבערזעצונג מיטן איינער וואס איז אויפען טאוול.
+# translit = fargleykh daynen iberzetsung mitn eyner vas iz oyfen tayvl.
 # rtl = yes
 # source = tatoeba.org
 1	פארגלייך	_	VERB	_	_	0	root	_	Translit=fargleykh
@@ -26994,8 +26994,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2068
-# text = ס׳איז עס איז אַן אוראַלטע אַגדה.
-# translit = s'iz es iz an uralte agade.
+# text = ס׳איז אַן אוראַלטע אַגדה.
+# translit = s'iz an uralte agade.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -27152,8 +27152,8 @@
 4	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2081
-# text = כ׳בין איך בין אַ קעצעלע.
-# translit = kh'abin ikh bin a ketsele.
+# text = כ׳בין אַ קעצעלע.
+# translit = kh'abin a ketsele.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -27226,8 +27226,8 @@
 4	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2087
-# text = עס, אַנישט וועסטו וועסט דו זײַן הונגעריק!
-# translit = es, anisht vestu vest du zayn hungerik!
+# text = עס, אַנישט וועסטו זײַן הונגעריק!
+# translit = es, anisht vestu zayn hungerik!
 # rtl = yes
 # source = tatoeba.org
 1	עס	_	PRON	_	_	0	root	_	SpaceAfter=No|Translit=es
@@ -27280,8 +27280,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2091
-# text = זײַט אַזוי גוט און לאָמיך לאָז מיך קאַקן בשלום.
-# translit = zayt azoy gut un lomikh loz mikh kakn besholem.
+# text = זײַט אַזוי גוט און לאָמיך קאַקן בשלום.
+# translit = zayt azoy gut un lomikh kakn besholem.
 # rtl = yes
 # source = tatoeba.org
 1	זײַט	_	AUX	_	_	3	cop	_	Translit=zayt
@@ -27453,8 +27453,8 @@
 4	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2105
-# text = כ׳בין איך בין געווען צעקאָכט.
-# translit = kh'abin ikh bin geven tsekokht.
+# text = כ׳בין געווען צעקאָכט.
+# translit = kh'abin geven tsekokht.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -27543,8 +27543,8 @@
 8	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2112
-# text = דאָס גדלנות, די גרויסהאַלטערישקייט און דער עגאָטיזם זענען די מהותן פֿונעם פֿון דעם פּאַטריאָטיזם.
-# translit = dos gadlones, di groyshalterishkeyt un der egotizm zenen di mehusn funem fun dem patryotizm.
+# text = דאָס גדלנות, די גרויסהאַלטערישקייט און דער עגאָטיזם זענען די מהותן פֿונעם פּאַטריאָטיזם.
+# translit = dos gadlones, di groyshalterishkeyt un der egotizm zenen di mehusn funem patryotizm.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -27565,8 +27565,8 @@
 15	.	_	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = 2113
-# text = כ׳בין איך בין אַ מיטגלידער פֿון אַן אוראַלטער אומה.
-# translit = kh'abin ikh bin a mitglider fun an uralter ume.
+# text = כ׳בין אַ מיטגלידער פֿון אַן אוראַלטער אומה.
+# translit = kh'abin a mitglider fun an uralter ume.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -27681,8 +27681,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2122
-# text = צי האָט דאָס זיך געלייגט אויפֿן אױף דעם שׂכל?
-# translit = tsi hot dos zikh geleygt oyfn oyf dem seykhl?
+# text = צי האָט דאָס זיך געלייגט אויפֿן שׂכל?
+# translit = tsi hot dos zikh geleygt oyfn seykhl?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -27908,8 +27908,8 @@
 17	.	_	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = 2141
-# text = ס'איז עס איז פֿאַראַן קאָאַלעס אין עסטרײַך.
-# translit = s'iz es iz faran koales in estraykh.
+# text = ס'איז פֿאַראַן קאָאַלעס אין עסטרײַך.
+# translit = s'iz faran koales in estraykh.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -28017,8 +28017,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2150
-# text = ס׳איז עס איז אונדז אויסגעגאַנגען דאָס ברענוואַרג.
-# translit = s'iz es iz undz oysgegangen dos brenvarg.
+# text = ס׳איז אונדז אויסגעגאַנגען דאָס ברענוואַרג.
+# translit = s'iz undz oysgegangen dos brenvarg.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -28083,8 +28083,8 @@
 7	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2155
-# text = ס׳איז עס איז נישט געווען קיין ערנסטע בקשה.
-# translit = s'iz es iz nisht geven keyn ernste bakoshe.
+# text = ס׳איז נישט געווען קיין ערנסטע בקשה.
+# translit = s'iz nisht geven keyn ernste bakoshe.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -28268,8 +28268,8 @@
 4	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2170
-# text = צי האָסטו האָסט דו מורא געהאַט?
-# translit = tsi hostu host du moyre gehat?
+# text = צי האָסטו מורא געהאַט?
+# translit = tsi hostu moyre gehat?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	5	dep	_	Translit=tsi
@@ -28582,8 +28582,8 @@
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2197
-# text = כ׳האָב איך האָב אײַך נישט אײַנגעלאַדן.
-# translit = kh'hob ikh hob aykh nisht ayngeladn.
+# text = כ׳האָב אײַך נישט אײַנגעלאַדן.
+# translit = kh'hob aykh nisht ayngeladn.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -28629,8 +28629,8 @@
 5	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 2201
-# text = ס׳זענען עס זענען פֿאַראַן אַ סך מעלות.
-# translit = s'zenen es zenen faran a sakh mayles.
+# text = ס׳זענען פֿאַראַן אַ סך מעלות.
+# translit = s'zenen faran a sakh mayles.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -28701,8 +28701,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2207
-# text = יעקבֿ איז אַ נבֿיא פֿונעם פֿון דעם אייבערשטן.
-# translit = yaykev iz a novi funem fun dem eybershtn.
+# text = יעקבֿ איז אַ נבֿיא פֿונעם אייבערשטן.
+# translit = yaykev iz a novi funem eybershtn.
 # rtl = yes
 # source = tatoeba.org
 1	יעקבֿ	_	PROPN	_	_	4	nsubj	_	Translit=yaykev
@@ -28738,8 +28738,8 @@
 3	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2210
-# text = כ׳בין איך בין ביסעקסועל.
-# translit = kh'abin ikh bin biseksuel.
+# text = כ׳בין ביסעקסועל.
+# translit = kh'abin biseksuel.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -28865,8 +28865,8 @@
 6	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2222
-# text = ס׳איז עס איז אונטערן אונטער דעם טיש.
-# translit = s'iz es iz untern unter dem tish.
+# text = ס׳איז אונטערן טיש.
+# translit = s'iz untern tish.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -28964,8 +28964,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2231
-# text = ס׳איז עס איז דאָרט געווען אויך אַנדערע שלאָפֿנדיקע.
-# translit = s'iz es iz dort geven oykh andere shlofndike.
+# text = ס׳איז דאָרט געווען אויך אַנדערע שלאָפֿנדיקע.
+# translit = s'iz dort geven oykh andere shlofndike.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -29001,8 +29001,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2234
-# text = כ׳בין איך בין געווען פּניותדיק.
-# translit = kh'abin ikh bin geven pniesdik.
+# text = כ׳בין געווען פּניותדיק.
+# translit = kh'abin geven pniesdik.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -29013,8 +29013,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2235
-# text = פארוואס בלייבסטו בלײבסט דו נישט דא?
-# translit = farvas bleybstu bleybst du nisht day?
+# text = פארוואס בלייבסטו נישט דא?
+# translit = farvas bleybstu nisht day?
 # rtl = yes
 # source = tatoeba.org
 1	פארוואס	_	ADV	_	_	2	advmod	_	Translit=farvas
@@ -29173,8 +29173,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2250
-# text = כ׳בין איך בין געדולדיק.
-# translit = kh'abin ikh bin geduldik.
+# text = כ׳בין געדולדיק.
+# translit = kh'abin geduldik.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -29194,8 +29194,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2252
-# text = כ׳בין איך בין אַן איבערלעבער.
-# translit = kh'abin ikh bin an iberleber.
+# text = כ׳בין אַן איבערלעבער.
+# translit = kh'abin an iberleber.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -29377,8 +29377,8 @@
 4	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 2268
-# text = כ׳בין איך בין נישט קיין איגואַנע.
-# translit = kh'abin ikh bin nisht keyn iguane.
+# text = כ׳בין נישט קיין איגואַנע.
+# translit = kh'abin nisht keyn iguane.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -29413,8 +29413,8 @@
 6	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2271
-# text = וווּ האָסטו האָסט דו זיי אויפֿגענייט?
-# translit = vu hostu host du zey oyfgeneyt?
+# text = וווּ האָסטו זיי אויפֿגענייט?
+# translit = vu hostu zey oyfgeneyt?
 # rtl = yes
 # source = tatoeba.org
 1	וווּ	_	ADV	_	_	5	advmod	_	Translit=vu
@@ -29471,8 +29471,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2276
-# text = ס׳איז עס איז נישט עיקרדיק.
-# translit = s'iz es iz nisht ikerdik.
+# text = ס׳איז נישט עיקרדיק.
+# translit = s'iz nisht ikerdik.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -29630,8 +29630,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2290
-# text = ס׳איז עס איז אַרכאַיִש.
-# translit = s'iz es iz arkhaish.
+# text = ס׳איז אַרכאַיִש.
+# translit = s'iz arkhaish.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -29641,8 +29641,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2291
-# text = ר'איז ער איז אַן אונגאַרישער.
-# translit = r'iz er iz an ungarisher.
+# text = ר'איז אַן אונגאַרישער.
+# translit = r'iz an ungarisher.
 # rtl = yes
 # source = tatoeba.org
 1-2	ר'איז	_	_	_	_	_	_	_	Translit=r'iz
@@ -29799,8 +29799,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2305
-# text = ס׳איז עס איז ייִדיש.
-# translit = s'iz es iz yidish.
+# text = ס׳איז ייִדיש.
+# translit = s'iz yidish.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -29810,8 +29810,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2306
-# text = כ׳בין איך בין נישט קיין דינסטמיידל.
-# translit = kh'abin ikh bin nisht keyn dinstmeydl.
+# text = כ׳בין נישט קיין דינסטמיידל.
+# translit = kh'abin nisht keyn dinstmeydl.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -30133,8 +30133,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2334
-# text = כ׳וויל איך װיל צוויי קעצעלעך.
-# translit = kh'vil ikh vil tsvey ketselekh.
+# text = כ׳וויל צוויי קעצעלעך.
+# translit = kh'vil tsvey ketselekh.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳וויל	_	_	_	_	_	_	_	Translit=kh'vil
@@ -30200,8 +30200,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2340
-# text = כ׳בין איך בין נישט קיין נאַציכע!
-# translit = kh'abin ikh bin nisht keyn natsikhe!
+# text = כ׳בין נישט קיין נאַציכע!
+# translit = kh'abin nisht keyn natsikhe!
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'abin
@@ -30213,8 +30213,8 @@
 6	!	_	PUNCT	_	_	5	punct	_	Translit=!
 
 # sent_id = 2341
-# text = ס׳איז עס איז הינטערשטעליק.
-# translit = s'iz es iz hintershtelik.
+# text = ס׳איז הינטערשטעליק.
+# translit = s'iz hintershtelik.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -30234,8 +30234,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2343
-# text = כ׳הייס איך הײס טאָם.
-# translit = kh'heys ikh hays tom.
+# text = כ׳הייס טאָם.
+# translit = kh'heys tom.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳הייס	_	_	_	_	_	_	_	Translit=kh'heys
@@ -30292,8 +30292,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2348
-# text = כ׳האָב איך האָב זיך אויסגעלערנט פֿראַנצייזיש.
-# translit = kh'hob ikh hob zikh oysgelernt frantseyzish.
+# text = כ׳האָב זיך אויסגעלערנט פֿראַנצייזיש.
+# translit = kh'hob zikh oysgelernt frantseyzish.
 # rtl = yes
 # source = tatoeba.org
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
@@ -30305,8 +30305,8 @@
 6	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2349
-# text = צי געדענקסטו געדענקסט דו דײַן צוזאָג?
-# translit = tsi gedenkstu gedenkst du dayn tsuzog?
+# text = צי געדענקסטו דײַן צוזאָג?
+# translit = tsi gedenkstu dayn tsuzog?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -30362,8 +30362,8 @@
 5	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2354
-# text = ס׳וועט עס װעט מאָרגן זײַן וואַרעמער.
-# translit = s'vet es vet morgn zayn varemer.
+# text = ס׳וועט מאָרגן זײַן וואַרעמער.
+# translit = s'vet morgn zayn varemer.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
@@ -30399,8 +30399,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2357
-# text = ס׳איז עס איז נישטאָ נישט דאָ קיין אומבאַגרענעצטער זאַפּאַס.
-# translit = s'iz es iz nishto nisht do keyn umbagrenetster zapas.
+# text = ס׳איז נישטאָ קיין אומבאַגרענעצטער זאַפּאַס.
+# translit = s'iz nishto keyn umbagrenetster zapas.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -30520,8 +30520,8 @@
 4	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2367
-# text = ס׳זענען עס זענען נישטאָ נישט דאָ קיין דעמאָלטיקע קוואַלן וואָס שטיצן די עקסיסטענץ פֿון יעזוסן אָן דערמאָנען אויך גאָט און נסים.
-# translit = s'zenen es zenen nishto nisht do keyn demoltike kvaln vos shtitsn di eksistents fun yezusn on dermonen oykh got un nosim.
+# text = ס׳זענען נישטאָ קיין דעמאָלטיקע קוואַלן וואָס שטיצן די עקסיסטענץ פֿון יעזוסן אָן דערמאָנען אויך גאָט און נסים.
+# translit = s'zenen nishto keyn demoltike kvaln vos shtitsn di eksistents fun yezusn on dermonen oykh got un nosim.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -30612,8 +30612,8 @@
 17	?	_	PUNCT	_	_	13	punct	_	Translit=?
 
 # sent_id = 2371
-# text = אַדאָלף היטלער האָט באַרעכענט מאַגנוס הירשפֿעלדן, וואָס איז געווען אַ פֿריִער פֿאָרשער פֿונעם פֿון דעם מין ־ ⁠בײַט, ווי „די וועלטס סכּונהדיקסטער ייִד״.
-# translit = adolf hitler hot barekhent magnus hirshfeldn, vos iz geven a frier forsher funem fun dem min ־ nbayt, vi „di velts skunedikster yid״.
+# text = אַדאָלף היטלער האָט באַרעכענט מאַגנוס הירשפֿעלדן, וואָס איז געווען אַ פֿריִער פֿאָרשער פֿונעם מין ־ ⁠בײַט, ווי „די וועלטס סכּונהדיקסטער ייִד״.
+# translit = adolf hitler hot barekhent magnus hirshfeldn, vos iz geven a frier forsher funem min ־ nbayt, vi „di velts skunedikster yid״.
 # rtl = yes
 # source = tatoeba.org
 1	אַדאָלף	_	PROPN	_	_	4	nsubj	_	Translit=adolf
@@ -30646,8 +30646,8 @@
 27	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2372
-# text = יעדער טאָג וואָס גייט פֿאַרבײַ איז נאָך אַ טראָט צום צו דעם לעצטן שלאַף.
-# translit = yeder tog vos gayt farbay iz nokh a trot tsum tsu dem letstn shlaf.
+# text = יעדער טאָג וואָס גייט פֿאַרבײַ איז נאָך אַ טראָט צום לעצטן שלאַף.
+# translit = yeder tog vos gayt farbay iz nokh a trot tsum letstn shlaf.
 # rtl = yes
 # source = tatoeba.org
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
@@ -30837,8 +30837,8 @@
 21	.	_	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = 2382
-# text = ווען זיי האָבן מיך אָפּגענומען, איז עס שוין נישטאָ נישט דאָ געווען ווער האָט געקענט פּראָטעסטירן.
-# translit = ven zey hobn mikh opgenumen, iz es shoyn nishto nisht do geven ver hot gekent protestirn.
+# text = ווען זיי האָבן מיך אָפּגענומען, איז עס שוין נישטאָ געווען ווער האָט געקענט פּראָטעסטירן.
+# translit = ven zey hobn mikh opgenumen, iz es shoyn nishto geven ver hot gekent protestirn.
 # rtl = yes
 # source = tatoeba.org
 1	ווען	_	SCONJ	_	_	5	mark	_	Translit=ven
@@ -30918,8 +30918,8 @@
 14	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2386
-# text = ס׳איז עס איז גרינג צו געבן עצות ווען מ׳האָט מע האָט קיין מאָל נישט געהאַט קיין פּראָבלעמען.
-# translit = s'iz es iz gring tsu gebn atses ven m'hot me hot keyn mol nisht gehat keyn problemen.
+# text = ס׳איז גרינג צו געבן עצות ווען מ׳האָט קיין מאָל נישט געהאַט קיין פּראָבלעמען.
+# translit = s'iz gring tsu gebn atses ven m'hot keyn mol nisht gehat keyn problemen.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -30942,8 +30942,8 @@
 16	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2387
-# text = ס׳איז עס איז לײַכטער אָפּצונאַרן מענטשן ווי זיי איבערצוצײַגן, אַז זיי זענען אָפּגענאַרט געוואָרן.
-# translit = s'iz es iz laykhter optsunarn mentshn vi zey ibertsutsaygn, az zey zenen opgenart gevorn.
+# text = ס׳איז לײַכטער אָפּצונאַרן מענטשן ווי זיי איבערצוצײַגן, אַז זיי זענען אָפּגענאַרט געוואָרן.
+# translit = s'iz laykhter optsunarn mentshn vi zey ibertsutsaygn, az zey zenen opgenart gevorn.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -30964,8 +30964,8 @@
 15	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2388
-# text = צום צו דעם גרויסן טייל בין איך מסכּים מיט דעם וואָס דו האָסט געזאָגט.
-# translit = tsum tsu dem groysn teyl bin ikh maskem mit dem vos du host gezogt.
+# text = צום גרויסן טייל בין איך מסכּים מיט דעם וואָס דו האָסט געזאָגט.
+# translit = tsum groysn teyl bin ikh maskem mit dem vos du host gezogt.
 # rtl = yes
 # source = tatoeba.org
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -31013,8 +31013,8 @@
 22	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2390
-# text = ס׳זענען עס זענען פֿאַראַן 10 מינים מענטשן אין דעם וועלט: די וואָס פֿאַרשטייען די צווייער־⁠סיסטעם און די וואָס פֿאַרשטייען זי נישט.
-# translit = s'zenen es zenen faran 10 minem mentshn in dem velt: di vos farshteyen di tsveyer-nsistem un di vos farshteyen zi nisht.
+# text = ס׳זענען פֿאַראַן 10 מינים מענטשן אין דעם וועלט: די וואָס פֿאַרשטייען די צווייער־⁠סיסטעם און די וואָס פֿאַרשטייען זי נישט.
+# translit = s'zenen faran 10 minem mentshn in dem velt: di vos farshteyen di tsveyer-nsistem un di vos farshteyen zi nisht.
 # rtl = yes
 # source = tatoeba.org
 1-2	ס׳זענען	_	_	_	_	_	_	_	Translit=s'zenen
@@ -31042,8 +31042,8 @@
 22	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2391
-# text = דאָס לעבן איז בלויז אַ גייענדיקער שאָטן, אַ נעבעכער שפּילער וואָס גייט אַרום און גריזשעט זיך זײַן שעה אויפֿן אױף דעם בינע און איז דערנאָך מער נישט געהערט.
-# translit = dos lebn iz bloyz a geyendiker shotn, a nebekher shpiler vos gayt arum un grizhet zikh zayn sho oyfn oyf dem bine un iz dernokh mer nisht gehert.
+# text = דאָס לעבן איז בלויז אַ גייענדיקער שאָטן, אַ נעבעכער שפּילער וואָס גייט אַרום און גריזשעט זיך זײַן שעה אויפֿן בינע און איז דערנאָך מער נישט געהערט.
+# translit = dos lebn iz bloyz a geyendiker shotn, a nebekher shpiler vos gayt arum un grizhet zikh zayn sho oyfn bine un iz dernokh mer nisht gehert.
 # rtl = yes
 # source = tatoeba.org
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -31163,8 +31163,8 @@
 11	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 2397
-# text = צום צו דעם בעדויער מוז איך דאָס דיר זאָגן.
-# translit = tsum tsu dem bedoyer muz ikh dos dir zogn.
+# text = צום בעדויער מוז איך דאָס דיר זאָגן.
+# translit = tsum bedoyer muz ikh dos dir zogn.
 # rtl = yes
 # source = tatoeba.org
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -31179,8 +31179,8 @@
 9	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 2398
-# text = ווען דו ביסט דער קליגסטער אין צימער, ביסטו ביסט דו נישט אינעם אין דעם ריכטיקן צימער.
-# translit = ven du bist der kligster in tsimer, bistu bist du nisht inem in dem rikhtikn tsimer.
+# text = ווען דו ביסט דער קליגסטער אין צימער, ביסטו נישט אינעם ריכטיקן צימער.
+# translit = ven du bist der kligster in tsimer, bistu nisht inem rikhtikn tsimer.
 # rtl = yes
 # source = tatoeba.org
 1	ווען	_	SCONJ	_	_	5	mark	_	Translit=ven
@@ -31247,8 +31247,8 @@
 13	.	_	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = 2401
-# text = צי קענסטו קענסט דו זײַן אַזוי גוט און דאָס טאָן נאָך אַ מאָל?
-# translit = tsi kenstu kenst du zayn azoy gut un dos ton nokh a mol?
+# text = צי קענסטו זײַן אַזוי גוט און דאָס טאָן נאָך אַ מאָל?
+# translit = tsi kenstu zayn azoy gut un dos ton nokh a mol?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	6	dep	_	Translit=tsi
@@ -31409,8 +31409,8 @@
 24	.	_	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = 2408
-# text = דער פּאָרײַמאָס איז פֿירגעקומען אין איין צײַט מיטן מיט דעם חורבן צי שואה.
-# translit = der poraymos iz firgekumen in eyn tsayt mitn mit dem khurbn tsi shoye.
+# text = דער פּאָרײַמאָס איז פֿירגעקומען אין איין צײַט מיטן חורבן צי שואה.
+# translit = der poraymos iz firgekumen in eyn tsayt mitn khurbn tsi shoye.
 # rtl = yes
 # source = tatoeba.org
 1	דער	_	DET	_	_	2	det	_	Translit=der
@@ -31611,8 +31611,8 @@
 6	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2419
-# text = צי האָסטו האָסט דו זיך אַ מאָל געפֿרעגט, צי די מעשׂיות זענען אמת?
-# translit = tsi hostu host du zikh a mol gefregt, tsi di maysyes zenen emes?
+# text = צי האָסטו זיך אַ מאָל געפֿרעגט, צי די מעשׂיות זענען אמת?
+# translit = tsi hostu zikh a mol gefregt, tsi di maysyes zenen emes?
 # rtl = yes
 # source = tatoeba.org
 1	צי	_	PART	_	_	7	dep	_	Translit=tsi
@@ -31632,8 +31632,8 @@
 14	?	_	PUNCT	_	_	7	punct	_	Translit=?
 
 # sent_id = 2420
-# text = דער איסלאַם און די קריסטלעכקייט זענען אָנגעצילט אויף אַלע פֿעלקער, אָבער די ייִדישקייט איז אָנגעצילט נאָר אויפֿן אױף דעם ייִדישן פֿאָלק.
-# translit = der islam un di kristlekhkeyt zenen ongetsilt oyf ale felker, ober di yidishkeyt iz ongetsilt nor oyfn oyf dem yidishn folk.
+# text = דער איסלאַם און די קריסטלעכקייט זענען אָנגעצילט אויף אַלע פֿעלקער, אָבער די ייִדישקייט איז אָנגעצילט נאָר אויפֿן ייִדישן פֿאָלק.
+# translit = der islam un di kristlekhkeyt zenen ongetsilt oyf ale felker, ober di yidishkeyt iz ongetsilt nor oyfn yidishn folk.
 # rtl = yes
 # source = tatoeba.org
 1	דער	_	DET	_	_	2	det	_	Translit=der
@@ -31778,8 +31778,8 @@
 17	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2427
-# text = טאָם און איך פֿאַרשטייען זיך נישט אַלע מאָל אויפֿן אױף דעם וווּנק.
-# translit = tom un ikh farshteyen zikh nisht ale mol oyfn oyf dem vunk.
+# text = טאָם און איך פֿאַרשטייען זיך נישט אַלע מאָל אויפֿן וווּנק.
+# translit = tom un ikh farshteyen zikh nisht ale mol oyfn vunk.
 # rtl = yes
 # source = tatoeba.org
 1	טאָם	_	PROPN	_	_	4	nsubj	_	Translit=tom
@@ -31859,8 +31859,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2431
-# text = ווען טאָם וואָלט אָפּגעשפּרונגען פֿון אַ בריק, וואָלטסטו וואָלטסט דו עס אויך געמאַכט?
-# translit = ven tom volt opgeshprungen fun a brik, voltstu voltst du es oykh gemakht?
+# text = ווען טאָם וואָלט אָפּגעשפּרונגען פֿון אַ בריק, וואָלטסטו עס אויך געמאַכט?
+# translit = ven tom volt opgeshprungen fun a brik, voltstu es oykh gemakht?
 # rtl = yes
 # source = tatoeba.org
 1	ווען	_	SCONJ	_	_	4	mark	_	Translit=ven
@@ -31919,8 +31919,8 @@
 13	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2434
-# text = זי האָט געזאָגט, אַז זי איז די טאָכטער פֿונעם פֿון דעם אייבערשטן.
-# translit = zi hot gezogt, az zi iz di tokhter funem fun dem eybershtn.
+# text = זי האָט געזאָגט, אַז זי איז די טאָכטער פֿונעם אייבערשטן.
+# translit = zi hot gezogt, az zi iz di tokhter funem eybershtn.
 # rtl = yes
 # source = tatoeba.org
 1	זי	_	PRON	_	_	3	nsubj	_	Translit=zi
@@ -32250,8 +32250,8 @@
 30	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2446
-# text = און אַז זי האָט אים מער ניט געקענט באַהאַלטן, האָט זי גענומען פֿאַר אים אַ קעסטל פֿון יאַמש, און האָט עס אױסגעקלעפּט מיט לײם און מיט פּעך; און זי האָט אַרײַנגעטאָן דערין דאָס קינד, און האָט עס אַהינגעטאָן אין די ריטלעך בײַם בײַ דעם ברעג טײַך.
-# translit = un az zi hot im mer nit gekent bahaltn, hot zi genumen far im a kestl fun yamsh, un hot es oysgeklept mit leym un mit pekh; un zi hot arayngeton derin dos kind, un hot es ahingeton in di ritlekh baym bay dem breg taykh.
+# text = און אַז זי האָט אים מער ניט געקענט באַהאַלטן, האָט זי גענומען פֿאַר אים אַ קעסטל פֿון יאַמש, און האָט עס אױסגעקלעפּט מיט לײם און מיט פּעך; און זי האָט אַרײַנגעטאָן דערין דאָס קינד, און האָט עס אַהינגעטאָן אין די ריטלעך בײַם ברעג טײַך.
+# translit = un az zi hot im mer nit gekent bahaltn, hot zi genumen far im a kestl fun yamsh, un hot es oysgeklept mit leym un mit pekh; un zi hot arayngeton derin dos kind, un hot es ahingeton in di ritlekh baym breg taykh.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	13	cc	_	Translit=un
@@ -32331,8 +32331,8 @@
 18	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2448
-# text = און די טאָכטער פֿון פַּרעהן האָט אַראָפּגענידערט זיך צו באָדן אין טײַך; און אירע מײדלעך זײַנען אומגעגאַנגען בײַן בײַ דעם זײַט טײַך.
-# translit = un di tokhter fun paren hot aropgenidert zikh tsu bodn in taykh; un ire meydlekh zaynen umgegangen bayn bay dem zayt taykh.
+# text = און די טאָכטער פֿון פַּרעהן האָט אַראָפּגענידערט זיך צו באָדן אין טײַך; און אירע מײדלעך זײַנען אומגעגאַנגען בײַן זײַט טײַך.
+# translit = un di tokhter fun paren hot aropgenidert zikh tsu bodn in taykh; un ire meydlekh zaynen umgegangen bayn zayt taykh.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	7	cc	_	Translit=un
@@ -32696,8 +32696,8 @@
 19	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2461
-# text = צי מײַנסטו מײַנסט דו מיך צו הרגען, אַזױ װי דו האָסט געהרגעט דעם מִצרי?
-# translit = tsi maynstu maynst du mikh tsu hargen, azoy vi du host gehrget dem mitsri?
+# text = צי מײַנסטו מיך צו הרגען, אַזױ װי דו האָסט געהרגעט דעם מִצרי?
+# translit = tsi maynstu mikh tsu hargen, azoy vi du host gehrget dem mitsri?
 # rtl = yes
 # source = Book of Exodus
 1	צי	_	PART	_	_	2	dep	_	Translit=tsi
@@ -33157,8 +33157,8 @@
 20	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2478
-# text = קומט לאָמיר לאָז מיר זיך קליגן קעגן אים; אַניט װעט ער זיך מערן, און עס װעט זײַן, אַז עס װעט זיך טרעפֿן אַ מלחמה, װעט ער אױך צושטײן צו אונדזערע פֿײַנט, און ער װעט מלחמה האַלטן אױף אונדז, און װעט אַרױסגײן פֿון לאַנד.
-# translit = kumt lomir loz mir zikh klign kegn im; anit vet er zikh mern, un es vet zayn, az es vet zikh trefn a milkhome, vet er oykh tsushteyn tsu undzere faynt, un er vet milkhome haltn oyf undz, un vet aroysgeyn fun land.
+# text = קומט לאָמיר זיך קליגן קעגן אים; אַניט װעט ער זיך מערן, און עס װעט זײַן, אַז עס װעט זיך טרעפֿן אַ מלחמה, װעט ער אױך צושטײן צו אונדזערע פֿײַנט, און ער װעט מלחמה האַלטן אױף אונדז, און װעט אַרױסגײן פֿון לאַנד.
+# translit = kumt lomir zikh klign kegn im; anit vet er zikh mern, un es vet zayn, az es vet zikh trefn a milkhome, vet er oykh tsushteyn tsu undzere faynt, un er vet milkhome haltn oyf undz, un vet aroysgeyn fun land.
 # rtl = yes
 # source = Book of Exodus
 1	קומט	_	VERB	_	_	2	discourse	_	Translit=kumt
@@ -33347,8 +33347,8 @@
 38	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2483
-# text = און דער מלך פֿון מִצריםֹ האָט גערעדט צו די ייִדישע הײבינס, װאָס דער נאָמען פֿון אײנער איז געװען שִפֿרָה, און דער נאָמען פֿון דער צװײטער פּועָה, און ער האָט געזאָגט: אַז איר העלפֿט די ייִדישע װײַבער געבערן, זאָלט איר זען אױפֿן אױף דעם בראָכשטול, אױב דאָס איז אַ זון, זאָלט איר אים טײטן, און אױב דאָס איז אַ טאָכטער, זאָל זי בלײַבן לעבן.
-# translit = un der meylekh fun mitsrim hot geredt tsu di yidishe haybins, vos der nomen fun eyner iz geven shifro, un der nomen fun der tsveyter pue, un er hot gezogt: az ir helft di yidishe vayber gebern, zolt ir zen oyfn oyf dem brokhshtul, oyb dos iz a zun, zolt ir im taytn, un oyb dos iz a tokhter, zol zi blaybn lebn.
+# text = און דער מלך פֿון מִצריםֹ האָט גערעדט צו די ייִדישע הײבינס, װאָס דער נאָמען פֿון אײנער איז געװען שִפֿרָה, און דער נאָמען פֿון דער צװײטער פּועָה, און ער האָט געזאָגט: אַז איר העלפֿט די ייִדישע װײַבער געבערן, זאָלט איר זען אױפֿן בראָכשטול, אױב דאָס איז אַ זון, זאָלט איר אים טײטן, און אױב דאָס איז אַ טאָכטער, זאָל זי בלײַבן לעבן.
+# translit = un der meylekh fun mitsrim hot geredt tsu di yidishe haybins, vos der nomen fun eyner iz geven shifro, un der nomen fun der tsveyter pue, un er hot gezogt: az ir helft di yidishe vayber gebern, zolt ir zen oyfn brokhshtul, oyb dos iz a zun, zolt ir im taytn, un oyb dos iz a tokhter, zol zi blaybn lebn.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	7	cc	_	Translit=un
@@ -33642,8 +33642,8 @@
 33	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2490
-# text = און משה האָט געפֿיטערט די שאָפּ פֿון זײַן שװער יִתרוֹן, דעם פּריסטער פֿון מִדיָן, און ער האָט געפירט די שאָפּ צום צו דעם מדבר צו, און ער איז געקומען צום צו דעם באַרג פֿון {dn גאָט}, צו חוֹרֵבֿ.
-# translit = un moyshe hot gefitert di shop fun zayn shver isron, dem prister fun midyon, un er hot gefirt di shop tsum tsu dem midber tsu, un er iz gekumen tsum tsu dem barg fun {e'en got}, tsu khoyrev.
+# text = און משה האָט געפֿיטערט די שאָפּ פֿון זײַן שװער יִתרוֹן, דעם פּריסטער פֿון מִדיָן, און ער האָט געפירט די שאָפּ צום מדבר צו, און ער איז געקומען צום באַרג פֿון {dn גאָט}, צו חוֹרֵבֿ.
+# translit = un moyshe hot gefitert di shop fun zayn shver isron, dem prister fun midyon, un er hot gefirt di shop tsum midber tsu, un er iz gekumen tsum barg fun {e'en got}, tsu khoyrev.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	4	cc	_	Translit=un
@@ -33739,8 +33739,8 @@
 40	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2492
-# text = האָט משה געזאָגט: לאָמיך לאָז מיך אַקאָרשט אָפּקערן און זען די דאָזיקע גרױסע זעונג, פֿאַר װאָס דער דאָרן װערט ניט פֿאַרברענט.
-# translit = hot moyshe gezogt: lomikh loz mikh akorsht opkern un zen di dozike groyse zeung, far vos der dorn vert nit farbrent.
+# text = האָט משה געזאָגט: לאָמיך אַקאָרשט אָפּקערן און זען די דאָזיקע גרױסע זעונג, פֿאַר װאָס דער דאָרן װערט ניט פֿאַרברענט.
+# translit = hot moyshe gezogt: lomikh akorsht opkern un zen di dozike groyse zeung, far vos der dorn vert nit farbrent.
 # rtl = yes
 # source = Book of Exodus
 1	האָט	_	AUX	_	_	3	aux	_	Translit=hot
@@ -34306,8 +34306,8 @@
 15	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2508
-# text = און ער האָט געזאָגט: אַזױ זאָלסטו זאָלסט דו זאָגן צו די קינדער פֿון ישׂראל: „איך בין“ האָט מיך געשיקט צו אײַך.
-# translit = un er hot gezogt: azoy zolstu zolst du zogn tsu di kinder fun yisroel: „ikh bin“ hot mikh geshikt tsu aykh.
+# text = און ער האָט געזאָגט: אַזױ זאָלסטו זאָגן צו די קינדער פֿון ישׂראל: „איך בין“ האָט מיך געשיקט צו אײַך.
+# translit = un er hot gezogt: azoy zolstu zogn tsu di kinder fun yisroel: „ikh bin“ hot mikh geshikt tsu aykh.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	4	cc	_	Translit=un
@@ -34338,8 +34338,8 @@
 25	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2509
-# text = און {dn גאָט} האָט װײַטער געזאָגט צו משהן: אַזױ זאָלסטו זאָלסט דו זאָגן צו די קינדער פֿון ישׂראל: {dn יהוה}, דער {dn גאָט} פֿון אײַערע עלטערן, דער {dn גאָט} פֿון אַבֿרהמען, דער {dn גאָט} פֿון יצחקן, און דער {dn גאָט} פֿון יעקבֿן, האָט מיך געשיקט צו אײַך.
-# translit = un {e'en got} hot vayter gezogt tsu Moyshn: azoy zolstu zolst du zogn tsu di kinder fun yisroel: {e'en yehu}, der {e'en got} fun ayere eltern, der {e'en got} fun averhomen, der {e'en got} fun yetsakhkn, un der {e'en got} fun yaykevn, hot mikh geshikt tsu aykh.
+# text = און {dn גאָט} האָט װײַטער געזאָגט צו משהן: אַזױ זאָלסטו זאָגן צו די קינדער פֿון ישׂראל: {dn יהוה}, דער {dn גאָט} פֿון אײַערע עלטערן, דער {dn גאָט} פֿון אַבֿרהמען, דער {dn גאָט} פֿון יצחקן, און דער {dn גאָט} פֿון יעקבֿן, האָט מיך געשיקט צו אײַך.
+# translit = un {e'en got} hot vayter gezogt tsu Moyshn: azoy zolstu zogn tsu di kinder fun yisroel: {e'en yehu}, der {e'en got} fun ayere eltern, der {e'en got} fun averhomen, der {e'en got} fun yetsakhkn, un der {e'en got} fun yaykevn, hot mikh geshikt tsu aykh.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	8	cc	_	Translit=un
@@ -34621,8 +34621,8 @@
 52	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2514
-# text = און אַצונד, לאָמיר לאָז מיר גײן, איך בעט דיך, דרײַ טעג װעגס אין דער מדבר, כּדי מיר זאָלן שלאַכטן צו {dn יהוה} אונדזער {dn גאָט}.
-# translit = un atsund, lomir loz mir gayn, ikh bet dikh, dray teg vegs in der midber, kedey mir zoln shlakhtn tsu {e'en yehu} undzer {e'en got}.
+# text = און אַצונד, לאָמיר גײן, איך בעט דיך, דרײַ טעג װעגס אין דער מדבר, כּדי מיר זאָלן שלאַכטן צו {dn יהוה} אונדזער {dn גאָט}.
+# translit = un atsund, lomir gayn, ikh bet dikh, dray teg vegs in der midber, kedey mir zoln shlakhtn tsu {e'en yehu} undzer {e'en got}.
 # rtl = yes
 # source = Book of Exodus
 1	און	_	CCONJ	_	_	4	cc	_	Translit=un
@@ -35243,8 +35243,8 @@
 41	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2535
-# text = פֿאַרזיכער זיך אױף {dn גאָט} מיט דײַן גאַנצן האַרצן, און אױף דײַן פֿאַרשטאַנדיקײט זאָלסטו זאָלסט דו זיך ניט אָנלענען.
-# translit = farzikher zikh oyf {e'en got} mit dayn gantsn hartsn, un oyf dayn farshtandikayt zolstu zolst du zikh nit onlenen.
+# text = פֿאַרזיכער זיך אױף {dn גאָט} מיט דײַן גאַנצן האַרצן, און אױף דײַן פֿאַרשטאַנדיקײט זאָלסטו זיך ניט אָנלענען.
+# translit = farzikher zikh oyf {e'en got} mit dayn gantsn hartsn, un oyf dayn farshtandikayt zolstu zikh nit onlenen.
 # rtl = yes
 # source = Book of Proverbs
 1	פֿאַרזיכער	_	VERB	_	_	0	root	_	Translit=farzikher
@@ -35346,8 +35346,8 @@
 16	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2539
-# text = גיב כּבֿוד צו {dn גאָט} פֿון דײַן גוטס, און פֿונעם פֿון דעם ערשטן פֿון אַל דײַן תּבֿואה, און דײַנע שפּײַכלערס װעלן פֿול זײַן מיט זעט, און דײַנע קעלטערס װעלן פֿלײצן מיט װײַן.
-# translit = gib koved tsu {e'en got} fun dayn guts, un funem fun dem ershtn fun al dayn tvue, un dayne shpaykhlers veln ful zayn mit zet, un dayne kelters veln fleytsn mit vayn.
+# text = גיב כּבֿוד צו {dn גאָט} פֿון דײַן גוטס, און פֿונעם ערשטן פֿון אַל דײַן תּבֿואה, און דײַנע שפּײַכלערס װעלן פֿול זײַן מיט זעט, און דײַנע קעלטערס װעלן פֿלײצן מיט װײַן.
+# translit = gib koved tsu {e'en got} fun dayn guts, un funem ershtn fun al dayn tvue, un dayne shpaykhlers veln ful zayn mit zet, un dayne kelters veln fleytsn mit vayn.
 # rtl = yes
 # source = Book of Proverbs
 1	גיב	_	VERB	_	_	0	root	_	Translit=gib
@@ -35390,8 +35390,8 @@
 37	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2540
-# text = דעם מוסר פֿון {dn גאָט} זאָלסטוזאָלסט דו , מײַן זון, ניט פֿאַראַכטן, און זאָלסט ניט פֿאַראומװערדיקן זײַן שטראָף.
-# translit = dem moyser fun {e'en got} zolstuzolst du , mayn zun, nit farakhtn, un zolst nit farumverdikn zayn shtrof.
+# text = דעם מוסר פֿון {dn גאָט} זאָלסטו, מײַן זון, ניט פֿאַראַכטן, און זאָלסט ניט פֿאַראומװערדיקן זײַן שטראָף.
+# translit = dem moyser fun {e'en got} zolstu, mayn zun, nit farakhtn, un zolst nit farumverdikn zayn shtrof.
 # rtl = yes
 # source = Book of Proverbs
 1	דעם	_	DET	_	_	2	det	_	Translit=dem
@@ -35669,8 +35669,8 @@
 31	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2551
-# text = דענצמאָל װעסטו װעסט דו גײן אין זיכערקײט דײַן װעג, און װעסט ניט אָפּשלאָגן דײַן פֿוס.
-# translit = dentsmol vestu vest du gayn in zikherkeyt dayn veg, un vest nit opshlogn dayn fus.
+# text = דענצמאָל װעסטו גײן אין זיכערקײט דײַן װעג, און װעסט ניט אָפּשלאָגן דײַן פֿוס.
+# translit = dentsmol vestu gayn in zikherkeyt dayn veg, un vest nit opshlogn dayn fus.
 # rtl = yes
 # source = Book of Proverbs
 1	דענצמאָל	_	ADV	_	_	4	advmod	_	Translit=dentsmol
@@ -35692,8 +35692,8 @@
 16	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2552
-# text = אַז דו װעסט זיך לײגן װעסטו װעסט דו ניט אַנגסטן, און װעסט ליגן, און זיס װעט זײַן דײַן שלאָף.
-# translit = az du vest zikh leygn vestu vest du nit angstn, un vest lign, un zis vet zayn dayn shlof.
+# text = אַז דו װעסט זיך לײגן װעסטו ניט אַנגסטן, און װעסט ליגן, און זיס װעט זײַן דײַן שלאָף.
+# translit = az du vest zikh leygn vestu nit angstn, un vest lign, un zis vet zayn dayn shlof.
 # rtl = yes
 # source = Book of Proverbs
 1	אַז	_	SCONJ	_	_	5	mark	_	Translit=az
@@ -35952,8 +35952,8 @@
 21	.	_	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = 2562
-# text = אױב שפּעטער – מאַכט ער זײ צודעם צו דעם געשפּעט, אָבער די שטילע גיט ער חן.
-# translit = oyb shpeter – makht er zey tsudem tsu dem geshpet, ober di shtile git er khan.
+# text = אױב שפּעטער – מאַכט ער זײ צודעם געשפּעט, אָבער די שטילע גיט ער חן.
+# translit = oyb shpeter – makht er zey tsudem geshpet, ober di shtile git er khan.
 # rtl = yes
 # source = Book of Proverbs
 1	אױב	_	SCONJ	_	_	2	mark	_	Translit=oyb
@@ -35993,8 +35993,8 @@
 11	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2564
-# text = ייִדיש, אידיש אדער יודיש, גערופֿן ביי אידן מאַמע לָשון, איז אַ שפּראַך װאָס װערט הײַנט גערעדט פֿון ארום 1.5 מיליאָן יידן און באַקאַנט ביי 3,142,560 מענטשן איבער דער װעלט, בעיקר פֿונעם פֿון דעם אַשכנזישן אָפּשטאַם.
-# translit = yidish, idish ader yudish, gerufn bey idn mame loshn, iz a shprakh vos vert haynt geredt fun orem "laf milyon yidn un bakant bey sharas,med mad mentshn iber der velt, beiker funem fun dem ashkhnazishn opshtam.
+# text = ייִדיש, אידיש אדער יודיש, גערופֿן ביי אידן מאַמע לָשון, איז אַ שפּראַך װאָס װערט הײַנט גערעדט פֿון ארום 1.5 מיליאָן יידן און באַקאַנט ביי 3,142,560 מענטשן איבער דער װעלט, בעיקר פֿונעם אַשכנזישן אָפּשטאַם.
+# translit = yidish, idish ader yudish, gerufn bey idn mame loshn, iz a shprakh vos vert haynt geredt fun orem "laf milyon yidn un bakant bey sharas,med mad mentshn iber der velt, beiker funem ashkhnazishn opshtam.
 # rtl = yes
 # source = Wikipedia
 1	ייִדיש	_	PROPN	_	_	15	nsubj	_	SpaceAfter=No|Translit=yidish
@@ -36487,8 +36487,8 @@
 19	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2576
-# text = לױטן לױט דעם געזעץ אין ישראל איז לאנגע יארן געווען פֿאַרבאָטן צו שפּילן אין טעאַטער אױף יידיש.
-# translit = loytn loyt dem gezets in yishral iz lange yorn geven farbotn tsu shpiln in teater oyf yidish.
+# text = לױטן געזעץ אין ישראל איז לאנגע יארן געווען פֿאַרבאָטן צו שפּילן אין טעאַטער אױף יידיש.
+# translit = loytn gezets in yishral iz lange yorn geven farbotn tsu shpiln in teater oyf yidish.
 # rtl = yes
 # source = Wikipedia
 1-2	לױטן	_	_	_	_	_	_	_	Translit=loytn
@@ -36608,8 +36608,8 @@
 14	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2581
-# text = א סך ייִדיש רעדערס אין די הײַנטיקע טעג זענען פרומע ייִדן וואָס זענען נישט באַקאַנט מיטן מיט דעם ייִוו"א אויסלייג און שרײַבן און לייענען אַ ייִדיש געמישט מיט ענגלישע אָדער העברעישע ווערטער מיט ייִדישע בוכשטאַבן.
-# translit = e sakh yidish reders in di hayntike teg zenen frume yidn vos zenen nisht bakant mitn mit dem yiv' oysleyg un shraybn un leyenen a yidish gemisht mit englishe oder hebreishe verter mit yidishe bukhshtabn.
+# text = א סך ייִדיש רעדערס אין די הײַנטיקע טעג זענען פרומע ייִדן וואָס זענען נישט באַקאַנט מיטן ייִוו"א אויסלייג און שרײַבן און לייענען אַ ייִדיש געמישט מיט ענגלישע אָדער העברעישע ווערטער מיט ייִדישע בוכשטאַבן.
+# translit = e sakh yidish reders in di hayntike teg zenen frume yidn vos zenen nisht bakant mitn yiv' oysleyg un shraybn un leyenen a yidish gemisht mit englishe oder hebreishe verter mit yidishe bukhshtabn.
 # rtl = yes
 # source = Wikipedia
 1	א	_	DET	_	_	4	det	_	Translit=e
@@ -37096,8 +37096,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2599
-# text = צי האָבן ייִדן, למשל, געוווּסט פֿון אַ וועלט צו זאָגן, איידער ס׳זענען עס זענען אויפֿגעקומען ייִדישע צײַטונגען?
-# translit = tsi hobn yidn, lemoshl, gevust fun a velt tsu zogn, eyder s'zenen es zenen oyfgekumen yidishe tsaytungen?
+# text = צי האָבן ייִדן, למשל, געוווּסט פֿון אַ וועלט צו זאָגן, איידער ס׳זענען אויפֿגעקומען ייִדישע צײַטונגען?
+# translit = tsi hobn yidn, lemoshl, gevust fun a velt tsu zogn, eyder s'zenen oyfgekumen yidishe tsaytungen?
 # rtl = yes
 # source = Jews and Yiddish
 1	צי	_	PART	_	_	7	dep	_	Translit=tsi
@@ -37123,8 +37123,8 @@
 20	?	_	PUNCT	_	_	7	punct	_	Translit=?
 
 # sent_id = 2600
-# text = ערשט, אַז מ׳האָט מע האָט אָנגעהויבן דרוקן צײַטונגען און ביכלעך וועגן דער הײַנטיקער וועלט אויף ייִדיש, האָט אַ ייִד געקענט וויסן, וואָס עס טוט זיך אין פּאָליטיק, אין מיסחר, צווישן ייִדן, אין לענדער און צווישן פֿעלקער, בכלל וואָס טוט זיך אויף דער גאָרער וועלט.
-# translit = ersht, az m'hot me hot ongehoybn drukn tsaytungen un bikhlekh vegn der hayntiker velt oyf yidish, hot a yid gekent visn, vos es tut zikh in politik, in miskher, tsvishn yidn, in lender un tsvishn felker, bikhlal vos tut zikh oyf der gorer velt.
+# text = ערשט, אַז מ׳האָט אָנגעהויבן דרוקן צײַטונגען און ביכלעך וועגן דער הײַנטיקער וועלט אויף ייִדיש, האָט אַ ייִד געקענט וויסן, וואָס עס טוט זיך אין פּאָליטיק, אין מיסחר, צווישן ייִדן, אין לענדער און צווישן פֿעלקער, בכלל וואָס טוט זיך אויף דער גאָרער וועלט.
+# translit = ersht, az m'hot ongehoybn drukn tsaytungen un bikhlekh vegn der hayntiker velt oyf yidish, hot a yid gekent visn, vos es tut zikh in politik, in miskher, tsvishn yidn, in lender un tsvishn felker, bikhlal vos tut zikh oyf der gorer velt.
 # rtl = yes
 # source = Jews and Yiddish
 1	ערשט	_	ADV	_	_	22	advmod	_	SpaceAfter=No|Translit=ersht
@@ -37215,8 +37215,8 @@
 28	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2602
-# text = וואָס דאַרפֿן ייִדן פֿאַרלאַנגען, וואָס טוט מען, אַז מ׳זאָל מען זאָל ייִדן נישט באַעוולען, אַז זיי זאָלן אויסבעסערן זייער מצבֿ וכדומה.
-# translit = vos darfn yidn farlangen, vos tut men, az m'zol men zol yidn nisht baevlen, az zey zoln oysbesern zeyer matsev ukhdume.
+# text = וואָס דאַרפֿן ייִדן פֿאַרלאַנגען, וואָס טוט מען, אַז מ׳זאָל ייִדן נישט באַעוולען, אַז זיי זאָלן אויסבעסערן זייער מצבֿ וכדומה.
+# translit = vos darfn yidn farlangen, vos tut men, az m'zol yidn nisht baevlen, az zey zoln oysbesern zeyer matsev ukhdume.
 # rtl = yes
 # source = Jews and Yiddish
 1	וואָס	_	PRON	_	_	4	obj	_	Translit=vos
@@ -37381,8 +37381,8 @@
 56	!	_	PUNCT	_	_	2	punct	_	Translit=!
 
 # sent_id = 2606
-# text = וואָס זאָל ער זיך קלערן, ווען „העברעיִסטן“ נעמען מיט אַ מאָל אים אײַנרעדן, אַז „ייִדיש“ איז נישט קיין שפּראַך, נאָר אַ שאַנדע, אַ „זשאַרגאָן“, וואָס מ׳דאַרף מע דאַרף פֿון אים, וואָס גיכער, פּטור ווערן?
-# translit = vos zol er zikh klern, ven „hebreistn“ nemen mit a mol im aynredn, az „yidish“ iz nisht keyn shprakh, nor a shande, a „zhargon“, vos m'darf me darf fun im, vos gikher, ptur vern?
+# text = וואָס זאָל ער זיך קלערן, ווען „העברעיִסטן“ נעמען מיט אַ מאָל אים אײַנרעדן, אַז „ייִדיש“ איז נישט קיין שפּראַך, נאָר אַ שאַנדע, אַ „זשאַרגאָן“, וואָס מ׳דאַרף פֿון אים, וואָס גיכער, פּטור ווערן?
+# translit = vos zol er zikh klern, ven „hebreistn“ nemen mit a mol im aynredn, az „yidish“ iz nisht keyn shprakh, nor a shande, a „zhargon“, vos m'darf fun im, vos gikher, ptur vern?
 # rtl = yes
 # source = Jews and Yiddish
 1	וואָס	_	PRON	_	_	5	obj	_	Translit=vos
@@ -37539,8 +37539,8 @@
 48	!	_	PUNCT	_	_	11	punct	_	Translit=!
 
 # sent_id = 2609
-# text = דאַרף מען אויפֿקלערן די זאַך, אַז יעדער ייִד זאָל פֿאַרשטיין, וואָס איז דאָס אַזוינס „ייִדישיסטן“, וואָס מ׳מאַכט מע מאַכט זיי איצט פֿאַר עוכרי־ישׂראל, פֿון וואַנען נעמען זיי זיך, וואָס ווילן זיי?
-# translit = darf men oyfklern di zakh, az yeder yid zol farshteyn, vos iz dos azoyns „yidishistn“, vos m'makht me makht zey itst far eykhri-yisroel, fun vanen nemen zey zikh, vos viln zey?
+# text = דאַרף מען אויפֿקלערן די זאַך, אַז יעדער ייִד זאָל פֿאַרשטיין, וואָס איז דאָס אַזוינס „ייִדישיסטן“, וואָס מ׳מאַכט זיי איצט פֿאַר עוכרי־ישׂראל, פֿון וואַנען נעמען זיי זיך, וואָס ווילן זיי?
+# translit = darf men oyfklern di zakh, az yeder yid zol farshteyn, vos iz dos azoyns „yidishistn“, vos m'makht zey itst far eykhri-yisroel, fun vanen nemen zey zikh, vos viln zey?
 # rtl = yes
 # source = Jews and Yiddish
 1	דאַרף	_	AUX	_	_	3	aux	_	Translit=darf
@@ -37876,8 +37876,8 @@
 24	…	_	PUNCT	_	_	5	punct	_	Translit=…
 
 # sent_id = 2624
-# text = – ס′איז עס איז אַ חלום, שװעסטער – האָט געענטפֿערט אַ צװייטע שטים – אַ חלום, װאָס ס′איז עס איז שװער צו פֿאַרװירקלעכן…
-# translit = – snayiz es iz a kholem, shvester – hot geentfert a tsveyte shtim – a kholem, vos snayiz es iz shver tsu farvirklekhn…
+# text = – ס′איז אַ חלום, שװעסטער – האָט געענטפֿערט אַ צװייטע שטים – אַ חלום, װאָס ס′איז שװער צו פֿאַרװירקלעכן…
+# translit = – snayiz a kholem, shvester – hot geentfert a tsveyte shtim – a kholem, vos snayiz shver tsu farvirklekhn…
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	–	_	PUNCT	_	_	5	punct	_	Translit=–
@@ -38059,8 +38059,8 @@
 10	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2635
-# text = בײַם בײַ דעם עק טיש איז געזעסן אַ יונגער־מאַן און האָט פֿאַרריכט אַן אַלטן שטיװל.
-# translit = baym bay dem ek tish iz gezesn a yunger-man un hot farrikht an altn shtivl.
+# text = בײַם עק טיש איז געזעסן אַ יונגער־מאַן און האָט פֿאַרריכט אַן אַלטן שטיװל.
+# translit = baym ek tish iz gezesn a yunger-man un hot farrikht an altn shtivl.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1-2	בײַם	_	_	_	_	_	_	_	Translit=baym
@@ -38212,8 +38212,8 @@
 29	…	_	PUNCT	_	_	4	punct	_	Translit=…
 
 # sent_id = 2642
-# text = אונדזער פּלוצלונגדיק דערשײַנען איז אויסגעקומען זייער מאָדנע און דער בעל־הבית פֿונעם פֿון דעם אָרעמען הײַזל האָט, װײַזט אויס, געװאָלט פֿון אונדז פּטור װערן.
-# translit = undzer plutslungdik dershaynen iz oysgekumen zeyer modne un der balebos funem fun dem oremen hayzl hot, vayzt oys, gevolt fun undz ptur vern.
+# text = אונדזער פּלוצלונגדיק דערשײַנען איז אויסגעקומען זייער מאָדנע און דער בעל־הבית פֿונעם אָרעמען הײַזל האָט, װײַזט אויס, געװאָלט פֿון אונדז פּטור װערן.
+# translit = undzer plutslungdik dershaynen iz oysgekumen zeyer modne un der balebos funem oremen hayzl hot, vayzt oys, gevolt fun undz ptur vern.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	אונדזער	_	DET	_	_	3	det:poss	_	Translit=undzer
@@ -38442,8 +38442,8 @@
 5	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2653
-# text = ער האָט זיך שװײַגנדיק געזעצט צום צו דעם קלאַװיר און גענומען שפּילן.
-# translit = er hot zikh shvaygndik gezetst tsum tsu dem klavir un genumen shpiln.
+# text = ער האָט זיך שװײַגנדיק געזעצט צום קלאַװיר און גענומען שפּילן.
+# translit = er hot zikh shvaygndik gezetst tsum klavir un genumen shpiln.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	ער	_	PRON	_	_	5	nsubj	_	Translit=er
@@ -38605,8 +38605,8 @@
 7	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2659
-# text = די שװעסטער איז געשטאַנען בײַם בײַ דעם קלאַװיר מיט ברײט געעפֿנטע בלינדע אויגן, צודריקנדיק די האַנט צום צו דעם האַרצן, װי זי װאָלט מורא געהאַט, דאָס האַרצקלאַפּן זאָל ניט צעשטערן די האַרמאָניע פֿון די כּישופֿדיקע קלאַנגען.
-# translit = di shvester iz geshtanen baym bay dem klavir mit breyt geafnte blinde oygn, tsudrikndik di hant tsum tsu dem hartsn, vi zi volt moyre gehat, dos hartsklapn zol nit tseshtern di harmonye fun di kishufdike klangen.
+# text = די שװעסטער איז געשטאַנען בײַם קלאַװיר מיט ברײט געעפֿנטע בלינדע אויגן, צודריקנדיק די האַנט צום האַרצן, װי זי װאָלט מורא געהאַט, דאָס האַרצקלאַפּן זאָל ניט צעשטערן די האַרמאָניע פֿון די כּישופֿדיקע קלאַנגען.
+# translit = di shvester iz geshtanen baym klavir mit breyt geafnte blinde oygn, tsudrikndik di hant tsum hartsn, vi zi volt moyre gehat, dos hartsklapn zol nit tseshtern di harmonye fun di kishufdike klangen.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -38725,8 +38725,8 @@
 8	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2665
-# text = ס'איז עס איז געװאָרן נאָך ליכטיקער װי פֿריִער.
-# translit = s'iz es iz gevorn nokh likhtiker vi frier.
+# text = ס'איז געװאָרן נאָך ליכטיקער װי פֿריִער.
+# translit = s'iz gevorn nokh likhtiker vi frier.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -38740,8 +38740,8 @@
 8	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2666
-# text = דאָס געשטאַלט פֿון גרויסן מוזיקער בײַם בײַ דעם קלאַװיר האָט זיך שאַרף אויסגעטיילט אין פֿינצטערן װינקל.
-# translit = dos geshtalt fun groysn muziker baym bay dem klavir hot zikh sharf oysgeteylt in fintstern vinkl.
+# text = דאָס געשטאַלט פֿון גרויסן מוזיקער בײַם קלאַװיר האָט זיך שאַרף אויסגעטיילט אין פֿינצטערן װינקל.
+# translit = dos geshtalt fun groysn muziker baym klavir hot zikh sharf oysgeteylt in fintstern vinkl.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	דאָס	_	DET	_	_	2	det	_	Translit=dos
@@ -38763,8 +38763,8 @@
 16	.	_	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = 2667
-# text = דער קאָפּ האָט זיך אַראָפּגעלאָזן אויפֿן אױף דעם ברוסט, די הענט זײַנען אומבאַװעגלעך געלעגן אויף די קני…
-# translit = der kop hot zikh aropgelozn oyfn oyf dem brust, di hent zaynen umbaveglekh gelegn oyf di kni…
+# text = דער קאָפּ האָט זיך אַראָפּגעלאָזן אויפֿן ברוסט, די הענט זײַנען אומבאַװעגלעך געלעגן אויף די קני…
+# translit = der kop hot zikh aropgelozn oyfn brust, di hent zaynen umbaveglekh gelegn oyf di kni…
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	דער	_	DET	_	_	2	det	_	Translit=der
@@ -38867,8 +38867,8 @@
 3	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 2674
-# text = – הערט… – האָט בעטהאָװען אָנשטאָט אַ תּשובֿה שטיל געזאָגט און גענומען שפּילן זײַן סאָנאַטע, די זעלבע װאָס ס'האָט עס האָט פֿאַר אים געשפּילט דאָס בלאָנדע מיידל…
-# translit = – hert… – hot bethoven onshtot a tshuve shtil gezogt un genumen shpiln zayn sonate, di zelbe vos shhot es hot far im geshpilt dos blonde meydl…
+# text = – הערט… – האָט בעטהאָװען אָנשטאָט אַ תּשובֿה שטיל געזאָגט און גענומען שפּילן זײַן סאָנאַטע, די זעלבע װאָס ס'האָט פֿאַר אים געשפּילט דאָס בלאָנדע מיידל…
+# translit = – hert… – hot bethoven onshtot a tshuve shtil gezogt un genumen shpiln zayn sonate, di zelbe vos shhot far im geshpilt dos blonde meydl…
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	–	_	PUNCT	_	_	2	punct	_	Translit=–
@@ -38903,8 +38903,8 @@
 29	…	_	PUNCT	_	_	11	punct	_	Translit=…
 
 # sent_id = 2675
-# text = אַ געשרײ פֿון התפּעלות האָט זיך בײַ ביידן אַרויסגעריסן בײַם בײַ דעם ענדיקן.
-# translit = a geshray fun hispoles hot zikh bay beydn aroysgerisn baym bay dem endikn.
+# text = אַ געשרײ פֿון התפּעלות האָט זיך בײַ ביידן אַרויסגעריסן בײַם ענדיקן.
+# translit = a geshray fun hispoles hot zikh bay beydn aroysgerisn baym endikn.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	אַ	_	DET	_	_	2	det	_	Translit=a
@@ -39032,8 +39032,8 @@
 5	…	_	PUNCT	_	_	3	punct	_	Translit=…
 
 # sent_id = 2683
-# text = ער האָט זיך ניט געװערט און זיך װידער געזעצט צום צו דעם קלאַװיר.
-# translit = er hot zikh nit gevert un zikh vider gezetst tsum tsu dem klavir.
+# text = ער האָט זיך ניט געװערט און זיך װידער געזעצט צום קלאַװיר.
+# translit = er hot zikh nit gevert un zikh vider gezetst tsum klavir.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	ער	_	PRON	_	_	5	nsubj	_	Translit=er
@@ -39079,8 +39079,8 @@
 21	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2685
-# text = ער האָט געקוקט אין פֿענצטער – אויפֿן אױף דעם הימל, װוּ די לבֿנה איז אַרומגעשװוּמען, װוּ ס'האָבן עס האָבן געפֿינקלט די װײַטע שטערן…
-# translit = er hot gekukt in fentster – oyfn oyf dem himl, vu di levone iz arumgeshvumen, vu shhobn es hobn gefinklt di vayte shtern…
+# text = ער האָט געקוקט אין פֿענצטער – אויפֿן הימל, װוּ די לבֿנה איז אַרומגעשװוּמען, װוּ ס'האָבן געפֿינקלט די װײַטע שטערן…
+# translit = er hot gekukt in fentster – oyfn himl, vu di levone iz arumgeshvumen, vu shhobn gefinklt di vayte shtern…
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 1	ער	_	PRON	_	_	3	nsubj	_	Translit=er
@@ -39470,8 +39470,8 @@
 10	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2701
-# text = איך בין נישט לאַנג אַרײַן אין אַ בית־מדרש און אַ שרעק האָט מיך אַרומגענומען, װען דער גאַנצער עולם האָט זיך צום צו דעם סוף אַװעקגעשטעלט אױסיאָמערן קדיש.
-# translit = ikh bin nisht lang arayn in a beys-medrash un a shrek hot mikh arumgenumen, ven der gantser oylem hot zikh tsum tsu dem sof avekgeshtelt oysyomern kadesh.
+# text = איך בין נישט לאַנג אַרײַן אין אַ בית־מדרש און אַ שרעק האָט מיך אַרומגענומען, װען דער גאַנצער עולם האָט זיך צום סוף אַװעקגעשטעלט אױסיאָמערן קדיש.
+# translit = ikh bin nisht lang arayn in a beys-medrash un a shrek hot mikh arumgenumen, ven der gantser oylem hot zikh tsum sof avekgeshtelt oysyomern kadesh.
 # rtl = yes
 # source = Hirshke Glik
 1	איך	_	PRON	_	_	5	nsubj	_	Translit=ikh
@@ -40151,8 +40151,8 @@
 41	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 2733
-# text = זע נאָר, עס איז שױן שפּעט און אסתּר איז נאָך נישטאָ נישט דאָ צו דינער.
-# translit = ze nor, es iz shoyn shpet un ister iz nokh nishto nisht do tsu diner.
+# text = זע נאָר, עס איז שױן שפּעט און אסתּר איז נאָך נישטאָ צו דינער.
+# translit = ze nor, es iz shoyn shpet un ister iz nokh nishto tsu diner.
 # rtl = yes
 # source = Bankrupt
 1	זע	_	VERB	_	_	7	parataxis	_	Translit=ze
@@ -40329,8 +40329,8 @@
 13	?	_	PUNCT	_	_	1	punct	_	Translit=?
 
 # sent_id = 2742
-# text = אָט האָסטו האָסט דו אַ טאַטן צו מײַנע צרות, װײסט אַפֿילו נישט װי אַלט זײַן טאָכטער איז.
-# translit = ot hostu host du a tatn tsu mayne tsores, vayst afile nisht vi alt zayn tokhter iz.
+# text = אָט האָסטו אַ טאַטן צו מײַנע צרות, װײסט אַפֿילו נישט װי אַלט זײַן טאָכטער איז.
+# translit = ot hostu a tatn tsu mayne tsores, vayst afile nisht vi alt zayn tokhter iz.
 # rtl = yes
 # source = Bankrupt
 1	אָט	_	ADV	_	_	2	advmod	_	Translit=ot
@@ -40444,8 +40444,8 @@
 7	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2749
-# text = און אַז דו הײבסט אָן צו כראָפּען קענסטו קענסט דו אַ טױטן אױפֿװעקן...
-# translit = un az du haybst on tsu khropen kenstu kenst du a toytn oyfvekn...
+# text = און אַז דו הײבסט אָן צו כראָפּען קענסטו אַ טױטן אױפֿװעקן...
+# translit = un az du haybst on tsu khropen kenstu a toytn oyfvekn...
 # rtl = yes
 # source = Bankrupt
 1	און	_	CCONJ	_	_	12	cc	_	Translit=un
@@ -40649,8 +40649,8 @@
 10	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2758
-# text = אײן מאָל דערהערט זיך אױפֿן אױף דעם אַרבעטס־פּלאַץ אַ קאָמאַנדע: "אױפֿהערן אַרבעטן!"
-# translit = eyn mol derhert zikh oyfn oyf dem arbets-plats a komande: "oyfhern arbetn!"
+# text = אײן מאָל דערהערט זיך אױפֿן אַרבעטס־פּלאַץ אַ קאָמאַנדע: "אױפֿהערן אַרבעטן!"
+# translit = eyn mol derhert zikh oyfn arbets-plats a komande: "oyfhern arbetn!"
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1	אײן	_	DET	_	_	2	det	_	Translit=eyn
@@ -40671,8 +40671,8 @@
 15	"	_	PUNCT	_	_	12	punct	_	Translit="
 
 # sent_id = 2759
-# text = דער עולם האָט געמײנט – מ'גײט מע גײט אַהײם.
-# translit = der oylem hot gemynt – m'aygeyt me gayt ahaym.
+# text = דער עולם האָט געמײנט – מ'גײט אַהײם.
+# translit = der oylem hot gemynt – m'aygeyt ahaym.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1	דער	_	DET	_	_	2	det	_	Translit=der
@@ -40856,8 +40856,8 @@
 6	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 2769
-# text = האָט אים געשלאָגן מיט דער ביקס, געזאָגט: ד אָ ר ט װעסטו װעסט דו שױן װערן אױסגעהײלט.
-# translit = hot im geshlogn mit der biks, gezogt: da o ror te vestu vest du shoyn vern oysgehaylt.
+# text = האָט אים געשלאָגן מיט דער ביקס, געזאָגט: ד אָ ר ט װעסטו שױן װערן אױסגעהײלט.
+# translit = hot im geshlogn mit der biks, gezogt: da o ror te vestu shoyn vern oysgehaylt.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1	האָט	_	AUX	_	_	3	aux	_	Translit=hot
@@ -40915,8 +40915,8 @@
 9	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2772
-# text = מ'האָט מע האָט אַלעמען אױפֿגעשטעלט און אַװעקגעפֿירט אין טורמע.
-# translit = mehot me hot alemen oyfgeshtelt un avekgefirt in turme.
+# text = מ'האָט אַלעמען אױפֿגעשטעלט און אַװעקגעפֿירט אין טורמע.
+# translit = mehot alemen oyfgeshtelt un avekgefirt in turme.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1-2	מ'האָט	_	_	_	_	_	_	_	Translit=mehot
@@ -40931,8 +40931,8 @@
 9	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2773
-# text = אױפֿן אױף דעם װעג האָבן די ייִדן געמוזט הױך זינגען.
-# translit = oyfn oyf dem veg hobn di yidn gemuzt hoykh zingen.
+# text = אױפֿן װעג האָבן די ייִדן געמוזט הױך זינגען.
+# translit = oyfn veg hobn di yidn gemuzt hoykh zingen.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1-2	אױפֿן	_	_	_	_	_	_	_	Translit=oyfn
@@ -40973,8 +40973,8 @@
 8	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2776
-# text = אין שטעטל איז געװאָרן אַ יללה: מ'שיקט מע שיקט אַװעק די קינדער.
-# translit = in shtetl iz gevorn a yille: m'shikt me shikt avek di kinder.
+# text = אין שטעטל איז געװאָרן אַ יללה: מ'שיקט אַװעק די קינדער.
+# translit = in shtetl iz gevorn a yille: m'shikt avek di kinder.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1	אין	_	ADP	_	_	2	case	_	Translit=in
@@ -41273,8 +41273,8 @@
 33	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 2789
-# text = צום צו דעם װאַרשעװער פֿראָנט?
-# translit = tsum tsu dem varshever front?
+# text = צום װאַרשעװער פֿראָנט?
+# translit = tsum varshever front?
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -41364,8 +41364,8 @@
 21	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2794
-# text = װער ס'װעט עס װעט קומען צוריק, װעט װערן דערשאָסן ".
-# translit = ver s'vet es vet kumen tsurik, vet vern dershosn ".
+# text = װער ס'װעט קומען צוריק, װעט װערן דערשאָסן ".
+# translit = ver s'vet kumen tsurik, vet vern dershosn ".
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 1	װער	_	PRON	_	_	4	nsubj	_	Translit=ver
@@ -41643,8 +41643,8 @@
 14	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2807
-# text = ווען מיר קוקן זיך צו צום צו דעם ייִדישן פֿאַמיליע־לעבן אין אַמעריקע זעען מיר אַ מערקווירדיקע זאַך.
-# translit = ven mir kukn zikh tsu tsum tsu dem yidishn familye-lebn in amerike zeen mir a merkvirdike zakh.
+# text = ווען מיר קוקן זיך צו צום ייִדישן פֿאַמיליע־לעבן אין אַמעריקע זעען מיר אַ מערקווירדיקע זאַך.
+# translit = ven mir kukn zikh tsu tsum yidishn familye-lebn in amerike zeen mir a merkvirdike zakh.
 # rtl = yes
 # source = Fathers and Children
 1	ווען	_	SCONJ	_	_	3	mark	_	Translit=ven
@@ -42628,8 +42628,8 @@
 13	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2851
-# text = אַז גאָט האָט געטײלט דעם שׂכל ביסטו ביסט דו געשלאָפֿן.
-# translit = az got hot geteylt dem seykhl bistu bist du geshlofn.
+# text = אַז גאָט האָט געטײלט דעם שׂכל ביסטו געשלאָפֿן.
+# translit = az got hot geteylt dem seykhl bistu geshlofn.
 # rtl = yes
 # source = Yiddish proverb
 1	אַז	_	SCONJ	_	_	4	mark	_	Translit=az
@@ -43775,8 +43775,8 @@
 13	.	_	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = 2913
-# text = צום צו דעם בײַשפּיל, דער שלמזדיקער מנחם־מענדל, אַ לופֿטמענטש און אַן אַװאַנטוריס, אָדער אונדזער טײַערער טבֿיה דער מילכיקער װאָס איז באַקאַנט איבער דער װעלט אַ דאַנק דעם מוזיק־פֿילם "פֿידלער אױפֿן אױף דעם דאַך".
-# translit = tsum tsu dem bayshpil, der shalmazdiker minakhm-mendl, a luftmentsh un an avanturis, oder undzer tayerer tviye der milkhiker vos iz bakant iber der velt a dank dem muzik-film "fidler oyfn oyf dem dakh".
+# text = צום בײַשפּיל, דער שלמזדיקער מנחם־מענדל, אַ לופֿטמענטש און אַן אַװאַנטוריס, אָדער אונדזער טײַערער טבֿיה דער מילכיקער װאָס איז באַקאַנט איבער דער װעלט אַ דאַנק דעם מוזיק־פֿילם "פֿידלער אױפֿן דאַך".
+# translit = tsum bayshpil, der shalmazdiker minakhm-mendl, a luftmentsh un an avanturis, oder undzer tayerer tviye der milkhiker vos iz bakant iber der velt a dank dem muzik-film "fidler oyfn dakh".
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -43846,8 +43846,8 @@
 20	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2915
-# text = די װערק פֿון שלום־עליכמען זענען אַ פּאַנאָראַמע פֿונעם פֿון דעם ייִדישן לעבן אינעם אין דעם סוף פֿונעם פֿון דעם 19טן און אָנהײב פֿונעם פֿון דעם 20טן יאָרהונדערט.
-# translit = di verk fun sholem-elikhmen zenen a panorame funem fun dem yidishn lebn inem in dem sof funem fun dem tan un onhayb funem fun dem tan yorhundert.
+# text = די װערק פֿון שלום־עליכמען זענען אַ פּאַנאָראַמע פֿונעם ייִדישן לעבן אינעם סוף פֿונעם 19טן און אָנהײב פֿונעם 20טן יאָרהונדערט.
+# translit = di verk fun sholem-elikhmen zenen a panorame funem yidishn lebn inem sof funem tan un onhayb funem tan yorhundert.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 1	די	_	DET	_	_	2	det	_	Translit=di
@@ -44023,8 +44023,8 @@
 18	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2922
-# text = שלום־עליכם פֿאַרשטײט די װעלט זײער טיף און זעט װיפֿל בײזס איז דאָ אומעטום, אָבער ער קלײבט אױס צו װײַזן טרױעריקע געשעענישן פֿונעם פֿון דעם קאָמישן קוקװינקל.
-# translit = sholem-aleykhem farshtayt di velt zayer tif un zet vifl beyzs iz do umetum, ober er klaybt oys tsu vayzn troyerike gesheenishn funem fun dem komishn kukvinkl.
+# text = שלום־עליכם פֿאַרשטײט די װעלט זײער טיף און זעט װיפֿל בײזס איז דאָ אומעטום, אָבער ער קלײבט אױס צו װײַזן טרױעריקע געשעענישן פֿונעם קאָמישן קוקװינקל.
+# translit = sholem-aleykhem farshtayt di velt zayer tif un zet vifl beyzs iz do umetum, ober er klaybt oys tsu vayzn troyerike gesheenishn funem komishn kukvinkl.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	2	nsubj	_	Translit=sholem-aleykhem
@@ -44289,8 +44289,8 @@
 6	?	_	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = 2937
-# text = זײַט אַ גאַסט אױפֿן אױף דעם פּאָדקאַסט!
-# translit = zayt a gast oyfn oyf dem podkast!
+# text = זײַט אַ גאַסט אױפֿן פּאָדקאַסט!
+# translit = zayt a gast oyfn podkast!
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1	זײַט	_	AUX	_	_	3	cop	_	Translit=zayt
@@ -44338,8 +44338,8 @@
 6	.	_	PUNCT	_	_	1	punct	_	Translit=.
 
 # sent_id = 2940
-# text = און אַז איר זײַט אַ לערנער קען איך אײַך העלפֿן מיטן מיט דעם סקריפּט.
-# translit = un az ir zayt a lerner ken ikh aykh helfn mitn mit dem skript.
+# text = און אַז איר זײַט אַ לערנער קען איך אײַך העלפֿן מיטן סקריפּט.
+# translit = un az ir zayt a lerner ken ikh aykh helfn mitn skript.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1	און	_	CCONJ	_	_	10	cc	_	Translit=un
@@ -44417,8 +44417,8 @@
 18	.	_	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = 2944
-# text = איך האָף אַז ס'װעט עס װעט אײַך אינטערעסירן.
-# translit = ikh hof az s'vet es vet aykh interesirn.
+# text = איך האָף אַז ס'װעט אײַך אינטערעסירן.
+# translit = ikh hof az s'vet aykh interesirn.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -44485,8 +44485,8 @@
 13	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2948
-# text = פֿון דעם קומט די "הגדה של פּסח" - דער טעקסט װאָס מע לײענט בײַם בײַ דעם סדר.
-# translit = fun dem kumt di "hagode shel peysekh" - der tekst vos me leyent baym bay dem seyder.
+# text = פֿון דעם קומט די "הגדה של פּסח" - דער טעקסט װאָס מע לײענט בײַם סדר.
+# translit = fun dem kumt di "hagode shel peysekh" - der tekst vos me leyent baym seyder.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1	פֿון	_	ADP	_	_	2	case	_	Translit=fun
@@ -44511,8 +44511,8 @@
 19	.	_	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = 2949
-# text = ס'איז עס איז זײער װיכטיק אַז יעדער אײנער זאָל פֿאַרשטײן די הגדה.
-# translit = s'iz es iz zayer vikhtik az yeder eyner zol farshtayn di hagode.
+# text = ס'איז זײער װיכטיק אַז יעדער אײנער זאָל פֿאַרשטײן די הגדה.
+# translit = s'iz zayer vikhtik az yeder eyner zol farshtayn di hagode.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
@@ -44845,8 +44845,8 @@
 20	.	_	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = 2962
-# text = מען האָט אַפֿולו געשריבן אַ סך נײַע ייִדישע לידער צום צו דעם סדר.
-# translit = men hot afule geshribn a sakh naye yidishe lider tsum tsu dem seyder.
+# text = מען האָט אַפֿולו געשריבן אַ סך נײַע ייִדישע לידער צום סדר.
+# translit = men hot afule geshribn a sakh naye yidishe lider tsum seyder.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1	מען	_	PRON	_	_	4	nsubj	_	Translit=men
@@ -44916,8 +44916,8 @@
 8	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 2966
-# text = בײַם בײַ דעם סדר גיסט מען אָן פֿאַר אים אַ כּוס װײַן און מע לאָזט אָפֿן אַ טיר ער זאָל קענען אַרײַנקומען.
-# translit = baym bay dem seyder gist men on far im a kos vayn un me lozt ofn a tir er zol kenen araynkumen.
+# text = בײַם סדר גיסט מען אָן פֿאַר אים אַ כּוס װײַן און מע לאָזט אָפֿן אַ טיר ער זאָל קענען אַרײַנקומען.
+# translit = baym seyder gist men on far im a kos vayn un me lozt ofn a tir er zol kenen araynkumen.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 1-2	בײַם	_	_	_	_	_	_	_	Translit=baym
@@ -45378,8 +45378,8 @@
 9	.	_	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = 2989
-# text = "האָט "האָט איר זופּ?"
-# translit = hot "hot ir zup?"
+# text = "האָט איר זופּ?"
+# translit = hot ir zup?"
 # rtl = yes
 # source = Proste Yiddish, Season 1: Episode 3 - Shavuot and an Old Joke
 1-2	"האָט	_	_	_	_	_	_	_	Translit=hot
@@ -45391,8 +45391,8 @@
 6	"	"	PUNCT	_	_	2	punct	_	Translit="
 
 # sent_id = 2990
-# text = "אַװדאי" זאָגט דער קעלנער, "מיר "מיר האָבן אַ טאָמאַטן זופּ, לאָקשן זופּ און קנײדלעך זופּ."
-# translit = "avade" zogt der kelner, mir "mir hobn a tomatn zup, lokshn zup un knaydlekh zup."
+# text = "אַװדאי" זאָגט דער קעלנער, "מיר האָבן אַ טאָמאַטן זופּ, לאָקשן זופּ און קנײדלעך זופּ."
+# translit = "avade" zogt der kelner, mir hobn a tomatn zup, lokshn zup un knaydlekh zup."
 # rtl = yes
 # source = Proste Yiddish, Season 1: Episode 3 - Shavuot and an Old Joke
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="
@@ -45724,8 +45724,8 @@
 4	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 3013
-# text = דאָ בײַם בײַ דעם פּאָדקאַסט האָבן מיר געהאַט אַ קלײנעם איבערײַס, אַ חפֿסקה, אָבער מײן נישט אַז איך האָב נישט געאַרבעט.
-# translit = do baym bay dem podkast hobn mir gehat a klaynem iberays, a khafsoke, ober meyn nisht az ikh hob nisht gearbet.
+# text = דאָ בײַם פּאָדקאַסט האָבן מיר געהאַט אַ קלײנעם איבערײַס, אַ חפֿסקה, אָבער מײן נישט אַז איך האָב נישט געאַרבעט.
+# translit = do baym podkast hobn mir gehat a klaynem iberays, a khafsoke, ober meyn nisht az ikh hob nisht gearbet.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1	דאָ	_	ADV	_	_	7	advmod	_	Translit=do
@@ -45887,8 +45887,8 @@
 6	?	_	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = 3021
-# text = לאָמיר לאָז מיר הערן אַ ביסל ייִדיש, פּראָסטע ייִדיש!
-# translit = lomir loz mir hern a bisl yidish, proste yidish!
+# text = לאָמיר הערן אַ ביסל ייִדיש, פּראָסטע ייִדיש!
+# translit = lomir hern a bisl yidish, proste yidish!
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
@@ -45970,8 +45970,8 @@
 8	.	_	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = 3026
-# text = איך װײס, ס'איז עס איז נישט גוט אַז אַ קאַץ זאָל זײַן אין דרױסן - בעסער אַז זײ בלײַבן אין שטוב.
-# translit = ikh vays, s'iz es iz nisht gut az a kats zol zayn in droysn - beser az zey blaybn in shtub.
+# text = איך װײס, ס'איז נישט גוט אַז אַ קאַץ זאָל זײַן אין דרױסן - בעסער אַז זײ בלײַבן אין שטוב.
+# translit = ikh vays, s'iz nisht gut az a kats zol zayn in droysn - beser az zey blaybn in shtub.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1	איך	_	PRON	_	_	2	nsubj	_	Translit=ikh
@@ -46120,8 +46120,8 @@
 18	.	_	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = 3033
-# text = לאָמיר לאָז מיר כאַפּן אַ שמועס וועגן דער געשיכטע פֿון מאַמע־לשון און אירע דיאַלעקטן.
-# translit = lomir loz mir khapn a shmues vegn der geshikhte fun mame-loshn un ire dyalektn.
+# text = לאָמיר כאַפּן אַ שמועס וועגן דער געשיכטע פֿון מאַמע־לשון און אירע דיאַלעקטן.
+# translit = lomir khapn a shmues vegn der geshikhte fun mame-loshn un ire dyalektn.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
@@ -46182,8 +46182,8 @@
 9	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 3037
-# text = צום צו דעם ערשטנס איז יידיש אַ צענטראַל אייראָפּישע שפּראַך וואָס איז אַ מיטגלידער פֿון די גערמאַנישע שפּראַכן משפּחה און נעמט זיך פֿון מיטל־הויכן דײַטש -- נישט הײַנטציקע דײַטש.
-# translit = tsum tsu dem ershtns iz yidish a tsentral eyropishe shprakh vos iz a mitglider fun di germanishe shprakhn mishpokhe un nemt zikh fun mitl-hoykhn daytsh -- nisht haynttsike daytsh.
+# text = צום ערשטנס איז יידיש אַ צענטראַל אייראָפּישע שפּראַך וואָס איז אַ מיטגלידער פֿון די גערמאַנישע שפּראַכן משפּחה און נעמט זיך פֿון מיטל־הויכן דײַטש -- נישט הײַנטציקע דײַטש.
+# translit = tsum ershtns iz yidish a tsentral eyropishe shprakh vos iz a mitglider fun di germanishe shprakhn mishpokhe un nemt zikh fun mitl-hoykhn daytsh -- nisht haynttsike daytsh.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
@@ -46501,8 +46501,8 @@
 3	?	_	PUNCT	_	_	2	punct	_	Translit=?
 
 # sent_id = 3050
-# text = אױפֿן אױפֿ דעם פּאָדקאַסט הערן מיר אַ סך ייִװאָ ייִדיש אָדער כּלל שפּראַך.
-# translit = oyfn oyf dem podkast hern mir a sakh yivo yidish oder klal shprakh.
+# text = אױפֿן פּאָדקאַסט הערן מיר אַ סך ייִװאָ ייִדיש אָדער כּלל שפּראַך.
+# translit = oyfn podkast hern mir a sakh yivo yidish oder klal shprakh.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1-2	אױפֿן	_	_	_	_	_	_	_	Translit=oyfn
@@ -46521,8 +46521,8 @@
 13	.	_	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = 3051
-# text = אָבער דער דיאַלעקט וואָס מען רעדט אַם אַן דעם מערסטנס איז חסידיש/אונגאַריש ייִדיש!
-# translit = ober der dyalekt vos men redt am an dem merstns iz khosidish/ungarish yidish!
+# text = אָבער דער דיאַלעקט וואָס מען רעדט אַם מערסטנס איז חסידיש/אונגאַריש ייִדיש!
+# translit = ober der dyalekt vos men redt am merstns iz khosidish/ungarish yidish!
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1	אָבער	_	CCONJ	_	_	14	cc	_	Translit=ober
@@ -46543,8 +46543,8 @@
 15	!	_	PUNCT	_	_	14	punct	_	Translit=!
 
 # sent_id = 3052
-# text = אַז איר זײַט פֿאַרינטעריסירט אין דיאַלעקטן, גיט אַ קוק אינעם אין דעם טראַנסקריפּט און איר קענט זעען מער װעגן די חילוקים.
-# translit = az ir zayt farinterisirt in dyalektn, git a kuk inem in dem transkript un ir kent zeen mer vegn di khilekem.
+# text = אַז איר זײַט פֿאַרינטעריסירט אין דיאַלעקטן, גיט אַ קוק אינעם טראַנסקריפּט און איר קענט זעען מער װעגן די חילוקים.
+# translit = az ir zayt farinterisirt in dyalektn, git a kuk inem transkript un ir kent zeen mer vegn di khilekem.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 1	אַז	_	SCONJ	_	_	4	mark	_	Translit=az
