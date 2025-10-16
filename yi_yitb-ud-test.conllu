@@ -2911,14 +2911,14 @@
 1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
 2	ווילסט	וועלן	AUX	_	_	3	aux	_	Translit=vilst|Translit_Lemma=veln
 3	פונדען	פֿונד	VERB	_	_	0	root	_	Translit=funden|Translit_Lemma=fund
-4	א	אַ	DET	_	_	5	det	_	Translit|Translit_Lemma=a
+4	א	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	מענטש	מענטשן	NOUN	_	_	3	obj	_	Translit=mentsh|Translit_Lemma=mentshn
 6	וואס	וואס	PRON	_	_	8	nsubj	_	Translit=vos|Translit_Lemma=vos
 7	איז	זײַן	AUX	_	_	8	cop	_	Translit=iz|Translit_Lemma=zayn
 8	קלוג	קלוג	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No|Translit=klug|Translit_Lemma=klug
 9	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 10	האט	האָבן	VERB	_	_	8	conj	_	Translit=hat|Translit_Lemma=hobn
-11	א	אַ	DET	_	_	13	det	_	Translit|Translit_Lemma=a
+11	א	אַ	DET	_	_	13	det	_	Translit=a|Translit_Lemma=a
 12	גוטן	גוט	ADJ	_	_	13	amod	_	Translit=gutn|Translit_Lemma=gut
 13	געצאלט	צאַלן	NOUN	_	_	10	obj	_	SpaceAfter=No|Translit=getsalt|Translit_Lemma=tsaln
 14	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
@@ -2927,7 +2927,7 @@
 17	,	,	PUNCT	_	_	19	punct	_	Translit=,|Translit_Lemma=,
 18	און	און	CCONJ	_	_	19	cc	_	Translit=un|Translit_Lemma=un
 19	האט	האָבן	VERB	_	_	8	conj	_	Translit=hat|Translit_Lemma=hobn
-20	א	אַ	DET	_	_	22	det	_	Translit|Translit_Lemma=a
+20	א	אַ	DET	_	_	22	det	_	Translit=a|Translit_Lemma=a
 21	גוטן	גוט	ADJ	_	_	22	amod	_	Translit=gutn|Translit_Lemma=gut
 22	פערסאנאליטעט	פֿערסאנאליטעט	NOUN	_	_	19	obj	_	SpaceAfter=No|Translit=fersanelitet|Translit_Lemma=fersanelitet
 23	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
@@ -8221,7 +8221,7 @@
 11	ווי	ווי	ADV	_	_	13	advmod	_	Translit=vi|Translit_Lemma=vi
 12	צו	צו	PART	_	_	13	mark	_	Translit=tsu|Translit_Lemma=tsu
 13	פארן	פֿאָרן	VERB	_	_	10	xcomp	_	Translit=frn|Translit_Lemma=forn
-14	א	אַ	DET	_	_	15	det	_	Translit|Translit_Lemma=a
+14	א	אַ	DET	_	_	15	det	_	Translit=a|Translit_Lemma=a
 15	ביציקל	ביציקל	NOUN	_	_	13	obj	_	SpaceAfter=No|Translit=bitsikl|Translit_Lemma=bitsikl
 16	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
@@ -15177,12 +15177,12 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner
-1	א	אַ	DET	_	_	2	det	_	Translit|Translit_Lemma=a
+1	א	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	מענטש	מענטשן	NOUN	_	_	5	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
 3	ווילט	וועלן	AUX	_	_	5	aux	_	Translit=vilt|Translit_Lemma=veln
 4	מיר	מיר	PRON	_	_	5	obl:arg	_	Translit=mir|Translit_Lemma=mir
 5	שיקן	שיקן	VERB	_	_	0	root	_	Translit=shikn|Translit_Lemma=shikn
-6	א	אַ	DET	_	_	7	det	_	Translit|Translit_Lemma=a
+6	א	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	ידיעה	ידיעה	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=yedie|Translit_Lemma=yedie
 8	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
@@ -18854,7 +18854,7 @@
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וועל	האָבן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=hobn
 3	קויפן	קויפֿן	VERB	_	_	0	root	_	Translit=koyfn|Translit_Lemma=koyfn
-4	א	אַ	DET	_	_	5	det	_	Translit|Translit_Lemma=a
+4	א	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	נייע	נייען	ADJ	_	_	3	obj	_	SpaceAfter=No|Translit=neye|Translit_Lemma=neyen
 6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -26195,7 +26195,7 @@
 3	צו	צו	ADP	_	_	4	case	_	Translit=tsu|Translit_Lemma=tsu
 4	דיר	דו	PRON	_	_	2	obl	_	Translit=dir|Translit_Lemma=du
 5	ווי	ווי	SCONJ	_	_	7	case	_	Translit=vi|Translit_Lemma=vi
-6	א	אַ	DET	_	_	7	det	_	Translit|Translit_Lemma=a
+6	א	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	חבר	חבר	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=khaber|Translit_Lemma=khaber
 8	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
 
@@ -28194,7 +28194,7 @@
 14	עס	עס	PRON	_	_	16	expl	_	Translit=es|Translit_Lemma=es
 15	איז	זײַן	AUX	_	_	16	cop	_	Translit=iz|Translit_Lemma=zayn
 16	דא	דא	ADV	_	_	12	ccomp	_	Translit=do|Translit_Lemma=do
-17	א	אַ	DET	_	_	18	det	_	Translit|Translit_Lemma=a
+17	א	אַ	DET	_	_	18	det	_	Translit=a|Translit_Lemma=a
 18	תולעת	תולעת	NOUN	_	_	16	nsubj	_	Translit=tules|Translit_Lemma=tules
 19	אריין	אריין	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=areyn|Translit_Lemma=areyn
 20	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
@@ -28381,7 +28381,7 @@
 7	אז	אז	SCONJ	_	_	12	mark	_	Translit=az|Translit_Lemma=az
 8	זי	זי	PRON	_	_	12	nsubj	_	Translit=zi|Translit_Lemma=zi
 9	איז	זײַן	AUX	_	_	12	cop	_	Translit=iz|Translit_Lemma=zayn
-10	א	אַ	DET	_	_	12	det	_	Translit|Translit_Lemma=a
+10	א	אַ	DET	_	_	12	det	_	Translit=a|Translit_Lemma=a
 11	שיינע	שיין	ADJ	_	_	12	amod	_	Translit=sheyne|Translit_Lemma=sheyn
 12	פרוי	פֿרוי	NOUN	_	_	6	ccomp	_	SpaceAfter=No|Translit=proy|Translit_Lemma=froy
 13	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -29190,7 +29190,7 @@
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	בין	AUX	_	_	5	cop	_	Translit=bin|Translit_Lemma=bin
 3	אזוי	אזוי	ADV	_	_	5	advmod	_	Translit=azoy|Translit_Lemma=azoy
-4	א	אַ	DET	_	_	5	det	_	Translit|Translit_Lemma=a
+4	א	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	קלאץ	קלאָץ	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=klats|Translit_Lemma=klots
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
@@ -38614,7 +38614,7 @@
 7	געווארן	ווערן	AUX	_	_	6	aux:pass	_	Translit=gevarn|Translit_Lemma=vern
 8	אויף	אויף	ADP	_	_	9	case	_	Translit=oyf|Translit_Lemma=oyf
 9	וואס	וואס	PRON	_	_	6	obl	_	Translit=vos|Translit_Lemma=vos
-10	א	אַ	DET	_	_	11	det	_	Translit|Translit_Lemma=a
+10	א	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
 11	שפראך	שפּראך	NOUN	_	_	13	nsubj:pass	_	Translit=shprakh|Translit_Lemma=shprekh
 12	ווערט	ווערט	AUX	_	_	13	aux:pass	_	Translit=vert|Translit_Lemma=vert
 13	באנוצט	באנוצן	VERB	_	_	9	acl:relcl	_	SpaceAfter=No|Translit=banutst|Translit_Lemma=banutsn
@@ -38650,7 +38650,7 @@
 43	איר	איר	PRON	_	_	44	obl:arg	_	Translit=ir|Translit_Lemma=ir
 44	אהערגעשטעלט	אהערשטעלן	VERB	_	_	38	conj	_	Translit=hergeshtelt|Translit_Lemma=hershteln
 45	ווי	ווי	SCONJ	_	_	48	case	_	Translit=vi|Translit_Lemma=vi
-46	א	אַ	DET	_	_	48	det	_	Translit|Translit_Lemma=a
+46	א	אַ	DET	_	_	48	det	_	Translit=a|Translit_Lemma=a
 47	גערעדטע	גערעדטע	ADJ	_	_	48	amod	_	Translit=geredte|Translit_Lemma=geredte
 48	שפראך	שפּראך	NOUN	_	_	44	obl	_	Translit=shprakh|Translit_Lemma=shprekh
 49	פאר	פאר	ADP	_	_	50	case	_	Translit=far|Translit_Lemma=far
@@ -38674,7 +38674,7 @@
 4	אנגעהויבן	אנגייבן	VERB	_	_	0	root	_	Translit=angehoybn|Translit_Lemma=angeybn
 5	דינען	דינען	VERB	_	_	4	xcomp	_	Translit=dinen|Translit_Lemma=dinen
 6	ווי	ווי	SCONJ	_	_	9	case	_	Translit=vi|Translit_Lemma=vi
-7	א	אַ	DET	_	_	9	det	_	Translit|Translit_Lemma=a
+7	א	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
 8	גערעדטע	גערעדטע	VERB	_	_	9	amod	_	Translit=geredte|Translit_Lemma=geredte
 9	שפראך	שפּראך	NOUN	_	_	5	obl	_	Translit=shprakh|Translit_Lemma=shprekh
 10	ביי	ביי	ADP	_	_	12	case	_	Translit=bey|Translit_Lemma=bey
@@ -38798,7 +38798,7 @@
 18	-	-	PUNCT	_	_	29	punct	_	Translit=-|Translit_Lemma=-
 19	ווען	ווען	ADV	_	_	29	advmod	_	Translit=ven|Translit_Lemma=ven
 20	פֿאַר	פֿאַר	ADP	_	_	22	case	_	Translit=far|Translit_Lemma=far
-21	א	אַ	DET	_	_	22	det	_	Translit|Translit_Lemma=a
+21	א	אַ	DET	_	_	22	det	_	Translit=a|Translit_Lemma=a
 22	העלפֿט	העלפֿן	NOUN	_	_	29	obl	_	Translit=helft|Translit_Lemma=helfn
 23	פֿון	פֿון	ADP	_	_	24	case	_	Translit=fun|Translit_Lemma=fun
 24	זיי	זיי	PRON	_	_	22	nmod	_	Translit=zey|Translit_Lemma=zey
@@ -38985,7 +38985,7 @@
 48	באטראכט	באַטראַכטן	VERB	_	_	27	advcl:relcl	_	Translit=batrakht|Translit_Lemma=batrakhtn
 49	אידיש	אידיש	PROPN	_	_	48	nsubj:pass	_	Translit=idish|Translit_Lemma=idish
 50	אלס	אלס	ADP	_	_	52	case	_	Translit=els|Translit_Lemma=els
-51	א	אַ	DET	_	_	52	det	_	Translit|Translit_Lemma=a
+51	א	אַ	DET	_	_	52	det	_	Translit=a|Translit_Lemma=a
 52	מיטל	מיטל	NOUN	_	_	48	obl	_	Translit=mitl|Translit_Lemma=mitl
 53	זיך	זיך	PRON	_	_	54	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 54	אפטיילן	אפּטייל	VERB	_	_	52	acl	_	Translit=apteyln|Translit_Lemma=ipteyl
@@ -39010,7 +39010,7 @@
 5	יידיש	ײדיש	PROPN	_	_	11	nsubj	_	Translit=yidish|Translit_Lemma=yadish
 6	געווען	געווען	AUX	_	_	11	cop	_	Translit=geven|Translit_Lemma=geven
 7	זייער	זייער	ADV	_	_	11	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
-8	א	אַ	DET	_	_	11	det	_	Translit|Translit_Lemma=a
+8	א	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
 9	רייכע	רייכע	ADJ	_	_	11	amod	_	Translit=reykhe|Translit_Lemma=reykhe
 10	טאָג־טעגלעכע	טאָג־טעגלעך	NOUN	_	_	11	amod	_	Translit=tog-teglekhe|Translit_Lemma=tog-teglekh
 11	שפראך	שפּראך	NOUN	_	_	0	root	_	Translit=shprakh|Translit_Lemma=shprekh
@@ -39073,10 +39073,10 @@
 6	איז	זײַן	AUX	_	_	10	aux	_	Translit=iz|Translit_Lemma=zayn
 7	לאנגע	לאנג	ADJ	_	_	8	amod	_	Translit=lange|Translit_Lemma=lang
 8	יארן	יארן	NOUN	_	_	10	obl:unmarked	_	Translit=yarn|Translit_Lemma=yarn
-9	געווען	געווען	AUX	_	_	10	aux:pass	_	Translit=geven|Translit_Lemma=geven
-10	פֿאַרבאָטן	פֿאַרבאָטן	VERB	_	_	0	root	_	Translit=farbotn|Translit_Lemma=farbotn
+9	געווען	געווען	AUX	_	_	10	aux	_	Translit=geven|Translit_Lemma=geven
+10	פֿאַרבאָטן	פֿאַרבאָטן	ADJ	_	_	0	root	_	Translit=farbotn|Translit_Lemma=farbotn
 11	צו	צו	PART	_	_	12	mark	_	Translit=tsu|Translit_Lemma=tsu
-12	שפּילן	שפּיל	VERB	_	_	10	csubj:pass	_	Translit=shpiln|Translit_Lemma=shpil
+12	שפּילן	שפּיל	VERB	_	_	10	csubj	_	Translit=shpiln|Translit_Lemma=shpil
 13	אין	אין	ADP	_	_	14	case	_	Translit=in|Translit_Lemma=in
 14	טעאַטער	טעאַטער	NOUN	_	_	12	obl	_	Translit=teater|Translit_Lemma=teater
 15	אױף	אױף	ADP	_	_	16	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -39190,7 +39190,7 @@
 # rtl = yes
 # source = Wikipedia
 # genre = wiki
-1	א	אַ	DET	_	_	4	det	_	Translit|Translit_Lemma=a
+1	א	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 2	סך	סך	PART	_	_	1	fixed	_	Translit=sakh|Translit_Lemma=sakh
 3	ייִדיש	ײִדישן	PROPN	_	_	4	compound	_	Translit=yidish|Translit_Lemma=yidishn
 4	רעדערס	רעדער	NOUN	_	_	11	nsubj	_	Translit=reders|Translit_Lemma=reder
@@ -44155,11 +44155,11 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
+1	װער	װער	PRON	_	_	9	nsubj:pass	_	Translit=ver|Translit_Lemma=ver
 2-3	ס'װעט	_	_	_	_	_	_	_	Translit=s'vet
-2	עס	עס	PRON	_	_	4	nsubj:resump	_	Translit=es|Translit_Lemma=es
+2	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
 3	װעט	וועט	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=vet
-4	קומען	קומען	VERB	_	_	9	csubj:pass	_	Translit=kumen|Translit_Lemma=kumen
+4	קומען	קומען	VERB	_	_	1	acl:relcl	_	Translit=kumen|Translit_Lemma=kumen
 5	צוריק	צוריק	ADV	_	_	4	compound:prt	_	SpaceAfter=No|Translit=tsurik|Translit_Lemma=tsurik
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
 7	װעט	וועט	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=vet
@@ -49634,3 +49634,4 @@
 10	קומענדיקן	קומען	ADJ	_	_	11	amod	_	Translit=kumendikn|Translit_Lemma=kumen
 11	עפּיזאָד	עפּיזאָד	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=epizod|Translit_Lemma=epizod
 12	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
