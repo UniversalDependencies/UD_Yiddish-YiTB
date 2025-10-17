@@ -11571,7 +11571,7 @@
 # genre = grammar-examples/learner
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
 2	ייִד	ייִד	NOUN	_	_	7	nsubj:pass	_	Translit=yid|Translit_Lemma=yid
-3	וואָס	וואָס	PRON	_	_	4	obj	_	Translit=vos|Translit_Lemma=vos
+3	וואָס	וואָס	PRON	_	_	4	nsubj	_	Translit=vos|Translit_Lemma=vos
 4	קריטיקירט	קריטיקירן	VERB	_	_	2	acl:relcl	_	Translit=kritikirt|Translit_Lemma=kritikirn
 5	ציוניזם	ציוניזם	PROPN	_	_	4	obj	_	Translit=tsienizm|Translit_Lemma=tsienizm
 6	ווערט	ווערט	AUX	_	_	7	aux:pass	_	Translit=vert|Translit_Lemma=vert
@@ -19496,7 +19496,7 @@
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	הויפּטשטאָט	הויפּטשטאָט	NOUN	_	_	6	nsubj	_	Translit=hoyptshtot|Translit_Lemma=hoyptshtot
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
-4	איראַק	איראַק	PROPN	_	_	2	obl	_	Translit=irak|Translit_Lemma=irak
+4	איראַק	איראַק	PROPN	_	_	2	nmod	_	Translit=irak|Translit_Lemma=irak
 5	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
 6	באַגדאַד	באַגדאַד	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=bagdad|Translit_Lemma=bagdad
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -29104,7 +29104,7 @@
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וועל	האָבן	AUX	_	_	5	aux	_	Translit=vel|Translit_Lemma=hobn
 3	עס	עס	PRON	_	_	5	obj	_	Translit=es|Translit_Lemma=es
-4	מסביר	מסביר זײַן	ADJ	_	_	5	compound:lvc	_	Translit=masber|Translit_Lemma=masber zayn
+4	מסביר	מסביר	ADJ	_	_	5	compound:lvc	_	Translit=masber|Translit_Lemma=masber
 5	זײַן	זײַן	VERB	_	_	0	root	_	Translit=zayn|Translit_Lemma=zayn
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
 7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
@@ -33768,7 +33768,7 @@
 3	דראַװידישע	דראַווידיש	ADJ	_	_	4	amod	_	Translit=dravidishe|Translit_Lemma=dravidish
 4	שפּראַכן	שפּראַך	NOUN	_	_	5	obl	_	Translit=shprakhn|Translit_Lemma=shprakh
 5	האָבן	האָבן	VERB	_	_	0	root	_	Translit=hobn|Translit_Lemma=hobn
-6	טעלוגו	טעלוגו	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=telugu|Translit_Lemma=telugu
+6	טעלוגו	טעלוגו	PROPN	_	_	5	nsubj	_	SpaceAfter=No|Translit=telugu|Translit_Lemma=telugu
 7	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
 8	טאַמיל	טאַמיל	PROPN	_	_	6	conj	_	SpaceAfter=No|Translit=tamil|Translit_Lemma=tamil
 9	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
@@ -35137,7 +35137,7 @@
 3	געזאָגט	זאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 4	:	:	PUNCT	_	_	8	punct	_	Translit=:|Translit_Lemma=:
 5	װער	װער	PRON	_	_	8	nsubj	_	Translit=ver|Translit_Lemma=ver
-6	האָט	האָבן	AUX	_	_	8	obj	_	Translit=hot|Translit_Lemma=hobn
+6	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
 7	דיך	דו	PRON	_	_	8	obj	_	Translit=dikh|Translit_Lemma=du
 8	געמאַכט	מאַכן	VERB	_	_	3	ccomp	_	Translit=gemakht|Translit_Lemma=makhn
 9	פֿאַר	פֿאַר	ADP	_	_	11	case	_	Translit=far|Translit_Lemma=far
@@ -36113,7 +36113,7 @@
 18	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
 19	זאָלט	זאָלן	AUX	_	_	24	aux	_	Translit=zolt|Translit_Lemma=zoln
 20	איר	איר	PRON	_	_	24	nsubj	_	Translit=ir|Translit_Lemma=ir
-21	אים	עס	PRON	_	_	24	obj:resump	_	Translit=im|Translit_Lemma=es
+21	אים	עס	PRON	_	_	14	obj:resump	_	Translit=im|Translit_Lemma=es
 22	אין	אין	ADP	_	_	23	case	_	Translit=in|Translit_Lemma=in
 23	טײַך	טײַך	NOUN	_	_	24	obl	_	Translit=taykh|Translit_Lemma=taykh
 24	אַרײַנװאַרפֿן	אַרײַנוואַרפֿן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=araynvarfn|Translit_Lemma=araynvarfn
@@ -49155,7 +49155,7 @@
 2	מיר	מיר	PRON	_	_	1	obj	_	Translit=mir|Translit_Lemma=mir
 3	כאַפּן	כאַפּן	VERB	_	_	1	xcomp	_	Translit=khapn|Translit_Lemma=khapn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
-5	שמועס	שמועס	NOUN	_	_	1	obj	_	Translit=shmues|Translit_Lemma=shmues
+5	שמועס	שמועס	NOUN	_	_	3	obj	_	Translit=shmues|Translit_Lemma=shmues
 6	וועגן	וועגן	ADP	_	_	8	case	_	Translit=vegn|Translit_Lemma=vegn
 7	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
 8	געשיכטע	געשיכט	NOUN	_	_	5	nmod	_	Translit=geshikhte|Translit_Lemma=geshikht
