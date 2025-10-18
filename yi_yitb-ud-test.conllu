@@ -2397,7 +2397,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	האב	האַב	AUX	_	_	4	aux	_	Translit=hab|Translit_Lemma=hab
+2	האב	האָבן	AUX	_	_	4	aux	_	Translit=hab|Translit_Lemma=hobn
 3	איר	איר	PRON	_	_	4	obj	_	Translit=ir|Translit_Lemma=ir
 4	געזען	זען	VERB	_	_	0	root	_	Translit=gezen|Translit_Lemma=zen
 5	נאכאמאל	נאכאמאל	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=nakhamol|Translit_Lemma=nakhamol
@@ -8579,7 +8579,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	האב	האַב	AUX	_	_	4	aux	_	Translit=hab|Translit_Lemma=hab
+2	האב	האָבן	AUX	_	_	4	aux	_	Translit=hab|Translit_Lemma=hobn
 3	געדארפט	דאָרפֿן	AUX	_	_	4	aux	_	Translit=gedarft|Translit_Lemma=dorfn
 4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
 5	טאם	טאָם	PROPN	_	_	4	obl:arg	_	Translit=tom|Translit_Lemma=tom
@@ -17626,7 +17626,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	האבן	האַבן	AUX	_	_	3	aux	_	Translit=habn|Translit_Lemma=habn
+2	האבן	האָבן	AUX	_	_	3	aux	_	Translit=habn|Translit_Lemma=hobn
 3	באשלאסן	באשליסן	VERB	_	_	0	root	_	Translit=bashlosn|Translit_Lemma=ba(n)shlisn
 4	צו	צו	PART	_	_	5	mark	_	Translit=tsu|Translit_Lemma=tsu
 5	בלייבן	בלייב	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=bleybn|Translit_Lemma=bleyb
@@ -26179,7 +26179,7 @@
 4	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 5	פארוואס	פארוואס	SCONJ	_	_	7	mark	_	Translit=farvos|Translit_Lemma=farvos
 6	זיי	זיי	PRON	_	_	7	nsubj	_	Translit=zey|Translit_Lemma=zey
-7	האבן	האַבן	VERB	_	_	2	advcl	_	Translit=habn|Translit_Lemma=habn
+7	האבן	האָבן	VERB	_	_	2	advcl	_	Translit=habn|Translit_Lemma=hobn
 8	קורצע	קורץ	ADJ	_	_	9	amod	_	Translit=kurtse|Translit_Lemma=kurts
 9	פליגלעך	פֿליגל	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=fliglekh|Translit_Lemma=fligl
 10	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -28178,7 +28178,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	האב	האַב	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hab
+2	האב	האָבן	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hobn
 3	געגעסן	געגעסן	VERB	_	_	0	root	_	Translit=gegesn|Translit_Lemma=gegesn
 4	האלב	האַלב	NOUN	_	_	3	obj	_	Translit=halb|Translit_Lemma=halb
 5-6	פונעם	_	_	_	_	_	_	_	Translit=funem
@@ -28188,7 +28188,7 @@
 8	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
 9	פאר	פאר	SCONJ	_	_	12	mark	_	Translit=far|Translit_Lemma=far
 10	איך	איך	PRON	_	_	12	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-11	האב	האַב	AUX	_	_	12	aux	_	Translit=hab|Translit_Lemma=hab
+11	האב	האָבן	AUX	_	_	12	aux	_	Translit=hab|Translit_Lemma=hobn
 12	געזען	זען	VERB	_	_	3	advcl	_	Translit=gezen|Translit_Lemma=zen
 13	אז	אז	SCONJ	_	_	16	mark	_	Translit=az|Translit_Lemma=az
 14	עס	עס	PRON	_	_	16	expl	_	Translit=es|Translit_Lemma=es
@@ -32918,7 +32918,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	האב	האַב	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hab
+2	האב	האָבן	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hobn
 3	געזעהן	געזעהן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezehn|Translit_Lemma=gezehn
 4	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
 5	אז	אז	SCONJ	_	_	12	mark	_	Translit=az|Translit_Lemma=az
@@ -33246,7 +33246,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	האב	האַב	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hab
+2	האב	האָבן	AUX	_	_	3	aux	_	Translit=hab|Translit_Lemma=hobn
 3	געוואוסט	וואוסטן	VERB	_	_	0	root	_	Translit=gevust|Translit_Lemma=vustn
 4	אז	אז	SCONJ	_	_	9	mark	_	Translit=az|Translit_Lemma=az
 5	עס	עס	PRON	_	_	9	nsubj	_	Translit=es|Translit_Lemma=es
@@ -38721,7 +38721,7 @@
 10	יאר	יארן	NOUN	_	_	7	nmod	_	Translit=yor|Translit_Lemma=yarn
 11	הונדערט	_	NUM	_	_	10	compound	_	SpaceAfter=No|Translit=hundert
 12	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
-13	האבן	האַבן	AUX	_	_	15	aux	_	Translit=habn|Translit_Lemma=habn
+13	האבן	האָבן	AUX	_	_	15	aux	_	Translit=habn|Translit_Lemma=hobn
 14	יידן	ײדן	PROPN	_	_	15	nsubj	_	Translit=yidn|Translit_Lemma=yadn
 15	פארדייטשט	פֿרדייטשן	VERB	_	_	0	root	_	Translit=fardeytsht|Translit_Lemma=frdeytshn
 16	זייער	זייער	DET	_	_	17	det:poss	_	Translit=zeyer|Translit_Lemma=zeyer
@@ -38739,7 +38739,7 @@
 28	אין	אין	ADP	_	_	30	case	_	Translit=in|Translit_Lemma=in
 29	מזרח	מזרח	NOUN	_	_	30	compound	_	Translit=mizrekh|Translit_Lemma=mizrekh
 30	אייראפע	אײראף	PROPN	_	_	33	obl	_	Translit=eyrefe|Translit_Lemma=eyref
-31	האבן	האַבן	AUX	_	_	33	aux	_	Translit=habn|Translit_Lemma=habn
+31	האבן	האָבן	AUX	_	_	33	aux	_	Translit=habn|Translit_Lemma=hobn
 32	יידן	ײדן	PROPN	_	_	33	nsubj	_	Translit=yidn|Translit_Lemma=yadn
 33	פארגעזעצט	פֿרזעצן	VERB	_	_	15	conj	_	Translit=fargezetst|Translit_Lemma=frzetsn
 34	זיך	זיך	PRON	_	_	35	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -38903,7 +38903,7 @@
 17	וועלט	וועלט	NOUN	_	_	16	nmod:unmarked	_	Translit=velt|Translit_Lemma=velt
 18	ווי	ווי	SCONJ	_	_	19	case	_	Translit=vi|Translit_Lemma=vi
 19	דייטש	דײטשן	PROPN	_	_	16	nmod	_	Translit=deytsh|Translit_Lemma=deytshn
-20	האבן	האַבן	AUX	_	_	22	aux	_	Translit=habn|Translit_Lemma=habn
+20	האבן	האָבן	AUX	_	_	22	aux	_	Translit=habn|Translit_Lemma=hobn
 21	נישט	נישט	PART	_	_	22	advmod	_	Translit=nisht|Translit_Lemma=nisht
 22	גערעדט	רעדן	VERB	_	_	11	ccomp	_	Translit=geredt|Translit_Lemma=redn
 23	די	דער	DET	_	_	25	det	_	Translit=di|Translit_Lemma=der
@@ -39270,7 +39270,7 @@
 7	זעקסיעריקע	זעקסיעריק	ADJ	_	_	9	amod	_	SpaceAfter=No|Translit=zeksyerike|Translit_Lemma=zeksyerik
 8	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 9	מײדעלע	מײַדל	NOUN	_	_	1	appos	_	Translit=meydele|Translit_Lemma=maydl
-10	קאָן	קאָן	AUX	_	_	14	aux	_	Translit=kon|Translit_Lemma=kon
+10	קאָן	קענען	AUX	_	_	14	aux	_	Translit=kon|Translit_Lemma=kenen
 11	הײַנט	הײַנט	NOUN	_	_	14	obl:unmarked	_	Translit=haynt|Translit_Lemma=haynt
 12	גאָר	גאָר	ADV	_	_	13	advmod	_	Translit=gor|Translit_Lemma=gor
 13	נישט	נישט	PART	_	_	14	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -39580,7 +39580,7 @@
 28	שפּראַך	שפּראַך	NOUN	_	_	20	conj	_	Translit=shprakh|Translit_Lemma=shprakh
 29	און	און	CCONJ	_	_	35	cc	_	Translit=un|Translit_Lemma=un
 30	צי	צי	SCONJ	_	_	35	mark	_	Translit=tsi|Translit_Lemma=tsi
-31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	cop	_	Translit=darfn|Translit_Lemma=darfn
+31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	aux	_	Translit=darfn|Translit_Lemma=darfn
 32	מיר	מיר	PRON	_	_	35	nsubj	_	Translit=mir|Translit_Lemma=mir
 33	אפֿשר	אפֿשר	ADV	_	_	35	advmod	_	Translit=efsher|Translit_Lemma=efsher
 34	גאָר	גאָר	ADV	_	_	35	advmod	_	Translit=gor|Translit_Lemma=gor
@@ -39874,8 +39874,8 @@
 22	אַנדער	_	DET	_	_	23	det	_	Translit=ander
 23	אומה	אומה	NOUN	_	_	9	obl	_	Translit=ume|Translit_Lemma=ume
 24	דורך	דורך	ADP	_	_	26	case	_	Translit=durkh|Translit_Lemma=durkh
-25	איר	אירן	DET	_	_	26	det:poss	_	Translit=ir|Translit_Lemma=irn
-26	שפּראַך	שפּראַך	NOUN	_	_	23	obl	_	SpaceAfter=No|Translit=shprakh|Translit_Lemma=shprakh
+25	איר	איר	DET	_	_	26	det:poss	_	Translit=ir|Translit_Lemma=ir
+26	שפּראַך	שפּראַך	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=shprakh|Translit_Lemma=shprakh
 27	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 28	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
 29	האָט	האָבן	AUX	_	_	31	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -40425,7 +40425,7 @@
 # genre = fiction
 1	—	—	PUNCT	_	_	6	punct	_	Translit=—|Translit_Lemma=—
 2	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-3	קאָן	קאָן	AUX	_	_	6	aux	_	Translit=kon|Translit_Lemma=kon
+3	קאָן	קענען	AUX	_	_	6	aux	_	Translit=kon|Translit_Lemma=kenen
 4	מער	מער	ADV	_	_	6	advmod	_	Translit=mer|Translit_Lemma=mer
 5	ניט	ניט	PART	_	_	6	advmod	_	Translit=nit|Translit_Lemma=nit
 6	שפּילן	שפּיל	VERB	_	_	12	ccomp	_	SpaceAfter=No|Translit=shpiln|Translit_Lemma=shpil
@@ -46044,12 +46044,12 @@
 
 # sent_id = 2886
 # text = תּהילים זאָלֹ זײַן אַ רפֿואה װאָלט מען עס געקױפֿט אין דער אַפּטײק.
-# translit = tehilem zolo zayn a refue volt men es gekoyft in der aptayk.
+# translit = tehilem zol zayn a refue volt men es gekoyft in der aptayk.
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
 1	תּהילים	תּהיל	PROPN	_	_	5	nsubj	_	Translit=tehilem|Translit_Lemma=tohl
-2	זאָלֹ	זאָלאָ	AUX	_	_	5	aux	_	Translit=zolo|Translit_Lemma=zolo
+2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	רפֿואה	רפֿואה	NOUN	_	_	9	advcl	_	Translit=refue|Translit_Lemma=refue
