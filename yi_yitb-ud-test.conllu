@@ -26992,11 +26992,11 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner
-1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
-2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
-3	געוואָרן	װערן	AUX	_	_	4	cop	_	Translit=gevorn|Translit_Lemma=vern
-4	מיד	מיד	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=mid|Translit_Lemma=mid
-5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
+3	געוואָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
+4	מיד	מיד	ADJ	_	_	3	xcomp	_	SpaceAfter=No|Translit=mid|Translit_Lemma=mid
+5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 1937
 # text = מײַן ציל איז זיך צו לערנען ענגליש און פֿראַנצײזיש.
@@ -28784,7 +28784,7 @@
 9	גיין	גיין	VERB	_	_	0	root	_	Translit=geyn|Translit_Lemma=geyn
 10-11	צום	_	_	_	_	_	_	_	Translit=tsum
 10	צו	צו	ADP	_	_	12	case	_	Translit=tsu|Translit_Lemma=tsu
-11	דעם	דער	DET	_	_	12	case	_	Translit=dem|Translit_Lemma=der
+11	דעם	דער	DET	_	_	12	det	_	Translit=dem|Translit_Lemma=der
 12	דאָקטער	דאָקטער	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=dokter|Translit_Lemma=dokter
 13	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
 
@@ -32301,15 +32301,15 @@
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 2321
-# text = דאָס וואָס איז מײנס איז דײַנס.
-# translit = dos vos iz meyns iz dayns.
+# text = דאָס וואָס איז מײַנס איז דײַנס.
+# translit = dos vos iz mayns iz dayns.
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	דאָס	דער	DET	_	_	6	nsubj	_	Translit=dos|Translit_Lemma=der
 2	וואָס	וואָס	PRON	_	_	4	nsubj	_	Translit=vos|Translit_Lemma=vos
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
-4	מײַנס	מײַן	DET	_	_	1	acl:relcl	_	Translit=meyns|Translit_Lemma=mayn
+4	מײַנס	מײַן	DET	_	_	1	acl:relcl	_	Translit=mayns|Translit_Lemma=mayn
 5	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
 6	דײַנס	דײַן	DET	_	_	0	root	_	SpaceAfter=No|Translit=dayns|Translit_Lemma=dayn
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -33691,8 +33691,8 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	ווער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
-2	וועל	װעלן	AUX	_	_	4	cop	_	Translit=vel|Translit_Lemma=veln
-3	זיין	זײַן	DET	_	_	4	det	_	Translit=zeyn|Translit_Lemma=zayn
+2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+3	זיין	זײַן	AUX	_	_	4	cop	_	Translit=zeyn|Translit_Lemma=zayn
 4	שומר	שומר	NOUN	_	_	0	root	_	Translit=shoymer|Translit_Lemma=shoymer
 5	אויף	אויף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
 6	דיין	_	DET	_	_	7	det	_	Translit=dayen
@@ -35164,7 +35164,7 @@
 3	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 4	מיך	איך	PRON	_	_	6	obj	_	Translit=mikh|Translit_Lemma=ikh
 5	צו	צו	PART	_	_	6	mark	_	Translit=tsu|Translit_Lemma=tsu
-6	הרגען	הרגענען	VERB	_	_	4	xcomp	_	SpaceAfter=No|Translit=hargen|Translit_Lemma=hargenen
+6	הרגען	הרגענען	VERB	_	_	2	xcomp	_	SpaceAfter=No|Translit=hargen|Translit_Lemma=hargenen
 7	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
 8	אַזױ	אַזױ	ADV	_	_	12	advmod	_	Translit=azoy|Translit_Lemma=azoy
 9	װי	װי	SCONJ	_	_	12	mark	_	Translit=vi|Translit_Lemma=vi
@@ -37215,7 +37215,7 @@
 10	שלאָגן	שלאָגן	VERB	_	_	3	conj	_	Translit=shlogn|Translit_Lemma=shlogn
 11	מִצרַיִם	מיצראַיִם	PROPN	_	_	10	obj	_	Translit=mitsraim|Translit_Lemma=mitsraim
 12	מיט	מיט	ADP	_	_	15	case	_	Translit=mit|Translit_Lemma=mit
-13	אַלע	_	DET	_	_	15	det:predet	_	Translit=ale
+13	אַלע	_	DET	_	_	15	det	_	Translit=ale
 14	מײַנע	מײַנע	DET	_	_	15	det:poss	_	Translit=mayne|Translit_Lemma=mayne
 15	װוּנדער	וווּנדער	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=vunder|Translit_Lemma=vunder
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
@@ -37891,11 +37891,11 @@
 3	צו	צו	ADP	_	_	6	case	_	Translit=tsu|Translit_Lemma=tsu
 4	{	{	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
 5	dn	_	X	_	_	6	dep	_	Translit=דן
-6	גאָט	גאָט	PROPN	_	_	2	obl	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
+6	גאָט	גאָט	PROPN	_	_	1	obl	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 7	}	}	PUNCT	_	_	6	punct	_	Translit=}|Translit_Lemma=}
 8	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
 9	דײַן	דײַן	DET	_	_	10	det:poss	_	Translit=dayn|Translit_Lemma=dayn
-10	גוטס	גוט	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=guts|Translit_Lemma=gut
+10	גוטס	גוט	NOUN	_	_	2	nmod	_	SpaceAfter=No|Translit=guts|Translit_Lemma=gut
 11	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
 12	און	און	CCONJ	_	_	15	cc	_	Translit=un|Translit_Lemma=un
 13-14	פֿונעם	_	_	_	_	_	_	_	Translit=funem
@@ -37903,7 +37903,7 @@
 14	דעם	דער	DET	_	_	15	det	_	Translit=dem|Translit_Lemma=der
 15	ערשטן	ערשט	ADJ	_	_	10	conj	_	Translit=ershtn|Translit_Lemma=ersht
 16	פֿון	פֿון	ADP	_	_	19	case	_	Translit=fun|Translit_Lemma=fun
-17	אַל	_	DET	_	_	19	det:predet	_	Translit=al
+17	אַל	_	DET	_	_	19	det	_	Translit=al
 18	דײַן	דײַן	DET	_	_	19	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 19	תּבֿואה	תּבֿואה	NOUN	_	_	15	nmod	_	SpaceAfter=No|Translit=tvue|Translit_Lemma=tvue
 20	,	,	PUNCT	_	_	25	punct	_	Translit=,|Translit_Lemma=,
@@ -38047,7 +38047,7 @@
 5	פּערל	פּערל	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=perl|Translit_Lemma=perl
 6	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 7	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-8	אַלע	_	DET	_	_	13	det:predet	_	Translit=ale
+8	אַלע	_	DET	_	_	13	det	_	Translit=ale
 9	דײַנע	דײַן	DET	_	_	13	det:poss	_	Translit=dayne|Translit_Lemma=dayn
 10	חפֿצים	חפֿץ	NOUN	_	_	13	nsubj	_	Translit=khiftsim|Translit_Lemma=kheyfets
 11	זײַנען	זײַן	AUX	_	_	13	cop	_	Translit=zaynen|Translit_Lemma=zayn
@@ -38092,7 +38092,7 @@
 6	ליבלעכקײט	ליבלעכקײַט	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=liblekhkeyt|Translit_Lemma=liblekhkayt
 7	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 8	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-9	אַלע	_	DET	_	_	11	det:predet	_	Translit=ale
+9	אַלע	_	DET	_	_	11	det	_	Translit=ale
 10	אירע	אירע	DET	_	_	11	det:poss	_	Translit=ire|Translit_Lemma=ire
 11	שטעגן	שטעגן	NOUN	_	_	13	nsubj	_	Translit=shtegn|Translit_Lemma=shtegn
 12	זײַנען	זײַן	AUX	_	_	13	cop	_	Translit=zaynen|Translit_Lemma=zayn
@@ -38152,7 +38152,7 @@
 15	די	דער	DET	_	_	16	det	_	Translit=di|Translit_Lemma=der
 16	הימלען	הימל	NOUN	_	_	14	obj	_	Translit=himlen|Translit_Lemma=himl
 17	מיט	מיט	ADP	_	_	18	case	_	Translit=mit|Translit_Lemma=mit
-18	פֿאַרשטאַנדיקײט	פֿאַרשטאַנדיקײַט	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=farshtandikeyt|Translit_Lemma=farshtandikayt
+18	פֿאַרשטאַנדיקײט	פֿאַרשטאַנדיקײַט	NOUN	_	_	14	obl	_	SpaceAfter=No|Translit=farshtandikeyt|Translit_Lemma=farshtandikayt
 19	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 2549
@@ -38780,7 +38780,7 @@
 # genre = wiki
 1	הײַנט	הײַנט	NOUN	_	_	4	obl:unmarked	_	Translit=haynt|Translit_Lemma=haynt
 2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
-3	טאָג	טאָג	NOUN	_	_	1	obl	_	Translit=tog|Translit_Lemma=tog
+3	טאָג	טאָג	NOUN	_	_	1	nmod	_	Translit=tog|Translit_Lemma=tog
 4	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
 5	יידיש	ײדיש	PROPN	_	_	4	obj	_	Translit=yidish|Translit_Lemma=yadish
 6	אַרום	אַרום	ADV	_	_	4	advmod	_	Translit=arum|Translit_Lemma=arum
@@ -39420,7 +39420,7 @@
 11	סימן	סימען	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=simen|Translit_Lemma=simen
 12	:	:	PUNCT	_	_	14	punct	_	Translit=:|Translit_Lemma=:
 13	אָן	אָן	ADV	_	_	14	advmod	_	Translit=on|Translit_Lemma=on
-14	שטײט	שטײַדן	VERB	_	_	7	parataxis	_	Translit=shteyt|Translit_Lemma=shtaydn
+14	שטײט	שטײן	VERB	_	_	7	parataxis	_	Translit=shteyt|Translit_Lemma=shteyn
 15	דאָך	דאָך	ADV	_	_	14	advmod	_	Translit=dokh|Translit_Lemma=dokh
 16	יאָכע	יאָך	PROPN	_	_	14	nsubj	_	Translit=yokhe|Translit_Lemma=yokh
 17	די	דער	DET	_	_	18	det	_	Translit=di|Translit_Lemma=der
@@ -39580,7 +39580,7 @@
 28	שפּראַך	שפּראַך	NOUN	_	_	20	conj	_	Translit=shprakh|Translit_Lemma=shprakh
 29	און	און	CCONJ	_	_	35	cc	_	Translit=un|Translit_Lemma=un
 30	צי	צי	SCONJ	_	_	35	mark	_	Translit=tsi|Translit_Lemma=tsi
-31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	cop	_	Translit=darfn|Translit_Lemma=darfn
+31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	aux	_	Translit=darfn|Translit_Lemma=darfn
 32	מיר	מיר	PRON	_	_	35	nsubj	_	Translit=mir|Translit_Lemma=mir
 33	אפֿשר	אפֿשר	ADV	_	_	35	advmod	_	Translit=efsher|Translit_Lemma=efsher
 34	גאָר	גאָר	ADV	_	_	35	advmod	_	Translit=gor|Translit_Lemma=gor
@@ -40381,7 +40381,7 @@
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זײַנען	זײַן	AUX	_	_	3	aux	_	Translit=zaynen|Translit_Lemma=zayn
 3	געשטאַנען	שטיין	VERB	_	_	0	root	_	Translit=geshtanen|Translit_Lemma=shteyn
-4	בײַ	בײַ	ADP	_	_	8	obl	_	Translit=bay|Translit_Lemma=bay
+4	בײַ	בײַ	ADP	_	_	8	case	_	Translit=bay|Translit_Lemma=bay
 5	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
 6	קליינעם	קליין	ADJ	_	_	8	amod	_	Translit=kleynem|Translit_Lemma=kleyn
 7	אָרעמען	אָרעם	ADJ	_	_	8	amod	_	Translit=oremen|Translit_Lemma=orem
@@ -46712,7 +46712,7 @@
 24	איבער	איבער	ADP	_	_	26	case	_	Translit=iber|Translit_Lemma=iber
 25	דער	דער	DET	_	_	26	det	_	Translit=der|Translit_Lemma=der
 26	װעלט	וועלט	NOUN	_	_	23	obl	_	Translit=velt|Translit_Lemma=velt
-27	אַ	אַ	DET	_	_	30	case	_	Translit=a|Translit_Lemma=a
+27	אַ	אַ	DET	_	ExtPos=ADP	30	case	_	Translit=a|Translit_Lemma=a
 28	דאַנק	דאַנק	NOUN	_	_	27	fixed	_	Translit=dank|Translit_Lemma=dank
 29	דעם	דער	DET	_	_	30	det	_	Translit=dem|Translit_Lemma=der
 30	מוזיק־פֿילם	מוזיק־פֿילם	NOUN	_	_	23	obl	_	Translit=muzik-film|Translit_Lemma=muzik-film
@@ -47390,7 +47390,7 @@
 # genre = spoken, web
 1	װי	װי	SCONJ	_	_	3	mark	_	Translit=vi|Translit_Lemma=vi
 2	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
-3	שטײט	שטײַדן	AUX	_	_	0	root	_	Translit=shteyt|Translit_Lemma=shtaydn
+3	שטײט	שטײן	VERB	_	_	0	root	_	Translit=shteyt|Translit_Lemma=shteyn
 4	געשריבן	שרײַבן	VERB	_	_	3	xcomp	_	Translit=geshribn|Translit_Lemma=shraybn
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
 6	תּנך	תּנך	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=tanekh|Translit_Lemma=tanekh
@@ -47706,10 +47706,10 @@
 11	באַזונדערן	באַזונדער	ADJ	_	_	12	amod	_	Translit=bazundern|Translit_Lemma=bazunder
 12	סדר	סדרן	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=seyder|Translit_Lemma=sadern
 13	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
-14	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
-15	גאַנצן	גאַנץ	NOUN	_	_	17	obl	_	Translit=gantsn|Translit_Lemma=gants
+14	אין	אין	ADP	_	_	17	advmod	_	Translit=in|Translit_Lemma=in
+15	גאַנצן	גאַנץ	ADJ	_	_	14	fixed	_	Translit=gantsn|Translit_Lemma=gants
 16	אױף	אױף	ADP	_	_	17	case	_	Translit=oyf|Translit_Lemma=oyf
-17	ייִדיש	ײִדישן	PROPN	_	_	12	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+17	ייִדיש	ײִדישן	PROPN	_	_	9	obl	_	Translit=yidish|Translit_Lemma=yidishn
 18	װאָס	װאָס	PRON	_	_	19	nsubj	_	Translit=vos|Translit_Lemma=vos
 19	הײסט	הײַסן	VERB	_	_	12	acl:relcl	_	Translit=heyst|Translit_Lemma=haysn
 20	דער	דער	DET	_	_	22	det	_	Translit=der|Translit_Lemma=der
@@ -48054,7 +48054,7 @@
 25	ראַטעװעט	ראַטעווען	VERB	_	_	15	conj	_	Translit=ratevet|Translit_Lemma=rateven
 26	ייִדן	ייִד	NOUN	_	_	25	obj	_	Translit=yidn|Translit_Lemma=yid
 27	אין	אין	ADP	_	_	28	case	_	Translit=in|Translit_Lemma=in
-28	נױט	נױט	NOUN	_	_	26	obl	_	SpaceAfter=No|Translit=noyt|Translit_Lemma=noyt
+28	נױט	נױט	NOUN	_	_	26	nmod	_	SpaceAfter=No|Translit=noyt|Translit_Lemma=noyt
 29	.	.	PUNCT	_	_	12	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 2973
@@ -48364,7 +48364,6 @@
 # rtl = yes
 # source = Proste Yiddish, Season 1: Episode 3 - Shavuot and an Old Joke
 # genre = spoken, web
-1-2	"האָט	_	_	_	_	_	_	_	Translit=hot
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 2	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -48385,7 +48384,6 @@
 5	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
 6	קעלנער	קעלנער	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=kelner|Translit_Lemma=kelner
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
-8-9	"מיר	_	_	_	_	_	_	_	Translit=mir
 8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 9	מיר	מיר	PRON	_	_	10	nsubj	_	Translit=mir|Translit_Lemma=mir
 10	האָבן	האָבן	VERB	_	_	0	root	_	Translit=hobn|Translit_Lemma=hobn
@@ -48792,7 +48790,7 @@
 1	דאָס	דער	DET	_	_	2	nsubj	_	Translit=dos|Translit_Lemma=der
 2	הײסט	הײַסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=haysn
 3	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
-4	אַלע	_	DET	_	_	6	det:predet	_	Translit=ale
+4	אַלע	_	DET	_	_	6	det	_	Translit=ale
 5	דרײַסיק	_	NUM	_	_	6	nummod	_	Translit=draysik
 6	עפּיזאָדן	עפּיזאָד	NOUN	_	_	17	nsubj	_	Translit=epizodn|Translit_Lemma=epizod
 7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
