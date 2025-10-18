@@ -8216,7 +8216,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 7	ווען	ווען	SCONJ	_	_	10	mark	_	Translit=ven|Translit_Lemma=ven
 8	דו	דו	PRON	_	_	10	nsubj	_	Translit=du|Translit_Lemma=du
-9	האסט	האַסן	AUX	_	_	10	aux	_	Translit=hast|Translit_Lemma=hasn
+9	האסט	האָבן	AUX	_	_	10	aux	_	Translit=hast|Translit_Lemma=hobn
 10	געלערנט	לערנען	VERB	_	_	2	advcl	_	Translit=gelernt|Translit_Lemma=lernen
 11	ווי	ווי	ADV	_	_	13	advmod	_	Translit=vi|Translit_Lemma=vi
 12	צו	צו	PART	_	_	13	mark	_	Translit=tsu|Translit_Lemma=tsu
@@ -8580,7 +8580,7 @@
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האב	האָבן	AUX	_	_	4	aux	_	Translit=hab|Translit_Lemma=hobn
-3	געדארפט	דאָרפֿן	AUX	_	_	4	aux	_	Translit=gedarft|Translit_Lemma=dorfn
+3	געדארפט	דאַרפֿן	AUX	_	_	4	aux	_	Translit=gedarft|Translit_Lemma=darfn
 4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
 5	טאם	טאָם	PROPN	_	_	4	obl:arg	_	Translit=tom|Translit_Lemma=tom
 6	צייט	צייטן	NOUN	_	_	4	obj	_	Translit=tseyt|Translit_Lemma=tseytn
@@ -19017,7 +19017,7 @@
 4	איר	איר	PRON	_	_	7	nsubj	_	Translit=ir|Translit_Lemma=ir
 5	זאָלט	זאָלן	AUX	_	_	7	aux	_	Translit=zolt|Translit_Lemma=zoln
 6	ביידע	ביידע	ADV	_	_	7	advmod	_	Translit=beyde|Translit_Lemma=beyde
-7	קריגן	קריג	AUX	_	_	2	ccomp	_	Translit=krign|Translit_Lemma=krig
+7	קריגן	קריגן	VERB	_	_	2	ccomp	_	Translit=krign|Translit_Lemma=krign
 8	וואָס	וואָס	PRON	_	_	10	obj	_	Translit=vos|Translit_Lemma=vos
 9	איר	איר	PRON	_	_	10	nsubj	_	Translit=ir|Translit_Lemma=ir
 10	ווילט	וועלן	VERB	_	_	7	ccomp	_	SpaceAfter=No|Translit=vilt|Translit_Lemma=veln
@@ -23534,7 +23534,7 @@
 # genre = grammar-examples/learner
 1	דאָס	דער	DET	_	_	5	nsubj	_	Translit=dos|Translit_Lemma=der
 2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
-3	זייַן	זייַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
+3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	שפּיל	שפּילן	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=shpil|Translit_Lemma=shpiln
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -39580,7 +39580,7 @@
 28	שפּראַך	שפּראַך	NOUN	_	_	20	conj	_	Translit=shprakh|Translit_Lemma=shprakh
 29	און	און	CCONJ	_	_	35	cc	_	Translit=un|Translit_Lemma=un
 30	צי	צי	SCONJ	_	_	35	mark	_	Translit=tsi|Translit_Lemma=tsi
-31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	aux	_	Translit=darfn|Translit_Lemma=darfn
+31	דאַרפֿן	דאַרפֿן	AUX	_	_	35	cop	_	Translit=darfn|Translit_Lemma=darfn
 32	מיר	מיר	PRON	_	_	35	nsubj	_	Translit=mir|Translit_Lemma=mir
 33	אפֿשר	אפֿשר	ADV	_	_	35	advmod	_	Translit=efsher|Translit_Lemma=efsher
 34	גאָר	גאָר	ADV	_	_	35	advmod	_	Translit=gor|Translit_Lemma=gor
@@ -39874,8 +39874,8 @@
 22	אַנדער	_	DET	_	_	23	det	_	Translit=ander
 23	אומה	אומה	NOUN	_	_	9	obl	_	Translit=ume|Translit_Lemma=ume
 24	דורך	דורך	ADP	_	_	26	case	_	Translit=durkh|Translit_Lemma=durkh
-25	איר	איר	DET	_	_	26	det:poss	_	Translit=ir|Translit_Lemma=ir
-26	שפּראַך	שפּראַך	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=shprakh|Translit_Lemma=shprakh
+25	איר	אירן	DET	_	_	26	det:poss	_	Translit=ir|Translit_Lemma=irn
+26	שפּראַך	שפּראַך	NOUN	_	_	23	obl	_	SpaceAfter=No|Translit=shprakh|Translit_Lemma=shprakh
 27	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 28	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
 29	האָט	האָבן	AUX	_	_	31	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -46044,12 +46044,12 @@
 
 # sent_id = 2886
 # text = תּהילים זאָלֹ זײַן אַ רפֿואה װאָלט מען עס געקױפֿט אין דער אַפּטײק.
-# translit = tehilem zol zayn a refue volt men es gekoyft in der aptayk.
+# translit = tehilem zolo zayn a refue volt men es gekoyft in der aptayk.
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
 1	תּהילים	תּהיל	PROPN	_	_	5	nsubj	_	Translit=tehilem|Translit_Lemma=tohl
-2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
+2	זאָלֹ	זאָלאָ	AUX	_	_	5	aux	_	Translit=zolo|Translit_Lemma=zolo
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	רפֿואה	רפֿואה	NOUN	_	_	9	advcl	_	Translit=refue|Translit_Lemma=refue
