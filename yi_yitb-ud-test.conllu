@@ -46712,7 +46712,7 @@
 24	איבער	איבער	ADP	_	_	26	case	_	Translit=iber|Translit_Lemma=iber
 25	דער	דער	DET	_	_	26	det	_	Translit=der|Translit_Lemma=der
 26	װעלט	וועלט	NOUN	_	_	23	obl	_	Translit=velt|Translit_Lemma=velt
-27	אַ	אַ	DET	_	ExtPos=ADP	30	case	_	Translit=a|Translit_Lemma=a
+27	אַ	אַ	DET	_	_	30	case	_	Translit=a|Translit_Lemma=a
 28	דאַנק	דאַנק	NOUN	_	_	27	fixed	_	Translit=dank|Translit_Lemma=dank
 29	דעם	דער	DET	_	_	30	det	_	Translit=dem|Translit_Lemma=der
 30	מוזיק־פֿילם	מוזיק־פֿילם	NOUN	_	_	23	obl	_	Translit=muzik-film|Translit_Lemma=muzik-film
