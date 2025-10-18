@@ -1916,7 +1916,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זי	זי	PRON	_	_	6	nsubj	_	Translit=zi|Translit_Lemma=zi
-2	וועט	װעלן	AUX	_	_	6	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	6	aux	_	Translit=vet|Translit_Lemma=veln
 3	אים	עס	PRON	_	_	6	obj	_	Translit=im|Translit_Lemma=es
 4	הײַנט	הײַנט	ADV	_	_	5	advmod	_	Translit=haynt|Translit_Lemma=haynt
 5	אָוונט	אָוונט	NOUN	_	_	6	obl:unmarked	_	Translit=ovnt|Translit_Lemma=ovnt
@@ -2696,7 +2696,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	גאָרנישט	גאָרנישט	PRON	_	_	3	nsubj	_	Translit=gornisht|Translit_Lemma=gornisht
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	העלפֿן	העלפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=helfn|Translit_Lemma=helfn
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -5532,7 +5532,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זײ	זײ	PRON	_	_	5	nsubj	_	Translit=zey|Translit_Lemma=zey
-2	װעלן	װעלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
+2	װעלן	וועלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	זײער	זײער	ADV	_	_	5	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
 5	צופֿרידן	צופֿרידן	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=tsufridn|Translit_Lemma=tsufridn
@@ -5592,7 +5592,7 @@
 # genre = grammar-examples/learner
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	מעדיקאַמענט	מעדיקאַמענט	NOUN	_	_	5	nsubj	_	Translit=medikament|Translit_Lemma=medikament
-3	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+3	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 4	דיר	דו	PRON	_	_	5	obl:arg	_	Translit=dir|Translit_Lemma=du
 5	העלפֿן	העלפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=helfn|Translit_Lemma=helfn
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -5605,7 +5605,7 @@
 # genre = grammar-examples/learner
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	מעדיקאַמענט	מעדיקאַמענט	NOUN	_	_	5	nsubj	_	Translit=medikament|Translit_Lemma=medikament
-3	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+3	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 4	אײַך	איר	PRON	_	_	5	obl:arg	_	Translit=aykh|Translit_Lemma=ir
 5	העלפֿן	העלפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=helfn|Translit_Lemma=helfn
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -7504,7 +7504,7 @@
 3	גיך	גיך	ADJ	_	_	1	advmod	_	SpaceAfter=No|Translit=gikh|Translit_Lemma=gikh
 4	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 5-6	וועסטו	_	_	_	_	_	_	_	Translit=vestu
-5	וועסט	האָבן	AUX	_	_	8	aux	_	Translit=vest|Translit_Lemma=hobn
+5	וועסט	וועלן	AUX	_	_	8	aux	_	Translit=vest|Translit_Lemma=veln
 6	דו	דו	PRON	_	_	8	nsubj	_	Translit=du|Translit_Lemma=du
 7	נישט	נישט	PART	_	_	8	advmod	_	Translit=nisht|Translit_Lemma=nisht
 8	צערײַסן	צערײַסן	VERB	_	_	0	root	_	Translit=tseraysn|Translit_Lemma=tseraysn
@@ -7578,7 +7578,7 @@
 5	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 6	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
 7	עפּעס	עפּעס	PRON	_	_	10	nsubj	_	Translit=epes|Translit_Lemma=epes
-8	וועט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+8	וועט	וועלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 9	דיר	דו	PRON	_	_	10	obl:arg	_	Translit=dir|Translit_Lemma=du
 10	געשען	געשען	VERB	_	_	4	ccomp	_	SpaceAfter=No|Translit=geshen|Translit_Lemma=geshen
 11	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -8793,13 +8793,13 @@
 # genre = grammar-examples/learner
 1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2-3	וועסטו	_	_	_	_	_	_	_	Translit=vestu
-2	וועסט	האָבן	AUX	_	_	4	aux	_	Translit=vest|Translit_Lemma=hobn
+2	וועסט	וועלן	AUX	_	_	4	aux	_	Translit=vest|Translit_Lemma=veln
 3	דו	דו	PRON	_	_	4	nsubj	_	Translit=du|Translit_Lemma=du
 4	צוזאָגן	צוזאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=tsuzogn|Translit_Lemma=tsuzogn
 5	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 6	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
 7	דו	דו	PRON	_	_	10	nsubj	_	Translit=du|Translit_Lemma=du
-8	וועסט	האָבן	AUX	_	_	10	aux	_	Translit=vest|Translit_Lemma=hobn
+8	וועסט	וועלן	AUX	_	_	10	aux	_	Translit=vest|Translit_Lemma=veln
 9	זיך	זיך	PRON	_	_	10	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 10	באַטראַכטן	באַטראַכטן	VERB	_	_	4	ccomp	_	Translit=batrakhtn|Translit_Lemma=batrakhtn
 11	וועגן	וועגן	ADP	_	_	13	case	_	Translit=vegn|Translit_Lemma=vegn
@@ -9388,7 +9388,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	קומען	קומען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kumen|Translit_Lemma=kumen
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -9606,7 +9606,7 @@
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וואָלט	וואָלן	AUX	_	_	6	aux	_	Translit=volt|Translit_Lemma=voln
-3	וועלן	האָבן	AUX	_	_	6	aux	_	Translit=veln|Translit_Lemma=hobn
+3	וועלן	וועלן	AUX	_	_	6	aux	_	Translit=veln|Translit_Lemma=veln
 4	זײַן	זײַן	AUX	_	_	6	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
 6	באָסטאָן	באָסטאָן	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=boston|Translit_Lemma=boston
@@ -10256,7 +10256,7 @@
 # genre = grammar-examples/learner
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 3	איר	איר	PRON	_	_	4	obl:arg	_	Translit=ir|Translit_Lemma=ir
 4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
 5	עטלעכע	_	DET	_	_	6	det	_	Translit=etlekhe
@@ -10319,7 +10319,7 @@
 # genre = grammar-examples/learner
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 3	טרינקען	טרינקען	VERB	_	_	0	root	_	Translit=trinken|Translit_Lemma=trinken
 4	וואַסער	וואַסער	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=vaser|Translit_Lemma=vaser
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
@@ -11638,7 +11638,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
-2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	איראַן	איראַן	PROPN	_	_	4	nsubj	_	Translit=iran|Translit_Lemma=iran
 4	אָנפֿאַלן	אָנפֿאַל	VERB	_	_	0	root	_	Translit=onfaln|Translit_Lemma=onfal
 5	אויף	אויף	ADP	_	_	6	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -15028,12 +15028,12 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	עס	עס	PRON	_	_	4	obj	_	Translit=es|Translit_Lemma=es
 4	טאָן	טאָן	VERB	_	_	0	root	_	Translit=ton|Translit_Lemma=ton
 5	ווען	ווען	SCONJ	_	_	8	mark	_	Translit=ven|Translit_Lemma=ven
 6	טאָם	טאָם	PROPN	_	_	8	nsubj	_	Translit=tom|Translit_Lemma=tom
-7	וועט	װעלן	AUX	_	_	8	aux	_	Translit=vet|Translit_Lemma=veln
+7	וועט	וועלן	AUX	_	_	8	aux	_	Translit=vet|Translit_Lemma=veln
 8	אַוועקגיין	אַוועקגיין	VERB	_	_	4	advcl	_	SpaceAfter=No|Translit=avekgeyn|Translit_Lemma=avekgeyn
 9	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
@@ -15492,7 +15492,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
-2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	4	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	מיד	מיד	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=mid|Translit_Lemma=mid
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -17359,7 +17359,7 @@
 # genre = grammar-examples/learner
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	5	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	5	aux	_	Translit=vel|Translit_Lemma=veln
 3	אײַך	איר	PRON	_	_	5	obl:arg	_	Translit=aykh|Translit_Lemma=ir
 4	תּמיד	תּמיד	ADV	_	_	5	advmod	_	Translit=tomed|Translit_Lemma=tomed
 5	זאָגן	זאָגן	VERB	_	_	0	root	_	Translit=zogn|Translit_Lemma=zogn
@@ -17415,7 +17415,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	דאָ	דאָ	ADV	_	_	4	advmod	_	Translit=do|Translit_Lemma=do
 4	עסן	עסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=esn|Translit_Lemma=esn
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -18253,7 +18253,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	אָפּהאַלטן	אָפּהאַלטן	VERB	_	_	0	root	_	Translit=ophaltn|Translit_Lemma=ophaltn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	נצחון	נצחון	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=nitsokhn|Translit_Lemma=nitsokhn
@@ -18412,7 +18412,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איר	איר	PRON	_	_	3	nsubj:pass	_	Translit=ir|Translit_Lemma=ir
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	פֿאַרחידושט	פֿאַרחידושט	VERB	_	_	0	root	_	Translit=farkhidesht|Translit_Lemma=farkhidesht
 4	ווערן	ווערן	AUX	_	_	3	aux:pass	_	SpaceAfter=No|Translit=vern|Translit_Lemma=vern
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
@@ -18502,7 +18502,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=veln
 3	דערגרייכן	דערגרייכן	VERB	_	_	0	root	_	Translit=dergreykhn|Translit_Lemma=dergreykhn
 4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 5	ציל	ציל	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=tsil|Translit_Lemma=tsil
@@ -18948,7 +18948,7 @@
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 4	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|Translit_Lemma=az
 5	מע	מען	PRON	_	_	7	nsubj	_	Translit=me|Translit_Lemma=men
-6	וועט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+6	וועט	וועלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
 7	שטראָפֿן	שטראָף	VERB	_	_	2	ccomp	_	Translit=shtrofn|Translit_Lemma=shtrof
 8	טאָמען	טאָמען	PROPN	_	_	7	obj	_	SpaceAfter=No|Translit=tomen|Translit_Lemma=tomen
 9	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -19180,7 +19180,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זיי	זיי	PRON	_	_	5	nsubj	_	Translit=zey|Translit_Lemma=zey
-2	וועלן	האָבן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
 3	מיך	איך	PRON	_	_	5	obj	_	Translit=mikh|Translit_Lemma=ikh
 4	זיכער	זיכער	ADV	_	_	5	advmod	_	Translit=zikher|Translit_Lemma=zikher
 5	הערן	הערן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=hern|Translit_Lemma=hern
@@ -19193,7 +19193,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	יעדערער	יעדערער	DET	_	_	3	nsubj	_	Translit=yederer|Translit_Lemma=yederer
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	שטאַרבן	שטאַרבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shtarbn|Translit_Lemma=shtarbn
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -20955,7 +20955,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=veln
 3	גיין	גיין	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geyn|Translit_Lemma=geyn
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -20966,7 +20966,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=veln
 3	גיין	גיין	VERB	_	_	0	root	_	Translit=geyn|Translit_Lemma=geyn
 4	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
 5	פֿוס	פֿוס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=fus|Translit_Lemma=fus
@@ -21409,7 +21409,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	ווער	װער	PRON	_	_	3	nsubj	_	Translit=ver|Translit_Lemma=ver
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	שרײַבן	שרײַבן	VERB	_	_	0	root	_	Translit=shraybn|Translit_Lemma=shraybn
 4	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
 5	באַריכט	באַריכט	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=barikht|Translit_Lemma=barikht
@@ -22533,7 +22533,7 @@
 # genre = grammar-examples/learner
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	שיף	שיף	NOUN	_	_	7	nsubj	_	Translit=shif|Translit_Lemma=shif
-3	וועט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+3	וועט	וועלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
 4	הײַנט	הײַנט	NOUN	_	_	7	obl:unmarked	_	Translit=haynt|Translit_Lemma=haynt
 5	בײַ	בײַ	ADP	_	_	6	case	_	Translit=bay|Translit_Lemma=bay
 6	נאַכט	נאַכט	NOUN	_	_	7	obl	_	Translit=nakht|Translit_Lemma=nakht
@@ -22819,7 +22819,7 @@
 7	רו	רוען	NOUN	_	_	5	obl	_	Translit=ru|Translit_Lemma=ruen
 8	ביז	ביז	ADP	_	_	13	mark	_	Translit=biz|Translit_Lemma=biz
 9	דו	דו	PRON	_	_	13	nsubj	_	Translit=du|Translit_Lemma=du
-10	וועסט	האָבן	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=hobn
+10	וועסט	וועלן	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=veln
 11	עס	עס	PRON	_	_	13	obj	_	Translit=es|Translit_Lemma=es
 12	מיר	מיר	PRON	_	_	13	obl:arg	_	Translit=mir|Translit_Lemma=mir
 13	דערקלערן	דערקלערן	VERB	_	_	5	advcl	_	SpaceAfter=No|Translit=derklern|Translit_Lemma=derklern
@@ -22840,7 +22840,7 @@
 7	רו	רוען	NOUN	_	_	5	obl	_	Translit=ru|Translit_Lemma=ruen
 8	ביז	ביז	ADP	_	_	13	mark	_	Translit=biz|Translit_Lemma=biz
 9	איר	איר	PRON	_	_	13	nsubj	_	Translit=ir|Translit_Lemma=ir
-10	וועט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
+10	וועט	וועלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 11	עס	עס	PRON	_	_	13	obj	_	Translit=es|Translit_Lemma=es
 12	מיר	מיר	PRON	_	_	13	obl:arg	_	Translit=mir|Translit_Lemma=mir
 13	דערקלערן	דערקלערן	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=derklern|Translit_Lemma=derklern
@@ -23153,7 +23153,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	דאָ	דאָ	ADV	_	_	4	advmod	_	Translit=do|Translit_Lemma=do
 4	בלײַבן	בלײַבן	VERB	_	_	0	root	_	Translit=blaybn|Translit_Lemma=blaybn
 5	ביז	ביז	ADP	_	_	6	case	_	Translit=biz|Translit_Lemma=biz
@@ -23367,7 +23367,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=veln
 3	אַוועקגיין	אַוועקגיין	VERB	_	_	0	root	_	SpaceAfter=No|Translit=avekgeyn|Translit_Lemma=avekgeyn
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -23378,7 +23378,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	3	aux	_	Translit=veln|Translit_Lemma=veln
 3	אַוועקפֿאָרן	אַוועקפֿאָרן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=avekforn|Translit_Lemma=avekforn
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -23709,12 +23709,12 @@
 # genre = grammar-examples/learner
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	שטאַרקע	שטאַרק	ADJ	_	_	4	nsubj	_	Translit=shtarke|Translit_Lemma=shtark
-3	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+3	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 4	איבערלעבן	איבערלעבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=iberlebn|Translit_Lemma=iberlebn
 5	;	;	PUNCT	_	_	9	punct	_	Translit=;|Translit_Lemma=;
 6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
 7	שוואַכע	שוואַך	ADJ	_	_	9	nsubj	_	Translit=shvakhe|Translit_Lemma=shvakh
-8	וועלן	האָבן	AUX	_	_	9	aux	_	Translit=veln|Translit_Lemma=hobn
+8	וועלן	וועלן	AUX	_	_	9	aux	_	Translit=veln|Translit_Lemma=veln
 9	אומקומען	אומקום	VERB	_	_	4	parataxis	_	SpaceAfter=No|Translit=umkumen|Translit_Lemma=umkum
 10	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
@@ -23863,7 +23863,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זיי	זיי	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
-2	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	4	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	לערער	לערער	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=lerer|Translit_Lemma=lerer
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -23875,7 +23875,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זיי	זיי	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
-2	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	4	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	לערערינס	לערערין	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=lererins|Translit_Lemma=lererin
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -24231,7 +24231,7 @@
 # genre = grammar-examples/learner
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
 1	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
-2	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	דיר	דו	PRON	_	_	5	obl:arg	_	Translit=dir|Translit_Lemma=du
 4	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	קאַלט	קאַלט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=kalt|Translit_Lemma=kalt
@@ -24245,7 +24245,7 @@
 # genre = grammar-examples/learner
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
 1	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
-2	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	אײַך	איר	PRON	_	_	5	obl:arg	_	Translit=aykh|Translit_Lemma=ir
 4	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	קאַלט	קאַלט	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=kalt|Translit_Lemma=kalt
@@ -25424,7 +25424,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 3	זאָגן	זאָגן	VERB	_	_	0	root	_	Translit=zogn|Translit_Lemma=zogn
 4	דער	דער	DET	_	_	5	det	_	Translit=der|Translit_Lemma=der
 5	פֿרױ	פֿרי	NOUN	_	_	3	obl:arg	_	Translit=froy|Translit_Lemma=fri
@@ -26109,7 +26109,7 @@
 # genre = grammar-examples/learner
 1	אונדזער	אונדזער	DET	_	_	2	det:poss	_	Translit=undzer|Translit_Lemma=undzer
 2	פֿרײַנד	פֿרײַנד	NOUN	_	_	6	nsubj	_	Translit=fraynd|Translit_Lemma=fraynd
-3	װעט	װעלן	AUX	_	_	6	aux	_	Translit=vet|Translit_Lemma=veln
+3	װעט	וועלן	AUX	_	_	6	aux	_	Translit=vet|Translit_Lemma=veln
 4	זײַן	זײַן	AUX	_	_	6	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	אונדזער	אונדזער	DET	_	_	6	det:poss	_	Translit=undzer|Translit_Lemma=undzer
 6	װעגװײַזער	וועגווײַזער	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=vegvayzer|Translit_Lemma=vegvayzer
@@ -26788,7 +26788,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	שווימען	שווימען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shvimen|Translit_Lemma=shvimen
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -26883,7 +26883,7 @@
 # genre = grammar-examples/learner
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	אמת	אמת	NOUN	_	_	5	nsubj	_	Translit=emes|Translit_Lemma=emes
-3	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+3	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 4	תּמיד	תּמיד	ADV	_	_	5	advmod	_	Translit=tomed|Translit_Lemma=tomed
 5	געווינען	געווינען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gevinen|Translit_Lemma=gevinen
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -27239,7 +27239,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	5	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	5	aux	_	Translit=vel|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	בײַם	בײַם	ADP	_	_	5	case	_	Translit=baym|Translit_Lemma=baym
 5	צוזאַמענפֿאָר	צוזאַמענפֿאָר	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=tsuzamenfor|Translit_Lemma=tsuzamenfor
@@ -27304,7 +27304,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 3	טרינקען	טרינקען	VERB	_	_	0	root	_	Translit=trinken|Translit_Lemma=trinken
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	גלאָז	גלאָז	NOUN	_	_	3	obj	_	Translit=gloz|Translit_Lemma=gloz
@@ -27928,7 +27928,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 3	ברענגען	ברענגען	VERB	_	_	0	root	_	Translit=brengen|Translit_Lemma=brengen
 4	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
 5	װײַן	ווײַן	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=vayn|Translit_Lemma=vayn
@@ -28075,14 +28075,14 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מיר	מיר	PRON	_	_	5	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	וועלן	האָבן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=hobn
+2	וועלן	וועלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
 3	עס	עס	PRON	_	_	5	obj	_	Translit=es|Translit_Lemma=es
 4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
 5	טאָן	טאָן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ton|Translit_Lemma=ton
 6	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
 7	ביז	ביז	ADP	_	_	11	mark	_	Translit=biz|Translit_Lemma=biz
 8	טאָם	טאָם	PROPN	_	_	11	nsubj	_	Translit=tom|Translit_Lemma=tom
-9	וועט	װעלן	AUX	_	_	11	aux	_	Translit=vet|Translit_Lemma=veln
+9	וועט	וועלן	AUX	_	_	11	aux	_	Translit=vet|Translit_Lemma=veln
 10	נישט	נישט	PART	_	_	11	advmod	_	Translit=nisht|Translit_Lemma=nisht
 11	אַוועקפֿאָרן	אַוועקפֿאָרן	VERB	_	_	5	advcl	_	SpaceAfter=No|Translit=avekforn|Translit_Lemma=avekforn
 12	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -28207,7 +28207,7 @@
 # genre = grammar-examples/learner
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
 2	איר	איר	PRON	_	_	7	nsubj	_	Translit=ir|Translit_Lemma=ir
-3	וועט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+3	וועט	וועלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
 4	מיר	מיר	PRON	_	_	7	obl:arg	_	Translit=mir|Translit_Lemma=mir
 5	זײַן	זײַן	AUX	_	_	7	cop	_	Translit=zayn|Translit_Lemma=zayn
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
@@ -28439,7 +28439,7 @@
 4	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 5	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
 6	זיי	זיי	PRON	_	_	10	nsubj	_	Translit=zey|Translit_Lemma=zey
-7	וועלן	האָבן	AUX	_	_	10	aux	_	Translit=veln|Translit_Lemma=hobn
+7	וועלן	וועלן	AUX	_	_	10	aux	_	Translit=veln|Translit_Lemma=veln
 8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
 9	מאָל	מאָל	NOUN	_	_	10	obl:unmarked	_	Translit=mol|Translit_Lemma=mol
 10	ווערן	ווערן	VERB	_	_	3	ccomp	_	Translit=vern|Translit_Lemma=vern
@@ -28549,7 +28549,7 @@
 # genre = grammar-examples/learner
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
 1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
-2	װעט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	דאָ	דאָ	ADV	_	_	0	root	_	Translit=do|Translit_Lemma=do
 4	זײַן	זײַן	AUX	_	_	3	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	אַן	אַ	DET	_	_	7	det	_	Translit=an|Translit_Lemma=a
@@ -28561,7 +28561,7 @@
 11	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
 12	ווען	ווען	SCONJ	_	_	16	mark	_	Translit=ven|Translit_Lemma=ven
 13	אַלע	_	DET	_	_	16	nsubj	_	Translit=ale
-14	וועלן	האָבן	AUX	_	_	16	aux	_	Translit=veln|Translit_Lemma=hobn
+14	וועלן	וועלן	AUX	_	_	16	aux	_	Translit=veln|Translit_Lemma=veln
 15	זײַן	זײַן	AUX	_	_	16	cop	_	Translit=zayn|Translit_Lemma=zayn
 16	טויט	טויט	ADJ	_	_	3	advcl	_	SpaceAfter=No|Translit=toyt|Translit_Lemma=toyt
 17	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
@@ -28675,13 +28675,13 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
-2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
 4	צוזאָגן	צוזאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=tsuzogn|Translit_Lemma=tsuzogn
 5	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 6	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
 7	איר	איר	PRON	_	_	10	nsubj	_	Translit=ir|Translit_Lemma=ir
-8	וועט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+8	וועט	וועלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 9	זיך	זיך	PRON	_	_	10	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 10	באַטראַכטן	באַטראַכטן	VERB	_	_	4	ccomp	_	Translit=batrakhtn|Translit_Lemma=batrakhtn
 11	וועגן	וועגן	ADP	_	_	13	case	_	Translit=vegn|Translit_Lemma=vegn
@@ -29318,7 +29318,7 @@
 2	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 3	אַנישט	אַנישט	ADV	_	_	7	advmod	_	Translit=anisht|Translit_Lemma=anisht
 4-5	וועסטו	_	_	_	_	_	_	_	Translit=vestu
-4	וועסט	האָבן	AUX	_	_	7	aux	_	Translit=vest|Translit_Lemma=hobn
+4	וועסט	וועלן	AUX	_	_	7	aux	_	Translit=vest|Translit_Lemma=veln
 5	דו	דו	PRON	_	_	7	nsubj	_	Translit=du|Translit_Lemma=du
 6	זײַן	זײַן	AUX	_	_	7	cop	_	Translit=zayn|Translit_Lemma=zayn
 7	הונגעריק	הונגעריק	ADJ	_	_	1	parataxis	_	SpaceAfter=No|Translit=hungerik|Translit_Lemma=hungerik
@@ -29511,7 +29511,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	טאָם	טאָם	PROPN	_	_	5	nsubj	_	Translit=tom|Translit_Lemma=tom
-2	וועט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	אפֿשר	אפֿשר	ADV	_	_	5	advmod	_	Translit=efsher|Translit_Lemma=efsher
 4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
 5	קומען	קומען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kumen|Translit_Lemma=kumen
@@ -29779,7 +29779,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	גאָרנישט	גאָרנישט	PRON	_	_	3	nsubj	_	Translit=gornisht|Translit_Lemma=gornisht
-2	וועט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	געשען	געשען	VERB	_	_	0	root	_	Translit=geshen|Translit_Lemma=geshen
 4	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
 5	דיר	דו	PRON	_	_	3	obl	_	SpaceAfter=No|Translit=dir|Translit_Lemma=du
@@ -31342,7 +31342,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	ווי	ווי	ADV	_	_	4	advmod	_	Translit=vi|Translit_Lemma=vi
-2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 4	צוריקפֿאָרן	צוריקפֿאָרן	VERB	_	_	0	root	_	Translit=tsurikforn|Translit_Lemma=tsurikforn
 5	קיין	קיין	ADP	_	_	6	case	_	Translit=keyn|Translit_Lemma=keyn
@@ -31711,7 +31711,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	מע	מען	PRON	_	_	4	nsubj	_	Translit=me|Translit_Lemma=men
-2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 4	פֿאַרנעמען	פֿאַרנעם	VERB	_	_	0	root	_	Translit=farnemen|Translit_Lemma=farnem
 5	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
@@ -31851,7 +31851,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner
 1	זי	זי	PRON	_	_	5	nsubj	_	Translit=zi|Translit_Lemma=zi
-2	וועט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	וועט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
 5	אים	עס	PRON	_	_	0	root	_	SpaceAfter=No|Translit=im|Translit_Lemma=es
@@ -32719,7 +32719,7 @@
 # genre = grammar-examples/learner
 1-2	ס׳וועט	_	_	_	_	_	_	_	Translit=s'vet
 1	עס	עס	PRON	_	_	5	nsubj	_	Translit=es|Translit_Lemma=es
-2	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	מאָרגן	מאָרגן	ADV	_	_	5	obl:unmarked	_	Translit=morgn|Translit_Lemma=morgn
 4	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	וואַרעמער	וואַרעם	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=varemer|Translit_Lemma=varem
@@ -33068,14 +33068,14 @@
 # genre = grammar-examples/learner
 1	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
 2	איר	איר	PRON	_	_	8	nsubj	_	Translit=ir|Translit_Lemma=ir
-3	וועט	װעלן	AUX	_	_	8	aux	_	SpaceAfter=No|Translit=vet|Translit_Lemma=veln
+3	וועט	וועלן	AUX	_	_	8	aux	_	SpaceAfter=No|Translit=vet|Translit_Lemma=veln
 4	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 5	קינדער	קינד	NOUN	_	_	8	vocative	_	SpaceAfter=No|Translit=kinder|Translit_Lemma=kind
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 7	עלטער	עלטער	ADJ	_	_	8	xcomp	_	Translit=elter|Translit_Lemma=elter
 8	ווערן	ווערן	VERB	_	_	13	advcl	_	SpaceAfter=No|Translit=vern|Translit_Lemma=vern
 9	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
-10	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
+10	װעט	וועלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 11	איר	איר	PRON	_	_	13	nsubj	_	Translit=ir|Translit_Lemma=ir
 12	אַלײן	אַלײן	ADV	_	_	13	advmod	_	Translit=aleyn|Translit_Lemma=aleyn
 13	פֿאַרשטײן	פֿאַרשטיין	VERB	_	_	0	root	_	SpaceAfter=No|Translit=farshteyn|Translit_Lemma=farshteyn
@@ -34004,7 +34004,7 @@
 4	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 5	אַז	אַז	SCONJ	_	_	9	mark	_	Translit=az|Translit_Lemma=az
 6	טאָם	טאָם	PROPN	_	_	9	nsubj	_	Translit=tom|Translit_Lemma=tom
-7	וועט	װעלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
+7	וועט	וועלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
 8	נישט	נישט	PART	_	_	9	advmod	_	Translit=nisht|Translit_Lemma=nisht
 9	קריגן	קריג	VERB	_	_	2	ccomp	_	Translit=krign|Translit_Lemma=krig
 10	קיין	קײַן	DET	_	_	12	det	_	Translit=keyn|Translit_Lemma=keyn
@@ -34162,7 +34162,7 @@
 # genre = grammar-examples/learner
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	זיי	זיי	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
-3	וועלן	האָבן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=hobn
+3	וועלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 4	שמידן	שמידן	VERB	_	_	0	root	_	Translit=shmidn|Translit_Lemma=shmidn
 5	זייערע	זייער	DET	_	_	6	det:poss	_	Translit=zeyere|Translit_Lemma=zeyer
 6	שווערדן	שווערד	NOUN	_	_	4	obj	_	Translit=shverdn|Translit_Lemma=shverd
@@ -34192,7 +34192,7 @@
 8	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
 9	אַז	אַז	SCONJ	_	_	16	mark	_	Translit=az|Translit_Lemma=az
 10	מערי	מערי	PROPN	_	_	16	nsubj	_	Translit=meri|Translit_Lemma=meri
-11	וועט	װעלן	AUX	_	_	16	aux	_	Translit=vet|Translit_Lemma=veln
+11	וועט	וועלן	AUX	_	_	16	aux	_	Translit=vet|Translit_Lemma=veln
 12	הײַנט	הײַנט	NOUN	_	_	16	obl:unmarked	_	Translit=haynt|Translit_Lemma=haynt
 13	זײַן	זײַן	AUX	_	_	16	cop	_	Translit=zayn|Translit_Lemma=zayn
 14	אויף	אויף	ADP	_	_	16	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -34770,7 +34770,7 @@
 13	װאָס	װאָס	PRON	_	_	17	nsubj	_	Translit=vos|Translit_Lemma=vos
 14	מיט	מיט	ADP	_	_	15	case	_	Translit=mit|Translit_Lemma=mit
 15	אים	עס	PRON	_	_	17	obl	_	Translit=im|Translit_Lemma=es
-16	װעט	װעלן	AUX	_	_	17	aux	_	Translit=vet|Translit_Lemma=veln
+16	װעט	וועלן	AUX	_	_	17	aux	_	Translit=vet|Translit_Lemma=veln
 17	געשען	געשען	VERB	_	_	12	ccomp	_	SpaceAfter=No|Translit=geshen|Translit_Lemma=geshen
 18	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
 
@@ -34988,7 +34988,7 @@
 19	,	,	PUNCT	_	_	24	punct	_	Translit=,|Translit_Lemma=,
 20	און	און	CCONJ	_	_	24	cc	_	Translit=un|Translit_Lemma=un
 21	איך	איך	PRON	_	_	24	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-22	װעל	װעלן	AUX	_	_	24	aux	_	Translit=vel|Translit_Lemma=veln
+22	װעל	וועלן	AUX	_	_	24	aux	_	Translit=vel|Translit_Lemma=veln
 23	דיר	דו	PRON	_	_	24	obl:arg	_	Translit=dir|Translit_Lemma=du
 24	געבן	געבן	VERB	_	_	7	conj	_	Translit=gebn|Translit_Lemma=gebn
 25	דײַן	דײַן	DET	_	_	26	det:poss	_	Translit=dayn|Translit_Lemma=dayn
@@ -35646,25 +35646,25 @@
 7	אים	עס	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=im|Translit_Lemma=es
 8	;	;	PUNCT	_	_	13	punct	_	Translit=;|Translit_Lemma=;
 9	אַניט	אַניט	ADV	_	_	13	advmod	_	Translit=anit|Translit_Lemma=anit
-10	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
+10	װעט	וועלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 11	ער	ער	PRON	_	_	13	nsubj	_	Translit=er|Translit_Lemma=er
 12	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 13	מערן	מער	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=mern|Translit_Lemma=mer
 14	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
 16	עס	עס	PRON	_	_	31	nsubj:outer	_	Translit=es|Translit_Lemma=es
-17	װעט	װעלן	AUX	_	_	31	aux	_	Translit=vet|Translit_Lemma=veln
+17	װעט	וועלן	AUX	_	_	31	aux	_	Translit=vet|Translit_Lemma=veln
 18	זײַן	זײַן	AUX	_	_	31	cop	_	SpaceAfter=No|Translit=zayn|Translit_Lemma=zayn
 19	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 20	אַז	אַז	SCONJ	_	_	24	mark	_	Translit=az|Translit_Lemma=az
 21	עס	עס	PRON	_	_	24	expl	_	Translit=es|Translit_Lemma=es
-22	װעט	װעלן	AUX	_	_	24	aux	_	Translit=vet|Translit_Lemma=veln
+22	װעט	וועלן	AUX	_	_	24	aux	_	Translit=vet|Translit_Lemma=veln
 23	זיך	זיך	PRON	_	_	24	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 24	טרעפֿן	טרעפֿן	VERB	_	_	31	advcl	_	Translit=trefn|Translit_Lemma=trefn
 25	אַ	אַ	DET	_	_	26	det	_	Translit=a|Translit_Lemma=a
 26	מלחמה	מלחמה	NOUN	_	_	24	nsubj	_	SpaceAfter=No|Translit=milkhome|Translit_Lemma=milkhome
 27	,	,	PUNCT	_	_	24	punct	_	Translit=,|Translit_Lemma=,
-28	װעט	װעלן	AUX	_	_	31	aux	_	Translit=vet|Translit_Lemma=veln
+28	װעט	וועלן	AUX	_	_	31	aux	_	Translit=vet|Translit_Lemma=veln
 29	ער	ער	PRON	_	_	31	nsubj	_	Translit=er|Translit_Lemma=er
 30	אױך	אױך	ADV	_	_	31	advmod	_	Translit=oykh|Translit_Lemma=oykh
 31	צושטײן	צושטײַנען	VERB	_	_	13	conj	_	Translit=tsushteyn|Translit_Lemma=tsushtaynen
@@ -35674,14 +35674,14 @@
 35	,	,	PUNCT	_	_	40	punct	_	Translit=,|Translit_Lemma=,
 36	און	און	CCONJ	_	_	40	cc	_	Translit=un|Translit_Lemma=un
 37	ער	ער	PRON	_	_	40	nsubj	_	Translit=er|Translit_Lemma=er
-38	װעט	װעלן	AUX	_	_	40	aux	_	Translit=vet|Translit_Lemma=veln
+38	װעט	וועלן	AUX	_	_	40	aux	_	Translit=vet|Translit_Lemma=veln
 39	מלחמה	מלחמה	NOUN	_	_	40	obj	_	Translit=milkhome|Translit_Lemma=milkhome
 40	האַלטן	האַלטן	VERB	_	_	13	conj	_	Translit=haltn|Translit_Lemma=haltn
 41	אױף	אױף	ADP	_	_	42	case	_	Translit=oyf|Translit_Lemma=oyf
 42	אונדז	מיר	PRON	_	_	40	obl	_	SpaceAfter=No|Translit=undz|Translit_Lemma=mir
 43	,	,	PUNCT	_	_	46	punct	_	Translit=,|Translit_Lemma=,
 44	און	און	CCONJ	_	_	46	cc	_	Translit=un|Translit_Lemma=un
-45	װעט	װעלן	AUX	_	_	46	aux	_	Translit=vet|Translit_Lemma=veln
+45	װעט	וועלן	AUX	_	_	46	aux	_	Translit=vet|Translit_Lemma=veln
 46	אַרױסגײן	אַרױסגײַן	VERB	_	_	13	conj	_	Translit=aroysgeyn|Translit_Lemma=aroysgayn
 47	פֿון	פֿון	ADP	_	_	48	case	_	Translit=fun|Translit_Lemma=fun
 48	לאַנד	לאַנד	NOUN	_	_	46	obl	_	SpaceAfter=No|Translit=land|Translit_Lemma=land
@@ -36595,7 +36595,7 @@
 4	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 5	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
 6	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-7	װעל	װעלן	AUX	_	_	9	aux	_	Translit=vel|Translit_Lemma=veln
+7	װעל	וועלן	AUX	_	_	9	aux	_	Translit=vel|Translit_Lemma=veln
 8	דיך	דו	PRON	_	_	9	obj	_	Translit=dikh|Translit_Lemma=du
 9	שיקן	שיקן	VERB	_	_	2	conj	_	Translit=shikn|Translit_Lemma=shikn
 10	צו	צו	ADP	_	_	11	case	_	Translit=tsu|Translit_Lemma=tsu
@@ -36667,14 +36667,14 @@
 4	:	:	PUNCT	_	_	10	punct	_	Translit=:|Translit_Lemma=:
 5	אָבער	אָבער	CCONJ	_	_	10	cc	_	Translit=ober|Translit_Lemma=ober
 6	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-7	װעל	װעלן	AUX	_	_	10	aux	_	Translit=vel|Translit_Lemma=veln
+7	װעל	וועלן	AUX	_	_	10	aux	_	Translit=vel|Translit_Lemma=veln
 8	זײַן	זײַן	AUX	_	_	10	cop	_	Translit=zayn|Translit_Lemma=zayn
 9	מיט	מיט	ADP	_	_	10	case	_	Translit=mit|Translit_Lemma=mit
 10	דיר	דו	PRON	_	_	3	ccomp	_	SpaceAfter=No|Translit=dir|Translit_Lemma=du
 11	;	;	PUNCT	_	_	18	punct	_	Translit=;|Translit_Lemma=;
 12	און	און	CCONJ	_	_	18	cc	_	Translit=un|Translit_Lemma=un
 13	דאָס	דער	DET	_	_	18	nsubj	_	Translit=dos|Translit_Lemma=der
-14	װעט	װעלן	AUX	_	_	18	aux	_	Translit=vet|Translit_Lemma=veln
+14	װעט	וועלן	AUX	_	_	18	aux	_	Translit=vet|Translit_Lemma=veln
 15	דיר	דו	PRON	_	_	18	obl:arg	_	Translit=dir|Translit_Lemma=du
 16	זײַן	זײַן	AUX	_	_	18	cop	_	Translit=zayn|Translit_Lemma=zayn
 17	דער	דער	DET	_	_	18	det	_	Translit=der|Translit_Lemma=der
@@ -36702,7 +36702,7 @@
 7	פֿון	פֿון	ADP	_	_	8	case	_	Translit=fun|Translit_Lemma=fun
 8	מִצרַיִם	מיצראַיִם	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=mitsraim|Translit_Lemma=mitsraim
 9	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
-10	װעט	װעלן	AUX	_	_	12	aux	_	Translit=vet|Translit_Lemma=veln
+10	װעט	וועלן	AUX	_	_	12	aux	_	Translit=vet|Translit_Lemma=veln
 11	איר	איר	PRON	_	_	12	nsubj	_	Translit=ir|Translit_Lemma=ir
 12	דינען	דינען	VERB	_	_	0	root	_	Translit=dinen|Translit_Lemma=dinen
 13	{	{	PUNCT	_	_	15	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
@@ -36741,7 +36741,7 @@
 18	,	,	PUNCT	_	_	22	punct	_	Translit=,|Translit_Lemma=,
 19	און	און	CCONJ	_	_	22	cc	_	Translit=un|Translit_Lemma=un
 20	איך	איך	PRON	_	_	22	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-21	װעל	װעלן	AUX	_	_	22	aux	_	Translit=vel|Translit_Lemma=veln
+21	װעל	וועלן	AUX	_	_	22	aux	_	Translit=vel|Translit_Lemma=veln
 22	זאָגן	זאָגן	VERB	_	_	11	conj	_	Translit=zogn|Translit_Lemma=zogn
 23	צו	צו	ADP	_	_	24	case	_	Translit=tsu|Translit_Lemma=tsu
 24	זײ	זײ	PRON	_	_	22	obl	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
@@ -36762,7 +36762,7 @@
 39	,	,	PUNCT	_	_	43	punct	_	Translit=,|Translit_Lemma=,
 40	און	און	CCONJ	_	_	43	cc	_	Translit=un|Translit_Lemma=un
 41	זײ	זײ	PRON	_	_	43	nsubj	_	Translit=zey|Translit_Lemma=zey
-42	װעלן	װעלן	AUX	_	_	43	aux	_	Translit=veln|Translit_Lemma=veln
+42	װעלן	וועלן	AUX	_	_	43	aux	_	Translit=veln|Translit_Lemma=veln
 43	זאָגן	זאָגן	VERB	_	_	11	conj	_	Translit=zogn|Translit_Lemma=zogn
 44	צו	צו	ADP	_	_	45	case	_	Translit=tsu|Translit_Lemma=tsu
 45	מיר	מיר	PRON	_	_	43	obl	_	SpaceAfter=No|Translit=mir|Translit_Lemma=mir
@@ -37025,7 +37025,7 @@
 4	געזאָגט	זאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 5	:	:	PUNCT	_	_	9	punct	_	Translit=:|Translit_Lemma=:
 6	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-7	װעל	װעלן	AUX	_	_	9	aux	_	Translit=vel|Translit_Lemma=veln
+7	װעל	וועלן	AUX	_	_	9	aux	_	Translit=vel|Translit_Lemma=veln
 8	אײַך	איר	PRON	_	_	9	obj	_	Translit=aykh|Translit_Lemma=ir
 9	אױפֿברענגען	אױפֿברענגען	VERB	_	_	4	ccomp	_	Translit=oyfbrengen|Translit_Lemma=oyfbrengen
 10	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
@@ -37079,14 +37079,14 @@
 # genre = bible
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
-3	װעלן	װעלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
+3	װעלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 4	צוהערן	צוהערן	VERB	_	_	0	root	_	Translit=tsuhern|Translit_Lemma=tsuhern
 5	צו	צו	ADP	_	_	7	case	_	Translit=tsu|Translit_Lemma=tsu
 6	דײַן	דײַן	DET	_	_	7	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 7	קָול	קאָול	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=kol|Translit_Lemma=kol
 8	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
 9	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
-10	װעסט	וועסט	AUX	_	_	11	aux	_	Translit=vest|Translit_Lemma=vest
+10	װעסט	וועלן	AUX	_	_	11	aux	_	Translit=vest|Translit_Lemma=veln
 11	קומען	קומען	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=kumen|Translit_Lemma=kumen
 12	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 13	דו	דו	PRON	_	_	11	nsubj	_	Translit=du|Translit_Lemma=du
@@ -37104,7 +37104,7 @@
 25	,	,	PUNCT	_	_	29	punct	_	Translit=,|Translit_Lemma=,
 26	און	און	CCONJ	_	_	29	cc	_	Translit=un|Translit_Lemma=un
 27	איר	איר	PRON	_	_	29	nsubj	_	Translit=ir|Translit_Lemma=ir
-28	װעט	װעלן	AUX	_	_	29	aux	_	Translit=vet|Translit_Lemma=veln
+28	װעט	וועלן	AUX	_	_	29	aux	_	Translit=vet|Translit_Lemma=veln
 29	זאָגן	זאָגן	VERB	_	_	11	conj	_	Translit=zogn|Translit_Lemma=zogn
 30	צו	צו	ADP	_	_	31	case	_	Translit=tsu|Translit_Lemma=tsu
 31	אים	עס	PRON	_	_	29	obl	_	SpaceAfter=No|Translit=im|Translit_Lemma=es
@@ -37185,7 +37185,7 @@
 6	מלך	מלכן	NOUN	_	_	12	nsubj	_	Translit=meylekh|Translit_Lemma=malkhn
 7	פֿון	פֿון	ADP	_	_	8	case	_	Translit=fun|Translit_Lemma=fun
 8	מִצרַיִם	מיצראַיִם	PROPN	_	_	6	nmod	_	Translit=mitsraim|Translit_Lemma=mitsraim
-9	װעט	װעלן	AUX	_	_	12	aux	_	Translit=vet|Translit_Lemma=veln
+9	װעט	וועלן	AUX	_	_	12	aux	_	Translit=vet|Translit_Lemma=veln
 10	אײַך	איר	PRON	_	_	12	obj	_	Translit=aykh|Translit_Lemma=ir
 11	ניט	ניט	PART	_	_	12	advmod	_	Translit=nit|Translit_Lemma=nit
 12	לאָזן	לאָזן	VERB	_	_	3	ccomp	_	Translit=lozn|Translit_Lemma=lozn
@@ -37203,7 +37203,7 @@
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
-1	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+1	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 2	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	אױסשטרעקן	אױסשטרעקן	VERB	_	_	0	root	_	Translit=oysshtrekn|Translit_Lemma=oysshtrekn
 4	מײַן	מײַן	DET	_	_	5	det:poss	_	Translit=mayn|Translit_Lemma=mayn
@@ -37211,7 +37211,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 7	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
 8	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-9	װעל	װעלן	AUX	_	_	10	aux	_	Translit=vel|Translit_Lemma=veln
+9	װעל	וועלן	AUX	_	_	10	aux	_	Translit=vel|Translit_Lemma=veln
 10	שלאָגן	שלאָגן	VERB	_	_	3	conj	_	Translit=shlogn|Translit_Lemma=shlogn
 11	מִצרַיִם	מיצראַיִם	PROPN	_	_	10	obj	_	Translit=mitsraim|Translit_Lemma=mitsraim
 12	מיט	מיט	ADP	_	_	15	case	_	Translit=mit|Translit_Lemma=mit
@@ -37221,13 +37221,13 @@
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
 17	װאָס	װאָס	PRON	_	_	20	obj	_	Translit=vos|Translit_Lemma=vos
 18	איך	איך	PRON	_	_	20	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-19	װעל	װעלן	AUX	_	_	20	aux	_	Translit=vel|Translit_Lemma=veln
+19	װעל	וועלן	AUX	_	_	20	aux	_	Translit=vel|Translit_Lemma=veln
 20	טאָן	טאָן	VERB	_	_	15	acl:relcl	_	Translit=ton|Translit_Lemma=ton
 21	דערין	דערין	ADV	_	_	20	advmod	_	SpaceAfter=No|Translit=derin|Translit_Lemma=derin
 22	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 23	און	און	CCONJ	_	_	28	cc	_	Translit=un|Translit_Lemma=un
 24	דערנאָך	דערנאָך	ADV	_	_	28	advmod	_	Translit=dernokh|Translit_Lemma=dernokh
-25	װעט	װעלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
+25	װעט	וועלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
 26	ער	ער	PRON	_	_	28	nsubj	_	Translit=er|Translit_Lemma=er
 27	אײַך	איר	PRON	_	_	28	obj	_	Translit=aykh|Translit_Lemma=ir
 28	אַװעקלאָזן	אַוועקלאָזן	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=aveklozn|Translit_Lemma=aveklozn
@@ -37241,7 +37241,7 @@
 # genre = bible
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-3	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+3	װעל	וועלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
 5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
 6	דאָזיקן	דאָזיק	DET	_	_	7	det	_	Translit=dozikn|Translit_Lemma=dozik
@@ -37255,15 +37255,15 @@
 14	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	28	cc	_	Translit=un|Translit_Lemma=un
 16	עס	עס	PRON	_	_	28	expl	_	Translit=es|Translit_Lemma=es
-17	װעט	װעלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
+17	װעט	וועלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
 18	זײַן	זײַן	AUX	_	_	28	cop	_	SpaceAfter=No|Translit=zayn|Translit_Lemma=zayn
 19	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 20	אַז	אַז	SCONJ	_	_	23	mark	_	Translit=az|Translit_Lemma=az
 21	איר	איר	PRON	_	_	23	nsubj	_	Translit=ir|Translit_Lemma=ir
-22	װעט	װעלן	AUX	_	_	23	aux	_	Translit=vet|Translit_Lemma=veln
+22	װעט	וועלן	AUX	_	_	23	aux	_	Translit=vet|Translit_Lemma=veln
 23	אַרױסגײן	אַרױסגײַן	VERB	_	_	28	advcl	_	SpaceAfter=No|Translit=aroysgeyn|Translit_Lemma=aroysgayn
 24	,	,	PUNCT	_	_	23	punct	_	Translit=,|Translit_Lemma=,
-25	װעט	װעלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
+25	װעט	וועלן	AUX	_	_	28	aux	_	Translit=vet|Translit_Lemma=veln
 26	איר	איר	PRON	_	_	28	nsubj	_	Translit=ir|Translit_Lemma=ir
 27	ניט	ניט	PART	_	_	28	advmod	_	Translit=nit|Translit_Lemma=nit
 28	אַרױסגײן	אַרױסגײַן	VERB	_	_	4	conj	_	Translit=aroysgeyn|Translit_Lemma=aroysgayn
@@ -37273,7 +37273,7 @@
 32	נאָר	נאָר	CCONJ	_	_	36	cc	_	Translit=nor|Translit_Lemma=nor
 33	יעטװעדער	_	DET	_	_	34	det	_	Translit=yetveder
 34	פרױ	פֿרי	NOUN	_	_	36	nsubj	_	Translit=proy|Translit_Lemma=fri
-35	װעט	װעלן	AUX	_	_	36	aux	_	Translit=vet|Translit_Lemma=veln
+35	װעט	וועלן	AUX	_	_	36	aux	_	Translit=vet|Translit_Lemma=veln
 36	אַנטלײַען	אַנטלײַען	VERB	_	_	4	parataxis	_	Translit=antlayen|Translit_Lemma=antlayen
 37	פֿון	פֿון	ADP	_	_	39	case	_	Translit=fun|Translit_Lemma=fun
 38	איר	אירן	DET	_	_	39	det:poss	_	Translit=ir|Translit_Lemma=irn
@@ -37301,7 +37301,7 @@
 60	;	;	PUNCT	_	_	65	punct	_	Translit=;|Translit_Lemma=;
 61	און	און	CCONJ	_	_	65	cc	_	Translit=un|Translit_Lemma=un
 62	איר	איר	PRON	_	_	65	nsubj	_	Translit=ir|Translit_Lemma=ir
-63	װעט	װעלן	AUX	_	_	65	aux	_	Translit=vet|Translit_Lemma=veln
+63	װעט	וועלן	AUX	_	_	65	aux	_	Translit=vet|Translit_Lemma=veln
 64	זײ	זײ	PRON	_	_	65	obj	_	Translit=zey|Translit_Lemma=zey
 65	אָנטאָן	אָנטאָן	VERB	_	_	36	parataxis	_	Translit=onton|Translit_Lemma=onton
 66	אױף	אױף	ADP	_	_	68	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -37314,7 +37314,7 @@
 73	,	,	PUNCT	_	_	77	punct	_	Translit=,|Translit_Lemma=,
 74	און	און	CCONJ	_	_	77	cc	_	Translit=un|Translit_Lemma=un
 75	איר	איר	PRON	_	_	77	nsubj	_	Translit=ir|Translit_Lemma=ir
-76	װעט	װעלן	AUX	_	_	77	aux	_	Translit=vet|Translit_Lemma=veln
+76	װעט	וועלן	AUX	_	_	77	aux	_	Translit=vet|Translit_Lemma=veln
 77	אױסלײדיקן	אױסלײַדיק	VERB	_	_	65	conj	_	Translit=oysleydikn|Translit_Lemma=oyslaydik
 78	מִצרַיִם	מיצראַיִם	PROPN	_	_	77	obj	_	SpaceAfter=No|Translit=mitsraim|Translit_Lemma=mitsraim
 79	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
@@ -37334,14 +37334,14 @@
 7	:	:	PUNCT	_	_	14	punct	_	Translit=:|Translit_Lemma=:
 8	אָבער	אָבער	CCONJ	_	_	14	cc	_	Translit=ober|Translit_Lemma=ober
 9	זײ	זײ	PRON	_	_	14	nsubj	_	Translit=zey|Translit_Lemma=zey
-10	װעלן	װעלן	AUX	_	_	14	aux	_	Translit=veln|Translit_Lemma=veln
+10	װעלן	וועלן	AUX	_	_	14	aux	_	Translit=veln|Translit_Lemma=veln
 11	דאָך	דאָך	ADV	_	_	14	advmod	_	Translit=dokh|Translit_Lemma=dokh
 12	מיר	מיר	PRON	_	_	14	obl:arg	_	Translit=mir|Translit_Lemma=mir
 13	ניט	ניט	PART	_	_	14	advmod	_	Translit=nit|Translit_Lemma=nit
 14	גלױבן	גלויבן	VERB	_	_	6	ccomp	_	SpaceAfter=No|Translit=gloybn|Translit_Lemma=gloybn
 15	,	,	PUNCT	_	_	19	punct	_	Translit=,|Translit_Lemma=,
 16	און	און	CCONJ	_	_	19	cc	_	Translit=un|Translit_Lemma=un
-17	װעלן	װעלן	AUX	_	_	19	aux	_	Translit=veln|Translit_Lemma=veln
+17	װעלן	וועלן	AUX	_	_	19	aux	_	Translit=veln|Translit_Lemma=veln
 18	ניט	ניט	PART	_	_	19	advmod	_	Translit=nit|Translit_Lemma=nit
 19	צוהערן	צוהערן	VERB	_	_	14	conj	_	Translit=tsuhern|Translit_Lemma=tsuhern
 20	צו	צו	ADP	_	_	22	case	_	Translit=tsu|Translit_Lemma=tsu
@@ -37350,7 +37350,7 @@
 23	,	,	PUNCT	_	_	27	punct	_	Translit=,|Translit_Lemma=,
 24	װאָרום	װאָרום	SCONJ	_	_	27	mark	_	Translit=vorum|Translit_Lemma=vorum
 25	זײ	זײ	PRON	_	_	27	nsubj	_	Translit=zey|Translit_Lemma=zey
-26	װעלן	װעלן	AUX	_	_	27	aux	_	Translit=veln|Translit_Lemma=veln
+26	װעלן	וועלן	AUX	_	_	27	aux	_	Translit=veln|Translit_Lemma=veln
 27	זאָגן	זאָגן	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=zogn|Translit_Lemma=zogn
 28	:	:	PUNCT	_	_	36	punct	_	Translit=:|Translit_Lemma=:
 29	{	{	PUNCT	_	_	31	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
@@ -37634,14 +37634,14 @@
 4	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
 5	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
 6	איך	איך	PRON	_	_	11	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-7	װעל	װעלן	AUX	_	_	11	aux	_	Translit=vel|Translit_Lemma=veln
+7	װעל	וועלן	AUX	_	_	11	aux	_	Translit=vel|Translit_Lemma=veln
 8	זײַן	זײַן	AUX	_	_	11	cop	_	Translit=zayn|Translit_Lemma=zayn
 9	מיט	מיט	ADP	_	_	11	case	_	Translit=mit|Translit_Lemma=mit
 10	דײַן	דײַן	DET	_	_	11	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 11	מױל	מױל	NOUN	_	_	2	conj	_	SpaceAfter=No|Translit=moyl|Translit_Lemma=moyl
 12	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
 13	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
-14	װעל	װעלן	AUX	_	_	16	aux	_	Translit=vel|Translit_Lemma=veln
+14	װעל	וועלן	AUX	_	_	16	aux	_	Translit=vel|Translit_Lemma=veln
 15	דיך	דו	PRON	_	_	16	iobj	_	Translit=dikh|Translit_Lemma=du
 16	לערנען	לערנען	VERB	_	_	11	conj	_	Translit=lernen|Translit_Lemma=lernen
 17	װאָס	װאָס	PRON	_	_	20	obj	_	Translit=vos|Translit_Lemma=vos
@@ -37719,7 +37719,7 @@
 6	לעבן	לעבן	NOUN	_	_	4	nmod	_	Translit=lebn|Translit_Lemma=lebn
 7	און	און	CCONJ	_	_	8	cc	_	Translit=un|Translit_Lemma=un
 8	פֿריד	פֿריד	NOUN	_	_	2	conj	_	Translit=frid|Translit_Lemma=frid
-9	װעלן	װעלן	AUX	_	_	12	aux	_	Translit=veln|Translit_Lemma=veln
+9	װעלן	וועלן	AUX	_	_	12	aux	_	Translit=veln|Translit_Lemma=veln
 10	זײ	זײ	PRON	_	_	12	nsubj	_	Translit=zey|Translit_Lemma=zey
 11	דיר	דו	PRON	_	_	12	obl:arg	_	Translit=dir|Translit_Lemma=du
 12	צוגעבן	צוגעבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=tsugebn|Translit_Lemma=tsugebn
@@ -37819,7 +37819,7 @@
 8	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 9	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
 10	ער	ער	PRON	_	_	13	nsubj	_	Translit=er|Translit_Lemma=er
-11	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
+11	װעט	וועלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 12	גלײַך	גלײַך	ADV	_	_	13	advmod	_	Translit=glaykh|Translit_Lemma=glaykh
 13	מאַכן	מאַכן	VERB	_	_	7	conj	_	Translit=makhn|Translit_Lemma=makhn
 14	דײַנע	דײַן	DET	_	_	15	det:poss	_	Translit=dayne|Translit_Lemma=dayn
@@ -37864,7 +37864,7 @@
 # source = Book of Proverbs
 # genre = bible
 1	דאָס	דער	DET	_	_	5	nsubj	_	Translit=dos|Translit_Lemma=der
-2	װעט	װעלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	5	aux	_	Translit=vet|Translit_Lemma=veln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	הײלונג	הײלונג	NOUN	_	_	0	root	_	Translit=heylung|Translit_Lemma=heylung
@@ -37910,7 +37910,7 @@
 21	און	און	CCONJ	_	_	25	cc	_	Translit=un|Translit_Lemma=un
 22	דײַנע	דײַן	DET	_	_	23	det:poss	_	Translit=dayne|Translit_Lemma=dayn
 23	שפּײַכלערס	שפּײַכלער	NOUN	_	_	25	nsubj	_	Translit=shpaykhlers|Translit_Lemma=shpaykhler
-24	װעלן	װעלן	AUX	_	_	25	aux	_	Translit=veln|Translit_Lemma=veln
+24	װעלן	וועלן	AUX	_	_	25	aux	_	Translit=veln|Translit_Lemma=veln
 25	פֿול	פֿול	ADJ	_	_	1	conj	_	Translit=ful|Translit_Lemma=ful
 26	זײַן	זײַן	AUX	_	_	25	cop	_	Translit=zayn|Translit_Lemma=zayn
 27	מיט	מיט	ADP	_	_	28	case	_	Translit=mit|Translit_Lemma=mit
@@ -37919,7 +37919,7 @@
 30	און	און	CCONJ	_	_	34	cc	_	Translit=un|Translit_Lemma=un
 31	דײַנע	דײַן	DET	_	_	32	det:poss	_	Translit=dayne|Translit_Lemma=dayn
 32	קעלטערס	קעלטער	NOUN	_	_	34	nsubj	_	Translit=kelters|Translit_Lemma=kelter
-33	װעלן	װעלן	AUX	_	_	34	aux	_	Translit=veln|Translit_Lemma=veln
+33	װעלן	וועלן	AUX	_	_	34	aux	_	Translit=veln|Translit_Lemma=veln
 34	פֿלײצן	פֿלײַצן	VERB	_	_	1	conj	_	Translit=fleytsn|Translit_Lemma=flaytsn
 35	מיט	מיט	ADP	_	_	36	case	_	Translit=mit|Translit_Lemma=mit
 36	װײַן	ווײַן	NOUN	_	_	34	obl	_	SpaceAfter=No|Translit=vayn|Translit_Lemma=vayn
@@ -38201,7 +38201,7 @@
 16	,	,	PUNCT	_	_	21	punct	_	Translit=,|Translit_Lemma=,
 17	און	און	CCONJ	_	_	21	cc	_	Translit=un|Translit_Lemma=un
 18	זײ	זײ	PRON	_	_	21	nsubj	_	Translit=zey|Translit_Lemma=zey
-19	װעלן	װעלן	AUX	_	_	21	aux	_	Translit=veln|Translit_Lemma=veln
+19	װעלן	וועלן	AUX	_	_	21	aux	_	Translit=veln|Translit_Lemma=veln
 20	זײַן	זײַן	AUX	_	_	21	cop	_	Translit=zayn|Translit_Lemma=zayn
 21	לעבן	לעבן	NOUN	_	_	12	conj	_	Translit=lebn|Translit_Lemma=lebn
 22	פֿאַר	פֿאַר	ADP	_	_	24	case	_	Translit=far|Translit_Lemma=far
@@ -38223,7 +38223,7 @@
 # genre = bible
 1	דענצמאָל	דענצמאָל	ADV	_	_	4	advmod	_	Translit=dentsmol|Translit_Lemma=dentsmol
 2-3	װעסטו	_	_	_	_	_	_	_	Translit=vestu
-2	װעסט	וועסט	AUX	_	_	4	aux	_	Translit=vest|Translit_Lemma=vest
+2	װעסט	וועלן	AUX	_	_	4	aux	_	Translit=vest|Translit_Lemma=veln
 3	דו	דו	PRON	_	_	4	nsubj	_	Translit=du|Translit_Lemma=du
 4	גײן	גײַנען	VERB	_	_	0	root	_	Translit=geyn|Translit_Lemma=gaynen
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
@@ -38232,7 +38232,7 @@
 8	װעג	וועג	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=veg|Translit_Lemma=veg
 9	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 10	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-11	װעסט	וועסט	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=vest
+11	װעסט	וועלן	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=veln
 12	ניט	ניט	ADV	_	_	13	advmod	_	Translit=nit|Translit_Lemma=nit
 13	אָפּשלאָגן	אָפּשלאָגן	VERB	_	_	4	conj	_	Translit=opshlogn|Translit_Lemma=opshlogn
 14	דײַן	דײַן	DET	_	_	15	det:poss	_	Translit=dayn|Translit_Lemma=dayn
@@ -38247,22 +38247,22 @@
 # genre = bible
 1	אַז	אַז	SCONJ	_	_	5	mark	_	Translit=az|Translit_Lemma=az
 2	דו	דו	PRON	_	_	5	nsubj	_	Translit=du|Translit_Lemma=du
-3	װעסט	וועסט	AUX	_	_	5	aux	_	Translit=vest|Translit_Lemma=vest
+3	װעסט	וועלן	AUX	_	_	5	aux	_	Translit=vest|Translit_Lemma=veln
 4	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 5	לײגן	לײַגן	VERB	_	_	9	advcl	_	Translit=leygn|Translit_Lemma=laygn
 6-7	װעסטו	_	_	_	_	_	_	_	Translit=vestu
-6	װעסט	וועסט	AUX	_	_	9	aux	_	Translit=vest|Translit_Lemma=vest
+6	װעסט	וועלן	AUX	_	_	9	aux	_	Translit=vest|Translit_Lemma=veln
 7	דו	דו	PRON	_	_	9	nsubj	_	Translit=du|Translit_Lemma=du
 8	ניט	ניט	PART	_	_	9	advmod	_	Translit=nit|Translit_Lemma=nit
 9	אַנגסטן	אַנגסט	VERB	_	_	0	root	_	SpaceAfter=No|Translit=angstn|Translit_Lemma=angst
 10	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 11	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-12	װעסט	וועסט	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=vest
+12	װעסט	וועלן	AUX	_	_	13	aux	_	Translit=vest|Translit_Lemma=veln
 13	ליגן	ליגן	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=lign|Translit_Lemma=lign
 14	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
 16	זיס	זיס	AUX	_	_	9	conj	_	Translit=zis|Translit_Lemma=zis
-17	װעט	װעלן	AUX	_	_	16	aux	_	Translit=vet|Translit_Lemma=veln
+17	װעט	וועלן	AUX	_	_	16	aux	_	Translit=vet|Translit_Lemma=veln
 18	זײַן	זײַן	AUX	_	_	16	cop	_	Translit=zayn|Translit_Lemma=zayn
 19	דײַן	דײַן	DET	_	_	20	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 20	שלאָף	שלאָפֿן	VERB	_	_	16	nsubj	_	SpaceAfter=No|Translit=shlof|Translit_Lemma=shlofn
@@ -38307,13 +38307,13 @@
 3	dn	_	X	_	_	4	dep	_	Translit=דן
 4	גאָט	גאָט	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|Translit_Lemma=}
-6	װעט	װעלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
+6	װעט	וועלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
 7	זײַן	זײַן	AUX	_	_	9	cop	_	Translit=zayn|Translit_Lemma=zayn
 8	דײַן	דײַן	DET	_	_	9	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 9	בטחון	בטחון	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=betokhn|Translit_Lemma=betokhn
 10	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 11	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-12	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
+12	װעט	וועלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 13	היטן	היטן	VERB	_	_	9	conj	_	Translit=hitn|Translit_Lemma=hitn
 14	דײַן	דײַן	DET	_	_	15	det:poss	_	Translit=dayn|Translit_Lemma=dayn
 15	פֿוס	פֿוס	NOUN	_	_	13	obj	_	Translit=fus|Translit_Lemma=fus
@@ -38368,7 +38368,7 @@
 14	,	,	PUNCT	_	_	19	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	19	cc	_	Translit=un|Translit_Lemma=un
 16	מאָרגן	מאָרגן	ADV	_	_	19	advmod	_	Translit=morgn|Translit_Lemma=morgn
-17	װעל	װעלן	AUX	_	_	19	aux	_	Translit=vel|Translit_Lemma=veln
+17	װעל	וועלן	AUX	_	_	19	aux	_	Translit=vel|Translit_Lemma=veln
 18	איך	איך	PRON	_	_	19	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 19	געבן	געבן	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=gebn|Translit_Lemma=gebn
 20	”	”	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=”|Translit_Lemma=”
@@ -40132,7 +40132,7 @@
 36	העברעיִסטן	העברעיִסט	NOUN	_	_	32	appos	_	SpaceAfter=No|Translit=hebreistn|Translit_Lemma=hebreist
 37	“	“	PUNCT	_	_	36	punct	_	SpaceAfter=No|Translit=“|Translit_Lemma=“
 38	,	,	PUNCT	_	_	36	punct	_	Translit=,|Translit_Lemma=,
-39	וועלן	האָבן	AUX	_	_	41	aux	_	Translit=veln|Translit_Lemma=hobn
+39	וועלן	וועלן	AUX	_	_	41	aux	_	Translit=veln|Translit_Lemma=veln
 40	אונדז	מיר	PRON	_	_	41	obl:arg	_	Translit=undz|Translit_Lemma=mir
 41	אַרײַנזעצן	אַרײַנזעצן	VERB	_	_	11	conj	_	Translit=araynzetsn|Translit_Lemma=araynzetsn
 42	אַ	אַ	DET	_	_	47	det	_	Translit=a|Translit_Lemma=a
@@ -40234,7 +40234,7 @@
 2	צו	צו	PART	_	_	3	mark	_	Translit=tsu|Translit_Lemma=tsu
 3	טאָן	טאָן	VERB	_	_	9	ccomp	_	SpaceAfter=No|Translit=ton|Translit_Lemma=ton
 4	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
-5	וועט	װעלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
+5	וועט	וועלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
 6	ער	ער	PRON	_	_	9	nsubj	_	Translit=er|Translit_Lemma=er
 7	שוין	שוין	ADV	_	_	9	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 8	אַליין	אַליין	ADV	_	_	9	advmod	_	Translit=aleyn|Translit_Lemma=aleyn
@@ -40647,7 +40647,7 @@
 # genre = fiction
 1	–	–	PUNCT	_	_	4	punct	_	Translit=–|Translit_Lemma=–
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-3	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+3	װעל	וועלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 4	שפּילן	שפּיל	VERB	_	_	0	root	_	Translit=shpiln|Translit_Lemma=shpil
 5	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 6	ער	ער	PRON	_	_	7	nsubj	_	Translit=er|Translit_Lemma=er
@@ -40655,7 +40655,7 @@
 8	–	–	PUNCT	_	_	14	punct	_	Translit=–|Translit_Lemma=–
 9	און	און	CCONJ	_	_	14	cc	_	Translit=un|Translit_Lemma=un
 10	מע	מען	PRON	_	_	14	nsubj	_	Translit=me|Translit_Lemma=men
-11	װעט	װעלן	AUX	_	_	14	aux	_	Translit=vet|Translit_Lemma=veln
+11	װעט	וועלן	AUX	_	_	14	aux	_	Translit=vet|Translit_Lemma=veln
 12	מיך	איך	PRON	_	_	14	obj	_	Translit=mikh|Translit_Lemma=ikh
 13	דאָ	דאָ	ADV	_	_	14	advmod	_	Translit=do|Translit_Lemma=do
 14	פֿאַרשטיין	פֿאַרשטיין	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=farshteyn|Translit_Lemma=farshteyn
@@ -41134,7 +41134,7 @@
 16	װאָס	װאָס	PRON	_	_	20	nsubj	_	Translit=vos|Translit_Lemma=vos
 17	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|Translit_Lemma=fun
 18	דעם	דער	DET	_	_	20	obl	_	Translit=dem|Translit_Lemma=der
-19	װעט	װעלן	AUX	_	_	20	aux	_	Translit=vet|Translit_Lemma=veln
+19	װעט	וועלן	AUX	_	_	20	aux	_	Translit=vet|Translit_Lemma=veln
 20	אַרויסקומען	אַרויסקומען	VERB	_	_	14	ccomp	_	SpaceAfter=No|Translit=aroyskumen|Translit_Lemma=aroyskumen
 21	.	.	PUNCT	_	_	14	punct	_	Translit=.|Translit_Lemma=.
 
@@ -41720,7 +41720,7 @@
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 4	ניט	ניט	PART	_	_	5	advmod	_	Translit=nit|Translit_Lemma=nit
-5	געװערט	װערן	VERB	_	_	0	root	_	Translit=gevert|Translit_Lemma=vern
+5	געװערט	ווערט	VERB	_	_	0	root	_	Translit=gevert|Translit_Lemma=vert
 6	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
 7	זיך	זיך	PRON	_	_	9	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 8	װידער	װידער	ADV	_	_	9	advmod	_	Translit=vider|Translit_Lemma=vider
@@ -41850,7 +41850,7 @@
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װעל	װעלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
+2	װעל	וועלן	AUX	_	_	3	aux	_	Translit=vel|Translit_Lemma=veln
 3	קומען	קומען	VERB	_	_	0	root	_	Translit=kumen|Translit_Lemma=kumen
 4	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
 5	אײַך	איר	PRON	_	_	3	obl	_	Translit=aykh|Translit_Lemma=ir
@@ -41951,7 +41951,7 @@
 15	אַנטציקט	אַנטציקט	VERB	_	_	7	acl:relcl	_	SpaceAfter=No|Translit=anttsikt|Translit_Lemma=anttsikt
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
 17	װעלכע	װעלך	PRON	_	_	20	nsubj	_	Translit=velkhe|Translit_Lemma=velkh
-18	װעט	װעלן	AUX	_	_	20	aux	_	Translit=vet|Translit_Lemma=veln
+18	װעט	וועלן	AUX	_	_	20	aux	_	Translit=vet|Translit_Lemma=veln
 19	אייביק	אייביק	ADJ	_	_	20	advmod	_	Translit=eybik|Translit_Lemma=eybik
 20	פֿאַרשאַפֿן	פֿאַרשאַפֿן	VERB	_	_	7	acl:relcl	_	Translit=farshafn|Translit_Lemma=farshafn
 21	די	דער	DET	_	_	22	det	_	Translit=di|Translit_Lemma=der
@@ -42243,7 +42243,7 @@
 # source = Hirshke Glik
 # genre = nonfiction
 1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
-2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	קדיש	קדיש	PROPN	_	_	4	obj	_	Translit=kadesh|Translit_Lemma=kadesh
 4	זאָגן	זאָגן	VERB	_	_	0	root	_	Translit=zogn|Translit_Lemma=zogn
 5	נאָך	נאָך	ADP	_	_	6	case	_	Translit=nokh|Translit_Lemma=nokh
@@ -42257,7 +42257,7 @@
 # source = Hirshke Glik
 # genre = nonfiction
 1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
-2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	אונדז	מיר	PRON	_	_	4	obj	_	Translit=undz|Translit_Lemma=mir
 4	דערמאָנען	דערמאָנען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dermonen|Translit_Lemma=dermonen
 5	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
@@ -43313,7 +43313,7 @@
 26	,	,	PUNCT	_	_	30	punct	_	Translit=,|Translit_Lemma=,
 27	אָדער	אָדער	CCONJ	_	_	30	cc	_	Translit=oder|Translit_Lemma=oder
 28	שעפּס	שעפּס	PROPN	_	_	30	nsubj	_	Translit=sheps|Translit_Lemma=sheps
-29	װעט	װעלן	AUX	_	_	30	aux	_	Translit=vet|Translit_Lemma=veln
+29	װעט	וועלן	AUX	_	_	30	aux	_	Translit=vet|Translit_Lemma=veln
 30	געהערן	געהערן	VERB	_	_	24	conj	_	Translit=gehern|Translit_Lemma=gehern
 31	צו	צו	ADP	_	_	33	case	_	Translit=tsu|Translit_Lemma=tsu
 32	די	דער	DET	_	_	33	det	_	Translit=di|Translit_Lemma=der
@@ -43356,7 +43356,7 @@
 # genre = nonfiction
 1	װעגן	װעגן	ADP	_	_	2	case	_	Translit=vegn|Translit_Lemma=vegn
 2	דעם	דער	DET	_	_	5	obl	_	Translit=dem|Translit_Lemma=der
-3	װעלן	װעלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
+3	װעלן	וועלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
 4	מיר	מיר	PRON	_	_	5	nsubj	_	Translit=mir|Translit_Lemma=mir
 5	דערצײלן	דערצײלן	VERB	_	_	0	root	_	Translit=dertseyln|Translit_Lemma=dertseyln
 6	אַן	אַ	DET	_	_	8	det	_	Translit=an|Translit_Lemma=a
@@ -43581,7 +43581,7 @@
 4	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 5	צוריק	צוריק	ADV	_	_	3	compound:prt	_	Translit=tsurik|Translit_Lemma=tsurik
 6	–	–	PUNCT	_	_	3	punct	_	Translit=–|Translit_Lemma=–
-7	װעט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+7	װעט	וועלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 8	מען	מען	PRON	_	_	10	nsubj	_	Translit=men|Translit_Lemma=men
 9	מיך	איך	PRON	_	_	10	obj	_	Translit=mikh|Translit_Lemma=ikh
 10	שיסן	שיסן	VERB	_	_	0	root	_	Translit=shisn|Translit_Lemma=shisn
@@ -43636,7 +43636,7 @@
 12	ר	_	X	_	_	10	goeswith	_	Translit=r
 13	ט	_	X	_	_	10	goeswith	_	Translit=t
 14-15	װעסטו	_	_	_	_	_	_	_	Translit=vestu
-14	װעסט	וועסט	AUX	_	_	18	aux	_	Translit=vest|Translit_Lemma=vest
+14	װעסט	וועלן	AUX	_	_	18	aux	_	Translit=vest|Translit_Lemma=veln
 15	דו	דו	PRON	_	_	18	nsubj:pass	_	Translit=du|Translit_Lemma=du
 16	שױן	שױן	ADV	_	_	18	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 17	װערן	ווערן	AUX	_	_	18	aux:pass	_	Translit=vern|Translit_Lemma=vern
@@ -44158,11 +44158,11 @@
 1	װער	װער	PRON	_	_	9	nsubj:pass	_	Translit=ver|Translit_Lemma=ver
 2-3	ס'װעט	_	_	_	_	_	_	_	Translit=s'vet
 2	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
-3	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+3	װעט	וועלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 4	קומען	קומען	VERB	_	_	1	acl:relcl	_	Translit=kumen|Translit_Lemma=kumen
 5	צוריק	צוריק	ADV	_	_	4	compound:prt	_	SpaceAfter=No|Translit=tsurik|Translit_Lemma=tsurik
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
-7	װעט	װעלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
+7	װעט	וועלן	AUX	_	_	9	aux	_	Translit=vet|Translit_Lemma=veln
 8	װערן	ווערן	AUX	_	_	9	aux:pass	_	Translit=vern|Translit_Lemma=vern
 9	דערשאָסן	דערשיסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dershosn|Translit_Lemma=dershisn
 10	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
@@ -44722,7 +44722,7 @@
 6	ביזנעסמאַן	ביזנעסמאַן	NOUN	_	_	4	conj	_	Translit=biznesman|Translit_Lemma=biznesman
 7	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
 8	איר	איר	PRON	_	_	10	nsubj	_	Translit=ir|Translit_Lemma=ir
-9	וועט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+9	וועט	וועלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 10	זען	זען	VERB	_	_	1	conj	_	Translit=zen|Translit_Lemma=zen
 11	אַז	אַז	SCONJ	_	_	17	mark	_	Translit=az|Translit_Lemma=az
 12	ער	ער	PRON	_	_	17	nsubj	_	Translit=er|Translit_Lemma=er
@@ -45296,7 +45296,7 @@
 5	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
 6	שטרײַמל	שטרײַמל	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=shtrayml|Translit_Lemma=shtrayml
 7	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
-8	װעט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+8	װעט	וועלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 9	ער	ער	PRON	_	_	10	nsubj	_	Translit=er|Translit_Lemma=er
 10	װערן	ווערן	VERB	_	_	0	root	_	Translit=vern|Translit_Lemma=vern
 11	רבֿ	רבֿ	NOUN	_	_	10	xcomp	_	SpaceAfter=No|Translit=rov|Translit_Lemma=rov
@@ -46261,7 +46261,7 @@
 # genre = spoken, web
 1	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
 2	הײַנט	הײַנט	NOUN	_	_	6	obl:unmarked	_	Translit=haynt|Translit_Lemma=haynt
-3	װעל	װעלן	AUX	_	_	6	aux	_	Translit=vel|Translit_Lemma=veln
+3	װעל	וועלן	AUX	_	_	6	aux	_	Translit=vel|Translit_Lemma=veln
 4	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 5	טאַקע	טאַקע	ADV	_	_	6	advmod	_	Translit=take|Translit_Lemma=take
 6	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
@@ -47093,7 +47093,7 @@
 13	1916	_	NUM	_	_	9	nmod	_	Translit=1916
 14	–	–	PUNCT	_	_	17	punct	_	Translit=–|Translit_Lemma=–
 15	איר	איר	PRON	_	_	17	nsubj	_	Translit=ir|Translit_Lemma=ir
-16	װעט	װעלן	AUX	_	_	17	aux	_	Translit=vet|Translit_Lemma=veln
+16	װעט	וועלן	AUX	_	_	17	aux	_	Translit=vet|Translit_Lemma=veln
 17	זען	זען	VERB	_	_	1	parataxis	_	Translit=zen|Translit_Lemma=zen
 18	טױזענטער	טױזענטער	NOUN	_	_	17	obj	_	Translit=toyzenter|Translit_Lemma=toyzenter
 19	מענטשן	מענטשן	NOUN	_	_	18	appos	_	Translit=mentshn|Translit_Lemma=mentshn
@@ -47336,7 +47336,7 @@
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
 3	עפּיזאָד	עפּיזאָד	NOUN	_	_	6	obl	_	Translit=epizod|Translit_Lemma=epizod
-4	װעלן	װעלן	AUX	_	_	6	aux	_	Translit=veln|Translit_Lemma=veln
+4	װעלן	וועלן	AUX	_	_	6	aux	_	Translit=veln|Translit_Lemma=veln
 5	מיר	מיר	PRON	_	_	6	nsubj	_	Translit=mir|Translit_Lemma=mir
 6	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
 7	װעגן	װעגן	ADP	_	_	8	case	_	Translit=vegn|Translit_Lemma=vegn
@@ -47363,7 +47363,7 @@
 3	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|Translit_Lemma=az
 4-5	ס'װעט	_	_	_	_	_	_	_	Translit=s'vet
 4	עס	עס	PRON	_	_	7	nsubj	_	Translit=es|Translit_Lemma=es
-5	װעט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+5	װעט	וועלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
 6	אײַך	איר	PRON	_	_	7	obj	_	Translit=aykh|Translit_Lemma=ir
 7	אינטערעסירן	אינטערעסירן	VERB	_	_	2	ccomp	_	SpaceAfter=No|Translit=interesirn|Translit_Lemma=interesirn
 8	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -48826,7 +48826,7 @@
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
 1	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
-2	װעט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+2	װעט	וועלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
 4	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
 5	אױסערגעװענטלעכע	אױסערגעווענטלעך	ADJ	_	_	6	amod	_	Translit=oysergeventlekhe|Translit_Lemma=oysergeventlekh
@@ -48852,7 +48852,7 @@
 2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
 4	עפּיזאָד	עפּיזאָד	NOUN	_	_	7	obl	_	Translit=epizod|Translit_Lemma=epizod
-5	װעט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+5	װעט	וועלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
 6	איר	איר	PRON	_	_	7	nsubj	_	Translit=ir|Translit_Lemma=ir
 7	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
 8	אַ	אַ	DET	_	_	7	advmod	_	Translit=a|Translit_Lemma=a
@@ -49623,7 +49623,7 @@
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
 1	אַפֿשר	אַפֿשר	ADV	_	_	4	advmod	_	Translit=afsher|Translit_Lemma=afsher
-2	װעלן	װעלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
+2	װעלן	וועלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
 4	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
 5	װײַטער	װײַטער	ADV	_	_	4	advmod	_	Translit=vayter|Translit_Lemma=vayter
