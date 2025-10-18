@@ -23527,7 +23527,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 1685
-# text = דאָס זאָל זייַן אַ שפּיל.
+# text = דאָס זאָל זײַן אַ שפּיל.
 # translit = dos zol zayn a shpil.
 # rtl = yes
 # source = tatoeba.org
@@ -32301,7 +32301,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 2321
-# text = דאָס וואָס איז מײנס איז דײַנס.
+# text = דאָס וואָס איז מײַנס איז דײַנס.
 # translit = dos vos iz meyns iz dayns.
 # rtl = yes
 # source = tatoeba.org
