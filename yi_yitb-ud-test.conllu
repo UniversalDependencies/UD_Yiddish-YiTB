@@ -15573,7 +15573,7 @@
 # genre = grammar-examples/learner
 1	מײַן	מײַן	DET	_	_	2	det:poss	_	Translit=mayn|Translit_Lemma=mayn
 2	ברודער	ברודער	NOUN	_	_	5	nsubj	_	Translit=bruder|Translit_Lemma=bruder
-3	פֿלעג	האָבן	AUX	_	_	5	aux	_	Translit=fleg|Translit_Lemma=hobn
+3	פֿלעג	פֿלעגן	AUX	_	_	5	aux	_	Translit=fleg|Translit_Lemma=flegn
 4	דאָס	דער	DET	_	_	5	obj	_	Translit=dos|Translit_Lemma=der
 5	מאַכן	מאַכן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=makhn|Translit_Lemma=makhn
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
@@ -37964,7 +37964,7 @@
 # genre = bible
 1	װאָרום	װאָרום	SCONJ	_	_	12	mark	_	Translit=vorum|Translit_Lemma=vorum
 2	דעם	דער	DET	_	_	12	obj	_	Translit=dem|Translit_Lemma=der
-3	װאָס	װאָס	PRON	_	_	8	obj	_	Translit=vos|Translit_Lemma=vos
+3	װאָס	װאָס	PRON	_	_	8	dislocated	_	Translit=vos|Translit_Lemma=vos
 4	{	{	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
 5	dn	_	X	_	_	6	dep	_	Translit=דן
 6	גאָט	גאָט	PROPN	_	_	8	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
@@ -38976,7 +38976,7 @@
 39	ירושולים'ער	ירושול	ADJ	_	_	41	amod	_	Translit=yerushulim'er|Translit_Lemma=yerushul
 40	פרושים	פֿרוש	ADJ	_	_	41	amod	_	Translit=prushem|Translit_Lemma=foresh
 41	קרייזן	קרייז	NOUN	_	_	33	conj	_	Translit=kreyzn|Translit_Lemma=kreyz
-42	וואס	וואס	PRON	_	_	48	nsubj:pass	_	Translit=vos|Translit_Lemma=vos
+42	וואס	וואס	SCONJ	_	_	48	mark	_	Translit=vos|Translit_Lemma=vos
 43	ביי	ביי	ADP	_	_	44	case	_	Translit=bey|Translit_Lemma=bey
 44	טייל	טייל	NOUN	_	_	48	obl:agent	_	Translit=teyl|Translit_Lemma=teyl
 45	פון	פון	ADP	_	_	46	case	_	Translit=fun|Translit_Lemma=fun
@@ -39352,7 +39352,7 @@
 16	“	“	PUNCT	_	_	12	punct	_	Translit=“|Translit_Lemma=“
 17	און	און	CCONJ	_	_	23	cc	_	Translit=un|Translit_Lemma=un
 18	די	דער	DET	_	_	19	det	_	Translit=di|Translit_Lemma=der
-19	מאַמעשי	מאַמעשי	NOUN	_	_	23	nsubj	_	SpaceAfter=No|Translit=mameshi|Translit_Lemma=mameshi
+19	מאַמעשי	מאַמעשי	NOUN	_	_	23	dislocated	_	SpaceAfter=No|Translit=mameshi|Translit_Lemma=mameshi
 20	,	,	PUNCT	_	_	23	punct	_	Translit=,|Translit_Lemma=,
 21	נישט	נישט	PART	_	_	23	advmod	_	Translit=nisht|Translit_Lemma=nisht
 22	זי	זי	PRON	_	_	23	nsubj	_	Translit=zi|Translit_Lemma=zi
@@ -40215,7 +40215,7 @@
 18	אויס	אויס	ADP	_	_	16	compound:prt	_	Translit=oys|Translit_Lemma=oys
 19	די	דער	DET	_	_	21	det	_	Translit=di|Translit_Lemma=der
 20	„	„	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
-21	ייִדישיסטן	ייִדישיסט	NOUN	_	_	16	obj	_	SpaceAfter=No|Translit=yidishístn|Translit_Lemma=yidishist
+21	ייִדישיסטן	ייִדישיסט	NOUN	_	_	16	obl:arg	_	SpaceAfter=No|Translit=yidishístn|Translit_Lemma=yidishist
 22	“	“	PUNCT	_	_	21	punct	_	Translit=“|Translit_Lemma=“
 23	און	און	CCONJ	_	_	27	cc	_	Translit=un|Translit_Lemma=un
 24	וואָס	וואָס	PRON	_	_	27	obj	_	Translit=vos|Translit_Lemma=vos
@@ -41051,7 +41051,7 @@
 2	פֿרילינג	פֿרילינג	NOUN	_	_	8	obl	_	Translit=friling|Translit_Lemma=friling
 3	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 4	זומער	זומער	NOUN	_	_	2	conj	_	Translit=zumer|Translit_Lemma=zumer
-5	פֿלעג	האָבן	AUX	_	_	8	aux	_	Translit=fleg|Translit_Lemma=hobn
+5	פֿלעג	פֿלעגן	AUX	_	_	8	aux	_	Translit=fleg|Translit_Lemma=flegn
 6	איך	איך	PRON	_	_	8	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 7	לאַנג	לאַנג	ADJ	_	_	8	advmod	_	Translit=lang|Translit_Lemma=lang
 8	שטיין	שטיין	VERB	_	_	0	root	_	Translit=shteyn|Translit_Lemma=shteyn
@@ -42226,7 +42226,7 @@
 18	דאָך	דאָך	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=dokh|Translit_Lemma=dokh
 19	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 20	װער	װער	PRON	_	_	28	nsubj	_	Translit=ver|Translit_Lemma=ver
-21	עס	עס	PRON	_	_	28	obj	_	Translit=es|Translit_Lemma=es
+21	עס	עס	PRON	_	_	28	expl	_	Translit=es|Translit_Lemma=es
 22	זאָל	זאָלן	AUX	_	_	28	aux	_	Translit=zol|Translit_Lemma=zoln
 23	נאָך	נאָך	ADP	_	_	24	case	_	Translit=nokh|Translit_Lemma=nokh
 24	זײ	זײ	PRON	_	_	28	obl	_	Translit=zey|Translit_Lemma=zey
@@ -45789,7 +45789,7 @@
 # genre = proverb
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	אײער	אײַער	NOUN	_	_	5	nsubj	_	Translit=eyer|Translit_Lemma=ayer
-3	װילן	וועלן	VERB	_	_	5	aux	_	Translit=viln|Translit_Lemma=veln
+3	װילן	וועלן	AUX	_	_	5	aux	_	Translit=viln|Translit_Lemma=veln
 4	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
 5	קליגער	קליגער	ADJ	_	_	0	root	_	Translit=kliger|Translit_Lemma=kliger
 6	פֿון	פֿון	ADP	_	_	8	case	_	Translit=fun|Translit_Lemma=fun
@@ -46043,7 +46043,7 @@
 13	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = 2886
-# text = תּהילים זאָלֹ זײַן אַ רפֿואה װאָלט מען עס געקױפֿט אין דער אַפּטײק.
+# text = תּהילים זאָל זײַן אַ רפֿואה װאָלט מען עס געקױפֿט אין דער אַפּטײק.
 # translit = tehilem zol zayn a refue volt men es gekoyft in der aptayk.
 # rtl = yes
 # source = Yiddish proverb
@@ -47520,7 +47520,7 @@
 4	ייִדן	ייִד	NOUN	_	_	7	nsubj	_	Translit=yidn|Translit_Lemma=yid
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
 6	בולגאַריע	בולגאַריע	PROPN	_	_	4	nmod	_	Translit=bulgarye|Translit_Lemma=bulgarye
-7	פֿלעגן	האָבן	VERB	_	_	0	root	_	Translit=flegn|Translit_Lemma=hobn
+7	פֿלעגן	פֿלעגן	VERB	_	_	0	root	_	Translit=flegn|Translit_Lemma=flegn
 8	זינגען	זינגען	VERB	_	_	7	xcomp	_	Translit=zingen|Translit_Lemma=zingen
 9	לידער	לידערן	NOUN	_	_	8	obj	_	Translit=lider|Translit_Lemma=lidern
 10	אױף	אױף	ADP	_	_	11	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -47781,7 +47781,7 @@
 2	דאָ	דאָ	ADV	_	_	5	advmod	_	Translit=do|Translit_Lemma=do
 3	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 4	מעלבורן	מעלבור	PROPN	_	_	5	obl	_	Translit=melburn|Translit_Lemma=melbur
-5	פֿלעגט	האָבן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=hobn
+5	פֿלעגט	פֿלעגן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=flegn
 6	מען	מען	PRON	_	_	5	nsubj	_	Translit=men|Translit_Lemma=men
 7	אױך	אױך	ADV	_	_	5	advmod	_	Translit=oykh|Translit_Lemma=oykh
 8	פּראַװען	פּראַווען	VERB	_	_	5	xcomp	_	Translit=praven|Translit_Lemma=praven
@@ -49039,7 +49039,7 @@
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
-2	פֿלעגט	האָבן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=hobn
+2	פֿלעגט	פֿלעגן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=flegn
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 4	אַװעקלײגן	אַוועקלײַגן	VERB	_	_	2	xcomp	_	Translit=avekleygn|Translit_Lemma=aveklaygn
 5	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
