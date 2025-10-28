@@ -22609,7 +22609,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner
-1	וואָס	וואָס	SCONJ	_	_	0	mark	_	Translit=vos|Translit_Lemma=vos
+1	וואָס	וואָס	PRON	_	_	0	root	_	Translit=vos|Translit_Lemma=vos
 2	זענען	זײַן	AUX	_	_	1	cop	_	Translit=zenen|Translit_Lemma=zayn
 3	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 4	צוויי	_	NUM	_	_	5	nummod	_	Translit=tsvey
@@ -28054,7 +28054,7 @@
 3	באַגרענעצט	באַגרענעצן	VERB	_	_	11	advcl	_	Translit=bagrenetst|Translit_Lemma=bagrenetsn
 4	זיך	זיך	PRON	_	_	3	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 5	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
-6	וואָס	וואָס	SCONJ	_	_	3	mark	_	Translit=vos|Translit_Lemma=vos
+6	וואָס	וואָס	PRON	_	_	3	obl	_	Translit=vos|Translit_Lemma=vos
 7	מע	מען	PRON	_	_	8	nsubj	_	Translit=me|Translit_Lemma=men
 8	ווייסט	וויסן	VERB	_	_	6	acl:relcl	_	Translit=veyst|Translit_Lemma=visn
 9	שוין	שוין	ADV	_	_	8	advmod	_	SpaceAfter=No|Translit=shoyn|Translit_Lemma=shoyn
@@ -38613,7 +38613,7 @@
 6	באנוצט	באנוצן	VERB	_	_	0	root	_	Translit=banutst|Translit_Lemma=banutsn
 7	געווארן	ווערן	AUX	_	_	6	aux:pass	_	Translit=gevarn|Translit_Lemma=vern
 8	אויף	אויף	ADP	_	_	9	case	_	Translit=oyf|Translit_Lemma=oyf
-9	וואס	וואס	SCONJ	_	_	6	mark	_	Translit=vos|Translit_Lemma=vos
+9	וואס	וואס	PRON	_	_	6	obl	_	Translit=vos|Translit_Lemma=vos
 10	א	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
 11	שפראך	שפּראך	NOUN	_	_	13	nsubj:pass	_	Translit=shprakh|Translit_Lemma=shprekh
 12	ווערט	װערן	AUX	_	_	13	aux:pass	_	Translit=vert|Translit_Lemma=vern
@@ -42599,7 +42599,7 @@
 9	געגעבן	געבן	VERB	_	_	0	root	_	Translit=gegebn|Translit_Lemma=gebn
 10	און	און	CCONJ	_	_	21	cc	_	Translit=un|Translit_Lemma=un
 11	מיט	מיט	ADP	_	_	12	case	_	Translit=mit|Translit_Lemma=mit
-12	װאָס	װאָס	SCONJ	_	_	21	mark	_	Translit=vos|Translit_Lemma=vos
+12	װאָס	װאָס	PRON	_	_	21	obl	_	Translit=vos|Translit_Lemma=vos
 13	נאָר	נאָר	ADV	_	_	16	advmod	_	Translit=nor|Translit_Lemma=nor
 14	איך	איך	PRON	_	_	16	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 15	האָב	האָבן	AUX	_	_	16	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -44638,7 +44638,7 @@
 2	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 4	בעסער	בעסער	ADJ	_	_	20	advcl	_	Translit=beser|Translit_Lemma=beser
-5	אָפּ	אָפּ	ADP	_	_	4	advmod	_	Translit=op|Translit_Lemma=op
+5	אָפּ	אָפּ	ADV	_	_	4	advmod	_	Translit=op|Translit_Lemma=op
 6	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
 7	ספּענדט	ספּענדן	VERB	_	_	4	conj	_	Translit=spendt|Translit_Lemma=spendn
 8	אויף	אויף	ADP	_	_	10	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -47852,7 +47852,7 @@
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	הגדה	הגדה	NOUN	_	_	5	obj	_	Translit=hagode|Translit_Lemma=hagode
 8	לױט	לױט	ADP	_	_	9	case	_	Translit=loyt|Translit_Lemma=loyt
-9	װאָס	װאָס	SCONJ	_	_	5	mark	_	Translit=vos|Translit_Lemma=vos
+9	װאָס	װאָס	PRON	_	_	5	obl	_	Translit=vos|Translit_Lemma=vos
 10	איז	זײַן	AUX	_	_	12	cop	_	Translit=iz|Translit_Lemma=zayn
 11	אײַך	איר	PRON	_	_	12	obl:arg	_	Translit=aykh|Translit_Lemma=ir
 12	װיכטיק	וויכטיק	ADJ	_	_	9	acl:relcl	_	SpaceAfter=No|Translit=vikhtik|Translit_Lemma=vikhtik
@@ -49632,3 +49632,4 @@
 10	קומענדיקן	קומען	ADJ	_	_	11	amod	_	Translit=kumendikn|Translit_Lemma=kumen
 11	עפּיזאָד	עפּיזאָד	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=epizod|Translit_Lemma=epizod
 12	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
