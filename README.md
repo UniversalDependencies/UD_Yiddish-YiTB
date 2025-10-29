@@ -46,7 +46,7 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: grammar-examples learner-essays bible wiki fiction nonfiction proverb spoken web
+Genre: grammar-examples learner-essays bible wiki fiction nonfiction spoken web
 Lemmas: automatic
 UPOS: manual native
 XPOS: not available
