@@ -46,7 +46,7 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: tatoeba, bible
-Genre: grammar-examples, learner, bible, wiki, fiction, nonfiction, proverb, spoken, liturgical, web
+Genre: grammar-examples learner bible wiki fiction nonfiction proverb spoken liturgical web
 Lemmas: automatic
 UPOS: manual native
 XPOS: not available
