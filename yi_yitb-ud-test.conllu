@@ -7734,7 +7734,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner
-1	וואָס	וואָס	SCONJ	_	_	0	mark	_	Translit=vos|Translit_Lemma=vos
+1	וואָס	וואָס	PRON	_	_	0	root	_	Translit=vos|Translit_Lemma=vos
 2	איז	זײַן	AUX	_	_	1	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 4	ציל	ציל	NOUN	_	_	1	nsubj	_	Translit=tsil|Translit_Lemma=tsil
@@ -8505,7 +8505,7 @@
 4	סיבה	סיבה	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=sive|Translit_Lemma=sive
 5	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 6	פֿאַר	פֿאַר	ADP	_	_	7	case	_	Translit=far|Translit_Lemma=far
-7	וואָס	וואָס	SCONJ	_	_	10	mark	_	Translit=vos|Translit_Lemma=vos
+7	וואָס	וואָס	PRON	_	_	10	obl	_	Translit=vos|Translit_Lemma=vos
 8	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 9	בין	זײַן	AUX	_	_	10	cop	_	Translit=bin|Translit_Lemma=zayn
 10	דאָ	דאָ	ADV	_	_	4	acl:relcl	_	SpaceAfter=No|Translit=do|Translit_Lemma=do
@@ -47706,7 +47706,7 @@
 11	באַזונדערן	באַזונדער	ADJ	_	_	12	amod	_	Translit=bazundern|Translit_Lemma=bazunder
 12	סדר	סדרן	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=seyder|Translit_Lemma=sadern
 13	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
-14	אין	אין	ADP	_	_	17	advmod	_	Translit=in|Translit_Lemma=in
+14	אין	אין	ADP	_	ExtPos=ADV	17	advmod	_	Translit=in|Translit_Lemma=in
 15	גאַנצן	גאַנץ	ADJ	_	_	14	fixed	_	Translit=gantsn|Translit_Lemma=gants
 16	אױף	אױף	ADP	_	_	17	case	_	Translit=oyf|Translit_Lemma=oyf
 17	ייִדיש	ײִדישן	PROPN	_	_	9	obl	_	Translit=yidish|Translit_Lemma=yidishn
