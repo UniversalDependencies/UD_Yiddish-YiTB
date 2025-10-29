@@ -45,8 +45,8 @@ To the best of our knowledge, the source texts used for the creation of this tre
 Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: tatoeba, bible
-Genre: grammar-examples learner bible wiki fiction nonfiction proverb spoken liturgical web
+Parallel: no
+Genre: grammar-examples learner-essays bible wiki fiction nonfiction proverb spoken web
 Lemmas: automatic
 UPOS: manual native
 XPOS: not available
