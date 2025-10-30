@@ -43556,7 +43556,7 @@
 5	"	"	PUNCT	_	_	7	punct	_	Translit="|Translit_Lemma="
 6	איך	איך	PRON	_	_	7	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 7	פֿאַרלאָז	פֿאַרלאָזן	VERB	_	_	3	ccomp	_	Translit=farloz|Translit_Lemma=farlozn
-8	פֿ	פֿ	PROPN	_	_	7	advmod	_	Translit=f|Translit_Lemma=farbn
+8	פֿ	פֿ	ADV	_	_	7	advmod	_	Translit=f|Translit_Lemma=farbn
 9	ר	ר	PROPN	_	_	8	flat	_	Translit=r
 10	ײַ	ײַ	PROPN	_	_	8	flat	_	Translit=ay
 11	װ	װ	PROPN	_	_	8	flat	_	Translit=v
@@ -44116,8 +44116,8 @@
 4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 5	אױטאָס	אױטאָ	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=oytos|Translit_Lemma=oyto
 6	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
-7	דער	דער	ADV	_	_	9	advmod	_	Translit=der|Translit_Lemma=der
-8	בײַ	_	X	_	Typo=Yes	7	goeswith	_	Translit=bay
+7	דער	דער	ADV	_	Typo=Yes	9	advmod	_	Translit=der|Translit_Lemma=der
+8	בײַ	_	X	_	_	7	goeswith	_	Translit=bay
 9	געשלאָגן	שליגן	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=geshlogn|Translit_Lemma=shlign
 10	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
 
