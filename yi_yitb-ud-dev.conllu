@@ -1,0 +1,2990 @@
+# sent_id = hirshke-glik_1
+# text = פֿון די, װעלכע זײַנען פֿאַרכאַפּט געװאָרן פֿון דער געשטאַפּאָ, האָב איך דערמאָנט אױך דעם נאָמען „הירשקע גליק.“
+# translit = fun di, velkhe zaynen farkhapt gevorn fun der geshtapo, hob ikh dermont oykh dem nomen „hirshke glik.“
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	פֿון	פֿון	ADP	_	_	2	case	_	Translit=fun|Translit_Lemma=fun
+2	די	דער	DET	_	_	14	obl	_	SpaceAfter=No|Translit=di|Translit_Lemma=der
+3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
+4	װעלכע	װעלך	PRON	_	_	6	nsubj:pass	_	Translit=velkhe|Translit_Lemma=velkh
+5	זײַנען	זײַן	AUX	_	_	6	aux	_	Translit=zaynen|Translit_Lemma=zayn
+6	פֿאַרכאַפּט	פֿאַרכאַפּן	VERB	_	_	2	acl:relcl	_	Translit=farkhapt|Translit_Lemma=farkhapn
+7	געװאָרן	װערן	AUX	_	_	6	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
+8	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
+9	דער	דער	DET	_	_	10	det	_	Translit=der|Translit_Lemma=der
+10	געשטאַפּאָ	געשטאַפּאָ	NOUN	_	_	6	obl	_	SpaceAfter=No|Translit=geshtapo|Translit_Lemma=geshtapo
+11	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
+12	האָב	האָבן	AUX	_	_	14	aux	_	Translit=hob|Translit_Lemma=hobn
+13	איך	איך	PRON	_	_	14	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+14	דערמאָנט	דערמאָנען	VERB	_	_	0	root	_	Translit=dermont|Translit_Lemma=dermonen
+15	אױך	אױך	ADV	_	_	14	advmod	_	Translit=oykh|Translit_Lemma=oykh
+16	דעם	דער	DET	_	_	17	det	_	Translit=dem|Translit_Lemma=der
+17	נאָמען	נאָמען	NOUN	_	_	14	obj	_	Translit=nomen|Translit_Lemma=nomen
+18	„	„	PUNCT	_	_	19	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+19	הירשקע	הירשקע	PROPN	_	_	17	appos	_	Translit=hirshke|Translit_Lemma=hirshke
+20	גליק	גליק	PROPN	_	_	19	flat:name	_	SpaceAfter=No|Translit=glik|Translit_Lemma=glik
+21	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
+22	“	“	PUNCT	_	_	21	punct	_	Translit=“|Translit_Lemma=“
+
+# sent_id = hirshke-glik_2
+# text = ער גײט מיר נישט אַרױס פֿון זכּרון.
+# translit = er geyt mir nisht aroys fun zikorn.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	גײט	גײַט	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=gayt
+3	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
+4	נישט	נישט	PART	_	_	2	advmod	_	Translit=nisht|Translit_Lemma=nisht
+5	אַרױס	אַרױס	ADV	_	_	2	compound:prt	_	Translit=aroys|Translit_Lemma=aroys
+6	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
+7	זכּרון	זכּרון	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=zikorn|Translit_Lemma=zikorn
+8	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_3
+# text = מיט עטלעכע טעג פֿריִער האָב איך נאָך געהאַט מיט אים אַ שמועס װעגן זײַנע לידער.
+# translit = mit etlekhe teg frier hob ikh nokh gehat mit im a shmues vegn zayne lider.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	מיט	מיט	ADP	_	_	3	case	_	Translit=mit|Translit_Lemma=mit
+2	עטלעכע	_	DET	_	_	3	det	_	Translit=etlekhe
+3	טעג	טאָג	NOUN	_	_	8	obl	_	Translit=teg|Translit_Lemma=tog
+4	פֿריִער	פֿריִער	ADV	_	_	3	advmod	_	Translit=frier|Translit_Lemma=frier
+5	האָב	האָבן	AUX	_	_	8	aux	_	Translit=hob|Translit_Lemma=hobn
+6	איך	איך	PRON	_	_	8	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+7	נאָך	נאָך	ADV	_	_	8	advmod	_	Translit=nokh|Translit_Lemma=nokh
+8	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
+9	מיט	מיט	ADP	_	_	10	case	_	Translit=mit|Translit_Lemma=mit
+10	אים	עס	PRON	_	_	8	obl	_	Translit=im|Translit_Lemma=es
+11	אַ	אַ	DET	_	_	12	det	_	Translit=a|Translit_Lemma=a
+12	שמועס	שמועס	NOUN	_	_	8	obj	_	Translit=shmues|Translit_Lemma=shmues
+13	װעגן	װעגן	ADP	_	_	15	case	_	Translit=vegn|Translit_Lemma=vegn
+14	זײַנע	זײַן	DET	_	_	15	det:poss	_	Translit=zayne|Translit_Lemma=zayn
+15	לידער	לידערן	NOUN	_	_	12	nmod	_	SpaceAfter=No|Translit=lider|Translit_Lemma=lidern
+16	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_4
+# text = װי מאָדנע דאָס איז בײַ אונדז אין געטאָ.
+# translit = vi modne dos iz bay undz in geto.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װי	װי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
+2	מאָדנע	מאָדנע	ADJ	_	_	0	root	_	Translit=modne|Translit_Lemma=modne
+3	דאָס	דער	DET	_	_	2	nsubj	_	Translit=dos|Translit_Lemma=der
+4	איז	זײַן	AUX	_	_	2	cop	_	Translit=iz|Translit_Lemma=zayn
+5	בײַ	בײַ	ADP	_	_	6	case	_	Translit=bay|Translit_Lemma=bay
+6	אונדז	מיר	PRON	_	_	2	obl	_	Translit=undz|Translit_Lemma=mir
+7	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+8	געטאָ	געטאָ	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=geto|Translit_Lemma=geto
+9	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_5
+# text = דוכט זיך, אַז יעדערער װײס, אַז אױך זײַן סוף דערנענטערט זיך און דאָך רעדט יעדערער פֿון אונדז מיט באַדױערונג װעגן די צוגענומענע, װעגן די אומגעקומענע.
+# translit = dukht zikh, az yederer veys, az oykh zayn sof dernentert zikh un dokh redt yederer fun undz mit badoyerung vegn di tsugenumene, vegn di umgekumene.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	דוכט	דוכטן	VERB	_	_	0	root	_	Translit=dukht|Translit_Lemma=dukhtn
+2	זיך	זיך	PRON	_	_	1	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
+3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
+4	אַז	אַז	SCONJ	_	_	6	mark	_	Translit=az|Translit_Lemma=az
+5	יעדערער	יעדערער	DET	_	_	6	nsubj	_	Translit=yederer|Translit_Lemma=yederer
+6	װײס	ווײַס	VERB	_	_	1	ccomp	_	SpaceAfter=No|Translit=veys|Translit_Lemma=vays
+7	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
+8	אַז	אַז	SCONJ	_	_	12	mark	_	Translit=az|Translit_Lemma=az
+9	אױך	אױך	ADV	_	_	12	advmod	_	Translit=oykh|Translit_Lemma=oykh
+10	זײַן	זײַן	DET	_	_	11	det:poss	_	Translit=zayn|Translit_Lemma=zayn
+11	סוף	סוף	NOUN	_	_	12	nsubj	_	Translit=sof|Translit_Lemma=sof
+12	דערנענטערט	דערנענטערן	VERB	_	_	6	ccomp	_	Translit=dernentert|Translit_Lemma=dernentern
+13	זיך	זיך	PRON	_	_	12	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+14	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
+15	דאָך	דאָך	ADV	_	_	16	advmod	_	Translit=dokh|Translit_Lemma=dokh
+16	רעדט	רעדן	VERB	_	_	1	conj	_	Translit=redt|Translit_Lemma=redn
+17	יעדערער	יעדערער	DET	_	_	16	nsubj	_	Translit=yederer|Translit_Lemma=yederer
+18	פֿון	פֿון	ADP	_	_	19	case	_	Translit=fun|Translit_Lemma=fun
+19	אונדז	מיר	PRON	_	_	17	nmod	_	Translit=undz|Translit_Lemma=mir
+20	מיט	מיט	ADP	_	_	21	case	_	Translit=mit|Translit_Lemma=mit
+21	באַדױערונג	באַדױערונג	NOUN	_	_	16	obl	_	Translit=badoyerung|Translit_Lemma=badoyerung
+22	װעגן	װעגן	ADP	_	_	24	case	_	Translit=vegn|Translit_Lemma=vegn
+23	די	דער	DET	_	_	24	det	_	Translit=di|Translit_Lemma=der
+24	צוגענומענע	צוגענומען	ADJ	_	_	21	nmod	_	SpaceAfter=No|Translit=tsugenumene|Translit_Lemma=tsugenumen
+25	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
+26	װעגן	װעגן	ADP	_	_	28	case	_	Translit=vegn|Translit_Lemma=vegn
+27	די	דער	DET	_	_	28	det	_	Translit=di|Translit_Lemma=der
+28	אומגעקומענע	אומגעקומען	ADJ	_	_	24	conj	_	SpaceAfter=No|Translit=umgekumene|Translit_Lemma=umgekumen
+29	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_6
+# text = אָפֿט מאַכן מיר דאָך אַפֿילו נאָך זײ אַזכּרה־אַקטן.
+# translit = oft makhn mir dokh afile nokh zey azkore-aktn.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אָפֿט	אָפֿט	ADV	_	_	2	advmod	_	Translit=oft|Translit_Lemma=oft
+2	מאַכן	מאַכן	VERB	_	_	0	root	_	Translit=makhn|Translit_Lemma=makhn
+3	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+4	דאָך	דאָך	ADV	_	_	2	advmod	_	Translit=dokh|Translit_Lemma=dokh
+5	אַפֿילו	אַפֿילו	ADV	_	_	2	advmod	_	Translit=afile|Translit_Lemma=afile
+6	נאָך	נאָך	ADV	_	_	2	advmod	_	Translit=nokh|Translit_Lemma=nokh
+7	זײ	זײ	PRON	_	_	2	obl:arg	_	Translit=zey|Translit_Lemma=zey
+8	אַזכּרה־אַקטן	אַזכּרה־אַקט	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=azkore-aktn|Translit_Lemma=azkore-akt
+9	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_7
+# text = אָט זײַנען אַפֿילו נישט לאַנג פֿאָרגעקומען טרױער־אַקאַדעמיעס נאָך דעם ד“ר צמח שאַבאַד (געשטאָרבן פֿאַר דער מלחמה), נאָך ד“ר קאָװאַרסקי (געשטאָרבן אין די ערשטע טעג װי די נאַציס האָבן אָקופּירט די שטאָט), נאָך די לערערס גערשטײן און פּלודערמאַכער.
+# translit = ot zaynen afile nisht lang forgekumen troyer-akademyes nokh dem “r tsamekh shabad (geshtorbn far der milkhome), nokh “r kovarski (geshtorbn in di ershte teg vi di natsis hobn okupirt di shtot), nokh di lerers gershteyn un pludermakher.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אָט	אָט	ADV	_	_	6	advmod	_	Translit=ot|Translit_Lemma=ot
+2	זײַנען	זײַן	AUX	_	_	6	aux	_	Translit=zaynen|Translit_Lemma=zayn
+3	אַפֿילו	אַפֿילו	ADV	_	_	6	advmod	_	Translit=afile|Translit_Lemma=afile
+4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
+5	לאַנג	לאַנג	ADJ	_	_	6	advmod	_	Translit=lang|Translit_Lemma=lang
+6	פֿאָרגעקומען	פֿאָרקומען	VERB	_	_	0	root	_	Translit=forgekumen|Translit_Lemma=forkumen
+7	טרױער־אַקאַדעמיעס	טרױער־אַקאַדעמיע	NOUN	_	_	6	nsubj	_	Translit=troyer-akademyes|Translit_Lemma=troyer-akademye
+8	נאָך	נאָך	ADP	_	_	10	case	_	Translit=nokh|Translit_Lemma=nokh
+9	דעם	דער	DET	_	_	10	det	_	Translit=dem|Translit_Lemma=der
+10	ד“ר	דלרן	NOUN	_	_	7	nmod	_	Translit=“r|Translit_Lemma=dalern
+11	צמח	צמח	PROPN	_	_	10	flat:name	_	Translit=tsamekh|Translit_Lemma=tsamekh
+12	שאַבאַד	שאַבאַד	PROPN	_	_	10	flat:name	_	Translit=shabad|Translit_Lemma=shabad
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=(|Translit_Lemma=(
+14	געשטאָרבן	שטאַרבן	VERB	_	_	10	parataxis	_	Translit=geshtorbn|Translit_Lemma=shtarbn
+15	פֿאַר	פֿאַר	ADP	_	_	17	case	_	Translit=far|Translit_Lemma=far
+16	דער	דער	DET	_	_	17	det	_	Translit=der|Translit_Lemma=der
+17	מלחמה	מלחמה	NOUN	_	_	14	obl	_	SpaceAfter=No|Translit=milkhome|Translit_Lemma=milkhome
+18	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=)|Translit_Lemma=)
+19	,	,	PUNCT	_	_	21	punct	_	Translit=,|Translit_Lemma=,
+20	נאָך	נאָך	ADP	_	_	21	case	_	Translit=nokh|Translit_Lemma=nokh
+21	ד“ר	ד⁜ר	PROPN	_	_	10	conj	_	Translit=“r|Translit_Lemma=d“אַר
+22	קאָװאַרסקי	קאָװאַרסקי	PROPN	_	_	21	flat:name	_	Translit=kovarski|Translit_Lemma=kovarski
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No|Translit=(|Translit_Lemma=(
+24	געשטאָרבן	שטאַרבן	VERB	_	_	21	parataxis	_	Translit=geshtorbn|Translit_Lemma=shtarbn
+25	אין	אין	ADP	_	_	28	case	_	Translit=in|Translit_Lemma=in
+26	די	דער	DET	_	_	28	det	_	Translit=di|Translit_Lemma=der
+27	ערשטע	ערשט	ADJ	_	_	28	amod	_	Translit=ershte|Translit_Lemma=ersht
+28	טעג	טאָג	NOUN	_	_	24	obl	_	Translit=teg|Translit_Lemma=tog
+29	װי	װי	SCONJ	_	_	33	mark	_	Translit=vi|Translit_Lemma=vi
+30	די	דער	DET	_	_	31	det	_	Translit=di|Translit_Lemma=der
+31	נאַציס	נאַצי	NOUN	_	_	33	nsubj	_	Translit=natsis|Translit_Lemma=natsi
+32	האָבן	האָבן	AUX	_	_	33	aux	_	Translit=hobn|Translit_Lemma=hobn
+33	אָקופּירט	אָקופּירן	VERB	_	_	24	advcl	_	Translit=okupirt|Translit_Lemma=okupirn
+34	די	דער	DET	_	_	35	det	_	Translit=di|Translit_Lemma=der
+35	שטאָט	שטאָט	NOUN	_	_	33	obj	_	SpaceAfter=No|Translit=shtot|Translit_Lemma=shtot
+36	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No|Translit=)|Translit_Lemma=)
+37	,	,	PUNCT	_	_	40	punct	_	Translit=,|Translit_Lemma=,
+38	נאָך	נאָך	ADP	_	_	40	case	_	Translit=nokh|Translit_Lemma=nokh
+39	די	דער	DET	_	_	40	det	_	Translit=di|Translit_Lemma=der
+40	לערערס	לערער	NOUN	_	_	21	conj	_	Translit=lerers|Translit_Lemma=lerer
+41	גערשטײן	גערשטײן	PROPN	_	_	40	appos	_	Translit=gershteyn|Translit_Lemma=gershteyn
+42	און	און	CCONJ	_	_	43	cc	_	Translit=un|Translit_Lemma=un
+43	פּלודערמאַכער	פּלודערמאַכער	PROPN	_	_	41	conj	_	SpaceAfter=No|Translit=pludermakher|Translit_Lemma=pludermakher
+44	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_8
+# text = מען האָט געהאַלטן טרױער־רעדעס, מען האָט דערצײלט זכרונות.
+# translit = men hot gehaltn troyer-redes, men hot dertseylt zkhroynes.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געהאַלטן	האַלטן	VERB	_	_	0	root	_	Translit=gehaltn|Translit_Lemma=haltn
+4	טרױער־רעדעס	טרױער־ראָד	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=troyer-redes|Translit_Lemma=troyer-rod
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
+6	מען	מען	PRON	_	_	8	nsubj	_	Translit=men|Translit_Lemma=men
+7	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
+8	דערצײלט	דערצײלען	VERB	_	_	3	conj	_	Translit=dertseylt|Translit_Lemma=dertseylen
+9	זכרונות	זכּרון	NOUN	_	_	8	obj	_	SpaceAfter=No|Translit=zkhroynes|Translit_Lemma=zikorn
+10	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_9
+# text = איך בין נישט לאַנג אַרײַן אין אַ בית־מדרש און אַ שרעק האָט מיך אַרומגענומען, װען דער גאַנצער עולם האָט זיך צום סוף אַװעקגעשטעלט אױסיאָמערן קדיש.
+# translit = ikh bin nisht lang arayn in a beys-medrash un a shrek hot mikh arumgenumen, ven der gantser oylem hot zikh tsum sof avekgeshtelt oysyomern kadesh.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	בין	זײַן	AUX	_	_	5	aux	_	Translit=bin|Translit_Lemma=zayn
+3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	לאַנג	לאַנג	ADJ	_	_	5	advmod	_	Translit=lang|Translit_Lemma=lang
+5	אַרײַן	אַרײַן	ADV	_	_	0	root	_	Translit=arayn|Translit_Lemma=arayn
+6	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+8	בית־מדרש	בית־מדרש	NOUN	_	_	5	obl	_	Translit=beys-medrash|Translit_Lemma=beys-medrash
+9	און	און	CCONJ	_	_	14	cc	_	Translit=un|Translit_Lemma=un
+10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
+11	שרעק	שרעק	NOUN	_	_	14	nsubj	_	Translit=shrek|Translit_Lemma=shrek
+12	האָט	האָבן	AUX	_	_	14	aux	_	Translit=hot|Translit_Lemma=hobn
+13	מיך	איך	PRON	_	_	14	obj	_	Translit=mikh|Translit_Lemma=ikh
+14	אַרומגענומען	אַרומנעמען	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=arumgenumen|Translit_Lemma=arumnemen
+15	,	,	PUNCT	_	_	25	punct	_	Translit=,|Translit_Lemma=,
+16	װען	װען	SCONJ	_	_	25	mark	_	Translit=ven|Translit_Lemma=ven
+17	דער	דער	DET	_	_	19	det	_	Translit=der|Translit_Lemma=der
+18	גאַנצער	גאַנץ	ADJ	_	_	19	amod	_	Translit=gantser|Translit_Lemma=gants
+19	עולם	עולם	NOUN	_	_	25	nsubj	_	Translit=oylem|Translit_Lemma=oylem
+20	האָט	האָבן	AUX	_	_	25	aux	_	Translit=hot|Translit_Lemma=hobn
+21	זיך	זיך	PRON	_	_	25	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+22-23	צום	_	_	_	_	_	_	_	Translit=tsum
+22	צו	צו	ADP	_	_	24	case	_	Translit=tsu|Translit_Lemma=tsu
+23	דעם	דער	DET	_	_	24	det	_	Translit=dem|Translit_Lemma=der
+24	סוף	סוף	NOUN	_	_	25	obl	_	Translit=sof|Translit_Lemma=sof
+25	אַװעקגעשטעלט	אַוועקשטעלן	VERB	_	_	14	advcl	_	Translit=avekgeshtelt|Translit_Lemma=avekshteln
+26	אױסיאָמערן	אױסיאָמער	VERB	_	_	25	advcl	_	Translit=oysyomern|Translit_Lemma=oysyomer
+27	קדיש	קדיש	NOUN	_	_	26	obj	_	SpaceAfter=No|Translit=kadesh|Translit_Lemma=kadesh
+28	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_10
+# text = האָט מיר אַ מחשבֿה אָנגעהױבן בױערן: זײ, די אומגעקומענע זײַנען דאָך גליקלעכע, זײ האָבן דאָך, װער עס זאָל נאָך זײ כאָטש דערװײַל קדיש זאָגן...
+# translit = hot mir a makhsheyve ongehoybn boyern: zey, di umgekumene zaynen dokh gliklekhe, zey hobn dokh, ver es zol nokh zey khotsh dervayl kadesh zogn...
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
+2	מיר	מיר	PRON	_	_	5	obl:arg	_	Translit=mir|Translit_Lemma=mir
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	מחשבֿה	מחשבֿה	NOUN	_	_	5	nsubj	_	Translit=makhsheyve|Translit_Lemma=makhsheyve
+5	אָנגעהױבן	אָנהויבן	VERB	_	_	0	root	_	Translit=ongehoybn|Translit_Lemma=onhoybn
+6	בױערן	בױער	VERB	_	_	5	xcomp	_	SpaceAfter=No|Translit=boyern|Translit_Lemma=boyer
+7	:	:	PUNCT	_	_	14	punct	_	Translit=:|Translit_Lemma=:
+8	זײ	זײ	PRON	_	_	14	nsubj	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
+9	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
+10	די	דער	DET	_	_	11	det	_	Translit=di|Translit_Lemma=der
+11	אומגעקומענע	אומגעקומען	ADJ	_	_	8	appos	_	Translit=umgekumene|Translit_Lemma=umgekumen
+12	זײַנען	זײַן	AUX	_	_	14	cop	_	Translit=zaynen|Translit_Lemma=zayn
+13	דאָך	דאָך	ADV	_	_	14	advmod	_	Translit=dokh|Translit_Lemma=dokh
+14	גליקלעכע	גליקלעך	ADJ	_	_	5	parataxis	_	SpaceAfter=No|Translit=gliklekhe|Translit_Lemma=gliklekh
+15	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
+16	זײ	זײ	PRON	_	_	17	nsubj	_	Translit=zey|Translit_Lemma=zey
+17	האָבן	האָבן	AUX	_	_	14	parataxis	_	Translit=hobn|Translit_Lemma=hobn
+18	דאָך	דאָך	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=dokh|Translit_Lemma=dokh
+19	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
+20	װער	װער	PRON	_	_	28	nsubj	_	Translit=ver|Translit_Lemma=ver
+21	עס	עס	PRON	_	_	28	expl	_	Translit=es|Translit_Lemma=es
+22	זאָל	זאָלן	AUX	_	_	28	aux	_	Translit=zol|Translit_Lemma=zoln
+23	נאָך	נאָך	ADP	_	_	24	case	_	Translit=nokh|Translit_Lemma=nokh
+24	זײ	זײ	PRON	_	_	28	obl	_	Translit=zey|Translit_Lemma=zey
+25	כאָטש	כאָטש	ADV	_	_	28	advmod	_	Translit=khotsh|Translit_Lemma=khotsh
+26	דערװײַל	דערװײַל	ADV	_	_	28	advmod	_	Translit=dervayl|Translit_Lemma=dervayl
+27	קדיש	קדיש	NOUN	_	_	28	obj	_	Translit=kadesh|Translit_Lemma=kadesh
+28	זאָגן	זאָגן	NOUN	_	_	17	ccomp	_	SpaceAfter=No|Translit=zogn|Translit_Lemma=zogn
+29	...	...	PUNCT	_	_	5	punct	_	Translit=...|Translit_Lemma=...
+
+# sent_id = hirshke-glik_11
+# text = װער װעט קדיש זאָגן נאָך אונדז?
+# translit = ver vet kadesh zogn nokh undz?
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
+2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+3	קדיש	קדיש	PROPN	_	_	4	obj	_	Translit=kadesh|Translit_Lemma=kadesh
+4	זאָגן	זאָגן	VERB	_	_	0	root	_	Translit=zogn|Translit_Lemma=zogn
+5	נאָך	נאָך	ADP	_	_	6	case	_	Translit=nokh|Translit_Lemma=nokh
+6	אונדז	מיר	PRON	_	_	4	obl	_	SpaceAfter=No|Translit=undz|Translit_Lemma=mir
+7	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = hirshke-glik_12
+# text = װער װעט אונדז דערמאָנען?
+# translit = ver vet undz dermonen?
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
+2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+3	אונדז	מיר	PRON	_	_	4	obj	_	Translit=undz|Translit_Lemma=mir
+4	דערמאָנען	דערמאָנען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dermonen|Translit_Lemma=dermonen
+5	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = hirshke-glik_13
+# text = אָבער דאָס לעבן גײט זיך װײַטער.
+# translit = ober dos lebn geyt zikh vayter.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אָבער	אָבער	CCONJ	_	_	4	cc	_	Translit=ober|Translit_Lemma=ober
+2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
+3	לעבן	לעבן	NOUN	_	_	4	nsubj	_	Translit=lebn|Translit_Lemma=lebn
+4	גײט	גײַט	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=gayt
+5	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+6	װײַטער	װײַטער	ADV	_	_	4	compound:prt	_	SpaceAfter=No|Translit=vayter|Translit_Lemma=vayter
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_14
+# text = מאָנט דאָס זײַניקע…
+# translit = mont dos zaynike…
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	מאָנט	מאָנען	VERB	_	_	0	root	_	Translit=mont|Translit_Lemma=monen
+2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
+3	זײַניקע	_	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=zaynike
+4	…	…	PUNCT	_	_	1	punct	_	Translit=…|Translit_Lemma=…
+
+# sent_id = hirshke-glik_15
+# text = הירשקע, הירשקע גליק.
+# translit = hirshke, hirshke glik.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	הירשקע	הירשקע	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=hirshke|Translit_Lemma=hirshke
+2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
+3	הירשקע	הירשקע	PROPN	_	_	1	appos	_	Translit=hirshke|Translit_Lemma=hirshke
+4	גליק	גליק	PROPN	_	_	3	flat:name	_	SpaceAfter=No|Translit=glik|Translit_Lemma=glik
+5	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_16
+# text = באַװיזן צו מיר האָט זיך דער 15־יעריקער הירשקע דאָס ערשטע מאָל נאָך אַן אָװנט פֿון „יונג װילנע“ אין אַ װילנער זאַל.
+# translit = bavizn tsu mir hot zikh der 15-yeriker hirshke dos ershte mol nokh an ovnt fun „yung vilne“ in a vilner zal.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	באַװיזן	באַוויז	VERB	_	_	0	root	_	Translit=bavizn|Translit_Lemma=baviz
+2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
+3	מיר	מיר	PRON	_	_	1	obl	_	Translit=mir|Translit_Lemma=mir
+4	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
+5	זיך	זיך	PRON	_	_	8	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+6	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
+7	15־יעריקער	קער	ADJ	_	_	8	amod	_	Translit=15-yeriker|Translit_Lemma=ker
+8	הירשקע	הירשקע	NOUN	_	_	1	nsubj	_	Translit=hirshke|Translit_Lemma=hirshke
+9	דאָס	דער	DET	_	_	11	det	_	Translit=dos|Translit_Lemma=der
+10	ערשטע	ערשט	ADJ	_	_	11	amod	_	Translit=ershte|Translit_Lemma=ersht
+11	מאָל	מאָל	NOUN	_	_	1	obl	_	Translit=mol|Translit_Lemma=mol
+12	נאָך	נאָך	ADP	_	_	14	case	_	Translit=nokh|Translit_Lemma=nokh
+13	אַן	אַ	DET	_	_	14	det	_	Translit=an|Translit_Lemma=a
+14	אָװנט	אָוונט	NOUN	_	_	1	obl	_	Translit=ovnt|Translit_Lemma=ovnt
+15	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|Translit_Lemma=fun
+16	„	„	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+17	יונג	יונג	ADJ	_	_	18	amod	_	Translit=yung|Translit_Lemma=yung
+18	װילנע	װילנע	PROPN	_	_	14	nmod	_	SpaceAfter=No|Translit=vilne|Translit_Lemma=vilne
+19	“	“	PUNCT	_	_	18	punct	_	Translit=“|Translit_Lemma=“
+20	אין	אין	ADP	_	_	23	case	_	Translit=in|Translit_Lemma=in
+21	אַ	אַ	DET	_	_	23	det	_	Translit=a|Translit_Lemma=a
+22	װילנער	ווילנער	ADJ	_	_	23	amod	_	Translit=vilner|Translit_Lemma=vilner
+23	זאַל	זאַל	NOUN	_	_	1	obl	_	SpaceAfter=No|Translit=zal|Translit_Lemma=zal
+24	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_17
+# text = „איך שרײַב אױך,“ האָט ער שטיל אױסגעשעפּטשעט, „און צו מיר זײַנען דאָ נאָך װאָס שרײַבן, אַ גאַנצע גרופּע.“
+# translit = „ikh shrayb oykh,“ hot er shtil oysgesheptshet, „un tsu mir zaynen do nokh vos shraybn, a gantse grupe.“
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	„	„	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+2	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+3	שרײַב	שרײַבן	VERB	_	_	0	root	_	Translit=shrayb|Translit_Lemma=shraybn
+4	אױך	אױך	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=oykh|Translit_Lemma=oykh
+5	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=,|Translit_Lemma=,
+6	“	“	PUNCT	_	_	10	punct	_	Translit=“|Translit_Lemma=“
+7	האָט	האָבן	AUX	_	_	10	aux	_	Translit=hot|Translit_Lemma=hobn
+8	ער	ער	PRON	_	_	10	nsubj	_	Translit=er|Translit_Lemma=er
+9	שטיל	שטיל	ADJ	_	_	10	advmod	_	Translit=shtil|Translit_Lemma=shtil
+10	אױסגעשעפּטשעט	אױסשעפּטשען	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=oysgesheptshet|Translit_Lemma=oyssheptshen
+11	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+12	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+13	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
+14	צו	צו	ADP	_	_	15	case	_	Translit=tsu|Translit_Lemma=tsu
+15	מיר	מיר	PRON	_	_	17	obl	_	Translit=mir|Translit_Lemma=mir
+16	זײַנען	זײַן	AUX	_	_	17	cop	_	Translit=zaynen|Translit_Lemma=zayn
+17	דאָ	דאָ	ADV	_	_	3	conj	_	Translit=do|Translit_Lemma=do
+18	נאָך	נאָך	ADV	_	_	17	advmod	_	Translit=nokh|Translit_Lemma=nokh
+19	װאָס	װאָס	PRON	_	_	20	nsubj	_	Translit=vos|Translit_Lemma=vos
+20	שרײַבן	שרײַבן	VERB	_	_	17	orphan	_	SpaceAfter=No|Translit=shraybn|Translit_Lemma=shraybn
+21	,	,	PUNCT	_	_	24	punct	_	Translit=,|Translit_Lemma=,
+22	אַ	אַ	DET	_	_	24	det	_	Translit=a|Translit_Lemma=a
+23	גאַנצע	גאַנץ	ADJ	_	_	24	amod	_	Translit=gantse|Translit_Lemma=gants
+24	גרופּע	גרופּע	NOUN	_	_	17	orphan	_	SpaceAfter=No|Translit=grupe|Translit_Lemma=grupe
+25	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
+26	“	“	PUNCT	_	_	3	punct	_	Translit=“|Translit_Lemma=“
+
+# sent_id = hirshke-glik_18
+# text = „אַ גאַנצע גרופּע,“ בין איך שױן טשיקאַװע, „װער זײַט איר?“
+# translit = „a gantse grupe,“ bin ikh shoyn tshikave, „ver zayt ir?“
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	„	„	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+3	גאַנצע	גאַנץ	ADJ	_	_	4	amod	_	Translit=gantse|Translit_Lemma=gants
+4	גרופּע	גרופּע	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=grupe|Translit_Lemma=grupe
+5	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=,|Translit_Lemma=,
+6	“	“	PUNCT	_	_	10	punct	_	Translit=“|Translit_Lemma=“
+7	בין	זײַן	AUX	_	_	10	cop	_	Translit=bin|Translit_Lemma=zayn
+8	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+9	שױן	שױן	ADV	_	_	10	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
+10	טשיקאַװע	טשיקאַווע	ADJ	_	_	4	parataxis	_	SpaceAfter=No|Translit=tshikave|Translit_Lemma=tshikave
+11	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+12	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+13	װער	װער	PRON	_	_	4	parataxis	_	Translit=ver|Translit_Lemma=ver
+14	זײַט	זײַן	AUX	_	_	13	cop	_	Translit=zayt|Translit_Lemma=zayn
+15	איר	איר	PRON	_	_	13	nsubj	_	SpaceAfter=No|Translit=ir|Translit_Lemma=ir
+16	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=?|Translit_Lemma=?
+17	“	“	PUNCT	_	_	4	punct	_	Translit=“|Translit_Lemma=“
+
+# sent_id = hirshke-glik_19
+# text = אין אַ פּאָר טעג אַרום זײַנען זײ צו מיר געקומען: הירשקע גליק, שבֿע פֿײַגענבערג, משה גורין און ראַבינאָװיטש.
+# translit = in a por teg arum zaynen zey tsu mir gekumen: hirshke glik, sheve faygenberg, moshe gurin un rabinovitsh.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
+2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+3	פּאָר	פּאָר	NOUN	_	_	2	fixed	_	Translit=por|Translit_Lemma=por
+4	טעג	טאָג	NOUN	_	_	10	obl	_	Translit=teg|Translit_Lemma=tog
+5	אַרום	אַרום	ADV	_	_	4	advmod	_	Translit=arum|Translit_Lemma=arum
+6	זײַנען	זײַן	AUX	_	_	10	aux	_	Translit=zaynen|Translit_Lemma=zayn
+7	זײ	זײ	PRON	_	_	10	nsubj	_	Translit=zey|Translit_Lemma=zey
+8	צו	צו	ADP	_	_	9	case	_	Translit=tsu|Translit_Lemma=tsu
+9	מיר	מיר	PRON	_	_	10	obl	_	Translit=mir|Translit_Lemma=mir
+10	געקומען	קומען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gekumen|Translit_Lemma=kumen
+11	:	:	PUNCT	_	_	12	punct	_	Translit=:|Translit_Lemma=:
+12	הירשקע	הירשקע	PROPN	_	_	10	parataxis	_	Translit=hirshke|Translit_Lemma=hirshke
+13	גליק	גליק	PROPN	_	_	12	flat:name	_	SpaceAfter=No|Translit=glik|Translit_Lemma=glik
+14	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
+15	שבֿע	שבֿע	PROPN	_	_	12	conj	_	Translit=sheve|Translit_Lemma=sheve
+16	פֿײַגענבערג	פֿײַגענבאַרג	PROPN	_	_	15	flat:name	_	SpaceAfter=No|Translit=faygenberg|Translit_Lemma=faygenbarg
+17	,	,	PUNCT	_	_	18	punct	_	Translit=,|Translit_Lemma=,
+18	משה	משה	PROPN	_	_	12	conj	_	Translit=moshe|Translit_Lemma=moshe
+19	גורין	גור	PROPN	_	_	18	flat:name	_	Translit=gurin|Translit_Lemma=gur
+20	און	און	CCONJ	_	_	21	cc	_	Translit=un|Translit_Lemma=un
+21	ראַבינאָװיטש	ראַבינאָװיטש	PROPN	_	_	12	conj	_	SpaceAfter=No|Translit=rabinovitsh|Translit_Lemma=rabinovitsh
+22	.	.	PUNCT	_	_	10	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_20
+# text = קינדער נאָך.
+# translit = kinder nokh.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	קינדער	קינד	NOUN	_	_	0	root	_	Translit=kinder|Translit_Lemma=kind
+2	נאָך	נאָך	ADV	_	_	1	advmod	_	SpaceAfter=No|Translit=nokh|Translit_Lemma=nokh
+3	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_21
+# text = אָרעמקײט האָט זײ פֿון שטוב אַרױסגעטריבן און צו זוכן פּרנסה געצװוּנגען.
+# translit = oremkeyt hot zey fun shtub aroysgetribn un tsu zukhn parnose getsvungen.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אָרעמקײט	אָרעמקײַט	NOUN	_	_	6	nsubj	_	Translit=oremkeyt|Translit_Lemma=oremkayt
+2	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
+3	זײ	זײ	PRON	_	_	6	obj	_	Translit=zey|Translit_Lemma=zey
+4	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
+5	שטוב	שטוב	NOUN	_	_	6	obl	_	Translit=shtub|Translit_Lemma=shtub
+6	אַרױסגעטריבן	אַרײַסטרײַבן	VERB	_	_	0	root	_	Translit=aroysgetribn|Translit_Lemma=araystraybn
+7	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
+8	צו	צו	PART	_	_	9	mark	_	Translit=tsu|Translit_Lemma=tsu
+9	זוכן	זוכן	VERB	_	_	11	xcomp	_	Translit=zukhn|Translit_Lemma=zukhn
+10	פּרנסה	פּרנסה	NOUN	_	_	9	obj	_	Translit=parnose|Translit_Lemma=parnose
+11	געצװוּנגען	צווינגען	VERB	_	_	6	conj	_	SpaceAfter=No|Translit=getsvungen|Translit_Lemma=tsvingen
+12	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_22
+# text = די ייִנגלעך קענען זיך אײנע די אַנדערע שױן פֿון לאַנג.
+# translit = di yinglekh kenen zikh eyne di andere shoyn fun lang.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	ייִנגלעך	ייִנגל	NOUN	_	_	3	nsubj	_	Translit=yinglekh|Translit_Lemma=yingl
+3	קענען	קענען	VERB	_	_	0	root	_	Translit=kenen|Translit_Lemma=kenen
+4	זיך	זיך	PRON	_	_	3	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+5	אײנע	אײנער	DET	_	_	3	obj	_	Translit=eyne|Translit_Lemma=eyner
+6	די	דער	DET	_	_	5	fixed	_	Translit=di|Translit_Lemma=der
+7	אַנדערע	_	DET	_	_	5	fixed	_	Translit=andere
+8	שױן	שױן	ADV	_	_	5	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
+9	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
+10	לאַנג	לאַנג	ADJ	_	_	5	obl	_	SpaceAfter=No|Translit=lang|Translit_Lemma=lang
+11	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_23
+# text = זײ װױנען איצט אױף אײן גאַס, אױף קלײן־שניפּישאָק, אױך צוזאַמען אין אײן שול געגאַנגען, אין דער „בית־יהודה.“
+# translit = zey voynen itst oyf eyn gas, oyf kleyn-shnipishok, oykh tsuzamen in eyn shul gegangen, in der „beys־yehude.“
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zey|Translit_Lemma=zey
+2	װױנען	ווױנען	VERB	_	_	0	root	_	Translit=voynen|Translit_Lemma=voynen
+3	איצט	איצט	ADV	_	_	2	advmod	_	Translit=itst|Translit_Lemma=itst
+4	אױף	אױף	ADP	_	_	6	case	_	Translit=oyf|Translit_Lemma=oyf
+5	אײן	_	NUM	_	_	6	nummod	_	Translit=eyn
+6	גאַס	גאַס	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=gas|Translit_Lemma=gas
+7	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
+8	אױף	אױף	ADP	_	_	9	case	_	Translit=oyf|Translit_Lemma=oyf
+9	קלײן־שניפּישאָק	קלײן־שניפּישאָק	PROPN	_	_	6	appos	_	SpaceAfter=No|Translit=kleyn-shnipishok|Translit_Lemma=kleyn-shnipishok
+10	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
+11	אױך	אױך	ADV	_	_	16	advmod	_	Translit=oykh|Translit_Lemma=oykh
+12	צוזאַמען	צוזאַמען	ADV	_	_	16	advmod	_	Translit=tsuzamen|Translit_Lemma=tsuzamen
+13	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
+14	אײן	_	NUM	_	_	15	nummod	_	Translit=eyn
+15	שול	שול	NOUN	_	_	16	obl	_	Translit=shul|Translit_Lemma=shul
+16	געגאַנגען	גיין	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=gegangen|Translit_Lemma=geyn
+17	,	,	PUNCT	_	_	21	punct	_	Translit=,|Translit_Lemma=,
+18	אין	אין	ADP	_	_	21	case	_	Translit=in|Translit_Lemma=in
+19	דער	דער	DET	_	_	21	det	_	Translit=der|Translit_Lemma=der
+20	„	„	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+21	בית־יהודה	בית	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=beys־yehude|Translit_Lemma=beys־yehude
+22	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
+23	“	“	PUNCT	_	_	2	punct	_	Translit=“|Translit_Lemma=“
+
+# sent_id = hirshke-glik_24
+# text = װען זײ האָבן זיך דערװוּסט, אַז שבֿע פֿײַגענבערג שרײַבט אױך, האָבן זײ זי אױך אײַנגעלאַדן צו זיך אין קרײַז, װוּ זײ לײענען אײנע פֿאַר די אַנדערע זײערע שאַפֿונגען.
+# translit = ven zey hobn zikh dervust, az sheve faygenberg shraybt oykh, hobn zey zi oykh ayngeladn tsu zikh in krayz, vu zey leyenen eyne far di andere zeyere shafungen.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װען	װען	SCONJ	_	_	5	mark	_	Translit=ven|Translit_Lemma=ven
+2	זײ	זײ	PRON	_	_	5	nsubj	_	Translit=zey|Translit_Lemma=zey
+3	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
+4	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+5	דערװוּסט	דערוויסן	VERB	_	_	17	advcl	_	SpaceAfter=No|Translit=dervust|Translit_Lemma=dervisn
+6	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+7	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
+8	שבֿע	שבֿע	PROPN	_	_	10	nsubj	_	Translit=sheve|Translit_Lemma=sheve
+9	פֿײַגענבערג	פֿײַגענבאַרג	PROPN	_	_	8	flat:name	_	Translit=faygenberg|Translit_Lemma=faygenbarg
+10	שרײַבט	שרײַבן	VERB	_	_	5	ccomp	_	Translit=shraybt|Translit_Lemma=shraybn
+11	אױך	אױך	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=oykh|Translit_Lemma=oykh
+12	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
+13	האָבן	האָבן	AUX	_	_	17	aux	_	Translit=hobn|Translit_Lemma=hobn
+14	זײ	זײ	PRON	_	_	17	nsubj	_	Translit=zey|Translit_Lemma=zey
+15	זי	זי	PRON	_	_	17	obj	_	Translit=zi|Translit_Lemma=zi
+16	אױך	אױך	ADV	_	_	17	advmod	_	Translit=oykh|Translit_Lemma=oykh
+17	אײַנגעלאַדן	אײַנגעלאַד	VERB	_	_	0	root	_	Translit=ayngeladn|Translit_Lemma=ayngelad
+18	צו	צו	ADP	_	_	19	case	_	Translit=tsu|Translit_Lemma=tsu
+19	זיך	זיך	PRON	_	_	17	obl	_	Translit=zikh|Translit_Lemma=zikh
+20	אין	אין	ADP	_	_	21	case	_	Translit=in|Translit_Lemma=in
+21	קרײַז	קרײַז	NOUN	_	_	17	obl	_	SpaceAfter=No|Translit=krayz|Translit_Lemma=krayz
+22	,	,	PUNCT	_	_	25	punct	_	Translit=,|Translit_Lemma=,
+23	װוּ	װוּ	ADV	_	_	25	advmod	_	Translit=vu|Translit_Lemma=vu
+24	זײ	זײ	PRON	_	_	25	nsubj	_	Translit=zey|Translit_Lemma=zey
+25	לײענען	לײַענען	VERB	_	_	21	acl:relcl	_	Translit=leyenen|Translit_Lemma=layenen
+26	אײנע	אײנער	DET	_	_	25	obl:arg	_	Translit=eyne|Translit_Lemma=eyner
+27	פֿאַר	פֿאַר	ADP	_	_	29	case	_	Translit=far|Translit_Lemma=far
+28	די	דער	DET	_	_	29	det	_	Translit=di|Translit_Lemma=der
+29	אַנדערע	_	DET	_	_	26	nmod	_	Translit=andere
+30	זײערע	זײַער	DET	_	_	31	det:poss	_	Translit=zeyere|Translit_Lemma=zayer
+31	שאַפֿונגען	שאַפֿונג	NOUN	_	_	25	obj	_	SpaceAfter=No|Translit=shafungen|Translit_Lemma=shafung
+32	.	.	PUNCT	_	_	17	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_25
+# text = װילן זײ איצט הערן, װאָס איך זאָג צו דעם.
+# translit = viln zey itst hern, vos ikh zog tsu dem.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װילן	וועלן	AUX	_	_	4	aux	_	Translit=viln|Translit_Lemma=veln
+2	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
+3	איצט	איצט	ADV	_	_	4	advmod	_	Translit=itst|Translit_Lemma=itst
+4	הערן	הערן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=hern|Translit_Lemma=hern
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
+6	װאָס	װאָס	PRON	_	_	8	obj	_	Translit=vos|Translit_Lemma=vos
+7	איך	איך	PRON	_	_	8	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+8	זאָג	זאָגן	VERB	_	_	4	ccomp	_	Translit=zog|Translit_Lemma=zogn
+9	צו	צו	ADP	_	_	10	case	_	Translit=tsu|Translit_Lemma=tsu
+10	דעם	דער	DET	_	_	8	obl	_	SpaceAfter=No|Translit=dem|Translit_Lemma=der
+11	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_26
+# text = האָט יעדער געלײענט זײַנע שאַפֿונגען און איך האָב מיט װאַקסנדיקן פֿאַרגעניגן זיך צוגעהערט און אין װוּנדער געטראַכט: „קינדער — און אַזעלכע פֿעיִקע.
+# translit = hot yeder geleyent zayne shafungen un ikh hob mit vaksndikn fargenign zikh tsugehert un in vunder getrakht: „kinder — un azelkhe feike.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+2	יעדער	_	DET	_	_	3	nsubj	_	Translit=yeder
+3	געלײענט	לײַענען	VERB	_	_	0	root	_	Translit=geleyent|Translit_Lemma=layenen
+4	זײַנע	זײַן	DET	_	_	5	det:poss	_	Translit=zayne|Translit_Lemma=zayn
+5	שאַפֿונגען	שאַפֿונג	NOUN	_	_	3	obj	_	Translit=shafungen|Translit_Lemma=shafung
+6	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
+7	איך	איך	PRON	_	_	13	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+8	האָב	האָבן	AUX	_	_	13	aux	_	Translit=hob|Translit_Lemma=hobn
+9	מיט	מיט	ADP	_	_	11	case	_	Translit=mit|Translit_Lemma=mit
+10	װאַקסנדיקן	וואַקסן	ADJ	_	_	11	amod	_	Translit=vaksndikn|Translit_Lemma=vaksn
+11	פֿאַרגעניגן	פֿאַרגעניגן	NOUN	_	_	13	obl	_	Translit=fargenign|Translit_Lemma=fargenign
+12	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+13	צוגעהערט	צוגעהערן	VERB	_	_	3	conj	_	Translit=tsugehert|Translit_Lemma=tsugehern
+14	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
+15	אין	אין	ADP	_	_	16	case	_	Translit=in|Translit_Lemma=in
+16	װוּנדער	וווּנדער	NOUN	_	_	17	obl	_	Translit=vunder|Translit_Lemma=vunder
+17	געטראַכט	טראַכטן	VERB	_	_	13	conj	_	SpaceAfter=No|Translit=getrakht|Translit_Lemma=trakhtn
+18	:	:	PUNCT	_	_	20	punct	_	Translit=:|Translit_Lemma=:
+19	„	„	PUNCT	_	_	20	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+20	קינדער	קינד	NOUN	_	_	17	ccomp	_	Translit=kinder|Translit_Lemma=kind
+21	—	—	PUNCT	_	_	24	punct	_	Translit=—|Translit_Lemma=—
+22	און	און	CCONJ	_	_	24	cc	_	Translit=un|Translit_Lemma=un
+23	אַזעלכע	_	DET	_	_	24	det	_	Translit=azelkhe
+24	פֿעיִקע	פֿעיִק	NOUN	_	_	20	conj	_	SpaceAfter=No|Translit=feike|Translit_Lemma=feik
+25	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_27
+# text = מײַנע װאַרעמסטע װערטער און צוזאָגן האָב איך זײ געגעבן און מיט װאָס נאָר איך האָב געקענט, האָב איך זײ געהאָלפֿן.
+# translit = mayne varemste verter un tsuzogn hob ikh zey gegebn un mit vos nor ikh hob gekent, hob ikh zey geholfn.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	מײַנע	מײַנע	DET	_	_	3	det:poss	_	Translit=mayne|Translit_Lemma=mayne
+2	װאַרעמסטע	וואַרעמסט	ADJ	_	_	3	amod	_	Translit=varemste|Translit_Lemma=varemst
+3	װערטער	וואָרט	NOUN	_	_	9	obj	_	Translit=verter|Translit_Lemma=vort
+4	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
+5	צוזאָגן	צוזאָגן	NOUN	_	_	3	conj	_	Translit=tsuzogn|Translit_Lemma=tsuzogn
+6	האָב	האָבן	AUX	_	_	9	aux	_	Translit=hob|Translit_Lemma=hobn
+7	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+8	זײ	זײ	PRON	_	_	9	obl:arg	_	Translit=zey|Translit_Lemma=zey
+9	געגעבן	געבן	VERB	_	_	0	root	_	Translit=gegebn|Translit_Lemma=gebn
+10	און	און	CCONJ	_	_	21	cc	_	Translit=un|Translit_Lemma=un
+11	מיט	מיט	ADP	_	_	12	case	_	Translit=mit|Translit_Lemma=mit
+12	װאָס	װאָס	PRON	_	_	21	obl	_	Translit=vos|Translit_Lemma=vos
+13	נאָר	נאָר	ADV	_	_	16	advmod	_	Translit=nor|Translit_Lemma=nor
+14	איך	איך	PRON	_	_	16	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+15	האָב	האָבן	AUX	_	_	16	aux	_	Translit=hob|Translit_Lemma=hobn
+16	געקענט	קענען	AUX	_	_	12	acl:relcl	_	SpaceAfter=No|Translit=gekent|Translit_Lemma=kenen
+17	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
+18	האָב	האָבן	AUX	_	_	21	aux	_	Translit=hob|Translit_Lemma=hobn
+19	איך	איך	PRON	_	_	21	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+20	זײ	זײ	PRON	_	_	21	obl:arg	_	Translit=zey|Translit_Lemma=zey
+21	געהאָלפֿן	העלפֿן	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=geholfn|Translit_Lemma=helfn
+22	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_28
+# text = שפּעטער צו האָט זיך צו דער יוגנט־טרופּע דערנענטערט דער יונג־װילנעאַנער לײזער װאָלף.
+# translit = shpeter tsu hot zikh tsu der yugnt-trupe dernentert der yung-vilneaner leyzer volf.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	שפּעטער	שפּעט	ADJ	_	_	8	advmod	_	Translit=shpeter|Translit_Lemma=shpet
+2	צו	צו	ADV	_	_	1	advmod	_	Translit=tsu|Translit_Lemma=tsu
+3	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
+4	זיך	זיך	PRON	_	_	8	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+5	צו	צו	ADP	_	_	7	case	_	Translit=tsu|Translit_Lemma=tsu
+6	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
+7	יוגנט־טרופּע	יוגנט־טרופּע	NOUN	_	_	8	obl	_	Translit=yugnt-trupe|Translit_Lemma=yugnt-trupe
+8	דערנענטערט	דערנענטערן	VERB	_	_	0	root	_	Translit=dernentert|Translit_Lemma=dernentern
+9	דער	דער	DET	_	_	10	det	_	Translit=der|Translit_Lemma=der
+10	יונג־װילנעאַנער	יונג־ווילנעאַנער	NOUN	_	_	8	nsubj	_	Translit=yung-vilneaner|Translit_Lemma=yung-vilneaner
+11	לײזער	לײזער	PROPN	_	_	10	appos	_	Translit=leyzer|Translit_Lemma=leyzer
+12	װאָלף	װאָלף	PROPN	_	_	11	flat:name	_	SpaceAfter=No|Translit=volf|Translit_Lemma=volf
+13	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_29
+# text = ער האָט געװױנט אױף דער זעלביקער גאַס, װאָס זײ.
+# translit = er hot gevoynt oyf der zelbiker gas, vos zey.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געװױנט	ווױנען	VERB	_	_	0	root	_	Translit=gevoynt|Translit_Lemma=voynen
+4	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
+5	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
+6	זעלביקער	זעלביק	DET	_	_	7	det	_	Translit=zelbiker|Translit_Lemma=zelbik
+7	גאַס	גאַס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=gas|Translit_Lemma=gas
+8	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+9	װאָס	װאָס	SCONJ	_	_	10	mark	_	Translit=vos|Translit_Lemma=vos
+10	זײ	זײ	PRON	_	_	7	acl:relcl	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
+11	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_30
+# text = צוזאַמען האָבן זײ אַרױסגעגעבן עטלעכע נומערן פֿון אַ זשורנאַל „יונגװאַלד.“
+# translit = tsuzamen hobn zey aroysgegebn etlekhe numern fun a zhurnal „yungvald.“
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	צוזאַמען	צוזאַמען	ADV	_	_	4	advmod	_	Translit=tsuzamen|Translit_Lemma=tsuzamen
+2	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
+3	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
+4	אַרױסגעגעבן	אַרױסגעבן	VERB	_	_	0	root	_	Translit=aroysgegebn|Translit_Lemma=aroysgebn
+5	עטלעכע	_	DET	_	_	6	det	_	Translit=etlekhe
+6	נומערן	נומער	NOUN	_	_	4	obj	_	Translit=numern|Translit_Lemma=numer
+7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
+8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+9	זשורנאַל	זשורנאַל	NOUN	_	_	6	nmod	_	Translit=zhurnal|Translit_Lemma=zhurnal
+10	„	„	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+11	יונגװאַלד	יונגװאַלד	PROPN	_	_	9	appos	_	SpaceAfter=No|Translit=yungvald|Translit_Lemma=yungvald
+12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
+13	“	“	PUNCT	_	_	11	punct	_	Translit=“|Translit_Lemma=“
+
+# sent_id = hirshke-glik_31
+# text = אונטער דעם נאָמען האָט זיך די גרופּע דערנאָך באַקאַנט געמאַכט אין שטאָט.
+# translit = unter dem nomen hot zikh di grupe dernokh bakant gemakht in shtot.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	אונטער	אונטער	ADP	_	_	3	case	_	Translit=unter|Translit_Lemma=unter
+2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
+3	נאָמען	נאָמען	NOUN	_	_	10	obl	_	Translit=nomen|Translit_Lemma=nomen
+4	האָט	האָבן	AUX	_	_	10	aux	_	Translit=hot|Translit_Lemma=hobn
+5	זיך	זיך	PRON	_	_	10	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	גרופּע	גרופּע	NOUN	_	_	10	nsubj	_	Translit=grupe|Translit_Lemma=grupe
+8	דערנאָך	דערנאָך	ADV	_	_	10	advmod	_	Translit=dernokh|Translit_Lemma=dernokh
+9	באַקאַנט	באַקאַנט	ADJ	_	_	10	xcomp	_	Translit=bakant|Translit_Lemma=bakant
+10	געמאַכט	מאַכן	VERB	_	_	0	root	_	Translit=gemakht|Translit_Lemma=makhn
+11	אין	אין	ADP	_	_	12	case	_	Translit=in|Translit_Lemma=in
+12	שטאָט	שטאָט	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=shtot|Translit_Lemma=shtot
+13	.	.	PUNCT	_	_	10	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_32
+# text = הירשקע האָט געאַרבעט צו ערשט אין אַ פּאַפּיר־געשעפֿט, בײַ יוסף שוב, אױף קלײן־סטעפֿאַן־גאַס.
+# translit = hirshke hot gearbet tsu ersht in a papir-gesheft, bay yoysef shub, oyf kleyn-stefan-gas.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	הירשקע	הירשקע	PROPN	_	_	3	nsubj	_	Translit=hirshke|Translit_Lemma=hirshke
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געאַרבעט	אַרבעטן	VERB	_	_	0	root	_	Translit=gearbet|Translit_Lemma=arbetn
+4	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
+5	ערשט	ערשט	ADV	_	_	3	obl	_	Translit=ersht|Translit_Lemma=ersht
+6	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+8	פּאַפּיר־געשעפֿט	פּאַפּיר־געשעפֿט	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=papir-gesheft|Translit_Lemma=papir-gesheft
+9	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
+10	בײַ	בײַ	ADP	_	_	11	case	_	Translit=bay|Translit_Lemma=bay
+11	יוסף	יוסף	PROPN	_	_	3	obl	_	Translit=yoysef|Translit_Lemma=yoysef
+12	שוב	שוב	PROPN	_	_	11	flat:name	_	SpaceAfter=No|Translit=shub|Translit_Lemma=shub
+13	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
+14	אױף	אױף	ADP	_	_	15	case	_	Translit=oyf|Translit_Lemma=oyf
+15	קלײן־סטעפֿאַן־גאַס	קלײַן־סטעפֿאַן־גאַס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=kleyn-stefan-gas|Translit_Lemma=klayn-stefan-gas
+16	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_33
+# text = מען האָט שױן אָבער נישט געדאַרפֿט װאַרטן אױף אַ באַשלוס, דאָס ליד איז גיך פֿאַרשפּרײט געװאָרן אין געטאָ.
+# translit = men hot shoyn ober nisht gedarft vartn oyf a bashlus, dos lid iz gikh farshpreyt gevorn in geto.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	מען	מען	PRON	_	_	7	nsubj	_	Translit=men|Translit_Lemma=men
+2	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
+3	שױן	שױן	ADV	_	_	7	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
+4	אָבער	אָבער	ADV	_	_	7	advmod	_	Translit=ober|Translit_Lemma=ober
+5	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|Translit_Lemma=nisht
+6	געדאַרפֿט	דאַרפֿן	AUX	_	_	7	aux	_	Translit=gedarft|Translit_Lemma=darfn
+7	װאַרטן	וואַרטן	VERB	_	_	0	root	_	Translit=vartn|Translit_Lemma=vartn
+8	אױף	אױף	ADP	_	_	10	case	_	Translit=oyf|Translit_Lemma=oyf
+9	אַ	אַ	DET	_	_	10	det	_	Translit=a|Translit_Lemma=a
+10	באַשלוס	באַשלוס	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=bashlus|Translit_Lemma=bashlus
+11	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
+12	דאָס	דער	DET	_	_	13	det	_	Translit=dos|Translit_Lemma=der
+13	ליד	ליד	NOUN	_	_	16	nsubj:pass	_	Translit=lid|Translit_Lemma=lid
+14	איז	זײַן	AUX	_	_	16	aux	_	Translit=iz|Translit_Lemma=zayn
+15	גיך	גיך	ADJ	_	_	16	advmod	_	Translit=gikh|Translit_Lemma=gikh
+16	פֿאַרשפּרײט	פֿאַרשפּרײַען	VERB	_	_	7	parataxis	_	Translit=farshpreyt|Translit_Lemma=farshprayen
+17	געװאָרן	װערן	AUX	_	_	16	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
+18	אין	אין	ADP	_	_	19	case	_	Translit=in|Translit_Lemma=in
+19	געטאָ	געטאָ	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=geto|Translit_Lemma=geto
+20	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_34
+# text = גליק האָט געשריבן אַ סך לידער און פּאָעמעס.
+# translit = glik hot geshribn a sakh lider un poemes.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	גליק	גליק	PROPN	_	_	3	nsubj	_	Translit=glik|Translit_Lemma=glik
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געשריבן	שרײַבן	VERB	_	_	0	root	_	Translit=geshribn|Translit_Lemma=shraybn
+4	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
+5	סך	סך	PART	_	_	4	fixed	_	Translit=sakh|Translit_Lemma=sakh
+6	לידער	לידערן	NOUN	_	_	3	obj	_	Translit=lider|Translit_Lemma=lidern
+7	און	און	CCONJ	_	_	8	cc	_	Translit=un|Translit_Lemma=un
+8	פּאָעמעס	פּאָעמע	NOUN	_	_	6	conj	_	SpaceAfter=No|Translit=poemes|Translit_Lemma=poeme
+9	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = hirshke-glik_35
+# text = װײניק זײַנען געבליבן באַקאַנט.
+# translit = veynik zaynen geblibn bakant.
+# rtl = yes
+# source = Hirshke Glik
+# genre = nonfiction
+1	װײניק	ווײניק	DET	_	_	3	nsubj	_	Translit=veynik|Translit_Lemma=veynik
+2	זײַנען	זײַן	AUX	_	_	3	aux	_	Translit=zaynen|Translit_Lemma=zayn
+3	געבליבן	בלײַבן	VERB	_	_	0	root	_	Translit=geblibn|Translit_Lemma=blaybn
+4	באַקאַנט	באַקאַנט	ADJ	_	_	3	xcomp	_	SpaceAfter=No|Translit=bakant|Translit_Lemma=bakant
+5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = yiddish_proverbs_26
+# text = ער איז אַ שטיק פֿלײש מיט צװײ אױגן.
+# translit = er iz a shtik fleysh mit tsvey oygn.
+# rtl = yes
+# source = Yiddish proverb
+# genre = proverb
+1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	שטיק	שטיק	NOUN	_	_	0	root	_	Translit=shtik|Translit_Lemma=shtik
+5	פֿלײש	פֿלײַש	NOUN	_	_	4	nmod	_	Translit=fleysh|Translit_Lemma=flaysh
+6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
+7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+8	אױגן	אױג	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=oygn|Translit_Lemma=oyg
+9	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = yiddish_proverbs_27
+# text = ער קוקט מיט די אױגן, הערט מיט די אױערן, און פֿאַרשטײט װי די װאַנט.
+# translit = er kukt mit di oygn, hert mit di oyern, un farshteyt vi di vant.
+# rtl = yes
+# source = Yiddish proverb
+# genre = proverb
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	קוקט	קוקן	VERB	_	_	0	root	_	Translit=kukt|Translit_Lemma=kukn
+3	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
+4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+5	אױגן	אױג	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=oygn|Translit_Lemma=oyg
+6	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
+7	הערט	האַררט	VERB	_	_	2	conj	_	Translit=hert|Translit_Lemma=harrt
+8	מיט	מיט	ADP	_	_	10	case	_	Translit=mit|Translit_Lemma=mit
+9	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
+10	אױערן	אױער	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=oyern|Translit_Lemma=oyer
+11	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
+12	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
+13	פֿאַרשטײט	פֿאַרשטיין	VERB	_	_	2	conj	_	Translit=farshteyt|Translit_Lemma=farshteyn
+14	װי	װי	SCONJ	_	_	16	case	_	Translit=vi|Translit_Lemma=vi
+15	די	דער	DET	_	_	16	det	_	Translit=di|Translit_Lemma=der
+16	װאַנט	וואַנט	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=vant|Translit_Lemma=vant
+17	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = yiddish_proverbs_28
+# text = עס פֿעלט אים מעבל אין דאַכקאַמער.
+# translit = es felt im mebl in dakhkamer.
+# rtl = yes
+# source = Yiddish proverb
+# genre = proverb
+1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
+2	פֿעלט	פֿעלן	VERB	_	_	0	root	_	Translit=felt|Translit_Lemma=feln
+3	אים	עס	PRON	_	_	2	obl:arg	_	Translit=im|Translit_Lemma=es
+4	מעבל	מאָבל	NOUN	_	_	2	nsubj	_	Translit=mebl|Translit_Lemma=mobl
+5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
+6	דאַכקאַמער	דאַכקאַמער	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=dakhkamer|Translit_Lemma=dakhkamer
+7	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = yiddish_proverbs_29
+# text = דאָס היטל איז גוט נאָר דער קאָפּ איז צו קלײן.
+# translit = dos hitl iz gut nor der kop iz tsu kleyn.
+# rtl = yes
+# source = Yiddish proverb
+# genre = proverb
+1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
+2	היטל	הוט	NOUN	_	_	4	nsubj	_	Translit=hitl|Translit_Lemma=hut
+3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+4	גוט	גוט	ADJ	_	_	0	root	_	Translit=gut|Translit_Lemma=gut
+5	נאָר	נאָר	CCONJ	_	_	10	cc	_	Translit=nor|Translit_Lemma=nor
+6	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
+7	קאָפּ	קאָפּ	NOUN	_	_	10	nsubj	_	Translit=kop|Translit_Lemma=kop
+8	איז	זײַן	AUX	_	_	10	cop	_	Translit=iz|Translit_Lemma=zayn
+9	צו	צו	ADV	_	_	10	advmod	_	Translit=tsu|Translit_Lemma=tsu
+10	קלײן	קלײַען	ADJ	_	_	4	conj	_	SpaceAfter=No|Translit=kleyn|Translit_Lemma=klayen
+11	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = yiddish_proverbs_30
+# text = ער איז דער פּופּיק פֿון דער װעלט.
+# translit = er iz der pupik fun der velt.
+# rtl = yes
+# source = Yiddish proverb
+# genre = proverb
+1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	פּופּיק	פּופּיק	NOUN	_	_	0	root	_	Translit=pupik|Translit_Lemma=pupik
+5	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
+6	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
+7	װעלט	וועלט	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=velt|Translit_Lemma=velt
+8	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1625
+# text = צי ווילסטו מיך אָנרופֿן, צי זאָל איך דיך אָנרופֿן?
+# translit = tsi vilstu mikh onrufn, tsi zol ikh dikh onrufn?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	צי	צי	PART	_	_	5	advmod	_	Translit=tsi|Translit_Lemma=tsi
+2-3	ווילסטו	_	_	_	_	_	_	_	Translit=vilstu
+2	װילסט	וועלן	AUX	_	_	5	aux	_	Translit=vilst|Translit_Lemma=veln
+3	דו	דו	PRON	_	_	5	nsubj	_	Translit=du|Translit_Lemma=du
+4	מיך	איך	PRON	_	_	5	obj	_	Translit=mikh|Translit_Lemma=ikh
+5	אָנרופֿן	אָנרופֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=onrufn|Translit_Lemma=onrufn
+6	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
+7	צי	צי	PART	_	_	11	advmod	_	Translit=tsi|Translit_Lemma=tsi
+8	זאָל	זאָלן	AUX	_	_	11	aux	_	Translit=zol|Translit_Lemma=zoln
+9	איך	איך	PRON	_	_	11	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+10	דיך	דו	PRON	_	_	11	obj	_	Translit=dikh|Translit_Lemma=du
+11	אָנרופֿן	אָנרופֿן	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=onrufn|Translit_Lemma=onrufn
+12	?	?	PUNCT	_	_	5	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1626
+# text = טאָם איז נישט פּאַרשיווע.
+# translit = tom iz nisht parshive.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	פּאַרשיווע	פּאַרשיווע	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=parshive|Translit_Lemma=parshive
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1627
+# text = צי קענט איר פֿאַרשטיין טאָמען?
+# translit = tsi kent ir farshteyn tomen?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
+2	קענט	קענען	AUX	_	_	4	aux	_	Translit=kent|Translit_Lemma=kenen
+3	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
+4	פֿאַרשטיין	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyn|Translit_Lemma=farshteyn
+5	טאָמען	טאָמען	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=tomen|Translit_Lemma=tomen
+6	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1628
+# text = כ׳וועל איר געבן עטלעכע בלומען.
+# translit = kh'vel ir gebn etlekhe blumen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
+1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+3	איר	איר	PRON	_	_	4	obl:arg	_	Translit=ir|Translit_Lemma=ir
+4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
+5	עטלעכע	_	DET	_	_	6	det	_	Translit=etlekhe
+6	בלומען	בלום	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=blumen|Translit_Lemma=blum
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1629
+# text = ווען איך בין ייִנגער, וואָלט איך דאָס טאָן.
+# translit = ven ikh bin yinger, volt ikh dos ton.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ווען	ווען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
+2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+3	בין	זײַן	AUX	_	_	4	cop	_	Translit=bin|Translit_Lemma=zayn
+4	ייִנגער	יונג	ADJ	_	_	9	advcl	_	SpaceAfter=No|Translit=yinger|Translit_Lemma=yung
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
+6	וואָלט	װאָלט	AUX	_	_	9	aux	_	Translit=volt|Translit_Lemma=volt-
+7	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+8	דאָס	דער	DET	_	_	9	obj	_	Translit=dos|Translit_Lemma=der
+9	טאָן	טאָן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ton|Translit_Lemma=ton
+10	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1630
+# text = די ייִדן זענען מיד.
+# translit = di yidn zenen mid.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|Translit_Lemma=yid
+3	זענען	זײַן	AUX	_	_	4	cop	_	Translit=zenen|Translit_Lemma=zayn
+4	מיד	מיד	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=mid|Translit_Lemma=mid
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1631
+# text = זי איז העכער פֿאַר מיר.
+# translit = zi iz hekher far mir.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
+3	העכער	האָכער	ADJ	_	_	0	root	_	Translit=hekher|Translit_Lemma=hokher
+4	פֿאַר	פֿאַר	ADP	_	_	5	case	_	Translit=far|Translit_Lemma=far
+5	מיר	מיר	PRON	_	_	3	obl	_	SpaceAfter=No|Translit=mir|Translit_Lemma=mir
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1632
+# text = חנה איז אַ רעפאָרם־ייִד.
+# translit = khane iz a reform-yid.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	חנה	חנה	PROPN	_	_	4	nsubj	_	Translit=khane|Translit_Lemma=khane
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	רעפאָרם־ייִד	רעפֿאָרם־ייִד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=reform-yid|Translit_Lemma=reform-yid
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1633
+# text = ביסטו גיי?
+# translit = bistu gey?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
+1	ביסט	זײַן	AUX	_	_	3	cop	_	Translit=bist|Translit_Lemma=zayn
+2	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
+3	גיי	גיי	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=gey|Translit_Lemma=gey
+4	?	?	PUNCT	_	_	3	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1634
+# text = דו מעגסט האָבן אַ ביסל סאַלאַמי.
+# translit = du megst hobn a bisl salami.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
+2	מעגסט	מעגן	AUX	_	_	3	aux	_	Translit=megst|Translit_Lemma=megn
+3	האָבן	האָבן	VERB	_	_	0	root	_	Translit=hobn|Translit_Lemma=hobn
+4	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
+5	ביסל	ביסל	NOUN	_	_	4	fixed	_	Translit=bisl|Translit_Lemma=bisl
+6	סאַלאַמי	סאַלאַמי	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=salami|Translit_Lemma=salami
+7	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1635
+# text = זי רעדט בענגאַליש.
+# translit = zi redt bengalish.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
+3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1636
+# text = ס׳איז וווּנדערלעך צו געווינען.
+# translit = s'iz vunderlekh tsu gevinen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
+1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
+3	וווּנדערלעך	וווּנדערלעך	ADJ	_	_	0	root	_	Translit=vunderlekh|Translit_Lemma=vunderlekh
+4	צו	צו	PART	_	_	5	mark	_	Translit=tsu|Translit_Lemma=tsu
+5	געווינען	געווינען	VERB	_	_	3	csubj	_	SpaceAfter=No|Translit=gevinen|Translit_Lemma=gevinen
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1637
+# text = טאָם זאָל לויפֿן.
+# translit = tom zol loyfn.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	זאָל	זאָלן	AUX	_	_	3	aux	_	Translit=zol|Translit_Lemma=zoln
+3	לויפֿן	לויפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=loyfn|Translit_Lemma=loyfn
+4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1638
+# text = טאָם איז עלטער פֿון מאַריען.
+# translit = tom iz elter fun maryen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
+3	עלטער	עלטער	ADJ	_	_	0	root	_	Translit=elter|Translit_Lemma=elter
+4	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
+5	מאַריען	מאַריען	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=maryen|Translit_Lemma=maryen
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1639
+# text = איך ווייס אַז דאָס איז געווען זייער פֿליכט.
+# translit = ikh veys az dos iz geven zeyer flikht.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	ווייס	וויסן	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=visn
+3	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
+4	דאָס	דער	DET	_	_	8	nsubj	_	Translit=dos|Translit_Lemma=der
+5	איז	זײַן	AUX	_	_	8	aux	_	Translit=iz|Translit_Lemma=zayn
+6	געווען	זײַן	AUX	_	_	8	cop	_	Translit=geven|Translit_Lemma=zayn
+7	זייער	זייער	DET	_	_	8	det:poss	_	Translit=zeyer|Translit_Lemma=zeyer
+8	פֿליכט	פֿליכט	NOUN	_	_	2	ccomp	_	SpaceAfter=No|Translit=flikht|Translit_Lemma=flikht
+9	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1640
+# text = ער איז אַ גנבֿ.
+# translit = er iz a ganef.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	גנבֿ	גנבֿ	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=ganef|Translit_Lemma=ganef
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1641
+# text = די אַזוי אָנגערופענע ברית־חדשה איז געווען רוימישע אַנטי־ייִדישע פּראָפּאַגאַנדע.
+# translit = di azoy ongerufene breys-khadoshe iz geven roymishe anti-yidishe propagande.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+2	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
+3	אָנגערופענע	אָנגערופֿן	ADJ	_	_	4	amod	_	Translit=ongerufene|Translit_Lemma=ongerufn
+4	ברית־חדשה	ברית־חדשה	NOUN	_	_	9	nsubj	_	Translit=breys-khadoshe|Translit_Lemma=breys-khadoshe
+5	איז	זײַן	AUX	_	_	9	aux	_	Translit=iz|Translit_Lemma=zayn
+6	געווען	זײַן	AUX	_	_	9	cop	_	Translit=geven|Translit_Lemma=zayn
+7	רוימישע	רוימיש	ADJ	_	_	9	amod	_	Translit=roymishe|Translit_Lemma=roymish
+8	אַנטי־ייִדישע	אַנטי־ייִדיש	ADJ	_	_	9	amod	_	Translit=anti-yidishe|Translit_Lemma=anti-yidish
+9	פּראָפּאַגאַנדע	פּראָפּאַגאַנדע	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=propagande|Translit_Lemma=propagande
+10	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1642
+# text = איך הייס טאָם.
+# translit = ikh heys tom.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	הייס	הייס	VERB	_	_	0	root	_	Translit=heys|Translit_Lemma=heys
+3	טאָם	טאָם	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=tom|Translit_Lemma=tom
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1643
+# text = איך וויל, דו זאָלסט זיך באַקענען מיט מײַן נײַעם קאָכאַניק.
+# translit = ikh vil, du zolst zikh bakenen mit mayn nayem kokhanik.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	וויל	וועלן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=vil|Translit_Lemma=veln
+3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
+4	דו	דו	PRON	_	_	7	nsubj	_	Translit=du|Translit_Lemma=du
+5	זאָלסט	זאָלן	AUX	_	_	7	aux	_	Translit=zolst|Translit_Lemma=zoln
+6	זיך	זיך	PRON	_	_	7	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+7	באַקענען	באַקענען	VERB	_	_	2	ccomp	_	Translit=bakenen|Translit_Lemma=bakenen
+8	מיט	מיט	ADP	_	_	11	case	_	Translit=mit|Translit_Lemma=mit
+9	מײַן	מײַן	DET	_	_	11	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+10	נײַעם	נײַ	ADJ	_	_	11	amod	_	Translit=nayem|Translit_Lemma=nay
+11	קאָכאַניק	קאָכאַניק	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=kokhanik|Translit_Lemma=kokhanik
+12	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1644
+# text = זאַלץ צעגײט זיך אין װאַסער.
+# translit = zalts tsegeyt zikh in vaser.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זאַלץ	זאַלצן	NOUN	_	_	2	nsubj	_	Translit=zalts|Translit_Lemma=zaltsn
+2	צעגײט	צעגײַט	VERB	_	_	0	root	_	Translit=tsegeyt|Translit_Lemma=tsegayt
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+4	אין	אין	ADP	_	_	5	case	_	Translit=in|Translit_Lemma=in
+5	װאַסער	וואַסער	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=vaser|Translit_Lemma=vaser
+6	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1645
+# text = קיין הינט טאָרן נישט אַרײַנקומען.
+# translit = keyn hint torn nisht araynkumen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	קיין	קײַן	DET	_	_	2	det	_	Translit=keyn|Translit_Lemma=keyn
+2	הינט	הונט	NOUN	_	_	5	nsubj	_	Translit=hint|Translit_Lemma=hunt
+3	טאָרן	טאָרן	AUX	_	_	5	aux	_	Translit=torn|Translit_Lemma=torn
+4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
+5	אַרײַנקומען	אַרײַנקומען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=araynkumen|Translit_Lemma=araynkumen
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1646
+# text = די וווּדו־רעליגיע איז אַסאָצייִרט מיט האַיִטי.
+# translit = di vudu-religye iz asotsyirt mit haiti.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	וווּדו־רעליגיע	וווּדו־רעליגיע	NOUN	_	_	4	nsubj:pass	_	Translit=vudu-religye|Translit_Lemma=vudu-religye
+3	איז	זײַן	AUX	_	_	4	aux:pass	_	Translit=iz|Translit_Lemma=zayn
+4	אַסאָצייִרט	אַסאָצייִרן	VERB	_	_	0	root	_	Translit=asotsyirt|Translit_Lemma=asotsyirn
+5	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
+6	האַיִטי	האַיִטי	PROPN	_	_	4	obl	_	SpaceAfter=No|Translit=haiti|Translit_Lemma=haiti
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1647
+# text = טאָם איז אַ גנבֿ און אַ ליגנער.
+# translit = tom iz a ganef un a ligner.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	גנבֿ	גנבֿ	NOUN	_	_	0	root	_	Translit=ganef|Translit_Lemma=ganef
+5	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
+6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
+7	ליגנער	ליגנער	NOUN	_	_	4	conj	_	SpaceAfter=No|Translit=ligner|Translit_Lemma=ligner
+8	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1648
+# text = איך וועל נישט לאָזן, אַז עפּעס וועט דיר געשען.
+# translit = ikh vel nisht lozn, az epes vet dir geshen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
+3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	לאָזן	לאָזן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lozn|Translit_Lemma=lozn
+5	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+6	אַז	אַז	SCONJ	_	_	10	mark	_	Translit=az|Translit_Lemma=az
+7	עפּעס	עפּעס	PRON	_	_	10	nsubj	_	Translit=epes|Translit_Lemma=epes
+8	וועט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
+9	דיר	דו	PRON	_	_	10	obl:arg	_	Translit=dir|Translit_Lemma=du
+10	געשען	געשען	VERB	_	_	4	ccomp	_	SpaceAfter=No|Translit=geshen|Translit_Lemma=geshen
+11	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1649
+# text = זי שטאַמט פֿון עסטרײַך.
+# translit = zi shtamt fun estraykh.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
+3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
+4	עסטרײַך	עסטרײַך	PROPN	_	_	2	obl	_	SpaceAfter=No|Translit=estraykh|Translit_Lemma=estraykh
+5	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1650
+# text = כ׳האָב געגעסן אַ באַר.
+# translit = kh'hob gegesn a bar.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
+1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
+3	געגעסן	געגעסן	VERB	_	_	0	root	_	Translit=gegesn|Translit_Lemma=gegesn
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	באַר	באַר	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=bar|Translit_Lemma=bar
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1651
+# text = די „הייליקע רוימישע אימפּעריע״ איז געקומען צו אַ סוף אין 1806.
+# translit = di „heylike roymishe imperye״ iz gekumen tsu a sof in 1806.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+2	„	„	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
+3	הייליקע	הייליק	ADJ	_	_	5	amod	_	Translit=heylike|Translit_Lemma=heylik
+4	רוימישע	רוימיש	ADJ	_	_	5	amod	_	Translit=roymishe|Translit_Lemma=roymish
+5	אימפּעריע	אימפּעריע	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Translit=imperye|Translit_Lemma=imperye
+6	״	״	PUNCT	_	_	5	punct	_	Translit=״|Translit_Lemma=״
+7	איז	זײַן	AUX	_	_	8	aux	_	Translit=iz|Translit_Lemma=zayn
+8	געקומען	קומען	VERB	_	_	0	root	_	Translit=gekumen|Translit_Lemma=kumen
+9	צו	צו	ADP	_	_	11	case	_	Translit=tsu|Translit_Lemma=tsu
+10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
+11	סוף	סוף	NOUN	_	_	8	obl	_	Translit=sof|Translit_Lemma=sof
+12	אין	אין	ADP	_	_	13	case	_	Translit=in|Translit_Lemma=in
+13	1806	_	NUM	_	_	8	obl	_	SpaceAfter=No|Translit=1806
+14	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1652
+# text = ייִדישקייט איז די רעליגיע פֿון ייִדן.
+# translit = yidishkeyt iz di religye fun yidn.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ייִדישקייט	ײִדישקײט	PROPN	_	_	4	nsubj	_	Translit=yidishkeyt|Translit_Lemma=yidishkeyt
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+4	רעליגיע	רעליגיע	NOUN	_	_	0	root	_	Translit=religye|Translit_Lemma=religye
+5	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
+6	ייִדן	ייִד	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=yidn|Translit_Lemma=yid
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1653
+# text = ס׳איז אונדז אויסגעגאַנגען דאָס ברענוואַרג.
+# translit = s'iz undz oysgegangen dos brenvarg.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
+1	עס	עס	PRON	_	_	4	expl	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
+3	אונדז	מיר	PRON	_	_	4	obl:arg	_	Translit=undz|Translit_Lemma=mir
+4	אויסגעגאַנגען	אויסגיין	VERB	_	_	0	root	_	Translit=oysgegangen|Translit_Lemma=oysgeyn
+5	דאָס	דער	DET	_	_	6	det	_	Translit=dos|Translit_Lemma=der
+6	ברענוואַרג	ברענוואַרג	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=brenvarg|Translit_Lemma=brenvarg
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1654
+# text = טאָם האָט געבויט אַ פֿלישלאַנג.
+# translit = tom hot geboyt a flishlang.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געבויט	בויען	VERB	_	_	0	root	_	Translit=geboyt|Translit_Lemma=boyen
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	פֿלישלאַנג	פֿלישלאַנג	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=flishlang|Translit_Lemma=flishlang
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1655
+# text = היטלער האָט פֿײַנט געהאַט ייִדן.
+# translit = hitler hot faynt gehat yidn.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	היטלער	היטל	PROPN	_	_	4	nsubj	_	Translit=hitler|Translit_Lemma=hitl
+2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+3	פֿײַנט	פֿײַנט	NOUN	_	_	4	compound:lvc	_	Translit=faynt|Translit_Lemma=faynt
+4	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
+5	ייִדן	ייִד	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=yidn|Translit_Lemma=yid
+6	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1656
+# text = איך זאָג דיר, דאָס איז אַ שלעכטער געדאַנק.
+# translit = ikh zog dir, dos iz a shlekhter gedank.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	זאָג	זאָגן	VERB	_	_	0	root	_	Translit=zog|Translit_Lemma=zogn
+3	דיר	דו	PRON	_	_	2	obl:arg	_	SpaceAfter=No|Translit=dir|Translit_Lemma=du
+4	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
+5	דאָס	דער	DET	_	_	9	nsubj	_	Translit=dos|Translit_Lemma=der
+6	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
+7	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+8	שלעכטער	שלעכט	ADJ	_	_	9	amod	_	Translit=shlekhter|Translit_Lemma=shlekht
+9	געדאַנק	געדאַנק	NOUN	_	_	2	ccomp	_	SpaceAfter=No|Translit=gedank|Translit_Lemma=gedank
+10	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1657
+# text = ער וויל נישט זײַן קיין קאַובוי.
+# translit = er vil nisht zayn keyn kauboy.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ער	ער	PRON	_	_	6	nsubj	_	Translit=er|Translit_Lemma=er
+2	וויל	וועלן	AUX	_	_	6	aux	_	Translit=vil|Translit_Lemma=veln
+3	נישט	נישט	PART	_	_	6	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	זײַן	זײַן	AUX	_	_	6	cop	_	Translit=zayn|Translit_Lemma=zayn
+5	קיין	קײַן	DET	_	_	6	det	_	Translit=keyn|Translit_Lemma=keyn
+6	קאַובוי	קאַובוי	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=kauboy|Translit_Lemma=kauboy
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1658
+# text = מיר געפֿעלן טרוסקאַפֿקעס.
+# translit = mir gefeln trúskafkes.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
+2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
+3	טרוסקאַפֿקעס	טרוסקאַפֿקע	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=trúskafkes|Translit_Lemma=trúskafke
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1659
+# text = ווי פֿילט איר זיך לעצטנס?
+# translit = vi filt ir zikh letstns?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ווי	ווי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
+2	פֿילט	פֿילן	VERB	_	_	0	root	_	Translit=filt|Translit_Lemma=filn
+3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
+4	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+5	לעצטנס	לעצטנס	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=letstns|Translit_Lemma=letstns
+6	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1660
+# text = ישו ־ הנוצרי איז נישט געווען דער ערשטער און נישט דער לעצטער ייִד, וואָס מ׳האָט געקרייציקט.
+# translit = yoshu ־ hanotstri iz nisht geven der ershter un nisht der letster yid, vos m'hot gekreytsikt.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ישו	ישוע	PROPN	_	_	13	nsubj	_	Translit=yoshu|Translit_Lemma=yoshee
+2	־	־	PUNCT	_	_	3	punct	_	Translit=־|Translit_Lemma=־
+3	הנוצרי	הנוצרי	PROPN	_	_	1	flat:name	_	Translit=hanotstri|Translit_Lemma=hanotstri
+4	איז	זײַן	AUX	_	_	13	aux	_	Translit=iz|Translit_Lemma=zayn
+5	נישט	נישט	PART	_	_	13	advmod	_	Translit=nisht|Translit_Lemma=nisht
+6	געווען	זײַן	AUX	_	_	13	cop	_	Translit=geven|Translit_Lemma=zayn
+7	דער	דער	DET	_	_	13	det	_	Translit=der|Translit_Lemma=der
+8	ערשטער	ערשט	ADJ	_	_	13	amod	_	Translit=ershter|Translit_Lemma=ersht
+9	און	און	CCONJ	_	_	12	cc	_	Translit=un|Translit_Lemma=un
+10	נישט	נישט	PART	_	_	12	advmod	_	Translit=nisht|Translit_Lemma=nisht
+11	דער	דער	DET	_	_	12	det	_	Translit=der|Translit_Lemma=der
+12	לעצטער	לעצט	ADJ	_	_	8	conj	_	Translit=letster|Translit_Lemma=letst
+13	ייִד	ייִד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=yid|Translit_Lemma=yid
+14	,	,	PUNCT	_	_	18	punct	_	Translit=,|Translit_Lemma=,
+15	וואָס	וואָס	SCONJ	_	_	18	mark	_	Translit=vos|Translit_Lemma=vos
+16-17	מ׳האָט	_	_	_	_	_	_	_	Translit=m'hot
+16	מע	מען	PRON	_	_	18	nsubj	_	Translit=me|Translit_Lemma=men
+17	האָט	האָבן	AUX	_	_	18	aux	_	Translit=hot|Translit_Lemma=hobn
+18	געקרייציקט	קרייציקן	VERB	_	_	13	acl:relcl	_	SpaceAfter=No|Translit=gekreytsikt|Translit_Lemma=kreytsikn
+19	.	.	PUNCT	_	_	13	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1661
+# text = איך בין געבוירן אין ישׂראל.
+# translit = ikh bin geboyrn in yisroel.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	בין	זײַן	AUX	_	_	3	aux	_	Translit=bin|Translit_Lemma=zayn
+3	געבוירן	געבוירן	VERB	_	_	0	root	_	Translit=geboyrn|Translit_Lemma=geboyrn
+4	אין	אין	ADP	_	_	5	case	_	Translit=in|Translit_Lemma=in
+5	ישׂראל	ישׂראל	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=yisroel|Translit_Lemma=yisroel
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1662
+# text = איך פֿיל זיך גוט דאָ.
+# translit = ikh fil zikh gut do.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	פֿיל	פֿילן	VERB	_	_	0	root	_	Translit=fil|Translit_Lemma=filn
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+4	גוט	גוט	ADV	_	_	2	xcomp	_	Translit=gut|Translit_Lemma=gut
+5	דאָ	דאָ	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=do|Translit_Lemma=do
+6	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1663
+# text = אַלע ווייסן, אַז טאָמס פֿראַנצעזיש איז גוט.
+# translit = ale veysn, az toms frantsezish iz gut.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	אַלע	_	DET	_	_	2	nsubj	_	Translit=ale
+2	ווייסן	וויסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veysn|Translit_Lemma=visn
+3	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
+4	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
+5	טאָמס	טאָם	PROPN	_	_	6	nmod:poss	_	Translit=toms|Translit_Lemma=tom
+6	פֿראַנצעזיש	פֿראַנצעזיש	PROPN	_	_	8	nsubj	_	Translit=frantsezish|Translit_Lemma=frantsezish
+7	איז	זײַן	AUX	_	_	8	cop	_	Translit=iz|Translit_Lemma=zayn
+8	גוט	גוט	ADJ	_	_	2	advcl	_	SpaceAfter=No|Translit=gut|Translit_Lemma=gut
+9	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1664
+# text = דאָס לעבן איז אומיושרדיק.
+# translit = dos lebn iz umyusherdik.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
+2	לעבן	לעבן	NOUN	_	_	4	nsubj	_	Translit=lebn|Translit_Lemma=lebn
+3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+4	אומיושרדיק	אומיושרדיק	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=umyusherdik|Translit_Lemma=umyusherdik
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1665
+# text = מײַן מאַמע איז אַ ייִד, און מײַן טאַטע אַ פּאָליאַק.
+# translit = mayn mame iz a yid, un mayn tate a polyak.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	מײַן	מײַן	DET	_	_	2	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+2	מאַמע	מאַמע	NOUN	_	_	5	nsubj	_	Translit=mame|Translit_Lemma=mame
+3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	ייִד	ייִד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=yid|Translit_Lemma=yid
+6	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
+7	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
+8	מײַן	מײַן	DET	_	_	9	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+9	טאַטע	טאַטע	NOUN	_	_	11	nsubj	_	Translit=tate|Translit_Lemma=tate
+10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
+11	פּאָליאַק	פּאָליאַק	NOUN	_	_	5	conj	_	SpaceAfter=No|Translit=polyak|Translit_Lemma=polyak
+12	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1666
+# text = ער זוכט אונדזער אויטאָ.
+# translit = er zukht undzer oyto.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	זוכט	זוכן	VERB	_	_	0	root	_	Translit=zukht|Translit_Lemma=zukhn
+3	אונדזער	אונדזער	DET	_	_	4	det:poss	_	Translit=undzer|Translit_Lemma=undzer
+4	אויטאָ	אויטאָ	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=oyto|Translit_Lemma=oyto
+5	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1667
+# text = זי שרײַבט לידער.
+# translit = zi shraybt lider.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	שרײַבט	שרײַבן	VERB	_	_	0	root	_	Translit=shraybt|Translit_Lemma=shraybn
+3	לידער	לידערן	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=lider|Translit_Lemma=lidern
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1668
+# text = זײַט איר נאָך דאָ?
+# translit = zayt ir nokh do?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זײַט	זײַן	AUX	_	_	4	cop	_	Translit=zayt|Translit_Lemma=zayn
+2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
+3	נאָך	נאָך	ADV	_	_	4	advmod	_	Translit=nokh|Translit_Lemma=nokh
+4	דאָ	דאָ	ADV	_	_	0	root	_	SpaceAfter=No|Translit=do|Translit_Lemma=do
+5	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1669
+# text = דו ווייסט נישט ווער איך בין?
+# translit = du veyst nisht ver ikh bin?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
+2	ווייסט	וויסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=visn
+3	נישט	נישט	PART	_	_	2	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	ווער	װער	PRON	_	_	2	ccomp	_	Translit=ver|Translit_Lemma=ver
+5	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+6	בין	זײַן	AUX	_	_	4	cop	_	SpaceAfter=No|Translit=bin|Translit_Lemma=zayn
+7	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1670
+# text = זי פֿאַרשטייט ייִדיש.
+# translit = zi farshteyt yidish.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	פֿאַרשטייט	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyt|Translit_Lemma=farshteyn
+3	ייִדיש	ײִדישן	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1671
+# text = לייענט נישט דעם זאַץ.
+# translit = leyent nisht dem zats.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	לייענט	לייענען	VERB	_	_	0	root	_	Translit=leyent|Translit_Lemma=leyenen
+2	נישט	נישט	PART	_	_	1	advmod	_	Translit=nisht|Translit_Lemma=nisht
+3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
+4	זאַץ	זאַץ	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=zats|Translit_Lemma=zats
+5	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1672
+# text = און אַזוי איז עס!
+# translit = un azoy iz es!
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
+2	אַזוי	אַזוי	ADV	_	_	0	root	_	Translit=azoy|Translit_Lemma=azoy
+3	איז	זײַן	AUX	_	_	2	cop	_	Translit=iz|Translit_Lemma=zayn
+4	עס	עס	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=es|Translit_Lemma=es
+5	!	!	PUNCT	_	_	2	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = tatoeba_1673
+# text = זי איז רוסיש.
+# translit = zi iz rusish.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
+2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
+3	רוסיש	רוסיש	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=rusish|Translit_Lemma=rusish
+4	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1674
+# text = גאָט הייסט אויף לשון־קודש אלהים, אויף תּרגום־לשון אלהא, און אויף אַראַביש אללה.
+# translit = got heyst oyf loshn-koydesh alhim, oyf targem-loshn alhe, un oyf arabish alole.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	גאָט	גאָט	PROPN	_	_	2	nsubj	_	Translit=got|Translit_Lemma=got
+2	הייסט	הייסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=heysn
+3	אויף	אויף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
+4	לשון־קודש	לשון־קודש	PROPN	_	_	2	obl	_	Translit=loshn-koydesh|Translit_Lemma=loshn-koydesh
+5	אלהים	אלה	PROPN	_	_	2	xcomp	_	SpaceAfter=No|Translit=alhim|Translit_Lemma=ale
+6	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
+7	אויף	אויף	ADP	_	_	8	case	_	Translit=oyf|Translit_Lemma=oyf
+8	תּרגום־לשון	תּרגום־לשון	PROPN	_	_	9	orphan	_	Translit=targem-loshn|Translit_Lemma=targem-loshn
+9	אלהא	אלהא	PROPN	_	_	2	conj	_	SpaceAfter=No|Translit=alhe|Translit_Lemma=alhe
+10	,	,	PUNCT	_	_	14	punct	_	Translit=,|Translit_Lemma=,
+11	און	און	CCONJ	_	_	14	cc	_	Translit=un|Translit_Lemma=un
+12	אויף	אויף	ADP	_	_	13	case	_	Translit=oyf|Translit_Lemma=oyf
+13	אַראַביש	אַראַביש	PROPN	_	_	14	orphan	_	Translit=arabish|Translit_Lemma=arabish
+14	אללה	אללה	PROPN	_	_	2	conj	_	SpaceAfter=No|Translit=alole|Translit_Lemma=alole
+15	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1675
+# text = טאָם איז געוואָרן אַ בעטלער.
+# translit = tom iz gevorn a betler.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
+3	געוואָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	בעטלער	בעטלער	NOUN	_	_	3	xcomp	_	SpaceAfter=No|Translit=betler|Translit_Lemma=betler
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1676
+# text = ווי וועט טאָם צוריקפֿאָרן קיין באָסטאָן?
+# translit = vi vet tom tsurikforn keyn boston?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ווי	ווי	ADV	_	_	4	advmod	_	Translit=vi|Translit_Lemma=vi
+2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
+3	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
+4	צוריקפֿאָרן	צוריקפֿאָרן	VERB	_	_	0	root	_	Translit=tsurikforn|Translit_Lemma=tsurikforn
+5	קיין	קיין	ADP	_	_	6	case	_	Translit=keyn|Translit_Lemma=keyn
+6	באָסטאָן	באָסטאָן	PROPN	_	_	4	obl	_	SpaceAfter=No|Translit=boston|Translit_Lemma=boston
+7	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1677
+# text = אין רוסלאַנד בין איך געווען אַ דײַטשקע, און אין דײַטשלאַנד בין איך געווען אַ רוסקע.
+# translit = in rusland bin ikh geven a daytshke, un in daytshland bin ikh geven a ruske.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
+2	רוסלאַנד	רוסלאַנד	PROPN	_	_	7	obl	_	Translit=rusland|Translit_Lemma=rusland
+3	בין	זײַן	AUX	_	_	7	aux	_	Translit=bin|Translit_Lemma=zayn
+4	איך	איך	PRON	_	_	7	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+5	געווען	זײַן	AUX	_	_	7	cop	_	Translit=geven|Translit_Lemma=zayn
+6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
+7	דײַטשקע	דײַטשקע	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=daytshke|Translit_Lemma=daytshke
+8	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
+9	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
+10	אין	אין	ADP	_	_	11	case	_	Translit=in|Translit_Lemma=in
+11	דײַטשלאַנד	דײַטשלאַנד	PROPN	_	_	16	obl	_	Translit=daytshland|Translit_Lemma=daytshland
+12	בין	זײַן	AUX	_	_	16	aux	_	Translit=bin|Translit_Lemma=zayn
+13	איך	איך	PRON	_	_	16	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+14	געווען	זײַן	AUX	_	_	16	cop	_	Translit=geven|Translit_Lemma=zayn
+15	אַ	אַ	DET	_	_	16	det	_	Translit=a|Translit_Lemma=a
+16	רוסקע	רוס	NOUN	_	_	7	conj	_	SpaceAfter=No|Translit=ruske|Translit_Lemma=rus
+17	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1678
+# text = צי שטאַמט איר פֿון אַן אַנדער פּלאַנעט?
+# translit = tsi shtamt ir fun an ander planet?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
+2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
+3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
+4	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
+5	אַן	אַ	DET	_	_	7	det	_	Translit=an|Translit_Lemma=a
+6	אַנדער	_	DET	_	_	7	det	_	Translit=ander
+7	פּלאַנעט	פּלאַנעט	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=planet|Translit_Lemma=planet
+8	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1679
+# text = ס׳איז זייער גלאַט.
+# translit = s'iz zeyer glat.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
+1	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	זייער	זייער	ADV	_	_	4	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
+4	גלאַט	גלאַט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=glat|Translit_Lemma=glat
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1680
+# text = שטויב אָפּ די פּאָליצעס.
+# translit = shtoyb op di politses.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	שטויב	שטויב	VERB	_	_	0	root	_	Translit=shtoyb|Translit_Lemma=shtoyb
+2	אָפּ	אָפּ	ADV	_	_	1	compound:prt	_	Translit=op|Translit_Lemma=op
+3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+4	פּאָליצעס	פּאָליצע	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=politses|Translit_Lemma=politse
+5	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1681
+# text = מיר טרענען זיך.
+# translit = mir trenen zikh.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	טרענען	טרענען	VERB	_	_	0	root	_	Translit=trenen|Translit_Lemma=trenen
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1682
+# text = אַליס זיידע איז געווען אַ ייִד.
+# translit = alis zeyde iz geven a yid.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	אַליס	אַליסן	PROPN	_	_	6	nsubj	_	Translit=alis|Translit_Lemma=alisn
+2	זיידע	זיידע	NOUN	_	_	1	flat:name	_	Translit=zeyde|Translit_Lemma=zeyde
+3	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
+4	געווען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
+5	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
+6	ייִד	ייִד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=yid|Translit_Lemma=yid
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1683
+# text = מיר דאַרפֿן נײַע פֿירהאַנגען.
+# translit = mir darfn naye firhangen.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	דאַרפֿן	דאַרפֿן	VERB	_	_	0	root	_	Translit=darfn|Translit_Lemma=darfn
+3	נײַע	נײַ	ADJ	_	_	4	amod	_	Translit=naye|Translit_Lemma=nay
+4	פֿירהאַנגען	פֿירהאַנג	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=firhangen|Translit_Lemma=firhang
+5	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1684
+# text = טאָם איז אַ גנבֿ און אַ דובֿר־שקרים.
+# translit = tom iz a ganef un a doyver-shkrim.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	גנבֿ	גנבֿ	NOUN	_	_	0	root	_	Translit=ganef|Translit_Lemma=ganef
+5	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
+6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
+7	דובֿר־שקרים	דובֿר־שקרים	NOUN	_	_	4	conj	_	SpaceAfter=No|Translit=doyver-shkrim|Translit_Lemma=doyver-shkrim
+8	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1685
+# text = ס׳איז נישט מײַן שולד.
+# translit = s'iz nisht mayn shuld.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
+1	עס	עס	PRON	_	_	5	nsubj	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
+3	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	מײַן	מײַן	DET	_	_	5	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+5	שולד	שולד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=shuld|Translit_Lemma=shuld
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1686
+# text = איך האָב קליינע אויערן.
+# translit = ikh hob kleyne oyern.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	VERB	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
+3	קליינע	קליין	ADJ	_	_	4	amod	_	Translit=kleyne|Translit_Lemma=kleyn
+4	אויערן	אויער	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=oyern|Translit_Lemma=oyer
+5	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1687
+# text = צי געפֿעלן דיר מאַראַנצן?
+# translit = tsi gefeln dir marantsn?
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
+2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
+3	דיר	דו	PRON	_	_	2	obl:arg	_	Translit=dir|Translit_Lemma=du
+4	מאַראַנצן	מאַראַנץ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=marantsn|Translit_Lemma=marants
+5	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = tatoeba_1688
+# text = ירושלים איז די הויפּטשטאָט פֿון מדינת־ישׂראל.
+# translit = yerusholayim iz di hoyptshtot fun medines-yisroel.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ירושלים	ירושל	PROPN	_	_	4	nsubj	_	Translit=yerusholayim|Translit_Lemma=yerushl
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+4	הויפּטשטאָט	הויפּטשטאָט	NOUN	_	_	0	root	_	Translit=hoyptshtot|Translit_Lemma=hoyptshtot
+5	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
+6	מדינת־ישׂראל	מדינת־ישׂראל	PROPN	_	_	4	nmod	_	SpaceAfter=No|Translit=medines-yisroel|Translit_Lemma=medines-yisroel
+7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1689
+# text = ער איז נישט דיק.
+# translit = er iz nisht dik.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
+4	דיק	דיק	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=dik|Translit_Lemma=dik
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1690
+# text = ער רעדט בענגאַליש.
+# translit = er redt bengalish.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
+3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = tatoeba_1691
+# text = די ביטלס זענען באַליבט צווישן די יונגע־לײַט.
+# translit = di bitls zenen balibt tsvishn di yunge-layt.
+# rtl = yes
+# source = tatoeba.org
+# genre = grammar-examples/learner
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	ביטלס	ביטל	NOUN	_	_	4	nsubj	_	Translit=bitls|Translit_Lemma=bitl
+3	זענען	זײַן	AUX	_	_	4	aux	_	Translit=zenen|Translit_Lemma=zayn
+4	באַליבט	באַליבט	ADJ	_	_	0	root	_	Translit=balibt|Translit_Lemma=balibt
+5	צווישן	צווישן	ADP	_	_	7	case	_	Translit=tsvishn|Translit_Lemma=tsvishn
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	יונגע־לײַט	יונגער־מאַן	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=yunge-layt|Translit_Lemma=yunger-man
+8	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_1
+# text = דאָ רעדט אסתּר און דאָס איז אַװדאי פּראָסטע ייִדיש, אַ פּאָדקאַסט פֿאַר אַלע װאָס לערנען זיך ייִדיש.
+# translit = do redt ister un dos iz avade proste yidish, a podkast far ale vos lernen zikh yidish.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	דאָ	דאָ	ADV	_	_	2	advmod	_	Translit=do|Translit_Lemma=do
+2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
+3	אסתּר	אסתּר	PROPN	_	_	2	nsubj	_	Translit=ister|Translit_Lemma=ister
+4	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
+5	דאָס	דער	DET	_	_	9	nsubj	_	Translit=dos|Translit_Lemma=der
+6	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
+7	אַװדאי	אַװדאי	ADV	_	_	9	advmod	_	Translit=avade|Translit_Lemma=avade
+8	פּראָסטע	פּראָסט	ADJ	_	_	9	compound	_	Translit=proste|Translit_Lemma=prost
+9	ייִדיש	ײִדישן	PROPN	_	_	2	conj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+10	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
+11	אַ	אַ	DET	_	_	12	det	_	Translit=a|Translit_Lemma=a
+12	פּאָדקאַסט	פּאָדקאַסט	NOUN	_	_	9	appos	_	Translit=podkast|Translit_Lemma=podkast
+13	פֿאַר	פֿאַר	ADP	_	_	14	case	_	Translit=far|Translit_Lemma=far
+14	אַלע	_	DET	_	_	12	nmod	_	Translit=ale
+15	װאָס	װאָס	SCONJ	_	_	16	mark	_	Translit=vos|Translit_Lemma=vos
+16	לערנען	לערנען	VERB	_	_	14	acl:relcl	_	Translit=lernen|Translit_Lemma=lernen
+17	זיך	זיך	PRON	_	_	16	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+18	ייִדיש	ײִדישן	PROPN	_	_	16	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+19	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_2
+# text = װאָס הערט זיך?
+# translit = vos hert zikh?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	װאָס	װאָס	PRON	_	_	2	nsubj	_	Translit=vos|Translit_Lemma=vos
+2	הערט	האַררט	VERB	_	_	0	root	_	Translit=hert|Translit_Lemma=harrt
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
+4	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_3
+# text = דאָ בײַם פּאָדקאַסט האָבן מיר געהאַט אַ קלײנעם איבערײַס, אַ חפֿסקה, אָבער מײן נישט אַז איך האָב נישט געאַרבעט.
+# translit = do baym podkast hobn mir gehat a kleynem iberays, a khafsoke, ober meyn nisht az ikh hob nisht gearbet.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	דאָ	דאָ	ADV	_	_	7	advmod	_	Translit=do|Translit_Lemma=do
+2-3	בײַם	_	_	_	_	_	_	_	Translit=baym
+2	בײַ	בײַ	ADP	_	_	4	case	_	Translit=bay|Translit_Lemma=bay
+3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
+4	פּאָדקאַסט	פּאָדקאַסט	NOUN	_	_	7	obl	_	Translit=podkast|Translit_Lemma=podkast
+5	האָבן	האָבן	AUX	_	_	7	aux	_	Translit=hobn|Translit_Lemma=hobn
+6	מיר	מיר	PRON	_	_	7	nsubj	_	Translit=mir|Translit_Lemma=mir
+7	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
+8	אַ	אַ	DET	_	_	10	det	_	Translit=a|Translit_Lemma=a
+9	קלײנעם	קלײַן	ADJ	_	_	10	amod	_	Translit=kleynem|Translit_Lemma=klayn
+10	איבערײַס	איבערײַס	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=iberays|Translit_Lemma=iberays
+11	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
+12	אַ	אַ	DET	_	_	13	det	_	Translit=a|Translit_Lemma=a
+13	חפֿסקה	חפֿסקה	NOUN	_	_	10	appos	_	SpaceAfter=No|Translit=khafsoke|Translit_Lemma=khafsoke
+14	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
+15	אָבער	אָבער	CCONJ	_	_	16	cc	_	Translit=ober|Translit_Lemma=ober
+16	מײן	מײַן	VERB	_	_	7	conj	_	Translit=meyn|Translit_Lemma=mayn
+17	נישט	נישט	PART	_	_	16	advmod	_	Translit=nisht|Translit_Lemma=nisht
+18	אַז	אַז	SCONJ	_	_	22	mark	_	Translit=az|Translit_Lemma=az
+19	איך	איך	PRON	_	_	22	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+20	האָב	האָבן	AUX	_	_	22	aux	_	Translit=hob|Translit_Lemma=hobn
+21	נישט	נישט	PART	_	_	22	advmod	_	Translit=nisht|Translit_Lemma=nisht
+22	געאַרבעט	אַרבעטן	VERB	_	_	16	advcl	_	SpaceAfter=No|Translit=gearbet|Translit_Lemma=arbetn
+23	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_4
+# text = איך האָב געאַרבעט מיט סו װאָס מאַכט די װידעאָס פֿאַר פּראָסטע ייִדיש און שױן אַלץ דעריאָגט!
+# translit = ikh hob gearbet mit su vos makht di videos far proste yidish un shoyn alts deryogt!
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
+3	געאַרבעט	אַרבעטן	VERB	_	_	0	root	_	Translit=gearbet|Translit_Lemma=arbetn
+4	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
+5	סו	סו	PROPN	_	_	3	obl	_	Translit=su|Translit_Lemma=su
+6	װאָס	װאָס	SCONJ	_	_	7	mark	_	Translit=vos|Translit_Lemma=vos
+7	מאַכט	מאַכט	VERB	_	_	5	acl:relcl	_	Translit=makht|Translit_Lemma=makht
+8	די	דער	DET	_	_	9	det	_	Translit=di|Translit_Lemma=der
+9	װידעאָס	ווידעאָ	NOUN	_	_	7	obj	_	Translit=videos|Translit_Lemma=video
+10	פֿאַר	פֿאַר	ADP	_	_	12	case	_	Translit=far|Translit_Lemma=far
+11	פּראָסטע	פּראָסט	ADJ	_	_	12	compound	_	Translit=proste|Translit_Lemma=prost
+12	ייִדיש	ײִדישן	PROPN	_	_	9	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+13	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
+14	שױן	שױן	ADV	_	_	16	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
+15	אַלץ	אַלץ	PRON	_	_	16	nsubj	_	Translit=alts|Translit_Lemma=alts
+16	דעריאָגט	דעריאָגן	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=deryogt|Translit_Lemma=deryogn
+17	!	!	PUNCT	_	_	3	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = py_dialects_5
+# text = דאָס הײסט די אַלע דרײַסיק עפּיזאָדן פֿון פּראָסטע ייִדיש ביז אַהער זײַנען איצט אױף אונדזער יו־טיוב קאַנאַל.
+# translit = dos heyst di ale draysik epizodn fun proste yidish biz aher zaynen itst oyf undzer yu-tyub kanal.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	דאָס	דער	DET	_	_	2	nsubj	_	Translit=dos|Translit_Lemma=der
+2	הײסט	הײַסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=haysn
+3	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+4	אַלע	_	DET	_	_	6	det	_	Translit=ale
+5	דרײַסיק	_	NUM	_	_	6	nummod	_	Translit=draysik
+6	עפּיזאָדן	עפּיזאָד	NOUN	_	_	17	nsubj	_	Translit=epizodn|Translit_Lemma=epizod
+7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
+8	פּראָסטע	פּראָסט	ADJ	_	_	9	compound	_	Translit=proste|Translit_Lemma=prost
+9	ייִדיש	ײִדישן	PROPN	_	_	6	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+10	ביז	ביז	ADP	_	_	11	case	_	Translit=biz|Translit_Lemma=biz
+11	אַהער	אַהער	ADV	_	_	6	nmod	_	Translit=aher|Translit_Lemma=aher
+12	זײַנען	זײַן	AUX	_	_	17	cop	_	Translit=zaynen|Translit_Lemma=zayn
+13	איצט	איצט	ADV	_	_	17	advmod	_	Translit=itst|Translit_Lemma=itst
+14	אױף	אױף	ADP	_	_	17	case	_	Translit=oyf|Translit_Lemma=oyf
+15	אונדזער	אונדזער	DET	_	_	17	det:poss	_	Translit=undzer|Translit_Lemma=undzer
+16	יו־טיוב	יו־טיוב	PROPN	_	_	17	compound	_	Translit=yu-tyub|Translit_Lemma=yu-tyub
+17	קאַנאַל	קאַנאַל	NOUN	_	_	2	ccomp	_	SpaceAfter=No|Translit=kanal|Translit_Lemma=kanal
+18	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_6
+# text = גיט אַ קוק!
+# translit = git a kuk!
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
+2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
+3	קוק	קוק	VERB	_	_	1	compound:lvc	_	SpaceAfter=No|Translit=kuk|Translit_Lemma=kuk
+4	!	!	PUNCT	_	_	1	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = py_dialects_7
+# text = איר װעט הערן פֿון אױסערגעװענטלעכע געסט און איך האָף.. לערנען זיך אַ סך ייִדיש.
+# translit = ir vet hern fun oysergeventlekhe gest un ikh hof.. lernen zikh a sakh yidish.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
+2	װעט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
+3	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
+4	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
+5	אױסערגעװענטלעכע	אױסערגעווענטלעך	ADJ	_	_	6	amod	_	Translit=oysergeventlekhe|Translit_Lemma=oysergeventlekh
+6	געסט	גאַסט	NOUN	_	_	3	obl	_	Translit=gest|Translit_Lemma=gast
+7	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
+8	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+9	האָף	האָפֿן	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=hof|Translit_Lemma=hofn
+10	..	..	PUNCT	_	_	9	punct	_	Translit=..|Translit_Lemma=..
+11	לערנען	לערנען	VERB	_	_	9	ccomp	_	Translit=lernen|Translit_Lemma=lernen
+12	זיך	זיך	PRON	_	_	11	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+13	אַ	אַ	DET	_	_	15	det	_	Translit=a|Translit_Lemma=a
+14	סך	סך	PART	_	_	13	fixed	_	Translit=sakh|Translit_Lemma=sakh
+15	ייִדיש	ייִדיש	NOUN	_	_	11	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
+16	.	.	PUNCT	_	_	11	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_8
+# text = הײַנט אין דעם עפּיזאָד װעט איר הערן אַ ביסל װעגן די דיאַלעקטן פֿון ייִדיש און אַ מעשׂה װעגן מײַן קאַץ.
+# translit = haynt in dem epizod vet ir hern a bisl vegn di dyalektn fun yidish un a mayse vegn mayn kats.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	הײַנט	הײַנט	NOUN	_	_	7	obl	_	Translit=haynt|Translit_Lemma=haynt
+2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
+3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
+4	עפּיזאָד	עפּיזאָד	NOUN	_	_	7	obl	_	Translit=epizod|Translit_Lemma=epizod
+5	װעט	װעלן	AUX	_	_	7	aux	_	Translit=vet|Translit_Lemma=veln
+6	איר	איר	PRON	_	_	7	nsubj	_	Translit=ir|Translit_Lemma=ir
+7	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
+8	אַ	אַ	DET	_	_	7	advmod	_	Translit=a|Translit_Lemma=a
+9	ביסל	ביסל	NOUN	_	_	8	fixed	_	Translit=bisl|Translit_Lemma=bisl
+10	װעגן	װעגן	ADP	_	_	12	case	_	Translit=vegn|Translit_Lemma=vegn
+11	די	דער	DET	_	_	12	det	_	Translit=di|Translit_Lemma=der
+12	דיאַלעקטן	דיאַלעקט	NOUN	_	_	7	obl	_	Translit=dyalektn|Translit_Lemma=dyalekt
+13	פֿון	פֿון	ADP	_	_	14	case	_	Translit=fun|Translit_Lemma=fun
+14	ייִדיש	ײִדישן	PROPN	_	_	12	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+15	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
+16	אַ	אַ	DET	_	_	17	det	_	Translit=a|Translit_Lemma=a
+17	מעשׂה	מעשׂה	NOUN	_	_	12	conj	_	Translit=mayse|Translit_Lemma=mayse
+18	װעגן	װעגן	ADP	_	_	20	case	_	Translit=vegn|Translit_Lemma=vegn
+19	מײַן	מײַן	DET	_	_	20	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+20	קאַץ	קאַץ	NOUN	_	_	17	nmod	_	SpaceAfter=No|Translit=kats|Translit_Lemma=kats
+21	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_9
+# text = אײנע פֿון מײַנע באַליבסטע מעשׂות װעגן די קעץ!
+# translit = eyne fun mayne balibste mayses vegn di kets!
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	אײנע	אײנער	DET	_	_	0	root	_	Translit=eyne|Translit_Lemma=eyner
+2	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
+3	מײַנע	מײַנע	DET	_	_	5	det:poss	_	Translit=mayne|Translit_Lemma=mayne
+4	באַליבסטע	באַליבסט	ADJ	_	_	5	amod	_	Translit=balibste|Translit_Lemma=balibst
+5	מעשׂות	מעשׂה	NOUN	_	_	1	nmod	_	Translit=mayses|Translit_Lemma=mayse
+6	װעגן	װעגן	ADP	_	_	8	case	_	Translit=vegn|Translit_Lemma=vegn
+7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
+8	קעץ	קאַץ	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=kets|Translit_Lemma=kats
+9	!	!	PUNCT	_	_	1	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = py_dialects_10
+# text = נו, איר זײַט גרײט?
+# translit = nu, ir zayt greyt?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	נו	_	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu
+2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
+3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
+4	זײַט	זײַן	AUX	_	_	5	cop	_	Translit=zayt|Translit_Lemma=zayn
+5	גרײט	גרייט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=greyt|Translit_Lemma=greyt
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_11
+# text = לאָמיר הערן אַ ביסל ייִדיש, פּראָסטע ייִדיש!
+# translit = lomir hern a bisl yidish, proste yidish!
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
+1	לאָז	לאָזן	VERB	_	_	0	root	_	Translit=loz|Translit_Lemma=lozn
+2	מיר	מיר	PRON	_	_	1	obj	_	Translit=mir|Translit_Lemma=mir
+3	הערן	הערן	VERB	_	_	1	xcomp	_	Translit=hern|Translit_Lemma=hern
+4	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
+5	ביסל	ביסל	NOUN	_	_	4	fixed	_	Translit=bisl|Translit_Lemma=bisl
+6	ייִדיש	ײִדישן	PROPN	_	_	3	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+7	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
+8	פּראָסטע	פּראָסט	ADJ	_	_	9	compound	_	Translit=proste|Translit_Lemma=prost
+9	ייִדיש	ײִדישן	PROPN	_	_	6	appos	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+10	!	!	PUNCT	_	_	1	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = py_dialects_12
+# text = איר װײסט אַז איך װױן מיט צװײ שוטב־חיות, מײַנע צװײ קעץ?
+# translit = ir veyst az ikh voyn mit tsvey shutev-khiyes, mayne tsvey kets?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
+2	װײסט	ווײַסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=vaysn
+3	אַז	אַז	SCONJ	_	_	5	mark	_	Translit=az|Translit_Lemma=az
+4	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+5	װױן	ווױ	VERB	_	_	2	ccomp	_	Translit=voyn|Translit_Lemma=voy
+6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
+7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+8	שוטב־חיות	שוטב־חי	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=shutev-khiyes|Translit_Lemma=shoytev-khay
+9	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
+10	מײַנע	מײַנע	DET	_	_	12	det:poss	_	Translit=mayne|Translit_Lemma=mayne
+11	צװײ	_	NUM	_	_	12	nummod	_	Translit=tsvey
+12	קעץ	קאַץ	NOUN	_	_	8	appos	_	SpaceAfter=No|Translit=kets|Translit_Lemma=kats
+13	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_13
+# text = די קעץ הײסן נאַלעשניקי און פּרינץ.
+# translit = di kets heysn naleshniki un prints.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	קעץ	קאַץ	NOUN	_	_	3	nsubj	_	Translit=kets|Translit_Lemma=kats
+3	הײסן	הײַסן	VERB	_	_	0	root	_	Translit=heysn|Translit_Lemma=haysn
+4	נאַלעשניקי	נאַלעשניקי	PROPN	_	_	3	obj	_	Translit=naleshniki|Translit_Lemma=naleshniki
+5	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
+6	פּרינץ	פּרינץ	PROPN	_	_	4	conj	_	SpaceAfter=No|Translit=prints|Translit_Lemma=prints
+7	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_14
+# text = פּרינץ האָט שױן געװױנט מיט מײַן פּאַרטנער בראַנדי אײדער מיר האָבן זיך געטראָפֿן.
+# translit = prints hot shoyn gevoynt mit mayn partner brandi eyder mir hobn zikh getrofn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	פּרינץ	פּרינץ	PROPN	_	_	4	nsubj	_	Translit=prints|Translit_Lemma=prints
+2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+3	שױן	שױן	ADV	_	_	4	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
+4	געװױנט	ווױנען	VERB	_	_	0	root	_	Translit=gevoynt|Translit_Lemma=voynen
+5	מיט	מיט	ADP	_	_	7	case	_	Translit=mit|Translit_Lemma=mit
+6	מײַן	מײַן	DET	_	_	7	det:poss	_	Translit=mayn|Translit_Lemma=mayn
+7	פּאַרטנער	פּאַרטנע	NOUN	_	_	4	obl	_	Translit=partner|Translit_Lemma=partne
+8	בראַנדי	בראַנדי	PROPN	_	_	7	appos	_	Translit=brandi|Translit_Lemma=brandi
+9	אײדער	אײדער	SCONJ	_	_	13	mark	_	Translit=eyder|Translit_Lemma=eyder
+10	מיר	מיר	PRON	_	_	13	nsubj	_	Translit=mir|Translit_Lemma=mir
+11	האָבן	האָבן	AUX	_	_	13	aux	_	Translit=hobn|Translit_Lemma=hobn
+12	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+13	געטראָפֿן	טרעפֿן	VERB	_	_	4	advcl	_	SpaceAfter=No|Translit=getrofn|Translit_Lemma=trefn
+14	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_15
+# text = פּרינץ האָט ליב צו זײַן אין דרױסן.
+# translit = prints hot lib tsu zayn in droysn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	פּרינץ	פּרינץ	PROPN	_	_	2	nsubj	_	Translit=prints|Translit_Lemma=prints
+2	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
+3	ליב	ליב	NOUN	_	_	2	compound:lvc	_	Translit=lib|Translit_Lemma=lib
+4	צו	צו	PART	_	_	7	mark	_	Translit=tsu|Translit_Lemma=tsu
+5	זײַן	זײַן	AUX	_	_	7	cop	_	Translit=zayn|Translit_Lemma=zayn
+6	אין	אין	ADP	_	_	7	case	_	Translit=in|Translit_Lemma=in
+7	דרױסן	דרױסן	ADV	_	_	2	xcomp	_	SpaceAfter=No|Translit=droysn|Translit_Lemma=droysn
+8	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_16
+# text = איך װײס, ס'איז נישט גוט אַז אַ קאַץ זאָל זײַן אין דרױסן - בעסער אַז זײ בלײַבן אין שטוב.
+# translit = ikh veys, s'iz nisht gut az a kats zol zayn in droysn - beser az zey blaybn in shtub.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	װײס	ווײַס	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veys|Translit_Lemma=vays
+3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
+4-5	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
+4	עס	עס	PRON	_	_	7	expl	_	Translit=es|Translit_Lemma=es
+5	איז	זײַן	AUX	_	_	7	cop	_	Translit=iz|Translit_Lemma=zayn
+6	נישט	נישט	PART	_	_	7	advmod	_	Translit=nisht|Translit_Lemma=nisht
+7	גוט	גוט	ADJ	_	_	2	ccomp	_	Translit=gut|Translit_Lemma=gut
+8	אַז	אַז	SCONJ	_	_	14	mark	_	Translit=az|Translit_Lemma=az
+9	אַ	אַ	DET	_	_	10	det	_	Translit=a|Translit_Lemma=a
+10	קאַץ	קאַץ	NOUN	_	_	14	nsubj	_	Translit=kats|Translit_Lemma=kats
+11	זאָל	זאָלן	AUX	_	_	14	aux	_	Translit=zol|Translit_Lemma=zoln
+12	זײַן	זײַן	AUX	_	_	14	cop	_	Translit=zayn|Translit_Lemma=zayn
+13	אין	אין	ADP	_	_	14	case	_	Translit=in|Translit_Lemma=in
+14	דרױסן	דרױסן	ADV	_	_	7	csubj	_	Translit=droysn|Translit_Lemma=droysn
+15	-	-	PUNCT	_	_	16	punct	_	Translit=-|Translit_Lemma=-
+16	בעסער	בעסער	ADJ	_	_	2	parataxis	_	Translit=beser|Translit_Lemma=beser
+17	אַז	אַז	SCONJ	_	_	19	mark	_	Translit=az|Translit_Lemma=az
+18	זײ	זײ	PRON	_	_	19	nsubj	_	Translit=zey|Translit_Lemma=zey
+19	בלײַבן	בלײַבן	VERB	_	_	16	csubj	_	Translit=blaybn|Translit_Lemma=blaybn
+20	אין	אין	ADP	_	_	21	case	_	Translit=in|Translit_Lemma=in
+21	שטוב	שטוב	NOUN	_	_	19	obl	_	SpaceAfter=No|Translit=shtub|Translit_Lemma=shtub
+22	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_17
+# text = און פּרינץ האָט זײער ליב געהאַט די פֿרעמדע מענטשן.
+# translit = un prints hot zeyer lib gehat di fremde mentshn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
+2	פּרינץ	פּרינץ	PROPN	_	_	6	nsubj	_	Translit=prints|Translit_Lemma=prints
+3	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
+4	זײער	זײער	ADV	_	_	6	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
+5	ליב	ליב	NOUN	_	_	6	compound:lvc	_	Translit=lib|Translit_Lemma=lib
+6	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
+7	די	דער	DET	_	_	9	det	_	Translit=di|Translit_Lemma=der
+8	פֿרעמדע	פֿרעמד	ADJ	_	_	9	amod	_	Translit=fremde|Translit_Lemma=fremd
+9	מענטשן	מענטשן	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=mentshn|Translit_Lemma=mentshn
+10	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_18
+# text = ער פֿלעגט זיך אַװעקלײגן אױף דער זון און זײַן מיט די מענטשן.
+# translit = er flegt zikh avekleygn oyf der zun un zayn mit di mentshn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	פֿלעגט	פֿלעגן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=flegn
+3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+4	אַװעקלײגן	אַוועקלײַגן	VERB	_	_	2	xcomp	_	Translit=avekleygn|Translit_Lemma=aveklaygn
+5	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
+6	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
+7	זון	זון	NOUN	_	_	4	obl	_	Translit=zun|Translit_Lemma=zun
+8	און	און	CCONJ	_	_	12	cc	_	Translit=un|Translit_Lemma=un
+9	זײַן	זײַן	AUX	_	_	12	cop	_	Translit=zayn|Translit_Lemma=zayn
+10	מיט	מיט	ADP	_	_	12	case	_	Translit=mit|Translit_Lemma=mit
+11	די	דער	DET	_	_	12	det	_	Translit=di|Translit_Lemma=der
+12	מענטשן	מענטשן	NOUN	_	_	4	conj	_	SpaceAfter=No|Translit=mentshn|Translit_Lemma=mentshn
+13	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_19
+# text = ער איז געגאַנגען שפּאַצירן איבער די גאַסן און זיך געטראָפֿן מיט מענטשן אין פּאַרק.
+# translit = er iz gegangen shpatsirn iber di gasn un zikh getrofn mit mentshn in park.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
+3	געגאַנגען	גיין	VERB	_	_	0	root	_	Translit=gegangen|Translit_Lemma=geyn
+4	שפּאַצירן	שפּאַצירן	VERB	_	_	3	xcomp	_	Translit=shpatsirn|Translit_Lemma=shpatsirn
+5	איבער	איבער	ADP	_	_	7	case	_	Translit=iber|Translit_Lemma=iber
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	גאַסן	גאַס	NOUN	_	_	3	obl	_	Translit=gasn|Translit_Lemma=gas
+8	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
+9	זיך	זיך	PRON	_	_	10	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+10	געטראָפֿן	טרעפֿן	VERB	_	_	3	conj	_	Translit=getrofn|Translit_Lemma=trefn
+11	מיט	מיט	ADP	_	_	12	case	_	Translit=mit|Translit_Lemma=mit
+12	מענטשן	מענטשן	NOUN	_	_	10	obl	_	Translit=mentshn|Translit_Lemma=mentshn
+13	אין	אין	ADP	_	_	14	case	_	Translit=in|Translit_Lemma=in
+14	פּאַרק	פּאַרק	NOUN	_	_	12	nmod	_	SpaceAfter=No|Translit=park|Translit_Lemma=park
+15	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_20
+# text = ער האָט געהאַט אַ סך חבֿרים אין געגנט.
+# translit = er hot gehat a sakh khaveyrim in gegnt.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
+4	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
+5	סך	סך	PART	_	_	4	fixed	_	Translit=sakh|Translit_Lemma=sakh
+6	חבֿרים	חבֿר	NOUN	_	_	3	obj	_	Translit=khaveyrim|Translit_Lemma=khaver
+7	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+8	געגנט	געגנט	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=gegnt|Translit_Lemma=gegnt
+9	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_21
+# text = זײ האָבן אונדז דערצײלט אַז פּרינץ קומט צו גאַסט און שלאָפֿט אױף זײער בעט אָדער שפּילט מיט זײערע קינדער.
+# translit = zey hobn undz dertseylt az prints kumt tsu gast un shloft oyf zeyer bet oder shpilt mit zeyere kinder.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
+2	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
+3	אונדז	מיר	PRON	_	_	4	obl:arg	_	Translit=undz|Translit_Lemma=mir
+4	דערצײלט	דערצײלען	VERB	_	_	0	root	_	Translit=dertseylt|Translit_Lemma=dertseylen
+5	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|Translit_Lemma=az
+6	פּרינץ	פּרינץ	PROPN	_	_	7	nsubj	_	Translit=prints|Translit_Lemma=prints
+7	קומט	קומען	VERB	_	_	4	ccomp	_	Translit=kumt|Translit_Lemma=kumen
+8	צו	צו	ADP	_	_	9	case	_	Translit=tsu|Translit_Lemma=tsu
+9	גאַסט	גאַסט	NOUN	_	_	7	obl	_	Translit=gast|Translit_Lemma=gast
+10	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
+11	שלאָפֿט	שלאָפֿן	VERB	_	_	7	conj	_	Translit=shloft|Translit_Lemma=shlofn
+12	אױף	אױף	ADP	_	_	14	case	_	Translit=oyf|Translit_Lemma=oyf
+13	זײער	זײַן	DET	_	_	14	det:poss	_	Translit=zeyer|Translit_Lemma=zayn
+14	בעט	בעט	NOUN	_	_	11	obl	_	Translit=bet|Translit_Lemma=bet
+15	אָדער	אָדער	CCONJ	_	_	16	cc	_	Translit=oder|Translit_Lemma=oder
+16	שפּילט	שפּילן	VERB	_	_	11	conj	_	Translit=shpilt|Translit_Lemma=shpiln
+17	מיט	מיט	ADP	_	_	19	case	_	Translit=mit|Translit_Lemma=mit
+18	זײערע	זײַער	DET	_	_	19	det:poss	_	Translit=zeyere|Translit_Lemma=zayer
+19	קינדער	קינד	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=kinder|Translit_Lemma=kind
+20	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_22
+# text = ניק קלעװסקי איז אַ ייִדיש־העברעיש לערער און שפּראַך ענטוזיאַסט װאָס האָט אַרײַנגעשיקט אַ קלײנעם באַריכט װעגן ייִדיש.
+# translit = nik klevski iz a yidish-hebreish lerer un shprakh entuzyast vos hot arayngeshikt a kleynem barikht vegn yidish.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	ניק	ניקן	PROPN	_	_	6	nsubj	_	Translit=nik|Translit_Lemma=nikn
+2	קלעװסקי	קלעװסקי	PROPN	_	_	1	flat:name	_	Translit=klevski|Translit_Lemma=klevski
+3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	ייִדיש־העברעיש	ייִדיש־העברעיש	ADJ	_	_	6	compound	_	Translit=yidish-hebreish|Translit_Lemma=yidish-hebreish
+6	לערער	לערער	NOUN	_	_	0	root	_	Translit=lerer|Translit_Lemma=lerer
+7	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
+8	שפּראַך	שפּראַך	NOUN	_	_	9	compound	_	Translit=shprakh|Translit_Lemma=shprakh
+9	ענטוזיאַסט	ענטוזיאַסט	NOUN	_	_	6	conj	_	Translit=entuzyast|Translit_Lemma=entuzyast
+10	װאָס	װאָס	SCONJ	_	_	12	mark	_	Translit=vos|Translit_Lemma=vos
+11	האָט	האָבן	AUX	_	_	12	aux	_	Translit=hot|Translit_Lemma=hobn
+12	אַרײַנגעשיקט	אַרײַנשיקן	VERB	_	_	9	acl:relcl	_	Translit=arayngeshikt|Translit_Lemma=araynshikn
+13	אַ	אַ	DET	_	_	15	det	_	Translit=a|Translit_Lemma=a
+14	קלײנעם	קלײַן	ADJ	_	_	15	amod	_	Translit=kleynem|Translit_Lemma=klayn
+15	באַריכט	באַריכט	NOUN	_	_	12	obj	_	Translit=barikht|Translit_Lemma=barikht
+16	װעגן	װעגן	ADP	_	_	17	case	_	Translit=vegn|Translit_Lemma=vegn
+17	ייִדיש	ײִדישן	PROPN	_	_	15	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+18	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_23
+# text = לאָמיר כאַפּן אַ שמועס וועגן דער געשיכטע פֿון מאַמע־לשון און אירע דיאַלעקטן.
+# translit = lomir khapn a shmues vegn der geshikhte fun mame-loshn un ire dyalektn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
+1	לאָז	לאָזן	VERB	_	_	0	root	_	Translit=loz|Translit_Lemma=lozn
+2	מיר	מיר	PRON	_	_	1	obj	_	Translit=mir|Translit_Lemma=mir
+3	כאַפּן	כאַפּן	VERB	_	_	1	xcomp	_	Translit=khapn|Translit_Lemma=khapn
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	שמועס	שמועס	NOUN	_	_	3	obj	_	Translit=shmues|Translit_Lemma=shmues
+6	וועגן	וועגן	ADP	_	_	8	case	_	Translit=vegn|Translit_Lemma=vegn
+7	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
+8	געשיכטע	געשיכט	NOUN	_	_	5	nmod	_	Translit=geshikhte|Translit_Lemma=geshikht
+9	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
+10	מאַמע־לשון	מאַמע־לשון	NOUN	_	_	8	nmod	_	Translit=mame-loshn|Translit_Lemma=mame-loshn
+11	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
+12	אירע	אירע	DET	_	_	13	det:poss	_	Translit=ire|Translit_Lemma=ire
+13	דיאַלעקטן	דיאַלעקט	NOUN	_	_	10	conj	_	SpaceAfter=No|Translit=dyalektn|Translit_Lemma=dyalekt
+14	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_24
+# text = האָט איר אַמאָל געטראַכט אַז יידיש קלינגט זייער ענלעך צו דײַטש?
+# translit = hot ir amol getrakht az yidish klingt zeyer enlekh tsu daytsh?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
+3	אַמאָל	אַמאָל	ADV	_	_	4	advmod	_	Translit=amol|Translit_Lemma=amol
+4	געטראַכט	טראַכטן	VERB	_	_	0	root	_	Translit=getrakht|Translit_Lemma=trakhtn
+5	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|Translit_Lemma=az
+6	יידיש	ײדיש	PROPN	_	_	7	nsubj	_	Translit=yidish|Translit_Lemma=yadish
+7	קלינגט	קלינגען	VERB	_	_	4	ccomp	_	Translit=klingt|Translit_Lemma=klingen
+8	זייער	זייער	ADV	_	_	9	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
+9	ענלעך	ענל	ADJ	_	_	7	xcomp	_	Translit=enlekh|Translit_Lemma=enl
+10	צו	צו	ADP	_	_	11	case	_	Translit=tsu|Translit_Lemma=tsu
+11	דײַטש	דײַטש	PROPN	_	_	9	obl	_	SpaceAfter=No|Translit=daytsh|Translit_Lemma=daytsh
+12	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_25
+# text = פֿאַרוואָס?
+# translit = farvos?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	פֿאַרוואָס	פֿאַרוואָס	ADV	_	_	0	root	_	SpaceAfter=No|Translit=farvos|Translit_Lemma=farvos
+2	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_26
+# text = צי רעדן אַלע יידישע רעדערס דאָס זעלבע יידיש?
+# translit = tsi redn ale yidishe reders dos zelbe yidish?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
+2	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
+3	אַלע	_	DET	_	_	5	det	_	Translit=ale
+4	יידישע	יידיש	ADJ	_	_	5	amod	_	Translit=yidishe|Translit_Lemma=yidish
+5	רעדערס	רעדער	NOUN	_	_	2	nsubj	_	Translit=reders|Translit_Lemma=reder
+6	דאָס	דער	DET	_	_	8	det	_	Translit=dos|Translit_Lemma=der
+7	זעלבע	זעלב	ADJ	_	_	8	amod	_	Translit=zelbe|Translit_Lemma=zelb
+8	יידיש	יידיש	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
+9	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_27
+# text = צום ערשטנס איז יידיש אַ צענטראַל אייראָפּישע שפּראַך וואָס איז אַ מיטגלידער פֿון די גערמאַנישע שפּראַכן משפּחה און נעמט זיך פֿון מיטל־הויכן דײַטש -- נישט הײַנטציקע דײַטש.
+# translit = tsum ershtns iz yidish a tsentral eyropishe shprakh vos iz a mitglider fun di germanishe shprakhn mishpokhe un nemt zikh fun mitl-hoykhn daytsh -- nisht haynttsike daytsh.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1-2	צום	_	_	_	_	_	_	_	Translit=tsum
+1	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
+2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
+3	ערשטנס	ערשטנס	ADV	_	_	9	obl	_	Translit=ershtns|Translit_Lemma=ershtns
+4	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
+5	יידיש	ײדיש	PROPN	_	_	9	nsubj	_	Translit=yidish|Translit_Lemma=yadish
+6	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+7	צענטראַל	צענטראַל	ADJ	_	_	8	compound	_	Translit=tsentral|Translit_Lemma=tsentral
+8	אייראָפּישע	אייראָפּיש	ADJ	_	_	9	amod	_	Translit=eyropishe|Translit_Lemma=eyropish
+9	שפּראַך	שפּראַך	NOUN	_	_	0	root	_	Translit=shprakh|Translit_Lemma=shprakh
+10	וואָס	וואָס	SCONJ	_	_	13	mark	_	Translit=vos|Translit_Lemma=vos
+11	איז	זײַן	AUX	_	_	13	cop	_	Translit=iz|Translit_Lemma=zayn
+12	אַ	אַ	DET	_	_	13	det	_	Translit=a|Translit_Lemma=a
+13	מיטגלידער	מיטגליד	NOUN	_	_	9	acl:relcl	_	Translit=mitglider|Translit_Lemma=mitglid
+14	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|Translit_Lemma=fun
+15	די	דער	DET	_	_	18	det	_	Translit=di|Translit_Lemma=der
+16	גערמאַנישע	גערמאַניש	ADJ	_	_	18	amod	_	Translit=germanishe|Translit_Lemma=germanish
+17	שפּראַכן	שפּראַך	NOUN	_	_	18	compound	_	Translit=shprakhn|Translit_Lemma=shprakh
+18	משפּחה	משפּחה	NOUN	_	_	13	nmod	_	Translit=mishpokhe|Translit_Lemma=mishpokhe
+19	און	און	CCONJ	_	_	20	cc	_	Translit=un|Translit_Lemma=un
+20	נעמט	נעמען	VERB	_	_	13	conj	_	Translit=nemt|Translit_Lemma=nemen
+21	זיך	זיך	PRON	_	_	20	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+22	פֿון	פֿון	ADP	_	_	24	case	_	Translit=fun|Translit_Lemma=fun
+23	מיטל־הויכן	מיטל־הויך	ADJ	_	_	24	amod	_	Translit=mitl-hoykhn|Translit_Lemma=mitl-hoykh
+24	דײַטש	דײַטש	PROPN	_	_	20	obl	_	Translit=daytsh|Translit_Lemma=daytsh
+25	--	--	PUNCT	_	_	28	punct	_	Translit=--|Translit_Lemma=--
+26	נישט	נישט	PART	_	_	28	advmod	_	Translit=nisht|Translit_Lemma=nisht
+27	הײַנטציקע	הײַנטציק	ADJ	_	_	28	amod	_	Translit=haynttsike|Translit_Lemma=haynttsik
+28	דײַטש	דײַטש	PROPN	_	_	24	appos	_	SpaceAfter=No|Translit=daytsh|Translit_Lemma=daytsh
+29	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_28
+# text = יידיש רעדערס האָבן געוואַנדערט אַרום אייראָפּע און בשעת דעם וואַנדערן, האָט יידיש זיך אַנטוויקלט מער און מער און כאַפּט נײַע ווערטער פֿון סלאַווישע שפּראַכן ווי פּויליש, אוקרײַניש, רוסיש און אַזױ װײַטער.
+# translit = yidish reders hobn gevandert arum eyrope un beshas dem vandern, hot yidish zikh antviklt mer un mer un khapt naye verter fun slavishe shprakhn vi poylish, ukraynish, rusish un azoy vayter.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	יידיש	ײדיש	PROPN	_	_	2	compound	_	Translit=yidish|Translit_Lemma=yadish
+2	רעדערס	רעדער	NOUN	_	_	4	nsubj	_	Translit=reders|Translit_Lemma=reder
+3	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
+4	געוואַנדערט	וואַנדערן	VERB	_	_	0	root	_	Translit=gevandert|Translit_Lemma=vandern
+5	אַרום	אַרום	ADP	_	_	6	case	_	Translit=arum|Translit_Lemma=arum
+6	אייראָפּע	אײראָפּען	PROPN	_	_	4	obl	_	Translit=eyrope|Translit_Lemma=eyropen
+7	און	און	CCONJ	_	_	15	cc	_	Translit=un|Translit_Lemma=un
+8	בשעת	בשעת	ADP	_	_	10	case	_	Translit=beshas|Translit_Lemma=beshas
+9	דעם	דער	DET	_	_	10	det	_	Translit=dem|Translit_Lemma=der
+10	וואַנדערן	וואַנדערן	NOUN	_	_	15	obl	_	SpaceAfter=No|Translit=vandern|Translit_Lemma=vandern
+11	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
+12	האָט	האָבן	AUX	_	_	15	aux	_	Translit=hot|Translit_Lemma=hobn
+13	יידיש	ײדיש	PROPN	_	_	15	nsubj	_	Translit=yidish|Translit_Lemma=yadish
+14	זיך	זיך	PRON	_	_	15	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+15	אַנטוויקלט	אַנטוויקלען	VERB	_	_	4	conj	_	Translit=antviklt|Translit_Lemma=antviklen
+16	מער	מער	ADJ	_	_	15	advmod	_	Translit=mer|Translit_Lemma=mer
+17	און	און	CCONJ	_	_	18	cc	_	Translit=un|Translit_Lemma=un
+18	מער	מער	ADV	_	_	16	conj	_	Translit=mer|Translit_Lemma=mer
+19	און	און	CCONJ	_	_	20	cc	_	Translit=un|Translit_Lemma=un
+20	כאַפּט	כאַפּן	VERB	_	_	15	conj	_	Translit=khapt|Translit_Lemma=khapn
+21	נײַע	נײַ	ADJ	_	_	22	amod	_	Translit=naye|Translit_Lemma=nay
+22	ווערטער	וואָרט	NOUN	_	_	20	obj	_	Translit=verter|Translit_Lemma=vort
+23	פֿון	פֿון	ADP	_	_	25	case	_	Translit=fun|Translit_Lemma=fun
+24	סלאַווישע	סלאַוויש	ADJ	_	_	25	amod	_	Translit=slavishe|Translit_Lemma=slavish
+25	שפּראַכן	שפּראַך	NOUN	_	_	22	nmod	_	Translit=shprakhn|Translit_Lemma=shprakh
+26	ווי	ווי	SCONJ	_	_	27	case	_	Translit=vi|Translit_Lemma=vi
+27	פּויליש	פּױליש	PROPN	_	_	25	nmod	_	SpaceAfter=No|Translit=poylish|Translit_Lemma=poylish
+28	,	,	PUNCT	_	_	29	punct	_	Translit=,|Translit_Lemma=,
+29	אוקרײַניש	אוקרײַניש	PROPN	_	_	27	conj	_	SpaceAfter=No|Translit=ukraynish|Translit_Lemma=ukraynish
+30	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
+31	רוסיש	רוסיש	PROPN	_	_	27	conj	_	Translit=rusish|Translit_Lemma=rusish
+32	און	און	CCONJ	_	_	34	cc	_	Translit=un|Translit_Lemma=un
+33	אַזױ	אַזױ	ADV	_	_	34	advmod	_	Translit=azoy|Translit_Lemma=azoy
+34	װײַטער	ווײַט	ADJ	_	_	27	conj	_	SpaceAfter=No|Translit=vayter|Translit_Lemma=vayt
+35	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_29
+# text = אָבער אַזױ איז געווען נאָר מיט די יידיש רעדערס וואָס האָבן זיך באַזעצט אין מזרח אײראָפּע אָבער אַ סך רעדערס האָבן זיך באַזעצט אין מערבֿ אייראָפּע, למשל אין פֿראַנקרײַך, בעלגיע, און נעדערלאַנדס.
+# translit = ober azoy iz geven nor mit di yidish reders vos hobn zikh bazetst in mizrekh eyrope ober a sakh reders hobn zikh bazetst in mayrev eyrope, lemoshl in frankraykh, belgye, un nederlands.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	אָבער	אָבער	CCONJ	_	_	9	cc	_	Translit=ober|Translit_Lemma=ober
+2	אַזױ	אַזױ	ADV	_	_	9	nsubj	_	Translit=azoy|Translit_Lemma=azoy
+3	איז	זײַן	AUX	_	_	9	aux	_	Translit=iz|Translit_Lemma=zayn
+4	געווען	זײַן	AUX	_	_	9	cop	_	Translit=geven|Translit_Lemma=zayn
+5	נאָר	נאָר	ADV	_	_	9	advmod	_	Translit=nor|Translit_Lemma=nor
+6	מיט	מיט	ADP	_	_	9	case	_	Translit=mit|Translit_Lemma=mit
+7	די	דער	DET	_	_	9	det	_	Translit=di|Translit_Lemma=der
+8	יידיש	ײדיש	PROPN	_	_	9	compound	_	Translit=yidish|Translit_Lemma=yadish
+9	רעדערס	רעדער	NOUN	_	_	0	root	_	Translit=reders|Translit_Lemma=reder
+10	וואָס	וואָס	SCONJ	_	_	13	mark	_	Translit=vos|Translit_Lemma=vos
+11	האָבן	האָבן	AUX	_	_	13	aux	_	Translit=hobn|Translit_Lemma=hobn
+12	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+13	באַזעצט	באַזעצן	VERB	_	_	9	acl:relcl	_	Translit=bazetst|Translit_Lemma=bazetsn
+14	אין	אין	ADP	_	_	16	case	_	Translit=in|Translit_Lemma=in
+15	מזרח	מזרח	NOUN	_	_	16	compound	_	Translit=mizrekh|Translit_Lemma=mizrekh
+16	אײראָפּע	אײראָפּען	PROPN	_	_	13	obl	_	Translit=eyrope|Translit_Lemma=eyropen
+17	אָבער	אָבער	CCONJ	_	_	23	cc	_	Translit=ober|Translit_Lemma=ober
+18	אַ	אַ	DET	_	_	20	det	_	Translit=a|Translit_Lemma=a
+19	סך	סך	PART	_	_	18	fixed	_	Translit=sakh|Translit_Lemma=sakh
+20	רעדערס	רעדער	NOUN	_	_	23	nsubj	_	Translit=reders|Translit_Lemma=reder
+21	האָבן	האָבן	AUX	_	_	23	aux	_	Translit=hobn|Translit_Lemma=hobn
+22	זיך	זיך	PRON	_	_	23	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+23	באַזעצט	באַזעצן	VERB	_	_	9	conj	_	Translit=bazetst|Translit_Lemma=bazetsn
+24	אין	אין	ADP	_	_	26	case	_	Translit=in|Translit_Lemma=in
+25	מערבֿ	מערבֿ	NOUN	_	_	26	compound	_	Translit=mayrev|Translit_Lemma=mayrev
+26	אייראָפּע	אײראָפּען	PROPN	_	_	23	obl	_	SpaceAfter=No|Translit=eyrope|Translit_Lemma=eyropen
+27	,	,	PUNCT	_	_	30	punct	_	Translit=,|Translit_Lemma=,
+28	למשל	למשל	ADV	_	_	30	advmod	_	Translit=lemoshl|Translit_Lemma=lemoshl
+29	אין	אין	ADP	_	_	30	case	_	Translit=in|Translit_Lemma=in
+30	פֿראַנקרײַך	פֿראַנקרײַך	PROPN	_	_	26	appos	_	SpaceAfter=No|Translit=frankraykh|Translit_Lemma=frankraykh
+31	,	,	PUNCT	_	_	32	punct	_	Translit=,|Translit_Lemma=,
+32	בעלגיע	בעלגיע	PROPN	_	_	30	conj	_	SpaceAfter=No|Translit=belgye|Translit_Lemma=belgye
+33	,	,	PUNCT	_	_	35	punct	_	Translit=,|Translit_Lemma=,
+34	און	און	CCONJ	_	_	35	cc	_	Translit=un|Translit_Lemma=un
+35	נעדערלאַנדס	נעדערלאַנד	PROPN	_	_	30	conj	_	SpaceAfter=No|Translit=nederlands|Translit_Lemma=nederland
+36	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_30
+# text = די רעדערס וואָס זענען געווען אין מערבֿ אייראָפּע האָבן געכאַפּט ווערטער פֿון ראָמאַנישע שפּראַכן ווי פֿראַנצייזיש און נישט קיין ווערטער פֿון סלאַווישע שפּראַכן.
+# translit = di reders vos zenen geven in mayrev eyrope hobn gekhapt verter fun romanishe shprakhn vi frantseyzish un nisht keyn verter fun slavishe shprakhn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	רעדערס	רעדער	NOUN	_	_	10	nsubj	_	Translit=reders|Translit_Lemma=reder
+3	וואָס	וואָס	SCONJ	_	_	8	mark	_	Translit=vos|Translit_Lemma=vos
+4	זענען	זײַן	AUX	_	_	8	aux	_	Translit=zenen|Translit_Lemma=zayn
+5	געווען	זײַן	AUX	_	_	8	cop	_	Translit=geven|Translit_Lemma=zayn
+6	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+7	מערבֿ	מערבֿ	NOUN	_	_	8	compound	_	Translit=mayrev|Translit_Lemma=mayrev
+8	אייראָפּע	אײראָפּען	PROPN	_	_	2	acl:relcl	_	Translit=eyrope|Translit_Lemma=eyropen
+9	האָבן	האָבן	AUX	_	_	10	aux	_	Translit=hobn|Translit_Lemma=hobn
+10	געכאַפּט	כאַפּן	VERB	_	_	0	root	_	Translit=gekhapt|Translit_Lemma=khapn
+11	ווערטער	וואָרט	NOUN	_	_	10	obj	_	Translit=verter|Translit_Lemma=vort
+12	פֿון	פֿון	ADP	_	_	14	case	_	Translit=fun|Translit_Lemma=fun
+13	ראָמאַנישע	ראָמאַניש	ADJ	_	_	14	amod	_	Translit=romanishe|Translit_Lemma=romanish
+14	שפּראַכן	שפּראַך	NOUN	_	_	11	nmod	_	Translit=shprakhn|Translit_Lemma=shprakh
+15	ווי	ווי	SCONJ	_	_	16	case	_	Translit=vi|Translit_Lemma=vi
+16	פֿראַנצייזיש	פֿראַנצײזיש	PROPN	_	_	14	nmod	_	Translit=frantseyzish|Translit_Lemma=frantseyzish
+17	און	און	CCONJ	_	_	20	cc	_	Translit=un|Translit_Lemma=un
+18	נישט	נישט	PART	_	_	20	advmod	_	Translit=nisht|Translit_Lemma=nisht
+19	קיין	קײַן	DET	_	_	20	det	_	Translit=keyn|Translit_Lemma=keyn
+20	ווערטער	וואָרט	NOUN	_	_	11	conj	_	Translit=verter|Translit_Lemma=vort
+21	פֿון	פֿון	ADP	_	_	23	case	_	Translit=fun|Translit_Lemma=fun
+22	סלאַווישע	סלאַוויש	ADJ	_	_	23	amod	_	Translit=slavishe|Translit_Lemma=slavish
+23	שפּראַכן	שפּראַך	NOUN	_	_	20	nmod	_	SpaceAfter=No|Translit=shprakhn|Translit_Lemma=shprakh
+24	.	.	PUNCT	_	_	10	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_31
+# text = נאָך עטלעכע יאָרהונדערטער, און אַ סך דיאַלעקטן זענען געשאַפן געװאָרן פֿון מאַמע־לשון.
+# translit = nokh etlekhe yorhunderter, un a sakh dyalektn zenen geshafn gevorn fun mame-loshn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	נאָך	נאָך	ADP	_	_	3	case	_	Translit=nokh|Translit_Lemma=nokh
+2	עטלעכע	_	DET	_	_	3	det	_	Translit=etlekhe
+3	יאָרהונדערטער	יאָרהונדערט	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=yorhunderter|Translit_Lemma=yorhundert
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
+5	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
+6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+7	סך	סך	PART	_	_	6	fixed	_	Translit=sakh|Translit_Lemma=sakh
+8	דיאַלעקטן	דיאַלעקט	NOUN	_	_	10	nsubj:pass	_	Translit=dyalektn|Translit_Lemma=dyalekt
+9	זענען	זײַן	AUX	_	_	10	aux	_	Translit=zenen|Translit_Lemma=zayn
+10	געשאַפן	שאַפֿן	VERB	_	_	0	root	_	Translit=geshafn|Translit_Lemma=shafn
+11	געװאָרן	װערן	AUX	_	_	10	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
+12	פֿון	פֿון	ADP	_	_	13	case	_	Translit=fun|Translit_Lemma=fun
+13	מאַמע־לשון	מאַמע־לשון	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=mame-loshn|Translit_Lemma=mame-loshn
+14	.	.	PUNCT	_	_	10	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_32
+# text = עס זענען געװען צוויי הויפּט גרופּעס פֿון די יידישע דיאלעקטן.
+# translit = es zenen geven tsvey hoypt grupes fun di yidishe dielektn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	עס	עס	PRON	_	_	6	nsubj	_	Translit=es|Translit_Lemma=es
+2	זענען	זײַן	AUX	_	_	6	aux	_	Translit=zenen|Translit_Lemma=zayn
+3	געװען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
+4	צוויי	_	NUM	_	_	6	nummod	_	Translit=tsvey
+5	הויפּט	הויפּט	NOUN	_	_	6	amod	_	Translit=hoypt|Translit_Lemma=hoypt
+6	גרופּעס	גרופּע	NOUN	_	_	0	root	_	Translit=grupes|Translit_Lemma=grupe
+7	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
+8	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
+9	יידישע	יידיש	ADJ	_	_	10	amod	_	Translit=yidishe|Translit_Lemma=yidish
+10	דיאלעקטן	דיאלעקט	NOUN	_	_	6	nmod	_	SpaceAfter=No|Translit=dielektn|Translit_Lemma=dyalekt
+11	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_33
+# text = מזרחדיקע יידיש און מערבֿדיקע יידיש.
+# translit = mizrekhdike yidish un mayrevdike yidish.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	מזרחדיקע	מזרחדיק	ADJ	_	_	2	amod	_	Translit=mizrekhdike|Translit_Lemma=mizrekhdik
+2	יידיש	ײדיש	PROPN	_	_	0	root	_	Translit=yidish|Translit_Lemma=yadish
+3	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
+4	מערבֿדיקע	מערבֿדיק	ADJ	_	_	5	amod	_	Translit=mayrevdike|Translit_Lemma=mayrevdik
+5	יידיש	ײדיש	PROPN	_	_	2	conj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yadish
+6	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_34
+# text = וואָס איז דער חילוק?
+# translit = vos iz der khilek?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	וואָס	וואָס	PRON	_	_	0	root	_	Translit=vos|Translit_Lemma=vos
+2	איז	זײַן	AUX	_	_	1	cop	_	Translit=iz|Translit_Lemma=zayn
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	חילוק	חילוק	NOUN	_	_	1	nsubj	_	SpaceAfter=No|Translit=khilek|Translit_Lemma=khilek
+5	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_35
+# text = דער וואָקאַבולאַר איז אַ ביסל אַנדערש, דער אַרױסרעד איז אַ ביסל אַנדערש און אפֿשר איז די גראַמאַטיק אַ ביסל אַנדערש.
+# translit = der vokabular iz a bisl andersh, der aroysred iz a bisl andersh un efsher iz di gramatik a bisl andersh.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	וואָקאַבולאַר	וואָקאַבולאַר	NOUN	_	_	6	nsubj	_	Translit=vokabular|Translit_Lemma=vokabular
+3	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
+4	אַ	אַ	DET	_	_	6	advmod	_	Translit=a|Translit_Lemma=a
+5	ביסל	ביסל	NOUN	_	_	4	fixed	_	Translit=bisl|Translit_Lemma=bisl
+6	אַנדערש	אַנדערש	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=andersh|Translit_Lemma=andersh
+7	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
+8	דער	דער	DET	_	_	9	det	_	Translit=der|Translit_Lemma=der
+9	אַרױסרעד	אַרױסרעד	NOUN	_	_	13	nsubj	_	Translit=aroysred|Translit_Lemma=aroysred
+10	איז	זײַן	AUX	_	_	13	aux	_	Translit=iz|Translit_Lemma=zayn
+11	אַ	אַ	DET	_	_	13	advmod	_	Translit=a|Translit_Lemma=a
+12	ביסל	ביסל	NOUN	_	_	11	fixed	_	Translit=bisl|Translit_Lemma=bisl
+13	אַנדערש	אַנדערש	ADJ	_	_	6	conj	_	Translit=andersh|Translit_Lemma=andersh
+14	און	און	CCONJ	_	_	21	cc	_	Translit=un|Translit_Lemma=un
+15	אפֿשר	אפֿשר	ADV	_	_	21	advmod	_	Translit=efsher|Translit_Lemma=efsher
+16	איז	זײַן	AUX	_	_	21	cop	_	Translit=iz|Translit_Lemma=zayn
+17	די	דער	DET	_	_	18	det	_	Translit=di|Translit_Lemma=der
+18	גראַמאַטיק	גראַמאַטיק	NOUN	_	_	21	nsubj	_	Translit=gramatik|Translit_Lemma=gramatik
+19	אַ	אַ	DET	_	_	21	advmod	_	Translit=a|Translit_Lemma=a
+20	ביסל	ביסל	NOUN	_	_	19	fixed	_	Translit=bisl|Translit_Lemma=bisl
+21	אַנדערש	אַנדערש	ADJ	_	_	6	conj	_	SpaceAfter=No|Translit=andersh|Translit_Lemma=andersh
+22	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_36
+# text = למשל: מיר אַלע קענען די ווערטער "באָבע" און "זיידע" אָבער האָט איר געוווסט אַז "באָבע־זיידע" זענען מזרחדיקע יידישע ווערטער?
+# translit = lemoshl: mir ale kenen di verter "bobe" un "zeyde" ober hot ir gevust az "bobe-zeyde" zenen mizrekhdike yidishe verter?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	למשל	למשל	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=lemoshl|Translit_Lemma=lemoshl
+2	:	:	PUNCT	_	_	1	punct	_	Translit=:|Translit_Lemma=:
+3	מיר	מיר	PRON	_	_	5	nsubj	_	Translit=mir|Translit_Lemma=mir
+4	אַלע	_	DET	_	_	3	det	_	Translit=ale
+5	קענען	קענען	VERB	_	_	0	root	_	Translit=kenen|Translit_Lemma=kenen
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	ווערטער	וואָרט	NOUN	_	_	5	obj	_	Translit=verter|Translit_Lemma=vort
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
+9	באָבע	באָבע	NOUN	_	_	7	appos	_	SpaceAfter=No|Translit=bobe|Translit_Lemma=bobe
+10	"	"	PUNCT	_	_	9	punct	_	Translit="|Translit_Lemma="
+11	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
+13	זיידע	זיידע	NOUN	_	_	9	conj	_	SpaceAfter=No|Translit=zeyde|Translit_Lemma=zeyde
+14	"	"	PUNCT	_	_	13	punct	_	Translit="|Translit_Lemma="
+15	אָבער	אָבער	CCONJ	_	_	18	cc	_	Translit=ober|Translit_Lemma=ober
+16	האָט	האָבן	AUX	_	_	18	aux	_	Translit=hot|Translit_Lemma=hobn
+17	איר	איר	PRON	_	_	18	nsubj	_	Translit=ir|Translit_Lemma=ir
+18	געוווסט	וויסן	VERB	_	_	5	conj	_	Translit=gevust|Translit_Lemma=visn
+19	אַז	אַז	SCONJ	_	_	26	mark	_	Translit=az|Translit_Lemma=az
+20	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
+21	באָבע־זיידע	באָבע־זיידע	NOUN	_	_	26	nsubj	_	SpaceAfter=No|Translit=bobe-zeyde|Translit_Lemma=bobe-zeyde
+22	"	"	PUNCT	_	_	21	punct	_	Translit="|Translit_Lemma="
+23	זענען	זײַן	AUX	_	_	26	cop	_	Translit=zenen|Translit_Lemma=zayn
+24	מזרחדיקע	מזרחדיק	ADJ	_	_	25	compound	_	Translit=mizrekhdike|Translit_Lemma=mizrekhdik
+25	יידישע	יידיש	ADJ	_	_	26	amod	_	Translit=yidishe|Translit_Lemma=yidish
+26	ווערטער	וואָרט	NOUN	_	_	18	ccomp	_	SpaceAfter=No|Translit=verter|Translit_Lemma=vort
+27	?	?	PUNCT	_	_	5	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_37
+# text = מען זאָגט "האַרלע" אַנשטאָט באָבע און "פֿראַלע" אַנשטאָט זיידע.
+# translit = men zogt "harle" anshtot bobe un "frale" anshtot zeyde.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	מען	מען	PRON	_	_	2	nsubj	_	Translit=men|Translit_Lemma=men
+2	זאָגט	זאָגן	VERB	_	_	0	root	_	Translit=zogt|Translit_Lemma=zogn
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
+4	האַרלע	האַרלע	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=harle|Translit_Lemma=harle
+5	"	"	PUNCT	_	_	4	punct	_	Translit="|Translit_Lemma="
+6	אַנשטאָט	אַנשטאָט	ADP	_	_	7	case	_	Translit=anshtot|Translit_Lemma=anshtot
+7	באָבע	באָבע	NOUN	_	_	2	obl	_	Translit=bobe|Translit_Lemma=bobe
+8	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
+10	פֿראַלע	פֿראַלע	NOUN	_	_	2	conj	_	SpaceAfter=No|Translit=frale|Translit_Lemma=frale
+11	"	"	PUNCT	_	_	10	punct	_	Translit="|Translit_Lemma="
+12	אַנשטאָט	אַנשטאָט	ADP	_	_	13	case	_	Translit=anshtot|Translit_Lemma=anshtot
+13	זיידע	זיידע	NOUN	_	_	10	orphan	_	SpaceAfter=No|Translit=zeyde|Translit_Lemma=zeyde
+14	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_38
+# text = לײַדער נאָך דעם חורבן, איז די גאַנצע גרופּע פֿון מערבדיקע ייִדיש אױסגעשטאָרבן.
+# translit = layder nokh dem khurbn, iz di gantse grupe fun merbdike yidish oysgeshtorbn.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	לײַדער	לײַדער	ADV	_	_	13	advmod	_	Translit=layder|Translit_Lemma=layder
+2	נאָך	נאָך	ADP	_	_	4	case	_	Translit=nokh|Translit_Lemma=nokh
+3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
+4	חורבן	חורב	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=khurbn|Translit_Lemma=khureb
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
+6	איז	זײַן	AUX	_	_	13	cop	_	Translit=iz|Translit_Lemma=zayn
+7	די	דער	DET	_	_	9	det	_	Translit=di|Translit_Lemma=der
+8	גאַנצע	גאַנץ	ADJ	_	_	9	amod	_	Translit=gantse|Translit_Lemma=gants
+9	גרופּע	גרופּע	NOUN	_	_	13	nsubj	_	Translit=grupe|Translit_Lemma=grupe
+10	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
+11	מערבדיקע	מערבדיק	ADJ	_	_	12	amod	_	Translit=merbdike|Translit_Lemma=mayrebdik
+12	ייִדיש	ײִדישן	PROPN	_	_	9	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+13	אױסגעשטאָרבן	אױסשטאַרבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=oysgeshtorbn|Translit_Lemma=oysshtarbn
+14	.	.	PUNCT	_	_	13	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_39
+# text = און הײַנט?
+# translit = un haynt?
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
+2	הײַנט	הײַנט	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=haynt|Translit_Lemma=haynt
+3	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
+
+# sent_id = py_dialects_40
+# text = אױפֿן פּאָדקאַסט הערן מיר אַ סך ייִװאָ ייִדיש אָדער כּלל שפּראַך.
+# translit = oyfn podkast hern mir a sakh yivo yidish oder klal shprakh.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1-2	אױפֿן	_	_	_	_	_	_	_	Translit=oyfn
+1	אױפֿ	אױפֿ	ADP	_	_	3	case	_	Translit=oyf|Translit_Lemma=oyf
+2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
+3	פּאָדקאַסט	פּאָדקאַסט	NOUN	_	_	4	obl	_	Translit=podkast|Translit_Lemma=podkast
+4	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
+5	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
+6	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+7	סך	סך	PART	_	_	6	fixed	_	Translit=sakh|Translit_Lemma=sakh
+8	ייִװאָ	ײִװאָ	PROPN	_	_	9	compound	_	Translit=yivo|Translit_Lemma=yivo
+9	ייִדיש	ייִדיש	NOUN	_	_	4	obj	_	Translit=yidish|Translit_Lemma=yidish
+10	אָדער	אָדער	CCONJ	_	_	12	cc	_	Translit=oder|Translit_Lemma=oder
+11	כּלל	כּלל	NOUN	_	_	12	compound	_	Translit=klal|Translit_Lemma=klal
+12	שפּראַך	שפּראַך	NOUN	_	_	9	conj	_	SpaceAfter=No|Translit=shprakh|Translit_Lemma=shprakh
+13	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_41
+# text = אָבער דער דיאַלעקט וואָס מען רעדט אַם מערסטנס איז חסידיש/אונגאַריש ייִדיש!
+# translit = ober der dyalekt vos men redt am merstns iz khosidish/ungarish yidish!
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	אָבער	אָבער	CCONJ	_	_	14	cc	_	Translit=ober|Translit_Lemma=ober
+2	דער	דער	DET	_	_	3	det	_	Translit=der|Translit_Lemma=der
+3	דיאַלעקט	דיאַלעקט	NOUN	_	_	14	nsubj	_	Translit=dyalekt|Translit_Lemma=dyalekt
+4	וואָס	וואָס	SCONJ	_	_	6	mark	_	Translit=vos|Translit_Lemma=vos
+5	מען	מען	PRON	_	_	6	nsubj	_	Translit=men|Translit_Lemma=men
+6	רעדט	רעדן	VERB	_	_	3	acl:relcl	_	Translit=redt|Translit_Lemma=redn
+7-8	אַם	_	_	_	_	_	_	_	Translit=am
+7	אַן	אַן	ADP	_	_	9	case	_	Translit=an|Translit_Lemma=an
+8	דעם	דער	DET	_	_	9	det	_	Translit=dem|Translit_Lemma=der
+9	מערסטנס	מערסטנס	ADV	_	_	6	obl	_	Translit=merstns|Translit_Lemma=merstns
+10	איז	זײַן	AUX	_	_	14	cop	_	Translit=iz|Translit_Lemma=zayn
+11	חסידיש	חסידיש	ADJ	_	_	14	amod	_	SpaceAfter=No|Translit=khosidish|Translit_Lemma=khosidish
+12	/	/	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=/|Translit_Lemma=/
+13	אונגאַריש	אונגאַריש	ADJ	_	_	11	conj	_	Translit=ungarish|Translit_Lemma=ungarish
+14	ייִדיש	ײִדישן	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+15	!	!	PUNCT	_	_	14	punct	_	Translit=!|Translit_Lemma=!
+
+# sent_id = py_dialects_42
+# text = אַז איר זײַט פֿאַרינטעריסירט אין דיאַלעקטן, גיט אַ קוק אינעם טראַנסקריפּט און איר קענט זעען מער װעגן די חילוקים.
+# translit = az ir zayt farinterisirt in dyalektn, git a kuk inem transkript un ir kent zeen mer vegn di khilekim.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
+2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
+3	זײַט	זײַן	AUX	_	_	4	aux	_	Translit=zayt|Translit_Lemma=zayn
+4	פֿאַרינטעריסירט	פֿאַרינטעריסירן	ADJ	_	_	8	advcl	_	Translit=farinterisirt|Translit_Lemma=farinterisirn
+5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
+6	דיאַלעקטן	דיאַלעקט	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=dyalektn|Translit_Lemma=dyalekt
+7	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
+8	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
+9	אַ	אַ	DET	_	_	10	det	_	Translit=a|Translit_Lemma=a
+10	קוק	קוק	VERB	_	_	8	compound:lvc	_	Translit=kuk|Translit_Lemma=kuk
+11-12	אינעם	_	_	_	_	_	_	_	Translit=inem
+11	אין	אין	ADP	_	_	13	case	_	Translit=in|Translit_Lemma=in
+12	דעם	דער	DET	_	_	13	det	_	Translit=dem|Translit_Lemma=der
+13	טראַנסקריפּט	טראַנסקריפּט	NOUN	_	_	8	obl	_	Translit=transkript|Translit_Lemma=transkript
+14	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
+15	איר	איר	PRON	_	_	17	nsubj	_	Translit=ir|Translit_Lemma=ir
+16	קענט	קענען	AUX	_	_	17	aux	_	Translit=kent|Translit_Lemma=kenen
+17	זעען	זען	VERB	_	_	8	conj	_	Translit=zeen|Translit_Lemma=zen
+18	מער	_	DET	_	_	17	obj	_	Translit=mer
+19	װעגן	װעגן	ADP	_	_	21	case	_	Translit=vegn|Translit_Lemma=vegn
+20	די	דער	DET	_	_	21	det	_	Translit=di|Translit_Lemma=der
+21	חילוקים	חילוק	NOUN	_	_	18	nmod	_	SpaceAfter=No|Translit=khilekim|Translit_Lemma=khilek
+22	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = py_dialects_43
+# text = אַפֿשר װעלן מיר רעדן װײַטער װעגן דיאַלעקטן אין אַ קומענדיקן עפּיזאָד.
+# translit = afsher veln mir redn vayter vegn dyalektn in a kumendikn epizod.
+# rtl = yes
+# source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
+# genre = spoken, web
+1	אַפֿשר	אַפֿשר	ADV	_	_	4	advmod	_	Translit=afsher|Translit_Lemma=afsher
+2	װעלן	װעלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
+3	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
+4	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
+5	װײַטער	װײַטער	ADV	_	_	4	advmod	_	Translit=vayter|Translit_Lemma=vayter
+6	װעגן	װעגן	ADP	_	_	7	case	_	Translit=vegn|Translit_Lemma=vegn
+7	דיאַלעקטן	דיאַלעקט	NOUN	_	_	4	obl	_	Translit=dyalektn|Translit_Lemma=dyalekt
+8	אין	אין	ADP	_	_	11	case	_	Translit=in|Translit_Lemma=in
+9	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
+10	קומענדיקן	קומען	ADJ	_	_	11	amod	_	Translit=kumendikn|Translit_Lemma=kumen
+11	עפּיזאָד	עפּיזאָד	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=epizod|Translit_Lemma=epizod
+12	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = bible_exodus_52
+# text = און פַּרעה האָט באַפֿױלן זײַן גאַנצן פֿאָלק, אַזױ צו זאָגן: יעטװעדער זון װאָס װערט געבאָרן, זאָלט איר אים אין טײַך אַרײַנװאַרפֿן, און יעטװעדער טאָכטער זאָלט איר לאָזן לעבן.
+# translit = un pare hot bafoyln zayn gantsn folk, azoy tsu zogn: yetveder zun vos vert geborn, zolt ir im in taykh araynvarfn, un yetveder tokhter zolt ir lozn lebn.
+# rtl = yes
+# source = Book of Exodus
+# genre = bible
+1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
+2	פַּרעה	פּרעה	PROPN	_	_	4	nsubj	_	Translit=pare|Translit_Lemma=pare
+3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+4	באַפֿױלן	באַפֿױלן	VERB	_	_	0	root	_	Translit=bafoyln|Translit_Lemma=bafoyln
+5	זײַן	זײַן	DET	_	_	7	det:poss	_	Translit=zayn|Translit_Lemma=zayn
+6	גאַנצן	גאַנץ	ADJ	_	_	7	amod	_	Translit=gantsn|Translit_Lemma=gants
+7	פֿאָלק	פֿאָלק	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=folk|Translit_Lemma=folk
+8	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
+9	אַזױ	אַזױ	ADV	_	_	11	advmod	_	Translit=azoy|Translit_Lemma=azoy
+10	צו	צו	PART	_	_	11	mark	_	Translit=tsu|Translit_Lemma=tsu
+11	זאָגן	זאָגן	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=zogn|Translit_Lemma=zogn
+12	:	:	PUNCT	_	_	24	punct	_	Translit=:|Translit_Lemma=:
+13	יעטװעדער	_	DET	_	_	14	det	_	Translit=yetveder
+14	זון	זון	NOUN	_	_	24	obj	_	Translit=zun|Translit_Lemma=zun
+15	װאָס	װאָס	SCONJ	_	_	17	mark	_	Translit=vos|Translit_Lemma=vos
+16	װערט	װערן	AUX	_	_	17	aux:pass	_	Translit=vert|Translit_Lemma=vern
+17	געבאָרן	באָרן	VERB	_	_	14	acl:relcl	_	SpaceAfter=No|Translit=geborn|Translit_Lemma=born
+18	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
+19	זאָלט	זאָלן	AUX	_	_	24	aux	_	Translit=zolt|Translit_Lemma=zoln
+20	איר	איר	PRON	_	_	24	nsubj	_	Translit=ir|Translit_Lemma=ir
+21	אים	עס	PRON	_	_	14	dislocated	_	Translit=im|Translit_Lemma=es
+22	אין	אין	ADP	_	_	23	case	_	Translit=in|Translit_Lemma=in
+23	טײַך	טײַך	NOUN	_	_	24	obl	_	Translit=taykh|Translit_Lemma=taykh
+24	אַרײַנװאַרפֿן	אַרײַנוואַרפֿן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=araynvarfn|Translit_Lemma=araynvarfn
+25	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
+26	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
+27	יעטװעדער	_	DET	_	_	28	det	_	Translit=yetveder
+28	טאָכטער	טאָכטער	NOUN	_	_	31	obj	_	Translit=tokhter|Translit_Lemma=tokhter
+29	זאָלט	זאָלן	AUX	_	_	31	aux	_	Translit=zolt|Translit_Lemma=zoln
+30	איר	איר	PRON	_	_	31	nsubj	_	Translit=ir|Translit_Lemma=ir
+31	לאָזן	לאָזן	VERB	_	_	24	conj	_	Translit=lozn|Translit_Lemma=lozn
+32	לעבן	לעבן	VERB	_	_	31	xcomp	_	SpaceAfter=No|Translit=lebn|Translit_Lemma=lebn
+33	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_1
+# text = איך האָב געזען אַ לאַנד — דער הימל איז, װי אַ גלאָז און עס קוקט אַדורך אַ געלע זון און אַ קאַלטע.
+# translit = ikh hob gezen a land — der himl iz, vi a gloz un es kukt adurkh a gele zun un a kalte.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
+3	געזען	זען	VERB	_	_	0	root	_	Translit=gezen|Translit_Lemma=zen
+4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+5	לאַנד	לאַנד	NOUN	_	_	3	obj	_	Translit=land|Translit_Lemma=land
+6	—	—	PUNCT	_	_	13	punct	_	Translit=—|Translit_Lemma=—
+7	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
+8	הימל	הימל	NOUN	_	_	13	nsubj	_	Translit=himl|Translit_Lemma=himl
+9	איז	זײַן	AUX	_	_	13	cop	_	SpaceAfter=No|Translit=iz|Translit_Lemma=zayn
+10	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
+11	װי	װי	SCONJ	_	_	13	case	_	Translit=vi|Translit_Lemma=vi
+12	אַ	אַ	DET	_	_	13	det	_	Translit=a|Translit_Lemma=a
+13	גלאָז	גלאָז	NOUN	_	_	3	parataxis	_	Translit=gloz|Translit_Lemma=gloz
+14	און	און	CCONJ	_	_	16	cc	_	Translit=un|Translit_Lemma=un
+15	עס	עס	PRON	_	_	16	expl	_	Translit=es|Translit_Lemma=es
+16	קוקט	קוקן	VERB	_	_	13	conj	_	Translit=kukt|Translit_Lemma=kukn
+17	אַדורך	אַדורך	ADP	_	_	16	compound:prt	_	Translit=adurkh|Translit_Lemma=adurkh
+18	אַ	אַ	DET	_	_	20	det	_	Translit=a|Translit_Lemma=a
+19	געלע	געל	ADJ	_	_	20	amod	_	Translit=gele|Translit_Lemma=gel
+20	זון	זון	NOUN	_	_	16	nsubj	_	Translit=zun|Translit_Lemma=zun
+21	און	און	CCONJ	_	_	23	cc	_	Translit=un|Translit_Lemma=un
+22	אַ	אַ	DET	_	_	23	det	_	Translit=a|Translit_Lemma=a
+23	קאַלטע	קאַלט	ADJ	_	_	20	conj	_	SpaceAfter=No|Translit=kalte|Translit_Lemma=kalt
+24	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_2
+# text = עס ציט זיך אַראָפּ אַ לײַכטער, שטילער רעגן, און די שנירלעך רעגן לױכטן מיט דער געלער שײַן פֿון דער זון.
+# translit = es tsit zikh arop a laykhter, shtiler regn, un di shnirlekh regn loykhtn mit der geler shayn fun der zun.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
+2	ציט	ציִען	VERB	_	_	0	root	_	Translit=tsit|Translit_Lemma=tsien
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+4	אַראָפּ	אַראָפּ	ADV	_	_	2	compound:prt	_	Translit=arop|Translit_Lemma=arop
+5	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+6	לײַכטער	לײַכט	ADJ	_	_	9	amod	_	SpaceAfter=No|Translit=laykhter|Translit_Lemma=laykht
+7	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
+8	שטילער	שטיל	ADJ	_	_	9	amod	_	Translit=shtiler|Translit_Lemma=shtil
+9	רעגן	רעגענען	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=regn|Translit_Lemma=regenen
+10	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
+11	און	און	CCONJ	_	_	15	cc	_	Translit=un|Translit_Lemma=un
+12	די	דער	DET	_	_	13	det	_	Translit=di|Translit_Lemma=der
+13	שנירלעך	שנירל	NOUN	_	_	15	nsubj	_	Translit=shnirlekh|Translit_Lemma=shnirl
+14	רעגן	רעגענען	NOUN	_	_	13	nmod	_	Translit=regn|Translit_Lemma=regenen
+15	לױכטן	לױכט	VERB	_	_	2	conj	_	Translit=loykhtn|Translit_Lemma=loykht
+16	מיט	מיט	ADP	_	_	19	case	_	Translit=mit|Translit_Lemma=mit
+17	דער	דער	DET	_	_	19	det	_	Translit=der|Translit_Lemma=der
+18	געלער	געל	ADJ	_	_	19	amod	_	Translit=geler|Translit_Lemma=gel
+19	שײַן	שײַנען	NOUN	_	_	15	obl	_	Translit=shayn|Translit_Lemma=shaynen
+20	פֿון	פֿון	ADP	_	_	22	case	_	Translit=fun|Translit_Lemma=fun
+21	דער	דער	DET	_	_	22	det	_	Translit=der|Translit_Lemma=der
+22	זון	זון	NOUN	_	_	19	nmod	_	SpaceAfter=No|Translit=zun|Translit_Lemma=zun
+23	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_3
+# text = די ערד איז אױסגעפֿלאַסטערט מיט ווייַסע, פֿירקאַנטיקע שטײנער, און הײַזער זײַנען דאָרט אױסגעשטעלט אין גלײַכע, שטילע רײען — זײערע לאַנגע שױבן זײַנען פֿאַרגלייזט, װי װײַסלען פֿון טױטע.
+# translit = di erd iz oysgeflastert mit vayse, firkantike shteyner, un hayzer zaynen dort oysgeshtelt in glaykhe, shtile reyen — zeyere lange shoybn zaynen fargleyzt, vi vayslen fun toyte.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	ערד	ערד	NOUN	_	_	4	nsubj	_	Translit=erd|Translit_Lemma=erd
+3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
+4	אױסגעפֿלאַסטערט	אױספֿלאַסטערן	ADJ	_	_	0	root	_	Translit=oysgeflastert|Translit_Lemma=oysflastern
+5	מיט	מיט	ADP	_	_	9	case	_	Translit=mit|Translit_Lemma=mit
+6	ווייַסע	ווייַס	ADJ	_	_	9	amod	_	SpaceAfter=No|Translit=vayse|Translit_Lemma=vays
+7	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
+8	פֿירקאַנטיקע	פֿירקאַנטיק	ADJ	_	_	9	amod	_	Translit=firkantike|Translit_Lemma=firkantik
+9	שטײנער	שטײַנער	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=shteyner|Translit_Lemma=shtayner
+10	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
+11	און	און	CCONJ	_	_	15	cc	_	Translit=un|Translit_Lemma=un
+12	הײַזער	הויז	NOUN	_	_	15	nsubj	_	Translit=hayzer|Translit_Lemma=hoyz
+13	זײַנען	זײַן	AUX	_	_	15	cop	_	Translit=zaynen|Translit_Lemma=zayn
+14	דאָרט	דאָרט	ADV	_	_	15	advmod	_	Translit=dort|Translit_Lemma=dort
+15	אױסגעשטעלט	אױסשטעלן	ADJ	_	_	4	conj	_	Translit=oysgeshtelt|Translit_Lemma=oysshteln
+16	אין	אין	ADP	_	_	20	case	_	Translit=in|Translit_Lemma=in
+17	גלײַכע	גלײַכע	ADJ	_	_	20	amod	_	SpaceAfter=No|Translit=glaykhe|Translit_Lemma=glaykhe
+18	,	,	PUNCT	_	_	19	punct	_	Translit=,|Translit_Lemma=,
+19	שטילע	שטיל	ADJ	_	_	20	amod	_	Translit=shtile|Translit_Lemma=shtil
+20	רײען	רײַען	NOUN	_	_	15	obl	_	Translit=reyen|Translit_Lemma=rayen
+21	—	—	PUNCT	_	_	26	punct	_	Translit=—|Translit_Lemma=—
+22	זײערע	זײַער	DET	_	_	24	det:poss	_	Translit=zeyere|Translit_Lemma=zayer
+23	לאַנגע	לאַנג	ADJ	_	_	24	amod	_	Translit=lange|Translit_Lemma=lang
+24	שױבן	שױב	NOUN	_	_	26	nsubj	_	Translit=shoybn|Translit_Lemma=shoyb
+25	זײַנען	זײַן	AUX	_	_	26	cop	_	Translit=zaynen|Translit_Lemma=zayn
+26	פֿאַרגלייזט	פֿאַרגלייזן	ADJ	_	_	4	parataxis	_	SpaceAfter=No|Translit=fargleyzt|Translit_Lemma=fargleyzn
+27	,	,	PUNCT	_	_	29	punct	_	Translit=,|Translit_Lemma=,
+28	װי	װי	SCONJ	_	_	29	case	_	Translit=vi|Translit_Lemma=vi
+29	װײַסלען	ווײַסל	NOUN	_	_	26	obl	_	Translit=vayslen|Translit_Lemma=vaysl
+30	פֿון	פֿון	ADP	_	_	31	case	_	Translit=fun|Translit_Lemma=fun
+31	טױטע	טױט	ADJ	_	_	29	nmod	_	SpaceAfter=No|Translit=toyte|Translit_Lemma=toyt
+32	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_4
+# text = איך האָב דאָרט מענטשן געזען — מיט שפּיציקע אַקסלען, מיט אַרױסגעזעצטע, גרױסע בײַכער אױף דינע פֿיס.
+# translit = ikh hob dort mentshn gezen — mit shpitsike akslen, mit aroysgezetste, groyse baykher oyf dine fis.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	AUX	_	_	5	aux	_	Translit=hob|Translit_Lemma=hobn
+3	דאָרט	דאָרט	ADV	_	_	5	advmod	_	Translit=dort|Translit_Lemma=dort
+4	מענטשן	מענטשן	NOUN	_	_	5	obj	_	Translit=mentshn|Translit_Lemma=mentshn
+5	געזען	זען	VERB	_	_	0	root	_	Translit=gezen|Translit_Lemma=zen
+6	—	—	PUNCT	_	_	9	punct	_	Translit=—|Translit_Lemma=—
+7	מיט	מיט	ADP	_	_	9	case	_	Translit=mit|Translit_Lemma=mit
+8	שפּיציקע	שפּיציק	ADJ	_	_	9	amod	_	Translit=shpitsike|Translit_Lemma=shpitsik
+9	אַקסלען	אַקסל	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=akslen|Translit_Lemma=aksl
+10	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
+11	מיט	מיט	ADP	_	_	15	case	_	Translit=mit|Translit_Lemma=mit
+12	אַרױסגעזעצטע	אַרױסגעזעצט	ADJ	_	_	15	amod	_	SpaceAfter=No|Translit=aroysgezetste|Translit_Lemma=aroysgezetst
+13	,	,	PUNCT	_	_	14	punct	_	Translit=,|Translit_Lemma=,
+14	גרױסע	גרויס	ADJ	_	_	15	amod	_	Translit=groyse|Translit_Lemma=groys
+15	בײַכער	בויך	NOUN	_	_	9	conj	_	Translit=baykher|Translit_Lemma=boykh
+16	אױף	אױף	ADP	_	_	18	case	_	Translit=oyf|Translit_Lemma=oyf
+17	דינע	דין	ADJ	_	_	18	amod	_	Translit=dine|Translit_Lemma=din
+18	פֿיס	פֿוס	NOUN	_	_	15	nmod	_	SpaceAfter=No|Translit=fis|Translit_Lemma=fus
+19	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_5
+# text = און אױף זײ, און צװישן זײ איז געפֿאַלן דער לײַכטער, שטילער רעגן.
+# translit = un oyf zey, un tsvishn zey iz gefaln der laykhter, shtiler regn.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
+2	אױף	אױף	ADP	_	_	3	case	_	Translit=oyf|Translit_Lemma=oyf
+3	זײ	זײ	PRON	_	_	9	obl	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
+4	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
+5	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
+6	צװישן	צװישן	ADP	_	_	7	case	_	Translit=tsvishn|Translit_Lemma=tsvishn
+7	זײ	זײען	PROPN	_	_	3	conj	_	Translit=zey|Translit_Lemma=zeyen
+8	איז	זײַן	AUX	_	_	9	aux	_	Translit=iz|Translit_Lemma=zayn
+9	געפֿאַלן	פֿאַלן	VERB	_	_	0	root	_	Translit=gefaln|Translit_Lemma=faln
+10	דער	דער	DET	_	_	14	det	_	Translit=der|Translit_Lemma=der
+11	לײַכטער	לײַכט	ADJ	_	_	14	amod	_	SpaceAfter=No|Translit=laykhter|Translit_Lemma=laykht
+12	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
+13	שטילער	שטיל	ADJ	_	_	11	conj	_	Translit=shtiler|Translit_Lemma=shtil
+14	רעגן	רעגענען	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Translit=regn|Translit_Lemma=regenen
+15	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
+
+# sent_id = consumption_6
+# text = און די שנירלעך רעגן האָבן געלױכטן מיט דער געלער שײַן פֿון דער זון.
+# translit = un di shnirlekh regn hobn geloykhtn mit der geler shayn fun der zun.
+# rtl = yes
+# source = From the Land of Consumption
+# genre = fiction
+1	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
+2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
+3	שנירלעך	שנירל	NOUN	_	_	6	nsubj	_	Translit=shnirlekh|Translit_Lemma=shnirl
+4	רעגן	רעגענען	NOUN	_	_	3	nmod	_	Translit=regn|Translit_Lemma=regenen
+5	האָבן	האָבן	AUX	_	_	6	aux	_	Translit=hobn|Translit_Lemma=hobn
+6	געלױכטן	געלייכט	VERB	_	_	0	root	_	Translit=geloykhtn|Translit_Lemma=geleykht
+7	מיט	מיט	ADP	_	_	10	case	_	Translit=mit|Translit_Lemma=mit
+8	דער	דער	DET	_	_	10	det	_	Translit=der|Translit_Lemma=der
+9	געלער	געל	ADJ	_	_	10	amod	_	Translit=geler|Translit_Lemma=gel
+10	שײַן	שײַנען	NOUN	_	_	6	obl	_	Translit=shayn|Translit_Lemma=shaynen
+11	פֿון	פֿון	ADP	_	_	13	case	_	Translit=fun|Translit_Lemma=fun
+12	דער	דער	DET	_	_	13	det	_	Translit=der|Translit_Lemma=der
+13	זון	זון	NOUN	_	_	10	nmod	_	SpaceAfter=No|Translit=zun|Translit_Lemma=zun
+14	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
+
