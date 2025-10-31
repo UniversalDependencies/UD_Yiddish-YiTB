@@ -896,7 +896,7 @@
 # translit = tsi vilstu mikh onrufn, tsi zol ikh dikh onrufn?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	צי	צי	PART	_	_	5	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2-3	ווילסטו	_	_	_	_	_	_	_	Translit=vilstu
 2	װילסט	וועלן	AUX	_	_	5	aux	_	Translit=vilst|Translit_Lemma=veln
@@ -916,7 +916,7 @@
 # translit = tom iz nisht parshive.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -928,7 +928,7 @@
 # translit = tsi kent ir farshteyn tomen?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	קענט	קענען	AUX	_	_	4	aux	_	Translit=kent|Translit_Lemma=kenen
 3	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -941,7 +941,7 @@
 # translit = kh'vel ir gebn etlekhe blumen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
@@ -956,7 +956,7 @@
 # translit = ven ikh bin yinger, volt ikh dos ton.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ווען	ווען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	בין	זײַן	AUX	_	_	4	cop	_	Translit=bin|Translit_Lemma=zayn
@@ -973,7 +973,7 @@
 # translit = di yidn zenen mid.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|Translit_Lemma=yid
 3	זענען	זײַן	AUX	_	_	4	cop	_	Translit=zenen|Translit_Lemma=zayn
@@ -985,7 +985,7 @@
 # translit = zi iz hekher far mir.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	העכער	האָכער	ADJ	_	_	0	root	_	Translit=hekher|Translit_Lemma=hokher
@@ -998,7 +998,7 @@
 # translit = khane iz a reform-yid.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	חנה	חנה	PROPN	_	_	4	nsubj	_	Translit=khane|Translit_Lemma=khane
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1010,7 +1010,7 @@
 # translit = bistu gey?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
 1	ביסט	זײַן	AUX	_	_	3	cop	_	Translit=bist|Translit_Lemma=zayn
 2	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
@@ -1022,7 +1022,7 @@
 # translit = du megst hobn a bisl salami.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
 2	מעגסט	מעגן	AUX	_	_	3	aux	_	Translit=megst|Translit_Lemma=megn
 3	האָבן	האָבן	VERB	_	_	0	root	_	Translit=hobn|Translit_Lemma=hobn
@@ -1036,7 +1036,7 @@
 # translit = zi redt bengalish.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
 3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
@@ -1047,7 +1047,7 @@
 # translit = s'iz vunderlekh tsu gevinen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1061,7 +1061,7 @@
 # translit = tom zol loyfn.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	זאָל	זאָלן	AUX	_	_	3	aux	_	Translit=zol|Translit_Lemma=zoln
 3	לויפֿן	לויפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=loyfn|Translit_Lemma=loyfn
@@ -1072,7 +1072,7 @@
 # translit = tom iz elter fun maryen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	עלטער	עלטער	ADJ	_	_	0	root	_	Translit=elter|Translit_Lemma=elter
@@ -1085,7 +1085,7 @@
 # translit = ikh veys az dos iz geven zeyer flikht.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	ווייס	וויסן	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=visn
 3	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
@@ -1101,7 +1101,7 @@
 # translit = er iz a ganef.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1113,7 +1113,7 @@
 # translit = di azoy ongerufene breys-khadoshe iz geven roymishe anti-yidishe propagande.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 2	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
 3	אָנגערופענע	אָנגערופֿן	ADJ	_	_	4	amod	_	Translit=ongerufene|Translit_Lemma=ongerufn
@@ -1130,7 +1130,7 @@
 # translit = ikh heys tom.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	הייס	הייס	VERB	_	_	0	root	_	Translit=heys|Translit_Lemma=heys
 3	טאָם	טאָם	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=tom|Translit_Lemma=tom
@@ -1141,7 +1141,7 @@
 # translit = ikh vil, du zolst zikh bakenen mit mayn nayem kokhanik.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וויל	וועלן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=vil|Translit_Lemma=veln
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
@@ -1160,7 +1160,7 @@
 # translit = zalts tsegeyt zikh in vaser.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זאַלץ	זאַלצן	NOUN	_	_	2	nsubj	_	Translit=zalts|Translit_Lemma=zaltsn
 2	צעגײט	צעגײַט	VERB	_	_	0	root	_	Translit=tsegeyt|Translit_Lemma=tsegayt
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1173,7 +1173,7 @@
 # translit = keyn hint torn nisht araynkumen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	קיין	קײַן	DET	_	_	2	det	_	Translit=keyn|Translit_Lemma=keyn
 2	הינט	הונט	NOUN	_	_	5	nsubj	_	Translit=hint|Translit_Lemma=hunt
 3	טאָרן	טאָרן	AUX	_	_	5	aux	_	Translit=torn|Translit_Lemma=torn
@@ -1186,7 +1186,7 @@
 # translit = di vudu-religye iz asotsyirt mit haiti.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	וווּדו־רעליגיע	וווּדו־רעליגיע	NOUN	_	_	4	nsubj:pass	_	Translit=vudu-religye|Translit_Lemma=vudu-religye
 3	איז	זײַן	AUX	_	_	4	aux:pass	_	Translit=iz|Translit_Lemma=zayn
@@ -1200,7 +1200,7 @@
 # translit = tom iz a ganef un a ligner.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1215,7 +1215,7 @@
 # translit = ikh vel nisht lozn, az epes vet dir geshen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1233,7 +1233,7 @@
 # translit = zi shtamt fun estraykh.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -1245,7 +1245,7 @@
 # translit = kh'hob gegesn a bar.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -1259,7 +1259,7 @@
 # translit = di „heylike roymishe imperye״ iz gekumen tsu a sof in 1806.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 2	„	„	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
 3	הייליקע	הייליק	ADJ	_	_	5	amod	_	Translit=heylike|Translit_Lemma=heylik
@@ -1280,7 +1280,7 @@
 # translit = yidishkeyt iz di religye fun yidn.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ייִדישקייט	ײִדישקײט	PROPN	_	_	4	nsubj	_	Translit=yidishkeyt|Translit_Lemma=yidishkeyt
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1294,7 +1294,7 @@
 # translit = s'iz undz oysgegangen dos brenvarg.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	4	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -1309,7 +1309,7 @@
 # translit = tom hot geboyt a flishlang.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געבויט	בויען	VERB	_	_	0	root	_	Translit=geboyt|Translit_Lemma=boyen
@@ -1322,7 +1322,7 @@
 # translit = hitler hot faynt gehat yidn.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	היטלער	היטל	PROPN	_	_	4	nsubj	_	Translit=hitler|Translit_Lemma=hitl
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	פֿײַנט	פֿײַנט	NOUN	_	_	4	compound:lvc	_	Translit=faynt|Translit_Lemma=faynt
@@ -1335,7 +1335,7 @@
 # translit = ikh zog dir, dos iz a shlekhter gedank.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	זאָג	זאָגן	VERB	_	_	0	root	_	Translit=zog|Translit_Lemma=zogn
 3	דיר	דו	PRON	_	_	2	obl:arg	_	SpaceAfter=No|Translit=dir|Translit_Lemma=du
@@ -1352,7 +1352,7 @@
 # translit = er vil nisht zayn keyn kauboy.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ער	ער	PRON	_	_	6	nsubj	_	Translit=er|Translit_Lemma=er
 2	וויל	וועלן	AUX	_	_	6	aux	_	Translit=vil|Translit_Lemma=veln
 3	נישט	נישט	PART	_	_	6	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1366,7 +1366,7 @@
 # translit = mir gefeln trúskafkes.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
 2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
 3	טרוסקאַפֿקעס	טרוסקאַפֿקע	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=trúskafkes|Translit_Lemma=trúskafke
@@ -1377,7 +1377,7 @@
 # translit = vi filt ir zikh letstns?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ווי	ווי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
 2	פֿילט	פֿילן	VERB	_	_	0	root	_	Translit=filt|Translit_Lemma=filn
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -1390,7 +1390,7 @@
 # translit = yoshu ־ hanotstri iz nisht geven der ershter un nisht der letster yid, vos m'hot gekreytsikt.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ישו	ישוע	PROPN	_	_	13	nsubj	_	Translit=yoshu|Translit_Lemma=yoshee
 2	־	־	PUNCT	_	_	3	punct	_	Translit=־|Translit_Lemma=־
 3	הנוצרי	הנוצרי	PROPN	_	_	1	flat:name	_	Translit=hanotstri|Translit_Lemma=hanotstri
@@ -1417,7 +1417,7 @@
 # translit = ikh bin geboyrn in yisroel.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	3	aux	_	Translit=bin|Translit_Lemma=zayn
 3	געבוירן	געבוירן	VERB	_	_	0	root	_	Translit=geboyrn|Translit_Lemma=geboyrn
@@ -1430,7 +1430,7 @@
 # translit = ikh fil zikh gut do.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	פֿיל	פֿילן	VERB	_	_	0	root	_	Translit=fil|Translit_Lemma=filn
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1443,7 +1443,7 @@
 # translit = ale veysn, az toms frantsezish iz gut.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	אַלע	_	DET	_	_	2	nsubj	_	Translit=ale
 2	ווייסן	וויסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veysn|Translit_Lemma=visn
 3	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
@@ -1459,7 +1459,7 @@
 # translit = dos lebn iz umyusherdik.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	לעבן	לעבן	NOUN	_	_	4	nsubj	_	Translit=lebn|Translit_Lemma=lebn
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1471,7 +1471,7 @@
 # translit = mayn mame iz a yid, un mayn tate a polyak.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	מײַן	מײַן	DET	_	_	2	det:poss	_	Translit=mayn|Translit_Lemma=mayn
 2	מאַמע	מאַמע	NOUN	_	_	5	nsubj	_	Translit=mame|Translit_Lemma=mame
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1490,7 +1490,7 @@
 # translit = er zukht undzer oyto.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	זוכט	זוכן	VERB	_	_	0	root	_	Translit=zukht|Translit_Lemma=zukhn
 3	אונדזער	אונדזער	DET	_	_	4	det:poss	_	Translit=undzer|Translit_Lemma=undzer
@@ -1502,7 +1502,7 @@
 # translit = zi shraybt lider.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	שרײַבט	שרײַבן	VERB	_	_	0	root	_	Translit=shraybt|Translit_Lemma=shraybn
 3	לידער	לידערן	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=lider|Translit_Lemma=lidern
@@ -1513,7 +1513,7 @@
 # translit = zayt ir nokh do?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זײַט	זײַן	AUX	_	_	4	cop	_	Translit=zayt|Translit_Lemma=zayn
 2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	נאָך	נאָך	ADV	_	_	4	advmod	_	Translit=nokh|Translit_Lemma=nokh
@@ -1525,7 +1525,7 @@
 # translit = du veyst nisht ver ikh bin?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 2	ווייסט	וויסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=visn
 3	נישט	נישט	PART	_	_	2	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1539,7 +1539,7 @@
 # translit = zi farshteyt yidish.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	פֿאַרשטייט	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyt|Translit_Lemma=farshteyn
 3	ייִדיש	ײִדישן	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
@@ -1550,7 +1550,7 @@
 # translit = leyent nisht dem zats.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	לייענט	לייענען	VERB	_	_	0	root	_	Translit=leyent|Translit_Lemma=leyenen
 2	נישט	נישט	PART	_	_	1	advmod	_	Translit=nisht|Translit_Lemma=nisht
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -1562,7 +1562,7 @@
 # translit = un azoy iz es!
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
 2	אַזוי	אַזוי	ADV	_	_	0	root	_	Translit=azoy|Translit_Lemma=azoy
 3	איז	זײַן	AUX	_	_	2	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1574,7 +1574,7 @@
 # translit = zi iz rusish.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	רוסיש	רוסיש	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=rusish|Translit_Lemma=rusish
@@ -1585,7 +1585,7 @@
 # translit = got heyst oyf loshn-koydesh alhim, oyf targem-loshn alhe, un oyf arabish alole.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	גאָט	גאָט	PROPN	_	_	2	nsubj	_	Translit=got|Translit_Lemma=got
 2	הייסט	הייסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=heysn
 3	אויף	אויף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -1607,7 +1607,7 @@
 # translit = tom iz gevorn a betler.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געוואָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
@@ -1620,7 +1620,7 @@
 # translit = vi vet tom tsurikforn keyn boston?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ווי	ווי	ADV	_	_	4	advmod	_	Translit=vi|Translit_Lemma=vi
 2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
@@ -1634,7 +1634,7 @@
 # translit = in rusland bin ikh geven a daytshke, un in daytshland bin ikh geven a ruske.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
 2	רוסלאַנד	רוסלאַנד	PROPN	_	_	7	obl	_	Translit=rusland|Translit_Lemma=rusland
 3	בין	זײַן	AUX	_	_	7	aux	_	Translit=bin|Translit_Lemma=zayn
@@ -1658,7 +1658,7 @@
 # translit = tsi shtamt ir fun an ander planet?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -1673,7 +1673,7 @@
 # translit = s'iz zeyer glat.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1686,7 +1686,7 @@
 # translit = shtoyb op di politses.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	שטויב	שטויב	VERB	_	_	0	root	_	Translit=shtoyb|Translit_Lemma=shtoyb
 2	אָפּ	אָפּ	ADV	_	_	1	compound:prt	_	Translit=op|Translit_Lemma=op
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1698,7 +1698,7 @@
 # translit = mir trenen zikh.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	טרענען	טרענען	VERB	_	_	0	root	_	Translit=trenen|Translit_Lemma=trenen
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
@@ -1709,7 +1709,7 @@
 # translit = alis zeyde iz geven a yid.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	אַליס	אַליסן	PROPN	_	_	6	nsubj	_	Translit=alis|Translit_Lemma=alisn
 2	זיידע	זיידע	NOUN	_	_	1	flat:name	_	Translit=zeyde|Translit_Lemma=zeyde
 3	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -1723,7 +1723,7 @@
 # translit = mir darfn naye firhangen.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	דאַרפֿן	דאַרפֿן	VERB	_	_	0	root	_	Translit=darfn|Translit_Lemma=darfn
 3	נײַע	נײַ	ADJ	_	_	4	amod	_	Translit=naye|Translit_Lemma=nay
@@ -1735,7 +1735,7 @@
 # translit = tom iz a ganef un a doyver-shkrim.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1750,7 +1750,7 @@
 # translit = s'iz nisht mayn shuld.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	5	nsubj	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1764,7 +1764,7 @@
 # translit = ikh hob kleyne oyern.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	VERB	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
 3	קליינע	קליין	ADJ	_	_	4	amod	_	Translit=kleyne|Translit_Lemma=kleyn
@@ -1776,7 +1776,7 @@
 # translit = tsi gefeln dir marantsn?
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
 3	דיר	דו	PRON	_	_	2	obl:arg	_	Translit=dir|Translit_Lemma=du
@@ -1788,7 +1788,7 @@
 # translit = yerusholayim iz di hoyptshtot fun medines-yisroel.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ירושלים	ירושל	PROPN	_	_	4	nsubj	_	Translit=yerusholayim|Translit_Lemma=yerushl
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1802,7 +1802,7 @@
 # translit = er iz nisht dik.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1814,7 +1814,7 @@
 # translit = er redt bengalish.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
 3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
@@ -1825,7 +1825,7 @@
 # translit = di bitls zenen balibt tsvishn di yunge-layt.
 # rtl = yes
 # source = tatoeba.org
-# genre = grammar-examples/learner
+# genre = grammar-examples/learner-essays
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ביטלס	ביטל	NOUN	_	_	4	nsubj	_	Translit=bitls|Translit_Lemma=bitl
 3	זענען	זײַן	AUX	_	_	4	aux	_	Translit=zenen|Translit_Lemma=zayn
