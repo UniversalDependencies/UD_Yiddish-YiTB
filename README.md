@@ -10,28 +10,28 @@ There are a total of 27,872 tokens in the treebank. Roughly 60% of these stem fr
 
 Lemmas, transliterations into Latin script and translations are provided as well by self-made models but are not 100% accurate. The transliteration model, which can be accessed [here](https://huggingface.co/shoowadoo/galkhesnet), was trained on wiktionary and transliterated Bible data. The translation model was trained on Tatoeba sentences and parallel Bible verses and is accessible [here](https://huggingface.co/shoowadoo/m2m100-finetuned-yi-to-en_418M_2). The lemmatization model was trained on wiktionary data and can be found [here](https://huggingface.co/shoowadoo/yiddish-lemmas). Morphological features are not included at this time. 
 
-| Source | Author | Genre | Added |
-|-----------|----------|-------|-------|
-| tatoeba.org   | Various     | grammar/learner   | 2.17  |
-| Book of Exodus    | Yehoyesh translation     | bible | 2.17  |
-| Beethoven's Moonlight Sonata | Shloyme Bas­tom­s­ki     | fiction | 2.17  |
-| Yiddish proverbs   | Various     | proverb | 2.17  |
-| Haggadahs and Elijah the Prophet | Proste Yiddish    | web   | 2.17  |
-| Bulletin No. 3: At the Border | Various   | nonfiction  | 2.17  |
-| A Story with a Cat and Yiddish Dialects | Proste Yiddish  | web | 2.17  |
-| Sholem Aleichem      | Proste Yiddish     | web | 2.17  |
-| Hirshke Glik   | Shmerke Kaczerginski     | nonfiction | 2.17  |
-| Book of Proverbs | Yehoyesh translation    | bible   | 2.17  |
-| Shavuot and an Old Joke | Proste Yiddish   | web  | 2.17  |
-| Bankrupt | Katie Brown  | fiction | 2.17  |
-| Jews and Yiddish      | Nokhem Shtif      | nonfiction | 2.17  |
-| Fathers and Children      | Chaim Malitz      | nonfiction | 2.17  |
-| Wikipedia      | Various       | nonfiction | 2.17  |
-| A Foolish Child      | Jacob Dinezon      | fiction | 2.17  |
-| From the Land of Consumption      | Shloyme Gilbert      | fiction | 2.17  |
-| The Four Questions      | Traditional      | liturgical | 2.17  |
-| A Bit of Clarity and Simplicity Regarding the Language Question | Hillel Zeitlin      | nonfiction | 2.17  |
-| Song of Songs      | Yehoyesh translation      | bible | 2.17  |
+| Source | Author | Genre | Added | Split |
+|-------|-------|-------|-------|-------|
+| tatoeba.org   | Various     | grammar/learner   | 2.17  | all |
+| Book of Exodus    | Yehoyesh translation     | bible | 2.17  | all |
+| Beethoven's Moonlight Sonata | Shloyme Bas­tom­s­ki     | fiction | 2.17  | train |
+| Yiddish proverbs | Various     | proverb | 2.17  | all |
+| Haggadahs and Elijah the Prophet | Proste Yiddish    | web   | 2.17  | test |
+| Bulletin No. 3: At the Border | Various   | nonfiction  | 2.17  | test |
+| A Story with a Cat and Yiddish Dialects | Proste Yiddish  | web | 2.17  | dev |
+| Sholem Aleichem | Proste Yiddish     | web | 2.17  | train |
+| Hirshke Glik | Shmerke Kaczerginski     | nonfiction | 2.17  | dev |
+| Book of Proverbs | Yehoyesh translation    | bible   | 2.17  | test |
+| Shavuot and an Old Joke | Proste Yiddish   | web  | 2.17  | test |
+| Bankrupt | Katie Brown  | fiction | 2.17  | train |
+| Jews and Yiddish | Nokhem Shtif      | nonfiction | 2.17  | train |
+| Fathers and Children | Chaim Malitz      | nonfiction | 2.17  | train |
+| Wikipedia | Various       | nonfiction | 2.17  | train |
+| A Foolish Child | Jacob Dinezon      | fiction | 2.17  | test |
+| From the Land of Consumption | Shloyme Gilbert      | fiction | 2.17  | dev |
+| The Four Questions | Traditional      | liturgical | 2.17  | test |
+| A Bit of Clarity and Simplicity Regarding the Language Question | Hillel Zeitlin      | nonfiction | 2.17  | train |
+| Song of Songs      | Yehoyesh translation      | bible | 2.17  | train |
 
 
 # Acknowledgments
