@@ -14793,7 +14793,7 @@
 5	אים	עס	PRON	_	_	8	obj	_	Translit=im|Translit_Lemma=es
 6	מציל	מציל	ADJ	_	_	8	compound:lvc	_	Translit=matsl|Translit_Lemma=matsl
 7	צו	צו	PART	_	_	8	mark	_	Translit=tsu|Translit_Lemma=tsu
-8	זײַן	זײַן	VERB	_	_	4	xcomp	_	Translit=zayn|Translit_Lemma=zayn
+8	זײַן	זײַן	VERB	_	_	4	advcl	_	Translit=zayn|Translit_Lemma=zayn
 9	פֿון	פֿון	ADP	_	_	11	case	_	Translit=fun|Translit_Lemma=fun
 10	דער	דער	DET	_	_	11	det	_	Translit=der|Translit_Lemma=der
 11	האַנט	האַנט	NOUN	_	_	8	obl	_	Translit=hant|Translit_Lemma=hant
