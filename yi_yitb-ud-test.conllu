@@ -224,14 +224,14 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-1	דערצײלט	דערצײלען	VERB	_	_	0	root	_	Translit=dertseylt|Translit_Lemma=dertseylen
+1	דערצײלט	דערצײלען	VERB	_	_	0	root	_	Translit=dertseylt|Translit_Lemma=dertseyln
 2	אונדז	מיר	PRON	_	_	1	obl:arg	_	Translit=undz|Translit_Lemma=mir
 3	װעגן	װעגן	ADP	_	_	5	case	_	Translit=vegn|Translit_Lemma=vegn
 4	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
 5	מאָמענט	מאָמענט	NOUN	_	_	1	obl	_	Translit=moment|Translit_Lemma=moment
 6	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
 7	קאַמאַשנמאַכער	קאַמאַשנמאַכער	NOUN	_	_	5	nsubj	_	Translit=kamashnmakher|Translit_Lemma=kamashnmakher
-8	י.ג.ד.	יגסד	NOUN	_	_	7	appos	_	SpaceAfter=No|Translit=y.g.d.|Translit_Lemma=yegsed
+8	י.ג.ד.	י.ג.ד.	NOUN	_	_	7	appos	_	SpaceAfter=No|Translit=y.g.d.|Translit_Lemma=y.g.d.
 9	:	:	PUNCT	_	_	1	punct	_	Translit=:|Translit_Lemma=:
 
 # sent_id = bulletin_12
@@ -248,7 +248,7 @@
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	דעקלעראַציע	דעקלעראַציע	NOUN	_	_	2	obj	_	Translit=dekleratsye|Translit_Lemma=dekleratsye
 8	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
-9	לײענט	לײַענען	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=leyent|Translit_Lemma=layenen
+9	לײענט	לײענען	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=leyent|Translit_Lemma=leyenen
 10	:	:	PUNCT	_	_	14	punct	_	Translit=:|Translit_Lemma=:
 11	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 12	דאָ	דאָ	ADV	_	_	14	nsubj	_	Translit=do|Translit_Lemma=do
@@ -282,7 +282,7 @@
 
 # sent_id = bulletin_14
 # text = נאָך אַמאָל אױסגעטײַטשט: " איך פֿאַרלאָז פֿ ר ײַ װ י ל י ק די דײַטשע טעריטאָריע.
-# translit = nokh amol oysgetaytsht: " ikh farloz f r ay v y l y k di daytshe teritorye.
+# translit = nokh amol oysgetaytsht: " ikh farloz f r ay v i l i k di daytshe teritorye.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
@@ -293,22 +293,22 @@
 5	"	"	PUNCT	_	_	7	punct	_	Translit="|Translit_Lemma="
 6	איך	איך	PRON	_	_	7	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 7	פֿאַרלאָז	פֿאַרלאָזן	VERB	_	_	3	ccomp	_	Translit=farloz|Translit_Lemma=farlozn
-8	פֿ	פֿ	ADV	_	_	7	advmod	_	Translit=f|Translit_Lemma=farbn
-9	ר	ר	PROPN	_	_	8	flat	_	Translit=r
-10	ײַ	ײַ	PROPN	_	_	8	flat	_	Translit=ay
-11	װ	װ	PROPN	_	_	8	flat	_	Translit=v
-12	י	י	PROPN	_	_	8	flat	_	Translit=y
-13	ל	ל	PROPN	_	_	8	flat	_	Translit=l
-14	י	י	PROPN	_	_	8	flat	_	Translit=y
-15	ק	ק	PROPN	_	_	8	flat	_	Translit=k
+8	פֿ	פֿ	ADV	_	_	7	advmod	_	Translit=f|Translit_Lemma=f
+9	ר	ר	PROPN	_	_	8	flat	_	Translit=r|Translit_Lemma=r
+10	ײַ	ײַ	PROPN	_	_	8	flat	_	Translit=ay|Translit_Lemma=ay
+11	װ	װ	PROPN	_	_	8	flat	_	Translit=v|Translit_Lemma=v
+12	י	י	PROPN	_	_	8	flat	_	Translit=i|Translit_Lemma=i
+13	ל	ל	PROPN	_	_	8	flat	_	Translit=l|Translit_Lemma=l
+14	י	י	PROPN	_	_	8	flat	_	Translit=i|Translit_Lemma=i
+15	ק	ק	PROPN	_	_	8	flat	_	Translit=k|Translit_Lemma=k
 16	די	דער	DET	_	_	18	det	_	Translit=di|Translit_Lemma=der
 17	דײַטשע	דײַטש	ADJ	_	_	18	amod	_	Translit=daytshe|Translit_Lemma=daytsh
 18	טעריטאָריע	טעריטאָריע	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=teritorye|Translit_Lemma=teritorye
 19	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bulletin_15
-# text = און טאָמער קום איך צוריק – װעט מען מיך שיסן ".
-# translit = un tomer kum ikh tsurik – vet men mikh shisn ".
+# text = און טאָמער קום איך צוריק – װעט מען מיך שיסן".
+# translit = un tomer kum ikh tsurik – vet men mikh shisn".
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
@@ -321,7 +321,7 @@
 7	װעט	װעלן	AUX	_	_	10	aux	_	Translit=vet|Translit_Lemma=veln
 8	מען	מען	PRON	_	_	10	nsubj	_	Translit=men|Translit_Lemma=men
 9	מיך	איך	PRON	_	_	10	obj	_	Translit=mikh|Translit_Lemma=ikh
-10	שיסן	שיסן	VERB	_	_	0	root	_	Translit=shisn|Translit_Lemma=shisn
+10	שיסן	שיסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shisn|Translit_Lemma=shisn
 11	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 12	.	.	PUNCT	_	_	10	punct	_	Translit=.|Translit_Lemma=.
 
@@ -360,8 +360,8 @@
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
-2	אים	עס	PRON	_	_	3	obj	_	Translit=im|Translit_Lemma=es
-3	געשלאָגן	שליגן	VERB	_	_	0	root	_	Translit=geshlogn|Translit_Lemma=shlign
+2	אים	ער	PRON	_	_	3	obj	_	Translit=im|Translit_Lemma=er
+3	געשלאָגן	שלאָגן	VERB	_	_	0	root	_	Translit=geshlogn|Translit_Lemma=shlogn
 4	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
 5	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
 6	ביקס	ביקס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=biks|Translit_Lemma=biks
@@ -369,15 +369,15 @@
 8	געזאָגט	זאָגן	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 9	:	:	PUNCT	_	_	18	punct	_	Translit=:|Translit_Lemma=:
 10	ד	ד	ADV	_	_	18	advmod	_	Translit=d|Translit_Lemma=d
-11	אָ	אָ	PROPN	_	_	10	flat	_	Translit=o
-12	ר	ר	PROPN	_	_	10	flat	_	Translit=r
-13	ט	ט	PROPN	_	_	10	flat	_	Translit=t
+11	אָ	אָ	PROPN	_	_	10	flat	_	Translit=o|Translit_Lemma=o
+12	ר	ר	PROPN	_	_	10	flat	_	Translit=r|Translit_Lemma=r
+13	ט	ט	PROPN	_	_	10	flat	_	Translit=t|Translit_Lemma=t
 14-15	װעסטו	_	_	_	_	_	_	_	Translit=vestu
 14	װעסט	װעלן	AUX	_	_	18	aux	_	Translit=vest|Translit_Lemma=veln
 15	דו	דו	PRON	_	_	18	nsubj:pass	_	Translit=du|Translit_Lemma=du
 16	שױן	שױן	ADV	_	_	18	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 17	װערן	װערן	AUX	_	_	18	aux:pass	_	Translit=vern|Translit_Lemma=vern
-18	אױסגעהײלט	אױסהײלען	VERB	_	_	8	ccomp	_	SpaceAfter=No|Translit=oysgeheylt|Translit_Lemma=oysheylen
+18	אױסגעהײלט	אױסהײלן	VERB	_	_	8	ccomp	_	SpaceAfter=No|Translit=oysgeheylt|Translit_Lemma=oysheyln
 19	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bulletin_19
@@ -387,7 +387,7 @@
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
 1	האָבן	האָבן	AUX	_	_	3	aux	_	Translit=hobn|Translit_Lemma=hobn
-2	אַלע	_	DET	_	_	3	nsubj	_	Translit=ale
+2	אַלע	אַלע	DET	_	_	3	nsubj	_	Translit=ale|Translit_Lemma=ale
 3	אונטערגעשריבן	אונטערשרײַבן	VERB	_	_	0	root	_	Translit=untergeshribn|Translit_Lemma=untershraybn
 4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 5	דעקלאַראַציעס	דעקלאַראַציע	NOUN	_	_	3	obj	_	Translit=deklaratsyes|Translit_Lemma=deklaratsye
@@ -405,7 +405,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-1	יעדער	_	DET	_	_	3	nsubj	_	Translit=yeder
+1	יעדער	יעדער	DET	_	_	3	nsubj	_	Translit=yeder|Translit_Lemma=yeder
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	באַקומען	באַקומען	VERB	_	_	0	root	_	Translit=bakumen|Translit_Lemma=bakumen
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
@@ -459,7 +459,7 @@
 1	זיסט	זיסן	VERB	_	_	3	advcl	_	Translit=zist|Translit_Lemma=zisn
 2	–	–	PUNCT	_	_	1	punct	_	Translit=–|Translit_Lemma=–
 3	געקראָגן	קריגן	VERB	_	_	0	root	_	Translit=gekrogn|Translit_Lemma=krign
-4	געשלאָגן	שליגן	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=geshlogn|Translit_Lemma=shlign
+4	געשלאָגן	שלאָגן	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=geshlogn|Translit_Lemma=shlogn
 5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bulletin_24
@@ -470,7 +470,7 @@
 # genre = nonfiction
 1	מוטערס	מוטער	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Translit=muters|Translit_Lemma=muter
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
-3	ברידערלעך	ברידערל	NOUN	_	_	1	conj	_	Translit=briderlekh|Translit_Lemma=briderl
+3	ברידערלעך	ברודערל	NOUN	_	_	1	conj	_	Translit=briderlekh|Translit_Lemma=bruderl
 4	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 5	שװעסטערלעך	שוועסטערל	NOUN	_	_	1	conj	_	Translit=shvesterlekh|Translit_Lemma=shvesterl
 6	זענען	זײַן	AUX	_	_	7	aux	_	Translit=zenen|Translit_Lemma=zayn
@@ -479,16 +479,16 @@
 
 # sent_id = bulletin_25
 # text = אין שטעטל איז געװאָרן אַ יללה: מ'שיקט אַװעק די קינדער.
-# translit = in shtetl iz gevorn a yalole: m'shikt avek di kinder.
+# translit = in shtetl iz gevorn a yelole: m'shikt avek di kinder.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
-2	שטעטל	שטאָט	NOUN	_	_	4	obl	_	Translit=shtetl|Translit_Lemma=shtot
+2	שטעטל	שטעטל	NOUN	_	_	4	obl	_	Translit=shtetl|Translit_Lemma=shtetl
 3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
 4	געװאָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
 5	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
-6	יללה	יללה	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=yalole|Translit_Lemma=yalole
+6	יללה	יללה	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=yelole|Translit_Lemma=yelole
 7	:	:	PUNCT	_	_	9	punct	_	Translit=:|Translit_Lemma=:
 8-9	מ'שיקט	_	_	_	_	_	_	_	Translit=m'shikt
 8	מע	מען	PRON	_	_	9	nsubj	_	Translit=me|Translit_Lemma=men
@@ -508,7 +508,7 @@
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	דײַטשן	דײַטש	NOUN	_	_	9	nsubj	_	Translit=daytshn|Translit_Lemma=daytsh
 4	האָבן	האָבן	AUX	_	_	9	aux	_	Translit=hobn|Translit_Lemma=hobn
-5	געזעגענט	זעגענען	VERB	_	_	9	ccomp	_	Translit=gezegent|Translit_Lemma=zegenen
+5	געזעגענט	זעגנען	VERB	_	_	9	ccomp	_	Translit=gezegent|Translit_Lemma=zegnen
 6	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 7	–	–	PUNCT	_	_	9	punct	_	Translit=–|Translit_Lemma=–
 8	נישט	נישט	PART	_	_	9	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -538,7 +538,7 @@
 3	תּפֿיסה	תּפֿיסה	NOUN	_	_	1	obl	_	SpaceAfter=No|Translit=tfise|Translit_Lemma=tfise
 4	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 5	אַלעמען	אַלעמען	PRON	_	_	6	obj	_	Translit=alemen|Translit_Lemma=alemen
-6	אױסגעטשלעט	אױסטשלעט	VERB	_	_	0	root	_	SpaceAfter=No|Translit=oysgetshlet|Translit_Lemma=oystshlet
+6	אױסגעטשלעט	אױסשטעלן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=oysgetshlet|Translit_Lemma=oysshteln
 7	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
 8	אַרײַנגעפֿירט	אַרײַנפֿירן	VERB	_	_	6	conj	_	Translit=arayngefirt|Translit_Lemma=araynfirn
 9	אין	אין	ADP	_	_	11	case	_	Translit=in|Translit_Lemma=in
@@ -552,23 +552,23 @@
 
 # sent_id = bulletin_29
 # text = פֿון בײדע זײַטן זענען געשטאַנען געשטאַפּא־לײַט און שטאַרק געשלאָגן אַלעמען מיט די קאַלבעס.
-# translit = fun beyde zaytn zenen geshtanen geshtape-layt un shtark geshlogn alemen mit di kalbes.
+# translit = fun beyde zaytn zenen geshtanen geshtapo-layt un shtark geshlogn alemen mit di kalbes.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
 1	פֿון	פֿון	ADP	_	_	3	case	_	Translit=fun|Translit_Lemma=fun
-2	בײדע	_	DET	_	_	3	det	_	Translit=beyde
+2	בײדע	בײדע	DET	_	_	3	det	_	Translit=beyde|Translit_Lemma=beyde
 3	זײַטן	זײַט	NOUN	_	_	5	obl	_	Translit=zaytn|Translit_Lemma=zayt
 4	זענען	זײַן	AUX	_	_	5	aux	_	Translit=zenen|Translit_Lemma=zayn
 5	געשטאַנען	שטיין	VERB	_	_	0	root	_	Translit=geshtanen|Translit_Lemma=shteyn
-6	געשטאַפּא־לײַט	שטאַפּא־מאַן	NOUN	_	_	5	nsubj	_	Translit=geshtape-layt|Translit_Lemma=shtape-man
+6	געשטאַפּא־לײַט	געשטאַפּא־לײַט	NOUN	_	_	5	nsubj	_	Translit=geshtapo-layt|Translit_Lemma=geshtapo-layt
 7	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
 8	שטאַרק	שטאַרק	ADJ	_	_	9	advmod	_	Translit=shtark|Translit_Lemma=shtark
-9	געשלאָגן	שליגן	VERB	_	_	5	conj	_	Translit=geshlogn|Translit_Lemma=shlign
+9	געשלאָגן	שלאָגן	VERB	_	_	5	conj	_	Translit=geshlogn|Translit_Lemma=shlogn
 10	אַלעמען	אַלעמען	PRON	_	_	9	obj	_	Translit=alemen|Translit_Lemma=alemen
 11	מיט	מיט	ADP	_	_	13	case	_	Translit=mit|Translit_Lemma=mit
 12	די	דער	DET	_	_	13	det	_	Translit=di|Translit_Lemma=der
-13	קאַלבעס	קאַלב	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=kalbes|Translit_Lemma=kalb
+13	קאַלבעס	קאַלבע	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=kalbes|Translit_Lemma=kalbe
 14	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bulletin_30
@@ -584,11 +584,11 @@
 5	מיר	מיר	PRON	_	_	6	nsubj	_	Translit=mir|Translit_Lemma=mir
 6	געקלאָגט	קלאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geklogt|Translit_Lemma=klogn
 7	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
-8	געװײנט	ווײַנען	VERB	_	_	6	conj	_	SpaceAfter=No|Translit=geveynt|Translit_Lemma=vaynen
+8	געװײנט	ווײנען	VERB	_	_	6	conj	_	SpaceAfter=No|Translit=geveynt|Translit_Lemma=veynen
 9	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 10	אײנער	אײנער	DET	_	_	13	nsubj	_	Translit=eyner|Translit_Lemma=eyner
 11	דעם	דער	DET	_	_	12	det	_	Translit=dem|Translit_Lemma=der
-12	אַנדערן	_	DET	_	_	13	obj	_	Translit=andern
+12	אַנדערן	אַנדער	DET	_	_	13	obj	_	Translit=andern|Translit_Lemma=ander
 13	געטרײסט	טרייסטן	VERB	_	_	6	conj	_	SpaceAfter=No|Translit=getreyst|Translit_Lemma=treystn
 14	:	:	PUNCT	_	_	16	punct	_	Translit=:|Translit_Lemma=:
 15	אַפֿשר	אַפֿשר	ADV	_	_	16	advmod	_	Translit=afsher|Translit_Lemma=afsher
