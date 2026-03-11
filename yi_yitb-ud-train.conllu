@@ -4,12 +4,12 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-1	שלום־עליכם	_	INTJ	_	_	0	root	_	SpaceAfter=No|Translit=sholem-aleykhem
+1	שלום־עליכם	שלום־עליכם	INTJ	_	_	0	root	_	SpaceAfter=No|Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	!	!	PUNCT	_	_	1	punct	_	Translit=!|Translit_Lemma=!
 
 # sent_id = py_sholem-aleichem_2
 # text = און הײַנט װעל איך טאַקע רעדן װעגן שלום־עליכמען.
-# translit = un haynt vel ikh take redn vegn sholem-alikhmen.
+# translit = un haynt vel ikh take redn vegn sholem-aleykhemen.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
@@ -20,7 +20,7 @@
 5	טאַקע	טאַקע	ADV	_	_	6	advmod	_	Translit=take|Translit_Lemma=take
 6	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
 7	װעגן	װעגן	ADP	_	_	8	case	_	Translit=vegn|Translit_Lemma=vegn
-8	שלום־עליכמען	שלום־עליכם	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=sholem-alikhmen|Translit_Lemma=sholem-aleykhem
+8	שלום־עליכמען	שלום־עליכם	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=sholem-aleykhemen|Translit_Lemma=sholem-aleykhem
 9	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_3
@@ -45,7 +45,7 @@
 
 # sent_id = py_sholem-aleichem_4
 # text = אָבער דאָס איז, אװדאי, נישט זײַן אמתער נאָמען.
-# translit = ober dos iz, uvdi, nisht zayn emeser nomen.
+# translit = ober dos iz, avade, nisht zayn emeser nomen.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
@@ -53,7 +53,7 @@
 2	דאָס	דער	DET	_	_	10	nsubj	_	Translit=dos|Translit_Lemma=der
 3	איז	זײַן	AUX	_	_	10	cop	_	SpaceAfter=No|Translit=iz|Translit_Lemma=zayn
 4	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
-5	אװדאי	אװדאי	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=uvdi|Translit_Lemma=uvdi
+5	אװדאי	אװדאי	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=avade|Translit_Lemma=avade
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 7	נישט	נישט	PART	_	_	10	advmod	_	Translit=nisht|Translit_Lemma=nisht
 8	זײַן	זײַן	DET	_	_	10	det:poss	_	Translit=zayn|Translit_Lemma=zayn
@@ -72,7 +72,7 @@
 3	נאָמען	נאָמען	NOUN	_	_	6	nsubj	_	Translit=nomen|Translit_Lemma=nomen
 4	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
 5	געװען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
-6	שלום	שלומען	PROPN	_	_	0	root	_	Translit=sholem|Translit_Lemma=shlumen
+6	שלום	שלום	PROPN	_	_	0	root	_	Translit=sholem|Translit_Lemma=sholem
 7	נחומאָוויטש	נחומאָװיטש	PROPN	_	_	6	flat:name	_	Translit=nekhumovitsh|Translit_Lemma=nekhumovitsh
 8	ראַבינאָוויטש	ראַבינאָװיטש	PROPN	_	_	6	flat:name	_	SpaceAfter=No|Translit=rabinovitsh|Translit_Lemma=rabinovitsh
 9	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -88,14 +88,14 @@
 3	געבױרן	געבוירן	VERB	_	_	0	root	_	Translit=geboyrn|Translit_Lemma=geboyrn
 4	געװאָרן	װערן	AUX	_	_	3	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
-6	1859	_	NUM	_	_	3	obl	_	Translit=1859
+6	1859	1859	NUM	_	_	3	obl	_	Translit=1859|Translit_Lemma=1859
 7	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
 8	שטעטל	שטאָט	NOUN	_	_	3	obl	_	Translit=shtetl|Translit_Lemma=shtot
 9	פּערעיאַסלאַװ	פּערעיאַסלאַװ	PROPN	_	_	8	appos	_	Translit=pereyaslav|Translit_Lemma=pereyaslav
 10	נישט	נישט	PART	_	_	11	advmod	_	Translit=nisht|Translit_Lemma=nisht
 11	װײַט	ווײַט	ADJ	_	_	9	acl	_	Translit=vayt|Translit_Lemma=vayt
 12	פֿון	פֿון	ADP	_	_	13	case	_	Translit=fun|Translit_Lemma=fun
-13	קיעװ	קיעװן	PROPN	_	_	11	obl	_	SpaceAfter=No|Translit=kiev|Translit_Lemma=kievn
+13	קיעװ	קיעװ	PROPN	_	_	11	obl	_	SpaceAfter=No|Translit=kiev|Translit_Lemma=kiev
 14	,	,	PUNCT	_	_	16	punct	_	Translit=,|Translit_Lemma=,
 15	אין	אין	ADP	_	_	16	case	_	Translit=in|Translit_Lemma=in
 16	אוקראַינע	אוקראַינע	PROPN	_	_	13	nmod	_	Translit=ukrayne|Translit_Lemma=ukrayne
@@ -113,7 +113,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-1	ייִדיש	ײִדישן	PROPN	_	_	5	nsubj	_	Translit=yidish|Translit_Lemma=yidishn
+1	ייִדיש	ײִדיש	PROPN	_	_	5	nsubj	_	Translit=yidish|Translit_Lemma=yidish
 2	איז	זײַן	AUX	_	_	5	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	5	cop	_	Translit=geven|Translit_Lemma=zayn
 4	זײַן	זײַן	DET	_	_	5	det:poss	_	Translit=zayn|Translit_Lemma=zayn
@@ -154,7 +154,7 @@
 1	אָבער	אָבער	CCONJ	_	_	4	cc	_	Translit=ober|Translit_Lemma=ober
 2	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
-4	דערגרײכט	דערגרײַכן	VERB	_	_	0	root	_	Translit=dergreykht|Translit_Lemma=dergraykhn
+4	דערגרײכט	דערגרײכן	VERB	_	_	0	root	_	Translit=dergreykht|Translit_Lemma=dergreykhn
 5	ריזיקע	ריזיק	ADJ	_	_	6	amod	_	Translit=rizike|Translit_Lemma=rizik
 6	הצלחה	הצלחה	NOUN	_	_	4	obj	_	Translit=hatslokhe|Translit_Lemma=hatslokhe
 7	און	און	CCONJ	_	_	8	cc	_	Translit=un|Translit_Lemma=un
@@ -162,12 +162,12 @@
 9	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
 10	ליבע	ליבע	NOUN	_	_	8	obj	_	Translit=libe|Translit_Lemma=libe
 11	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
-12	לײענערס	לײַענער	NOUN	_	_	10	nmod	_	Translit=leyeners|Translit_Lemma=layener
+12	לײענערס	לײענער	NOUN	_	_	10	nmod	_	Translit=leyeners|Translit_Lemma=leyener
 13	װי	װי	SCONJ	_	_	15	case	_	Translit=vi|Translit_Lemma=vi
 14	אַ	אַ	DET	_	_	15	det	_	Translit=a|Translit_Lemma=a
 15	שרײַבער	שרײַבער	NOUN	_	_	4	obl	_	Translit=shrayber|Translit_Lemma=shrayber
 16	אױף	אױף	ADP	_	_	17	case	_	Translit=oyf|Translit_Lemma=oyf
-17	ייִדיש	ײִדישן	PROPN	_	_	15	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+17	ייִדיש	ײִדיש	PROPN	_	_	15	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
 18	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_10
@@ -177,9 +177,9 @@
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	דעם	דער	DET	_	_	2	det	_	Translit=dem|Translit_Lemma=der
-2	פּסעװדאָנים	פּסעוודן	NOUN	_	_	8	obj	_	Translit=psevdonim|Translit_Lemma=psevdn
+2	פּסעװדאָנים	פּסעװדאָנים	NOUN	_	_	8	obj	_	Translit=psevdonim|Translit_Lemma=psevdonim
 3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
-4	שלום־עליכם	שלום־עליך	PROPN	_	_	2	appos	_	SpaceAfter=No|Translit=sholem-aleykhem|Translit_Lemma=sholem-alikh
+4	שלום־עליכם	שלום־עליכם	PROPN	_	_	2	appos	_	SpaceAfter=No|Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 5	"	"	PUNCT	_	_	4	punct	_	Translit="|Translit_Lemma="
 6	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
 7	ער	ער	PRON	_	_	8	nsubj	_	Translit=er|Translit_Lemma=er
@@ -190,7 +190,7 @@
 12	געװאָלט	װעלן	AUX	_	_	13	aux	_	Translit=gevolt|Translit_Lemma=veln
 13	זאָגן	זאָגן	VERB	_	_	8	advcl	_	Translit=zogn|Translit_Lemma=zogn
 14	זײַנע	זײַן	DET	_	_	15	det:poss	_	Translit=zayne|Translit_Lemma=zayn
-15	לײענערס	לײַענער	NOUN	_	_	13	obl:arg	_	Translit=leyeners|Translit_Lemma=layener
+15	לײענערס	לײענער	NOUN	_	_	13	obl:arg	_	Translit=leyeners|Translit_Lemma=leyener
 16	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 17	זײַט	זײַן	AUX	_	_	18	aux:pass	_	Translit=zayt|Translit_Lemma=zayn
 18	באַגריסט	באַגריסן	VERB	_	_	13	ccomp	_	SpaceAfter=No|Translit=bagrist|Translit_Lemma=bagrisn
@@ -198,14 +198,14 @@
 20	קומט	קומען	VERB	_	_	18	parataxis	_	Translit=kumt|Translit_Lemma=kumen
 21	אַרײַן	אַרײַן	ADV	_	_	20	compound:prt	_	Translit=arayn|Translit_Lemma=arayn
 22	אין	אין	ADP	_	_	24	case	_	Translit=in|Translit_Lemma=in
-23	מײַנע	מײַנע	DET	_	_	24	det:poss	_	Translit=mayne|Translit_Lemma=mayne
+23	מײַנע	מײַן	DET	_	_	24	det:poss	_	Translit=mayne|Translit_Lemma=mayn
 24	ביכער	בוך	NOUN	_	_	20	obl	_	SpaceAfter=No|Translit=bikher|Translit_Lemma=bukh
 25	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 26	עס	עס	PRON	_	_	28	expl	_	Translit=es|Translit_Lemma=es
 27	איז	זײַן	AUX	_	_	28	cop	_	Translit=iz|Translit_Lemma=zayn
 28	דאָ	דאָ	ADV	_	_	18	parataxis	_	Translit=do|Translit_Lemma=do
 29	אַ	אַ	DET	_	_	30	det	_	Translit=a|Translit_Lemma=a
-30	פּלאַץ	פּלאַצן	NOUN	_	_	28	nsubj	_	Translit=plats|Translit_Lemma=platsn
+30	פּלאַץ	פּלאַץ	NOUN	_	_	28	nsubj	_	Translit=plats|Translit_Lemma=plats
 31	פֿאַר	פֿאַר	ADP	_	_	32	case	_	Translit=far|Translit_Lemma=far
 32	אַלעמען	אַלעמען	PRON	_	_	30	nmod	_	SpaceAfter=No|Translit=alemen|Translit_Lemma=alemen
 33	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
@@ -218,12 +218,12 @@
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	װאַרעמקײט	וואַרעמקײַט	NOUN	_	_	7	nsubj	_	Translit=varemkeyt|Translit_Lemma=varemkayt
+2	װאַרעמקײט	װאַרעמקײט	NOUN	_	_	7	nsubj	_	Translit=varemkeyt|Translit_Lemma=varemkeyt
 3	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
-4	מענטשלעכקײט	מענטשלעכקײַט	NOUN	_	_	2	conj	_	Translit=mentshlekhkeyt|Translit_Lemma=mentshlekhkayt
+4	מענטשלעכקײט	מענטשלעכקײט	NOUN	_	_	2	conj	_	Translit=mentshlekhkeyt|Translit_Lemma=mentshlekhkeyt
 5	זענען	זײַן	AUX	_	_	7	cop	_	Translit=zenen|Translit_Lemma=zayn
 6	װיכטיקע	וויכטיק	ADJ	_	_	7	advmod	_	Translit=vikhtike|Translit_Lemma=vikhtik
-7	שטריכן	שטריכן	NOUN	_	_	0	root	_	Translit=shtrikhn|Translit_Lemma=shtrikhn
+7	שטריכן	שטריך	NOUN	_	_	0	root	_	Translit=shtrikhn|Translit_Lemma=shtrikh
 8	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
 9	זײַנע	זײַן	DET	_	_	10	det:poss	_	Translit=zayne|Translit_Lemma=zayn
 10	װערק	ווערק	NOUN	_	_	7	nmod	_	SpaceAfter=No|Translit=verk|Translit_Lemma=verk
@@ -235,17 +235,17 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-1	שלום־עליכם	שלום־עליך	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-alikh
+1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אײנער	אײנער	DET	_	_	0	root	_	Translit=eyner|Translit_Lemma=eyner
 4	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
 5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
-6	קלאַסיקער	קלאַסיק	NOUN	_	_	3	nmod	_	Translit=klasiker|Translit_Lemma=klasik
+6	קלאַסיקער	קלאַסיקער	NOUN	_	_	3	nmod	_	Translit=klasiker|Translit_Lemma=klasiker
 7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
 8	דער	דער	DET	_	_	9	det	_	Translit=der|Translit_Lemma=der
 9	ליטעראַטור	ליטעראַטור	NOUN	_	_	6	nmod	_	Translit=literatur|Translit_Lemma=literatur
 10	אױף	אױף	ADP	_	_	11	case	_	Translit=oyf|Translit_Lemma=oyf
-11	ייִדיש	ײִדישן	PROPN	_	_	9	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+11	ייִדיש	ײִדיש	PROPN	_	_	9	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
 12	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
 13	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
 14	ער	ער	PRON	_	_	17	nsubj	_	Translit=er|Translit_Lemma=er
@@ -267,15 +267,15 @@
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	Translit=far|Translit_Lemma=far
-2	אים	עס	PRON	_	_	6	obl	_	Translit=im|Translit_Lemma=es
+2	אים	ער	PRON	_	_	6	obl	_	Translit=im|Translit_Lemma=er
 3	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
 4	מען	מען	PRON	_	_	6	nsubj	_	Translit=men|Translit_Lemma=men
 5	נישט	נישט	PART	_	_	6	advmod	_	Translit=nisht|Translit_Lemma=nisht
-6	געמײנט	מײַנען	VERB	_	_	0	root	_	Translit=gemeynt|Translit_Lemma=maynen
+6	געמײנט	מײנען	VERB	_	_	0	root	_	Translit=gemeynt|Translit_Lemma=meynen
 7	אַז	אַז	SCONJ	_	_	15	mark	_	Translit=az|Translit_Lemma=az
 8	ליטעראַטור	ליטעראַטור	NOUN	_	_	15	nsubj	_	Translit=literatur|Translit_Lemma=literatur
 9	אױף	אױף	ADP	_	_	10	case	_	Translit=oyf|Translit_Lemma=oyf
-10	ייִדיש	ײִדישן	PROPN	_	_	8	nmod	_	Translit=yidish|Translit_Lemma=yidishn
+10	ייִדיש	ײִדיש	PROPN	_	_	8	nmod	_	Translit=yidish|Translit_Lemma=yidish
 11	קען	קענען	AUX	_	_	15	aux	_	Translit=ken|Translit_Lemma=kenen
 12	זײַן	זײַן	AUX	_	_	15	cop	_	Translit=zayn|Translit_Lemma=zayn
 13	באמת	באמת	ADV	_	_	15	advmod	_	Translit=beemes|Translit_Lemma=beemes
@@ -294,7 +294,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-1	ייִדיש	ײִדישן	PROPN	_	_	3	nsubj	_	Translit=yidish|Translit_Lemma=yidishn
+1	ייִדיש	ײִדיש	PROPN	_	_	3	nsubj	_	Translit=yidish|Translit_Lemma=yidish
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
 4	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
@@ -303,7 +303,7 @@
 7	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
 8	אַן	אַ	DET	_	_	12	det	_	Translit=an|Translit_Lemma=a
 9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
-10	אומרײניקער	אומרײַניק	ADJ	_	_	12	amod	_	SpaceAfter=No|Translit=umreyniker|Translit_Lemma=umraynik
+10	אומרײניקער	אומרײניק	ADJ	_	_	12	amod	_	SpaceAfter=No|Translit=umreyniker|Translit_Lemma=umreynik
 11	"	"	PUNCT	_	_	10	punct	_	Translit="|Translit_Lemma="
 12	שפּראַך	שפּראַך	NOUN	_	_	6	nmod	_	Translit=shprakh|Translit_Lemma=shprakh
 13	אױף	אױף	ADP	_	_	14	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -323,7 +323,7 @@
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	אױב	אױב	SCONJ	_	_	7	mark	_	Translit=oyb|Translit_Lemma=oyb
-2	עמעצער	עמעץ	PRON	_	_	7	nsubj	_	Translit=emetser|Translit_Lemma=emets
+2	עמעצער	עמעצער	PRON	_	_	7	nsubj	_	Translit=emetser|Translit_Lemma=emetser
 3	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 4	געװאָלט	װעלן	AUX	_	_	7	aux	_	Translit=gevolt|Translit_Lemma=veln
 5	זײַן	זײַן	AUX	_	_	7	cop	_	Translit=zayn|Translit_Lemma=zayn
@@ -345,10 +345,10 @@
 21	פּױליש	פּױליש	PROPN	_	_	15	conj	_	Translit=poylish|Translit_Lemma=poylish
 22	–	–	PUNCT	_	_	25	punct	_	Translit=–|Translit_Lemma=–
 23	גרױסע	גרויס	ADJ	_	_	25	amod	_	Translit=groyse|Translit_Lemma=groys
-24	אײראָפּעישע	אײַראָפּעיש	ADJ	_	_	25	amod	_	Translit=eyropeishe|Translit_Lemma=ayropeish
+24	אײראָפּעישע	אײראָפּעיש	ADJ	_	_	25	amod	_	Translit=eyropeishe|Translit_Lemma=eyropeish
 25	שפּראַכן	שפּראַך	NOUN	_	_	15	appos	_	Translit=shprakhn|Translit_Lemma=shprakh
 26	מיט	מיט	ADP	_	_	27	case	_	Translit=mit|Translit_Lemma=mit
-27	געשיכטע	געשיכט	NOUN	_	_	25	nmod	_	Translit=geshikhte|Translit_Lemma=geshikht
+27	געשיכטע	געשיכטע	NOUN	_	_	25	nmod	_	Translit=geshikhte|Translit_Lemma=geshikhte
 28	און	און	CCONJ	_	_	30	cc	_	Translit=un|Translit_Lemma=un
 29	ליטעראַרישע	ליטעראַריש	ADJ	_	_	30	amod	_	Translit=literarishe|Translit_Lemma=literarish
 30	טראַדיציעס	טראַדיציע	NOUN	_	_	27	conj	_	SpaceAfter=No|Translit=traditsyes|Translit_Lemma=traditsye
@@ -360,14 +360,14 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-1	שלום־עליכם	שלום־עליך	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-alikh
+1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געזאָגט	זאָגן	VERB	_	_	0	root	_	Translit=gezogt|Translit_Lemma=zogn
 4	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
 5	דאָס	דער	DET	_	_	6	det	_	Translit=dos|Translit_Lemma=der
 6	אַלץ	אַלץ	PRON	_	_	8	nsubj	_	Translit=alts|Translit_Lemma=alts
 7	איז	זײַן	AUX	_	_	8	cop	_	Translit=iz|Translit_Lemma=zayn
-8	נאַרישקײטן	נאַרישקײַט	NOUN	_	_	3	ccomp	_	SpaceAfter=No|Translit=narishkeytn|Translit_Lemma=narishkayt
+8	נאַרישקײטן	נאַרישקײַט	NOUN	_	_	3	ccomp	_	SpaceAfter=No|Translit=narishkeytn|Translit_Lemma=narishkeyt
 9	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_17
@@ -385,7 +385,7 @@
 7	גוטע	גוט	ADJ	_	_	8	amod	_	Translit=gute|Translit_Lemma=gut
 8	ליטעראַטור	ליטעראַטור	NOUN	_	_	6	obj	_	Translit=literatur|Translit_Lemma=literatur
 9	אױף	אױף	ADP	_	_	10	case	_	Translit=oyf|Translit_Lemma=oyf
-10	ייִדיש	ײִדישן	PROPN	_	_	8	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
+10	ייִדיש	ײִדיש	PROPN	_	_	8	nmod	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
 11	!	!	PUNCT	_	_	6	punct	_	Translit=!|Translit_Lemma=!
 
 # sent_id = py_sholem-aleichem_18
@@ -403,9 +403,9 @@
 7	פּיאָנערן	פּיאָנער	NOUN	_	_	4	nmod	_	Translit=pyonern|Translit_Lemma=pyoner
 8	װאָס	װאָס	SCONJ	_	_	10	mark	_	Translit=vos|Translit_Lemma=vos
 9	האָבן	האָבן	AUX	_	_	10	aux	_	Translit=hobn|Translit_Lemma=hobn
-10	באַװיזן	באַוויז	VERB	_	_	7	acl:relcl	_	Translit=bavizn|Translit_Lemma=baviz
+10	באַװיזן	באַװיזן	VERB	_	_	7	acl:relcl	_	Translit=bavizn|Translit_Lemma=bavizn
 11	אַז	אַז	SCONJ	_	_	17	mark	_	Translit=az|Translit_Lemma=az
-12	ייִדיש	ײִדישן	PROPN	_	_	17	nsubj	_	Translit=yidish|Translit_Lemma=yidishn
+12	ייִדיש	ײִדיש	PROPN	_	_	17	nsubj	_	Translit=yidish|Translit_Lemma=yidish
 13	איז	זײַן	AUX	_	_	17	cop	_	Translit=iz|Translit_Lemma=zayn
 14	אױך	אױך	ADV	_	_	17	advmod	_	Translit=oykh|Translit_Lemma=oykh
 15	אַ	אַ	DET	_	_	17	det	_	Translit=a|Translit_Lemma=a
@@ -415,13 +415,13 @@
 
 # sent_id = py_sholem-aleichem_19
 # text = די סאַמע באַרימסטע פּערסאָנאַזשן פֿון ייִדישער ליטעראַטור זענען געשאַפֿן געװאָרן פֿון שלום־עליכמען.
-# translit = di same barimste personazhn fun yidisher literatur zenen geshafn gevorn fun sholem-alikhmen.
+# translit = di same barimste personazhn fun yidisher literatur zenen geshafn gevorn fun sholem-aleykhemen.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 2	סאַמע	סאַמע	DET	_	_	4	det	_	Translit=same|Translit_Lemma=same
-3	באַרימסטע	באַרימסט	ADJ	_	_	4	amod	_	Translit=barimste|Translit_Lemma=barimst
+3	באַרימסטע	באַרימט	ADJ	_	_	4	amod	_	Translit=barimste|Translit_Lemma=barimt
 4	פּערסאָנאַזשן	פּערסאָנאַזש	NOUN	_	_	9	nsubj:pass	_	Translit=personazhn|Translit_Lemma=personazh
 5	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
 6	ייִדישער	ייִדיש	ADJ	_	_	7	amod	_	Translit=yidisher|Translit_Lemma=yidish
@@ -430,7 +430,7 @@
 9	געשאַפֿן	שאַפֿן	VERB	_	_	0	root	_	Translit=geshafn|Translit_Lemma=shafn
 10	געװאָרן	װערן	AUX	_	_	9	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
 11	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
-12	שלום־עליכמען	שלום־עליכם	PROPN	_	_	9	obl:agent	_	SpaceAfter=No|Translit=sholem-alikhmen|Translit_Lemma=sholem-aleykhem
+12	שלום־עליכמען	שלום־עליכם	PROPN	_	_	9	obl:agent	_	SpaceAfter=No|Translit=sholem-aleykhemen|Translit_Lemma=sholem-aleykhem
 13	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_20
@@ -445,7 +445,7 @@
 3	בײַשפּיל	בײַשפּיל	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=bayshpil|Translit_Lemma=bayshpil
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 5	דער	דער	DET	_	_	7	det	_	Translit=der|Translit_Lemma=der
-6	שלמזדיקער	שלמזדיק	ADJ	_	_	7	amod	_	Translit=shlamazdiker|Translit_Lemma=shlamazdik
+6	שלמזדיקער	שלמזדיקער	ADJ	_	_	7	amod	_	Translit=shlamazdiker|Translit_Lemma=shlamazdiker
 7	מנחם־מענדל	מנחם־מאַנדל	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=minkhem-mendl|Translit_Lemma=menakhem-mandl
 8	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
 9	אַ	אַ	DET	_	_	10	det	_	Translit=a|Translit_Lemma=a
@@ -459,7 +459,7 @@
 17	טײַערער	טײַער	ADJ	_	_	18	amod	_	Translit=tayerer|Translit_Lemma=tayer
 18	טבֿיה	טבֿיה	PROPN	_	_	7	conj	_	Translit=teviye|Translit_Lemma=teviye
 19	דער	דער	DET	_	_	20	det	_	Translit=der|Translit_Lemma=der
-20	מילכיקער	מילכיק	NOUN	_	_	18	appos	_	Translit=milkhiker|Translit_Lemma=milkhik
+20	מילכיקער	מילכיקער	NOUN	_	_	18	appos	_	Translit=milkhiker|Translit_Lemma=milkhiker
 21	װאָס	װאָס	SCONJ	_	_	23	mark	_	Translit=vos|Translit_Lemma=vos
 22	איז	זײַן	AUX	_	_	23	cop	_	Translit=iz|Translit_Lemma=zayn
 23	באַקאַנט	באַקאַנט	ADJ	_	_	18	acl:relcl	_	Translit=bakant|Translit_Lemma=bakant
@@ -492,30 +492,30 @@
 5	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
 6	װעלכן	װעלך	PRON	_	_	11	obl	_	Translit=velkhn|Translit_Lemma=velkh
 7	מיר	מיר	PRON	_	_	11	nsubj	_	Translit=mir|Translit_Lemma=mir
-8	אַלע	_	DET	_	_	7	det	_	Translit=ale
+8	אַלע	אַלע	DET	_	_	7	det	_	Translit=ale|Translit_Lemma=ale
 9	קענען	קענען	AUX	_	_	11	aux	_	Translit=kenen|Translit_Lemma=kenen
 10	זיך	זיך	PRON	_	_	11	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 11	לערנען	לערנען	VERB	_	_	3	acl:relcl	_	Translit=lernen|Translit_Lemma=lernen
 12	אָפּטימיזם	אָפּטימיזם	NOUN	_	_	11	obj	_	Translit=optimizm|Translit_Lemma=optimizm
 13	און	און	CCONJ	_	_	14	cc	_	Translit=un|Translit_Lemma=un
-14	פֿרײד	פֿרײַד	NOUN	_	_	12	conj	_	Translit=freyd|Translit_Lemma=frayd
+14	פֿרײד	פֿרײד	NOUN	_	_	12	conj	_	Translit=freyd|Translit_Lemma=freyd
 15	אַפֿילו	אַפֿילו	ADV	_	_	11	advmod	_	Translit=afile|Translit_Lemma=afile
 16	אין	אין	ADP	_	_	19	case	_	Translit=in|Translit_Lemma=in
 17	סאַמע	סאַמע	DET	_	_	19	det	_	Translit=same|Translit_Lemma=same
-18	שװערסטע	שווערסט	ADJ	_	_	19	amod	_	Translit=shverste|Translit_Lemma=shverst
+18	שװערסטע	שװער	ADJ	_	_	19	amod	_	Translit=shverste|Translit_Lemma=shver
 19	באַדינגונגען	באַדינגונג	NOUN	_	_	11	obl	_	SpaceAfter=No|Translit=badingungen|Translit_Lemma=badingung
 20	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_22
 # text = די װערק פֿון שלום־עליכמען זענען אַ פּאַנאָראַמע פֿונעם ייִדישן לעבן אינעם סוף פֿונעם 19טן און אָנהײב פֿונעם 20טן יאָרהונדערט.
-# translit = di verk fun sholem-alikhmen zenen a panorame funem yidishn lebn inem sof funem 19tn un onheyb funem 20tn yorhundert.
+# translit = di verk fun sholem-aleykhemen zenen a panorame funem yidishn lebn inem sof funem 19tn un onheyb funem 20tn yorhundert.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	װערק	ווערק	NOUN	_	_	7	nsubj	_	Translit=verk|Translit_Lemma=verk
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
-4	שלום־עליכמען	שלום־עליכם	PROPN	_	_	2	nmod	_	Translit=sholem-alikhmen|Translit_Lemma=sholem-aleykhem
+4	שלום־עליכמען	שלום־עליכם	PROPN	_	_	2	nmod	_	Translit=sholem-aleykhemen|Translit_Lemma=sholem-aleykhem
 5	זענען	זײַן	AUX	_	_	7	cop	_	Translit=zenen|Translit_Lemma=zayn
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	פּאַנאָראַמע	פּאַנאָראַמע	NOUN	_	_	0	root	_	Translit=panorame|Translit_Lemma=panorame
@@ -531,13 +531,13 @@
 15-16	פֿונעם	_	_	_	_	_	_	_	Translit=funem
 15	פֿון	פֿון	ADP	_	_	17	case	_	Translit=fun|Translit_Lemma=fun
 16	דעם	דער	DET	_	_	17	det	_	Translit=dem|Translit_Lemma=der
-17	19טן	נוט	ADJ	_	_	14	nmod	_	Translit=19tn|Translit_Lemma=nut
+17	19טן	19	ADJ	_	_	14	nmod	_	Translit=19tn|Translit_Lemma=19
 18	און	און	CCONJ	_	_	19	cc	_	Translit=un|Translit_Lemma=un
-19	אָנהײב	אָנהייבן	NOUN	_	_	14	conj	_	Translit=onheyb|Translit_Lemma=onheybn
+19	אָנהײב	אָנהייב	NOUN	_	_	14	conj	_	Translit=onheyb|Translit_Lemma=onheyb
 20-21	פֿונעם	_	_	_	_	_	_	_	Translit=funem
 20	פֿון	פֿון	ADP	_	_	23	case	_	Translit=fun|Translit_Lemma=fun
 21	דעם	דער	DET	_	_	23	det	_	Translit=dem|Translit_Lemma=der
-22	20טן	טאָט	ADJ	_	_	23	amod	_	Translit=20tn|Translit_Lemma=tot
+22	20טן	20	ADJ	_	_	23	amod	_	Translit=20tn|Translit_Lemma=20
 23	יאָרהונדערט	יאָרהונדערט	NOUN	_	_	19	nmod	_	SpaceAfter=No|Translit=yorhundert|Translit_Lemma=yorhundert
 24	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
 
@@ -572,10 +572,10 @@
 23	האָט	האָבן	AUX	_	_	26	aux	_	Translit=hot|Translit_Lemma=hobn
 24	זיך	זיך	PRON	_	_	26	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 25	שױן	שױן	ADV	_	_	26	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
-26	אָנגעהױבן	אָנהויבן	VERB	_	_	14	conj	_	SpaceAfter=No|Translit=ongehoybn|Translit_Lemma=onhoybn
+26	אָנגעהױבן	אָנהײבן	VERB	_	_	14	conj	_	SpaceAfter=No|Translit=ongehoybn|Translit_Lemma=onheybn
 27	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 28	מיט	מיט	ADP	_	_	31	case	_	Translit=mit|Translit_Lemma=mit
-29	אירע	אירע	DET	_	_	31	det:poss	_	Translit=ire|Translit_Lemma=ire
+29	אירע	איר	DET	_	_	31	det:poss	_	Translit=ire|Translit_Lemma=ir
 30	נײַע	נײַ	ADJ	_	_	31	amod	_	Translit=naye|Translit_Lemma=nay
 31	אַרױסרופֿן	אַרױסרוף	NOUN	_	_	26	obl	_	Translit=aroysrufn|Translit_Lemma=aroysruf
 32	און	און	CCONJ	_	_	33	cc	_	Translit=un|Translit_Lemma=un
@@ -584,7 +584,7 @@
 
 # sent_id = py_sholem-aleichem_24
 # text = פֿאַרװאָס האָב איך ליב צו לײענען שלום־עליכמען?
-# translit = farvos hob ikh lib tsu leyenen sholem-alikhmen?
+# translit = farvos hob ikh lib tsu leyenen sholem-aleykhemen?
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
@@ -593,13 +593,13 @@
 3	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 4	ליב	ליב	NOUN	_	_	2	compound:lvc	_	Translit=lib|Translit_Lemma=lib
 5	צו	צו	PART	_	_	6	mark	_	Translit=tsu|Translit_Lemma=tsu
-6	לײענען	לײַענען	VERB	_	_	2	xcomp	_	Translit=leyenen|Translit_Lemma=layenen
-7	שלום־עליכמען	שלום־עליכם	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=sholem-alikhmen|Translit_Lemma=sholem-aleykhem
+6	לײענען	לײענען	VERB	_	_	2	xcomp	_	Translit=leyenen|Translit_Lemma=leyenen
+7	שלום־עליכמען	שלום־עליכם	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=sholem-aleykhemen|Translit_Lemma=sholem-aleykhem
 8	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
 # sent_id = py_sholem-aleichem_25
 # text = װאָס קענען מיר געפֿינען הײַנט צו טאָג אין די מעשׂיות װעגן לאַנג־פֿאַרגאַנגענע טעג װען ייִדן האָבן געװױנט אין מזרח־אײראָפּעישע שטעטלעך?
-# translit = vos kenen mir gefinen haynt tsu tog in di maysoyes vegn lang-fargangene teg ven yidn hobn gevoynt in mizrekh-eyropeishe shtetlekh?
+# translit = vos kenen mir gefinen haynt tsu tog in di mayses vegn lang-fargangene teg ven yidn hobn gevoynt in mizrekh-eyropeishe shtetlekh?
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
@@ -612,7 +612,7 @@
 7	טאָג	טאָג	NOUN	_	_	5	nmod	_	Translit=tog|Translit_Lemma=tog
 8	אין	אין	ADP	_	_	10	case	_	Translit=in|Translit_Lemma=in
 9	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
-10	מעשׂיות	מעשׂה	NOUN	_	_	4	obl	_	Translit=maysoyes|Translit_Lemma=mayse
+10	מעשׂיות	מעשׂה	NOUN	_	_	4	obl	_	Translit=mayses|Translit_Lemma=mayse
 11	װעגן	װעגן	ADP	_	_	13	case	_	Translit=vegn|Translit_Lemma=vegn
 12	לאַנג־פֿאַרגאַנגענע	לאַנג־פֿאַרגאַנגען	ADJ	_	_	13	amod	_	Translit=lang-fargangene|Translit_Lemma=lang-fargangen
 13	טעג	טאָג	NOUN	_	_	10	nmod	_	Translit=teg|Translit_Lemma=tog
@@ -621,7 +621,7 @@
 16	האָבן	האָבן	AUX	_	_	17	aux	_	Translit=hobn|Translit_Lemma=hobn
 17	געװױנט	ווױנען	VERB	_	_	13	acl:relcl	_	Translit=gevoynt|Translit_Lemma=voynen
 18	אין	אין	ADP	_	_	20	case	_	Translit=in|Translit_Lemma=in
-19	מזרח־אײראָפּעישע	מזרח־אײַראָפּעיש	ADJ	_	_	20	amod	_	Translit=mizrekh-eyropeishe|Translit_Lemma=mizrekh-ayropeish
+19	מזרח־אײראָפּעישע	מזרח־אײראָפּעיש	ADJ	_	_	20	amod	_	Translit=mizrekh-eyropeishe|Translit_Lemma=mizrekh-eyropeish
 20	שטעטלעך	שטעטל	NOUN	_	_	17	obl	_	SpaceAfter=No|Translit=shtetlekh|Translit_Lemma=shtetl
 21	?	?	PUNCT	_	_	4	punct	_	Translit=?|Translit_Lemma=?
 
@@ -634,15 +634,15 @@
 1	כּודם־כּל	כּודם־כּל	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=koydem-kol|Translit_Lemma=koydem-kol
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
-4	שלום־עליכם	שלום־עליך	PROPN	_	_	5	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-alikh
+4	שלום־עליכם	שלום־עליכם	PROPN	_	_	5	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 5	פֿול	פֿול	ADJ	_	_	0	root	_	Translit=ful|Translit_Lemma=ful
 6	מיט	מיט	ADP	_	_	7	case	_	Translit=mit|Translit_Lemma=mit
 7	גוטהאַרציקײט	גוטהאַרציקײט	NOUN	_	_	5	obl	_	Translit=guthartsikeyt|Translit_Lemma=guthartsikeyt
 8	צו	צו	ADP	_	_	10	case	_	Translit=tsu|Translit_Lemma=tsu
 9	זײַנע	זײַן	DET	_	_	10	det:poss	_	Translit=zayne|Translit_Lemma=zayn
-10	העלדער	האַלד	NOUN	_	_	7	nmod	_	Translit=helder|Translit_Lemma=hald
+10	העלדער	העלד	NOUN	_	_	7	nmod	_	Translit=helder|Translit_Lemma=held
 11	און	און	CCONJ	_	_	12	cc	_	Translit=un|Translit_Lemma=un
-12	מענטשן	מענטשן	NOUN	_	_	10	conj	_	Translit=mentshn|Translit_Lemma=mentshn
+12	מענטשן	מענטש	NOUN	_	_	10	conj	_	Translit=mentshn|Translit_Lemma=mentsh
 13	בכלל	בכלל	ADV	_	_	12	advmod	_	SpaceAfter=No|Translit=bikhlal|Translit_Lemma=bikhlal
 14	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 

@@ -1029,7 +1029,7 @@
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַװדאי	אַװדאי	ADV	_	_	5	advmod	_	Translit=avade|Translit_Lemma=avade
 4	פּראָסטע	פּראָסט	ADJ	_	_	5	amod	_	Translit=proste|Translit_Lemma=prost
-5	ייִדיש	ײִדישן	PROPN	_	_	0	root	_	Translit=yidish|Translit_Lemma=yidishn
+5	ייִדיש	ייִדיש	PROPN	_	_	0	root	_	Translit=yidish|Translit_Lemma=yidish
 6	און	און	CCONJ	_	_	8	cc	_	Translit=un|Translit_Lemma=un
 7	איך	איך	PRON	_	_	8	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 8	הײס	הײַסן	VERB	_	_	5	conj	_	Translit=heys|Translit_Lemma=haysn
@@ -14435,12 +14435,12 @@
 
 # sent_id = bible_exodus_53
 # text = און משה האָט געפֿיטערט די שאָפּ פֿון זײַן שװער יִתרוֹן, דעם פּריסטער פֿון מִדיָן, און ער האָט געפירט די שאָפּ צום מדבר צו, און ער איז געקומען צום באַרג פֿון {dn גאָט}, צו חוֹרֵבֿ.
-# translit = un moshe hot gefitert di shop fun zayn shver yisroen, dem prister fun midyon, un er hot gefirt di shop tsum midber tsu, un er iz gekumen tsum barg fun {dn got}, tsu khoyrev.
+# translit = un moyshe hot gefitert di shop fun zayn shver yisroen, dem prister fun midyon, un er hot gefirt di shop tsum midber tsu, un er iz gekumen tsum barg fun {dn got}, tsu khoyrev.
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
-2	משה	משה	PROPN	_	_	4	nsubj	_	Translit=moshe|Translit_Lemma=moshe
+2	משה	משה	PROPN	_	_	4	nsubj	_	Translit=moyshe|Translit_Lemma=moyshe
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 4	געפֿיטערט	פֿיטערן	VERB	_	_	0	root	_	Translit=gefitert|Translit_Lemma=fitern
 5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
@@ -14448,7 +14448,7 @@
 7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
 8	זײַן	זײַן	DET	_	_	9	det:poss	_	Translit=zayn|Translit_Lemma=zayn
 9	שװער	שווער	NOUN	_	_	6	nmod	_	Translit=shver|Translit_Lemma=shver
-10	יִתרוֹן	ייִתרוּ	PROPN	_	_	9	appos	_	SpaceAfter=No|Translit=yisroen|Translit_Lemma=yisreu
+10	יִתרוֹן	יִתרוֹ	PROPN	_	_	9	appos	_	SpaceAfter=No|Translit=yisroen|Translit_Lemma=yisro
 11	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
 12	דעם	דער	DET	_	_	13	det	_	Translit=dem|Translit_Lemma=der
 13	פּריסטער	פּריסטער	NOUN	_	_	10	appos	_	Translit=prister|Translit_Lemma=prister
@@ -14477,12 +14477,12 @@
 34	באַרג	באַרג	NOUN	_	_	31	obl	_	Translit=barg|Translit_Lemma=barg
 35	פֿון	פֿון	ADP	_	_	38	case	_	Translit=fun|Translit_Lemma=fun
 36	{	{	PUNCT	_	_	38	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-37	dn	_	X	_	_	38	dep	_	Translit=דן
+37	dn	_	X	_	_	38	dep	_	Translit=dn
 38	גאָט	גאָט	PROPN	_	_	34	nmod	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 39	}	}	PUNCT	_	_	38	punct	_	SpaceAfter=No|Translit=}|Translit_Lemma=}
 40	,	,	PUNCT	_	_	42	punct	_	Translit=,|Translit_Lemma=,
 41	צו	צו	ADP	_	_	42	case	_	Translit=tsu|Translit_Lemma=tsu
-42	חוֹרֵבֿ	חורּבֿ	PROPN	_	_	31	obl	_	SpaceAfter=No|Translit=khoyrev|Translit_Lemma=khurev
+42	חוֹרֵבֿ	חוֹרֵבֿ	PROPN	_	_	31	obl	_	SpaceAfter=No|Translit=khoyrev|Translit_Lemma=khoyrev
 43	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bible_exodus_54
@@ -14493,14 +14493,14 @@
 # genre = bible
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 2	זיך	זיך	PRON	_	_	3	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
-3	באַװיזן	באַוויז	VERB	_	_	0	root	_	Translit=bavizn|Translit_Lemma=baviz
+3	באַװיזן	באַװײַזן	VERB	_	_	0	root	_	Translit=bavizn|Translit_Lemma=bavayzn
 4	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
-5	אים	עס	PRON	_	_	3	obl	_	Translit=im|Translit_Lemma=es
+5	אים	ער	PRON	_	_	3	obl	_	Translit=im|Translit_Lemma=er
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
 7	מלאך	מלאך	NOUN	_	_	3	nsubj	_	Translit=malekh|Translit_Lemma=malekh
 8	פֿון	פֿון	ADP	_	_	11	case	_	Translit=fun|Translit_Lemma=fun
 9	{	{	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-10	dn	_	X	_	_	11	dep	_	Translit=דן
+10	dn	_	X	_	_	11	dep	_	Translit=dn
 11	גאָט	גאָט	PROPN	_	_	7	nmod	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 12	}	}	PUNCT	_	_	11	punct	_	Translit=}|Translit_Lemma=}
 13	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
@@ -14534,12 +14534,12 @@
 
 # sent_id = bible_exodus_55
 # text = האָט משה געזאָגט: לאָמיך אַקאָרשט אָפּקערן און זען די דאָזיקע גרױסע זעונג, פֿאַר װאָס דער דאָרן װערט ניט פֿאַרברענט.
-# translit = hot moshe gezogt: lomikh akorsht opkern un zen di dozike groyse zeung, far vos der dorn vert nit farbrent.
+# translit = hot moyshe gezogt: lomikh akorsht opkern un zen di dozike groyse zeung, far vos der dorn vert nit farbrent.
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
-2	משה	משה	PROPN	_	_	3	nsubj	_	Translit=moshe|Translit_Lemma=moshe
+2	משה	משה	PROPN	_	_	3	nsubj	_	Translit=moyshe|Translit_Lemma=moyshe
 3	געזאָגט	זאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 4	:	:	PUNCT	_	_	5	punct	_	Translit=:|Translit_Lemma=:
 5-6	לאָמיך	_	_	_	_	_	_	_	Translit=lomikh
@@ -14565,14 +14565,14 @@
 
 # sent_id = bible_exodus_56
 # text = און װי {dn גאָט} האָט געזען, אַז ער האָט אָפּגעקערט צו זען, אַזױ האָט {dn גאָט} גערופֿן צו אים פֿון מיטן דאָרן, און האָט געזאָגט: משה! משה!
-# translit = un vi {dn got} hot gezen, az er hot opgekert tsu zen, azoy hot {dn got} gerufn tsu im fun mitn dorn, un hot gezogt: moshe! moshe!
+# translit = un vi {dn got} hot gezen, az er hot opgekert tsu zen, azoy hot {dn got} gerufn tsu im fun mitn dorn, un hot gezogt: moyshe! moyshe!
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
 1	און	און	CCONJ	_	_	23	cc	_	Translit=un|Translit_Lemma=un
 2	װי	װי	SCONJ	_	_	8	mark	_	Translit=vi|Translit_Lemma=vi
 3	{	{	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-4	dn	_	X	_	_	5	dep	_	Translit=דן
+4	dn	_	X	_	_	5	dep	_	Translit=dn
 5	גאָט	גאָט	PROPN	_	_	8	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 6	}	}	PUNCT	_	_	5	punct	_	Translit=}|Translit_Lemma=}
 7	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -14588,7 +14588,7 @@
 17	אַזױ	אַזױ	ADV	_	_	23	advmod	_	Translit=azoy|Translit_Lemma=azoy
 18	האָט	האָבן	AUX	_	_	23	aux	_	Translit=hot|Translit_Lemma=hobn
 19	{	{	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-20	dn	_	X	_	_	21	dep	_	Translit=דן
+20	dn	_	X	_	_	21	dep	_	Translit=dn
 21	גאָט	גאָט	PROPN	_	_	23	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 22	}	}	PUNCT	_	_	21	punct	_	Translit=}|Translit_Lemma=}
 23	גערופֿן	רופֿן	VERB	_	_	0	root	_	Translit=gerufn|Translit_Lemma=rufn
@@ -14602,9 +14602,9 @@
 31	האָט	האָבן	AUX	_	_	32	aux	_	Translit=hot|Translit_Lemma=hobn
 32	געזאָגט	זאָגן	VERB	_	_	23	conj	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 33	:	:	PUNCT	_	_	34	punct	_	Translit=:|Translit_Lemma=:
-34	משה	משה	PROPN	_	_	32	vocative	_	SpaceAfter=No|Translit=moshe|Translit_Lemma=moshe
+34	משה	משה	PROPN	_	_	32	vocative	_	SpaceAfter=No|Translit=moyshe|Translit_Lemma=moyshe
 35	!	!	PUNCT	_	_	34	punct	_	Translit=!|Translit_Lemma=!
-36	משה	משה	PROPN	_	_	34	vocative	_	SpaceAfter=No|Translit=moshe|Translit_Lemma=moshe
+36	משה	משה	PROPN	_	_	34	vocative	_	SpaceAfter=No|Translit=moyshe|Translit_Lemma=moyshe
 37	!	!	PUNCT	_	_	36	punct	_	Translit=!|Translit_Lemma=!
 
 # sent_id = bible_exodus_57
@@ -14634,15 +14634,15 @@
 4	:	:	PUNCT	_	_	7	punct	_	Translit=:|Translit_Lemma=:
 5	זאָלסט	זאָלן	AUX	_	_	7	aux	_	Translit=zolst|Translit_Lemma=zoln
 6	ניט	ניט	PART	_	_	7	advmod	_	Translit=nit|Translit_Lemma=nit
-7	גענענען	גענען	VERB	_	_	3	ccomp	_	Translit=genenen|Translit_Lemma=genen
+7	גענענען	נענען	VERB	_	_	3	ccomp	_	Translit=genenen|Translit_Lemma=nenen
 8	אַהער	אַהער	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=aher|Translit_Lemma=aher
 9	;	;	PUNCT	_	_	10	punct	_	Translit=;|Translit_Lemma=;
 10	טו	טאָן	VERB	_	_	7	parataxis	_	Translit=tu|Translit_Lemma=ton
 11	אױס	אױס	ADP	_	_	10	compound:prt	_	Translit=oys|Translit_Lemma=oys
-12	דײַנע	_	DET	_	_	13	det	_	Translit=dayne
+12	דײַנע	דײַן	DET	_	_	13	det	_	Translit=dayne|Translit_Lemma=dayn
 13	שיך	שוך	NOUN	_	_	10	obj	_	Translit=shikh|Translit_Lemma=shukh
 14	פֿון	פֿון	ADP	_	_	16	case	_	Translit=fun|Translit_Lemma=fun
-15	דײַנע	_	DET	_	_	16	det	_	Translit=dayne
+15	דײַנע	דײַן	DET	_	_	16	det	_	Translit=dayne|Translit_Lemma=dayn
 16	פיס	פֿוס	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=fis|Translit_Lemma=fus
 17	,	,	PUNCT	_	_	30	punct	_	Translit=,|Translit_Lemma=,
 18	װאָרום	װאָרום	SCONJ	_	_	30	mark	_	Translit=vorum|Translit_Lemma=vorum
@@ -14650,9 +14650,9 @@
 20	אָרט	אָרט	NOUN	_	_	30	nsubj	_	Translit=ort|Translit_Lemma=ort
 21	װאָס	װאָס	SCONJ	_	_	23	mark	_	Translit=vos|Translit_Lemma=vos
 22	דו	דו	PRON	_	_	23	nsubj	_	Translit=du|Translit_Lemma=du
-23	שטײסט	שטײַען	VERB	_	_	20	acl:relcl	_	Translit=shteyst|Translit_Lemma=shtayen
+23	שטײסט	שטײן	VERB	_	_	20	acl:relcl	_	Translit=shteyst|Translit_Lemma=shteyn
 24	אױף	אױף	ADP	_	_	25	case	_	Translit=oyf|Translit_Lemma=oyf
-25	אים	עס	PRON	_	_	23	obl	_	SpaceAfter=No|Translit=im|Translit_Lemma=es
+25	אים	ער	PRON	_	_	23	obl	_	SpaceAfter=No|Translit=im|Translit_Lemma=er
 26	,	,	PUNCT	_	_	30	punct	_	Translit=,|Translit_Lemma=,
 27	דאָס	דער	DET	_	_	30	dislocated	_	Translit=dos|Translit_Lemma=der
 28	איז	זײַן	AUX	_	_	30	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -14675,7 +14675,7 @@
 7	בין	זײַן	AUX	_	_	11	cop	_	Translit=bin|Translit_Lemma=zayn
 8	דער	דער	DET	_	_	11	det	_	Translit=der|Translit_Lemma=der
 9	{	{	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-10	dn	_	X	_	_	11	dep	_	Translit=דן
+10	dn	_	X	_	_	11	dep	_	Translit=dn
 11	גאָט	גאָט	NOUN	_	_	4	ccomp	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 12	}	}	PUNCT	_	_	11	punct	_	Translit=}|Translit_Lemma=}
 13	פֿון	פֿון	ADP	_	_	15	case	_	Translit=fun|Translit_Lemma=fun
@@ -14684,40 +14684,40 @@
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
 17	דער	דער	DET	_	_	20	det	_	Translit=der|Translit_Lemma=der
 18	{	{	PUNCT	_	_	20	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-19	dn	_	X	_	_	20	dep	_	Translit=דן
+19	dn	_	X	_	_	20	dep	_	Translit=dn
 20	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 21	}	}	PUNCT	_	_	20	punct	_	Translit=}|Translit_Lemma=}
 22	פֿון	פֿון	ADP	_	_	23	case	_	Translit=fun|Translit_Lemma=fun
-23	אַבֿרהמען	אַבֿרהם	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=avremen|Translit_Lemma=avro(e)m
+23	אַבֿרהמען	אַבֿרהם	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=avremen|Translit_Lemma=avrem
 24	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 25	דער	דער	DET	_	_	28	det	_	Translit=der|Translit_Lemma=der
 26	{	{	PUNCT	_	_	28	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-27	dn	_	X	_	_	28	dep	_	Translit=דן
+27	dn	_	X	_	_	28	dep	_	Translit=dn
 28	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 29	}	}	PUNCT	_	_	28	punct	_	Translit=}|Translit_Lemma=}
 30	פֿון	פֿון	ADP	_	_	31	case	_	Translit=fun|Translit_Lemma=fun
-31	יצחקן	יצחק	PROPN	_	_	28	nmod	_	SpaceAfter=No|Translit=yeytsakhkn|Translit_Lemma=yeytsekhak
+31	יצחקן	יצחק	PROPN	_	_	28	nmod	_	SpaceAfter=No|Translit=yitskhokn|Translit_Lemma=yitskhok
 32	,	,	PUNCT	_	_	37	punct	_	Translit=,|Translit_Lemma=,
 33	און	און	CCONJ	_	_	37	cc	_	Translit=un|Translit_Lemma=un
 34	דער	דער	DET	_	_	37	det	_	Translit=der|Translit_Lemma=der
 35	{	{	PUNCT	_	_	37	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-36	dn	_	X	_	_	37	dep	_	Translit=דן
+36	dn	_	X	_	_	37	dep	_	Translit=dn
 37	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 38	}	}	PUNCT	_	_	37	punct	_	Translit=}|Translit_Lemma=}
 39	פֿון	פֿון	ADP	_	_	40	case	_	Translit=fun|Translit_Lemma=fun
-40	יעקבֿן	יעקבֿן	PROPN	_	_	37	nmod	_	SpaceAfter=No|Translit=yakvn|Translit_Lemma=yakvn
+40	יעקבֿן	יעקבֿ	PROPN	_	_	37	nmod	_	SpaceAfter=No|Translit=yakovn|Translit_Lemma=yakov
 41	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bible_exodus_60
 # text = און משה האָט פֿאַרבאָרגן זײַן פּנים, װײַל ער האָט מוֹרא געהאַט צו קוקן אױף {dn גאָט}.
-# translit = un moshe hot farborgn zayn ponem, vayl er hot moyre gehat tsu kukn oyf {dn got}.
+# translit = un moyshe hot farborgn zayn ponem, vayl er hot moyre gehat tsu kukn oyf {dn got}.
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
-2	משה	משה	PROPN	_	_	4	nsubj	_	Translit=moshe|Translit_Lemma=moshe
+2	משה	משה	PROPN	_	_	4	nsubj	_	Translit=moyshe|Translit_Lemma=moyshe
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
-4	פֿאַרבאָרגן	פֿאַרבאַרגן	VERB	_	_	0	root	_	Translit=farborgn|Translit_Lemma=farbargn
+4	פֿאַרבאָרגן	פֿאַרבאָרגן	VERB	_	_	0	root	_	Translit=farborgn|Translit_Lemma=farborgn
 5	זײַן	זײַן	DET	_	_	6	det:poss	_	Translit=zayn|Translit_Lemma=zayn
 6	פּנים	פּנים	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=ponem|Translit_Lemma=ponem
 7	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
@@ -14727,30 +14727,30 @@
 11	מוֹרא	מוּרא	NOUN	_	_	12	compound:lvc	_	Translit=moyre|Translit_Lemma=moyre
 12	געהאַט	האָבן	VERB	_	_	4	advcl	_	Translit=gehat|Translit_Lemma=hobn
 13	צו	צו	PART	_	_	14	mark	_	Translit=tsu|Translit_Lemma=tsu
-14	קוקן	_	VERB	_	_	12	xcomp	_	Translit=kukn
+14	קוקן	קוקן	VERB	_	_	12	xcomp	_	Translit=kukn|Translit_Lemma=kukn
 15	אױף	אױף	ADP	_	_	18	case	_	Translit=oyf|Translit_Lemma=oyf
 16	{	{	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-17	dn	_	X	_	_	18	dep	_	Translit=דן
+17	dn	_	X	_	_	18	dep	_	Translit=dn
 18	גאָט	גאָט	PROPN	_	_	14	obl	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 19	}	}	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit=}|Translit_Lemma=}
 20	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bible_exodus_61
 # text = און {dn גאָט} האָט געזאָגט: זען געזען האָב איך די פּײַן פֿון מײַן פֿאָלק װאָס אין מִצרַיִם, און איך האָב צוגעהערט זײַן געשרײ פֿון װעגן זײַנע דריקער, װאָרום איך װײס זײַנע װײַטאָקן.
-# translit = un {dn got} hot gezogt: zen gezen hob ikh di payn fun mayn folk vos in mitsraim, un ikh hob tsugehert zayn geshrey fun vegn zayne driker, vorum ikh veys zayne vaytokn.
+# translit = un {dn got} hot gezogt: zen gezen hob ikh di payn fun mayn folk vos in mitsrayem, un ikh hob tsugehert zayn geshrey fun vegn zayne driker, vorum ikh veys zayne vaytokn.
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
 2	{	{	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-3	dn	_	X	_	_	4	dep	_	Translit=דן
+3	dn	_	X	_	_	4	dep	_	Translit=dn
 4	גאָט	גאָט	PROPN	_	_	7	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|Translit_Lemma=}
 6	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 7	געזאָגט	זאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 8	:	:	PUNCT	_	_	10	punct	_	Translit=:|Translit_Lemma=:
 9	זען	זען	VERB	_	_	10	advcl	_	Translit=zen|Translit_Lemma=zen
-10	געזען	געזען	ADV	_	_	7	ccomp	_	Translit=gezen|Translit_Lemma=gezen
+10	געזען	זען	VERB	_	_	7	ccomp	_	Translit=gezen|Translit_Lemma=zen
 11	האָב	האָבן	AUX	_	_	10	aux	_	Translit=hob|Translit_Lemma=hobn
 12	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 13	די	דער	DET	_	_	14	det	_	Translit=di|Translit_Lemma=der
@@ -14760,14 +14760,14 @@
 17	פֿאָלק	פֿאָלק	NOUN	_	_	14	nmod	_	Translit=folk|Translit_Lemma=folk
 18	װאָס	װאָס	SCONJ	_	_	20	mark	_	Translit=vos|Translit_Lemma=vos
 19	אין	אין	ADP	_	_	20	case	_	Translit=in|Translit_Lemma=in
-20	מִצרַיִם	מיצראַיִם	PROPN	_	_	17	acl:relcl	_	SpaceAfter=No|Translit=mitsraim|Translit_Lemma=mitsraim
+20	מִצרַיִם	מיצראַיִם	PROPN	_	_	17	acl:relcl	_	SpaceAfter=No|Translit=mitsrayem|Translit_Lemma=mitsrayem
 21	,	,	PUNCT	_	_	25	punct	_	Translit=,|Translit_Lemma=,
 22	און	און	CCONJ	_	_	25	cc	_	Translit=un|Translit_Lemma=un
 23	איך	איך	PRON	_	_	25	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 24	האָב	האָבן	AUX	_	_	25	aux	_	Translit=hob|Translit_Lemma=hobn
-25	צוגעהערט	צוגעהערן	VERB	_	_	10	conj	_	Translit=tsugehert|Translit_Lemma=tsugehern
+25	צוגעהערט	צוהערן	VERB	_	_	10	conj	_	Translit=tsugehert|Translit_Lemma=tsuhern
 26	זײַן	זײַן	DET	_	_	27	det:poss	_	Translit=zayn|Translit_Lemma=zayn
-27	געשרײ	געשרײַ	NOUN	_	_	25	obj	_	Translit=geshrey|Translit_Lemma=geshray
+27	געשרײ	געשרײ	NOUN	_	_	25	obj	_	Translit=geshrey|Translit_Lemma=geshrey
 28	פֿון	פֿון	ADP	_	_	31	case	_	Translit=fun|Translit_Lemma=fun
 29	װעגן	װעגן	ADP	_	_	31	case	_	Translit=vegn|Translit_Lemma=vegn
 30	זײַנע	זײַן	DET	_	_	31	det:poss	_	Translit=zayne|Translit_Lemma=zayn
@@ -14775,14 +14775,14 @@
 32	,	,	PUNCT	_	_	35	punct	_	Translit=,|Translit_Lemma=,
 33	װאָרום	װאָרום	SCONJ	_	_	35	mark	_	Translit=vorum|Translit_Lemma=vorum
 34	איך	איך	PRON	_	_	35	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-35	װײס	ווײַס	VERB	_	_	25	advcl	_	Translit=veys|Translit_Lemma=vays
+35	װײס	װיסן	VERB	_	_	25	advcl	_	Translit=veys|Translit_Lemma=visn
 36	זײַנע	זײַן	DET	_	_	37	det:poss	_	Translit=zayne|Translit_Lemma=zayn
 37	װײַטאָקן	ווײַטאָק	NOUN	_	_	35	obj	_	SpaceAfter=No|Translit=vaytokn|Translit_Lemma=vaytok
 38	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bible_exodus_62
 # text = און איך האָב אַראָפּגענידערט אים מציל צו זײַן פֿון דער האַנט פֿון מִצרַיִם, און אים אױפֿצוברענגען פֿון יענעם לאַנד אין אַ גוטן און אַ ברײטן לאַנד, אין אַ לאַנד װאָס פליסט מיט מילך און האָניק, אין דעם אָרט פֿון דעם כּנַעֲני, און דעם חִתּי, און דעם אֶמוֹרי, און דעם פּרִזי, און דעם חִוִי, און דעם יבֿוסי.
-# translit = un ikh hob aropgenidert im matsl tsu zayn fun der hant fun mitsraim, un im oyftsubrengen fun yenem land in a gutn un a breytn land, in a land vos flist mit milkh un honik, in dem ort fun dem knaeyni, un dem khite, un dem emuri, un dem prizi, un dem khiui, un dem yevusi.
+# translit = un ikh hob aropgenidert im matsil tsu zayn fun der hant fun mitsrayem, un im oyftsubrengen fun yenem land in a gutn un a breytn land, in a land vos flist mit milkh un honik, in dem ort fun dem knaeyni, un dem khite, un dem emuri, un dem prizi, un dem khiui, un dem yevusi.
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
@@ -14791,27 +14791,27 @@
 3	האָב	האָבן	AUX	_	_	4	aux	_	Translit=hob|Translit_Lemma=hobn
 4	אַראָפּגענידערט	אַראָפּנידערן	VERB	_	_	0	root	_	Translit=aropgenidert|Translit_Lemma=aropnidern
 5	אים	עס	PRON	_	_	8	obj	_	Translit=im|Translit_Lemma=es
-6	מציל	מציל	ADJ	_	_	8	compound:lvc	_	Translit=matsl|Translit_Lemma=matsl
+6	מציל	מציל	ADJ	_	_	8	compound:lvc	_	Translit=matsil|Translit_Lemma=matsil
 7	צו	צו	PART	_	_	8	mark	_	Translit=tsu|Translit_Lemma=tsu
 8	זײַן	זײַן	VERB	_	_	4	advcl	_	Translit=zayn|Translit_Lemma=zayn
 9	פֿון	פֿון	ADP	_	_	11	case	_	Translit=fun|Translit_Lemma=fun
 10	דער	דער	DET	_	_	11	det	_	Translit=der|Translit_Lemma=der
 11	האַנט	האַנט	NOUN	_	_	8	obl	_	Translit=hant|Translit_Lemma=hant
 12	פֿון	פֿון	ADP	_	_	13	case	_	Translit=fun|Translit_Lemma=fun
-13	מִצרַיִם	מיצראַיִם	PROPN	_	_	11	nmod	_	SpaceAfter=No|Translit=mitsraim|Translit_Lemma=mitsraim
+13	מִצרַיִם	מיצראַיִם	PROPN	_	_	11	nmod	_	SpaceAfter=No|Translit=mitsrayem|Translit_Lemma=mitsrayem
 14	,	,	PUNCT	_	_	17	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	17	cc	_	Translit=un|Translit_Lemma=un
 16	אים	עס	PRON	_	_	17	obj	_	Translit=im|Translit_Lemma=es
-17	אױפֿצוברענגען	אױפֿצוברענג	VERB	_	_	8	conj	_	Translit=oyftsubrengen|Translit_Lemma=oyftsubreng
+17	אױפֿצוברענגען	אױפֿברענגען	VERB	_	_	8	conj	_	Translit=oyftsubrengen|Translit_Lemma=oyfbrengen
 18	פֿון	פֿון	ADP	_	_	20	case	_	Translit=fun|Translit_Lemma=fun
-19	יענעם	_	DET	_	_	20	det	_	Translit=yenem
+19	יענעם	יענער	DET	_	_	20	det	_	Translit=yenem|Translit_Lemma=yener
 20	לאַנד	לאַנד	NOUN	_	_	17	obl	_	Translit=land|Translit_Lemma=land
 21	אין	אין	ADP	_	_	27	case	_	Translit=in|Translit_Lemma=in
 22	אַ	אַ	DET	_	_	27	det	_	Translit=a|Translit_Lemma=a
 23	גוטן	גוט	ADJ	_	_	27	amod	_	Translit=gutn|Translit_Lemma=gut
 24	און	און	CCONJ	_	_	26	cc	_	Translit=un|Translit_Lemma=un
 25	אַ	אַ	DET	_	_	26	det	_	Translit=a|Translit_Lemma=a
-26	ברײטן	ברײַט	ADJ	_	_	23	conj	_	Translit=breytn|Translit_Lemma=brayt
+26	ברײטן	ברײט	ADJ	_	_	23	conj	_	Translit=breytn|Translit_Lemma=breyt
 27	לאַנד	לאַנד	NOUN	_	_	17	obl	_	SpaceAfter=No|Translit=land|Translit_Lemma=land
 28	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 29	אין	אין	ADP	_	_	31	case	_	Translit=in|Translit_Lemma=in
@@ -14820,7 +14820,7 @@
 32	װאָס	װאָס	SCONJ	_	_	33	mark	_	Translit=vos|Translit_Lemma=vos
 33	פליסט	פֿליסן	VERB	_	_	31	acl:relcl	_	Translit=flist|Translit_Lemma=flisn
 34	מיט	מיט	ADP	_	_	35	case	_	Translit=mit|Translit_Lemma=mit
-35	מילך	מילכן	NOUN	_	_	33	obl	_	Translit=milkh|Translit_Lemma=milkhn
+35	מילך	מילך	NOUN	_	_	33	obl	_	Translit=milkh|Translit_Lemma=milkh
 36	און	און	CCONJ	_	_	37	cc	_	Translit=un|Translit_Lemma=un
 37	האָניק	האָניק	NOUN	_	_	35	conj	_	SpaceAfter=No|Translit=honik|Translit_Lemma=honik
 38	,	,	PUNCT	_	_	41	punct	_	Translit=,|Translit_Lemma=,
@@ -14829,7 +14829,7 @@
 41	אָרט	אָרט	NOUN	_	_	31	appos	_	Translit=ort|Translit_Lemma=ort
 42	פֿון	פֿון	ADP	_	_	44	case	_	Translit=fun|Translit_Lemma=fun
 43	דעם	דער	DET	_	_	44	det	_	Translit=dem|Translit_Lemma=der
-44	כּנַעֲני	כּנאַעײַני	NOUN	_	_	41	nmod	_	SpaceAfter=No|Translit=knaeyni|Translit_Lemma=knaayni
+44	כּנַעֲני	כּנַעֲני	NOUN	_	_	41	nmod	_	SpaceAfter=No|Translit=knaeyni|Translit_Lemma=knaeyni
 45	,	,	PUNCT	_	_	48	punct	_	Translit=,|Translit_Lemma=,
 46	און	און	CCONJ	_	_	48	cc	_	Translit=un|Translit_Lemma=un
 47	דעם	דער	DET	_	_	48	det	_	Translit=dem|Translit_Lemma=der
@@ -14837,7 +14837,7 @@
 49	,	,	PUNCT	_	_	52	punct	_	Translit=,|Translit_Lemma=,
 50	און	און	CCONJ	_	_	52	cc	_	Translit=un|Translit_Lemma=un
 51	דעם	דער	DET	_	_	52	det	_	Translit=dem|Translit_Lemma=der
-52	אֶמוֹרי	אָמוּרי	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=emuri|Translit_Lemma=omuri
+52	אֶמוֹרי	אֶמוֹרי	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=emuri|Translit_Lemma=emuri
 53	,	,	PUNCT	_	_	56	punct	_	Translit=,|Translit_Lemma=,
 54	און	און	CCONJ	_	_	56	cc	_	Translit=un|Translit_Lemma=un
 55	דעם	דער	DET	_	_	56	det	_	Translit=dem|Translit_Lemma=der
@@ -14845,11 +14845,11 @@
 57	,	,	PUNCT	_	_	60	punct	_	Translit=,|Translit_Lemma=,
 58	און	און	CCONJ	_	_	60	cc	_	Translit=un|Translit_Lemma=un
 59	דעם	דער	DET	_	_	60	det	_	Translit=dem|Translit_Lemma=der
-60	חִוִי	חיוִי	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=khiui|Translit_Lemma=khayui
+60	חִוִי	חִוִי	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=khiui|Translit_Lemma=khiui
 61	,	,	PUNCT	_	_	64	punct	_	Translit=,|Translit_Lemma=,
 62	און	און	CCONJ	_	_	64	cc	_	Translit=un|Translit_Lemma=un
 63	דעם	דער	DET	_	_	64	det	_	Translit=dem|Translit_Lemma=der
-64	יבֿוסי	יבֿוס	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=yevusi|Translit_Lemma=yoves
+64	יבֿוסי	יבֿוסי	NOUN	_	_	44	conj	_	SpaceAfter=No|Translit=yevusi|Translit_Lemma=yevusi
 65	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bible_exodus_63
@@ -14864,7 +14864,7 @@
 4	זע	זען	VERB	_	_	14	discourse	_	SpaceAfter=No|Translit=ze|Translit_Lemma=zen
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
 6	דאָס	דער	DET	_	_	7	det	_	Translit=dos|Translit_Lemma=der
-7	געשרײ	געשרײַ	NOUN	_	_	14	nsubj	_	Translit=geshrey|Translit_Lemma=geshray
+7	געשרײ	געשרײ	NOUN	_	_	14	nsubj	_	Translit=geshrey|Translit_Lemma=geshrey
 8	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
 9	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
 10	קינדער	קינד	NOUN	_	_	7	nmod	_	Translit=kinder|Translit_Lemma=kind
@@ -14873,7 +14873,7 @@
 13	איז	זײַן	AUX	_	_	14	aux	_	Translit=iz|Translit_Lemma=zayn
 14	געקומען	קומען	VERB	_	_	0	root	_	Translit=gekumen|Translit_Lemma=kumen
 15	צו	צו	ADP	_	_	16	case	_	Translit=tsu|Translit_Lemma=tsu
-16	מיר	מיר	PRON	_	_	14	obl	_	SpaceAfter=No|Translit=mir|Translit_Lemma=mir
+16	מיר	איך	PRON	_	_	14	obl	_	SpaceAfter=No|Translit=mir|Translit_Lemma=ikh
 17	,	,	PUNCT	_	_	22	punct	_	Translit=,|Translit_Lemma=,
 18	און	און	CCONJ	_	_	22	cc	_	Translit=un|Translit_Lemma=un
 19	איך	איך	PRON	_	_	22	nsubj	_	Translit=ikh|Translit_Lemma=ikh
