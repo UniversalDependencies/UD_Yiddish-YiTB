@@ -26799,18 +26799,18 @@
 2	געשטאַלט	געשטאַלט	NOUN	_	_	12	nsubj	_	Translit=geshtalt|Translit_Lemma=geshtalt
 3	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
 4	גרויסן	גרויס	ADJ	_	_	5	amod	_	Translit=groysn|Translit_Lemma=groys
-5	מוזיקער	מוזיק	NOUN	_	_	2	nmod	_	Translit=muziker|Translit_Lemma=muzik
+5	מוזיקער	מוזיקער	NOUN	_	_	2	nmod	_	Translit=muziker|Translit_Lemma=muziker
 6-7	בײַם	_	_	_	_	_	_	_	Translit=baym
 6	בײַ	בײַ	ADP	_	_	8	case	_	Translit=bay|Translit_Lemma=bay
 7	דעם	דער	DET	_	_	8	det	_	Translit=dem|Translit_Lemma=der
-8	קלאַװיר	קלאַווירן	NOUN	_	_	5	nmod	_	Translit=klavir|Translit_Lemma=klavirn
+8	קלאַװיר	קלאַװיר	NOUN	_	_	5	nmod	_	Translit=klavir|Translit_Lemma=klavir
 9	האָט	האָבן	AUX	_	_	12	aux	_	Translit=hot|Translit_Lemma=hobn
 10	זיך	זיך	PRON	_	_	12	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 11	שאַרף	שאַרף	ADJ	_	_	12	advmod	_	Translit=sharf|Translit_Lemma=sharf
 12	אויסגעטיילט	אויסטיילן	VERB	_	_	0	root	_	Translit=oysgeteylt|Translit_Lemma=oysteyln
 13	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
 14	פֿינצטערן	פֿינצטער	ADJ	_	_	15	amod	_	Translit=fintstern|Translit_Lemma=fintster
-15	װינקל	ווינקלען	NOUN	_	_	12	obl	_	SpaceAfter=No|Translit=vinkl|Translit_Lemma=vinklen
+15	װינקל	װינקל	NOUN	_	_	12	obl	_	SpaceAfter=No|Translit=vinkl|Translit_Lemma=vinkl
 16	.	.	PUNCT	_	_	12	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = beethoven_56
@@ -26830,13 +26830,13 @@
 8	ברוסט	ברוסט	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=brust|Translit_Lemma=brust
 9	,	,	PUNCT	_	_	14	punct	_	Translit=,|Translit_Lemma=,
 10	די	דער	DET	_	_	11	det	_	Translit=di|Translit_Lemma=der
-11	הענט	האַננט	NOUN	_	_	14	nsubj	_	Translit=hent|Translit_Lemma=hannt
+11	הענט	האַנט	NOUN	_	_	14	nsubj	_	Translit=hent|Translit_Lemma=hant
 12	זײַנען	זײַן	AUX	_	_	14	aux	_	Translit=zaynen|Translit_Lemma=zayn
-13	אומבאַװעגלעך	אומבאַוועגל	ADJ	_	_	14	advmod	_	Translit=umbaveglekh|Translit_Lemma=umbavegl
-14	געלעגן	געלעג	VERB	_	_	5	parataxis	_	Translit=gelegn|Translit_Lemma=geleg
+13	אומבאַװעגלעך	אומבאַװעגלעך	ADJ	_	_	14	advmod	_	Translit=umbaveglekh|Translit_Lemma=umbaveglekh
+14	געלעגן	ליגן	VERB	_	_	5	parataxis	_	Translit=gelegn|Translit_Lemma=lign
 15	אויף	אויף	ADP	_	_	17	case	_	Translit=oyf|Translit_Lemma=oyf
 16	די	דער	DET	_	_	17	det	_	Translit=di|Translit_Lemma=der
-17	קני	קניִען	NOUN	_	_	14	obl	_	SpaceAfter=No|Translit=kni|Translit_Lemma=knien
+17	קני	קני	NOUN	_	_	14	obl	_	SpaceAfter=No|Translit=kni|Translit_Lemma=kni
 18	…	…	PUNCT	_	_	5	punct	_	Translit=…|Translit_Lemma=…
 
 # sent_id = beethoven_57
@@ -26851,7 +26851,7 @@
 4	פֿאַרזונקען	פֿאַרזינקען	ADJ	_	_	0	root	_	Translit=farzunken|Translit_Lemma=farzinken
 5	אין	אין	ADP	_	_	7	case	_	Translit=in|Translit_Lemma=in
 6	טיפֿע	טיף	ADJ	_	_	7	amod	_	Translit=tife|Translit_Lemma=tif
-7	מחשבֿות	מחשבֿה	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=makhshoves|Translit_Lemma=makhsheyve
+7	מחשבֿות	מחשבֿה	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=makhshoves|Translit_Lemma=makhshove
 8	…	…	PUNCT	_	_	4	punct	_	Translit=…|Translit_Lemma=…
 
 # sent_id = beethoven_58
@@ -26863,7 +26863,7 @@
 1	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
 2	זײַנען	זײַן	AUX	_	_	3	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	אַריבער	אַריבער	ADV	_	_	0	root	_	Translit=ariber|Translit_Lemma=ariber
-4	עטלעכע	_	DET	_	_	5	det	_	Translit=etlekhe
+4	עטלעכע	עטלעך	DET	_	_	5	det	_	Translit=etlekhe|Translit_Lemma=etlekh
 5	מינוט	מינוט	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=minut|Translit_Lemma=minut
 6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -26892,7 +26892,7 @@
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
-2	װוּנדערבאַר	_	INTJ	_	_	10	ccomp	_	SpaceAfter=No|Translit=vunderbar
+2	װוּנדערבאַר	װוּנדערבאַר	INTJ	_	_	10	ccomp	_	SpaceAfter=No|Translit=vunderbar|Translit_Lemma=vunderbar
 3	!	!	PUNCT	_	_	2	punct	_	Translit=!|Translit_Lemma=!
 4	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 5	האָט	האָבן	AUX	_	_	10	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -26931,7 +26931,7 @@
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
-2	הערט	האַררט	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=hert|Translit_Lemma=harrt
+2	הערט	הערן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=hert|Translit_Lemma=hern
 3	…	…	PUNCT	_	_	2	punct	_	Translit=…|Translit_Lemma=…
 4	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 5	האָט	האָבן	AUX	_	_	11	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -26943,7 +26943,7 @@
 11	געזאָגט	זאָגן	VERB	_	_	0	root	_	Translit=gezogt|Translit_Lemma=zogn
 12	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
 13	גענומען	נעמען	VERB	_	_	11	conj	_	Translit=genumen|Translit_Lemma=nemen
-14	שפּילן	שפּיל	VERB	_	_	13	xcomp	_	Translit=shpiln|Translit_Lemma=shpil
+14	שפּילן	שפּילן	VERB	_	_	13	xcomp	_	Translit=shpiln|Translit_Lemma=shpiln
 15	זײַן	זײַן	DET	_	_	16	det:poss	_	Translit=zayn|Translit_Lemma=zayn
 16	סאָנאַטע	סאָנאַטע	NOUN	_	_	14	obj	_	SpaceAfter=No|Translit=sonate|Translit_Lemma=sonate
 17	,	,	PUNCT	_	_	19	punct	_	Translit=,|Translit_Lemma=,
@@ -26954,10 +26954,10 @@
 21	עס	עס	PRON	_	_	25	expl	_	Translit=es|Translit_Lemma=es
 22	האָט	האָבן	AUX	_	_	25	aux	_	Translit=hot|Translit_Lemma=hobn
 23	פֿאַר	פֿאַר	ADP	_	_	24	case	_	Translit=far|Translit_Lemma=far
-24	אים	עס	PRON	_	_	25	obl	_	Translit=im|Translit_Lemma=es
+24	אים	ער	PRON	_	_	25	obl	_	Translit=im|Translit_Lemma=er
 25	געשפּילט	שפּילן	VERB	_	_	19	acl:relcl	_	Translit=geshpilt|Translit_Lemma=shpiln
 26	דאָס	דער	DET	_	_	28	det	_	Translit=dos|Translit_Lemma=der
-27	בלאָנדע	בלאָנדע	ADJ	_	_	28	amod	_	Translit=blonde|Translit_Lemma=blonde
+27	בלאָנדע	בלאָנד	ADJ	_	_	28	amod	_	Translit=blonde|Translit_Lemma=blond
 28	מיידל	מויד	NOUN	_	_	25	nsubj	_	SpaceAfter=No|Translit=meydl|Translit_Lemma=moyd
 29	…	…	PUNCT	_	_	11	punct	_	Translit=…|Translit_Lemma=…
 
@@ -26968,9 +26968,9 @@
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
-2	געשרײ	געשרײַ	NOUN	_	_	9	nsubj	_	Translit=geshrey|Translit_Lemma=geshray
+2	געשרײ	געשרײ	NOUN	_	_	9	nsubj	_	Translit=geshrey|Translit_Lemma=geshrey
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
-4	התפּעלות	התפּעלה	NOUN	_	_	2	nmod	_	Translit=hispayles|Translit_Lemma=hispayle
+4	התפּעלות	התפּעלות	NOUN	_	_	2	nmod	_	Translit=hespayles|Translit_Lemma=hespayles
 5	האָט	האָבן	AUX	_	_	9	aux	_	Translit=hot|Translit_Lemma=hobn
 6	זיך	זיך	PRON	_	_	9	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 7	בײַ	בײַ	ADP	_	_	8	case	_	Translit=bay|Translit_Lemma=bay
@@ -26996,7 +26996,7 @@
 6	האָבן	האָבן	AUX	_	_	10	aux	_	Translit=hobn|Translit_Lemma=hobn
 7	זיך	זיך	PRON	_	_	10	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
-9	װאָרף	וואָרף	VERB	_	_	10	compound:lvc	_	Translit=vorf|Translit_Lemma=vorf
+9	װאָרף	װאַרפֿן	VERB	_	_	10	compound:lvc	_	Translit=vorf|Translit_Lemma=varfn
 10	געטאָן	טאָן	VERB	_	_	0	root	_	Translit=geton|Translit_Lemma=ton
 11	צו	צו	ADP	_	_	12	case	_	Translit=tsu|Translit_Lemma=tsu
 12	בעטהאָװענען	בעטהאָװען	PROPN	_	_	10	obl	_	SpaceAfter=No|Translit=bethovenen|Translit_Lemma=bethoven
@@ -27005,7 +27005,7 @@
 15	צוגעפֿאַלן	צופֿאַלן	VERB	_	_	10	conj	_	Translit=tsugefaln|Translit_Lemma=tsufaln
 16	צו	צו	ADP	_	_	18	case	_	Translit=tsu|Translit_Lemma=tsu
 17	זײַנע	זײַן	DET	_	_	18	det:poss	_	Translit=zayne|Translit_Lemma=zayn
-18	הענט	האַננט	NOUN	_	_	15	obl	_	SpaceAfter=No|Translit=hent|Translit_Lemma=hannt
+18	הענט	האַנט	NOUN	_	_	15	obl	_	SpaceAfter=No|Translit=hent|Translit_Lemma=hant
 19	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
 20	באַדעקט	באַדעקן	VERB	_	_	15	conj	_	Translit=badekt|Translit_Lemma=badekn
 21	זיי	זיי	PRON	_	_	20	obj	_	Translit=zey|Translit_Lemma=zey
