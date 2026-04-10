@@ -27366,9 +27366,9 @@
 # source = Bankrupt
 # genre = fiction
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-2	װײס	ווײַס	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=vays
+2	װײס	וויסן	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=visn
 3	אַזױ	אַזױ	ADV	_	_	4	advmod	_	Translit=azoy|Translit_Lemma=azoy
-4	פֿיל	_	DET	_	_	2	obj	_	Translit=fil
+4	פֿיל	פֿיל	DET	_	_	2	obj	_	Translit=fil|Translit_Lemma=fil
 5	װי	װי	SCONJ	_	_	6	mark	_	Translit=vi|Translit_Lemma=vi
 6	דו	דו	PRON	_	_	4	obl	_	SpaceAfter=No|Translit=du|Translit_Lemma=du
 7	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -27387,7 +27387,7 @@
 6	גוט	גוט	ADJ	_	_	4	advmod	_	Translit=gut|Translit_Lemma=gut
 7	אָן	אָן	ADV	_	_	4	compound:prt	_	Translit=on|Translit_Lemma=on
 8	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
-9	גײט	גײַט	VERB	_	_	1	conj	_	Translit=geyt|Translit_Lemma=gayt
+9	גײט	גײן	VERB	_	_	1	conj	_	Translit=geyt|Translit_Lemma=geyn
 10	װײַטער	װײַטער	ADV	_	_	9	compound:prt	_	SpaceAfter=No|Translit=vayter|Translit_Lemma=vayter
 11	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
 
@@ -27402,8 +27402,8 @@
 3	האָב	האָבן	AUX	_	_	10	aux	_	Translit=hob|Translit_Lemma=hobn
 4	איך	איך	PRON	_	_	10	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 5	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
-6	אים	עס	PRON	_	_	10	obl	_	Translit=im|Translit_Lemma=es
-7	קײן	_	DET	_	_	8	det	_	Translit=keyn
+6	אים	ער	PRON	_	_	10	obl	_	Translit=im|Translit_Lemma=er
+7	קײן	קײן	DET	_	_	8	det	_	Translit=keyn|Translit_Lemma=keyn
 8	פּעני	פּעני	NOUN	_	_	10	obj	_	Translit=peni|Translit_Lemma=peni
 9	נישט	נישט	PART	_	_	10	advmod	_	Translit=nisht|Translit_Lemma=nisht
 10	געזען	זען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezen|Translit_Lemma=zen
@@ -27415,14 +27415,14 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-1	גײט	גײַט	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=gayt
+1	גײט	גײן	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=geyn
 2	אױף	אױף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
-3	אַלע	_	DET	_	_	4	det	_	Translit=ale
+3	אַלע	אַלע	DET	_	_	4	det	_	Translit=ale|Translit_Lemma=ale
 4	מיטינגס	מיטינג	NOUN	_	_	1	obl	_	SpaceAfter=No|Translit=mitings|Translit_Lemma=miting
 5	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
 6	קױפֿט	קויפֿן	VERB	_	_	1	conj	_	Translit=koyft|Translit_Lemma=koyfn
 7	אפֿשר	אפֿשר	ADV	_	_	6	advmod	_	Translit=efsher|Translit_Lemma=efsher
-8	צען	_	NUM	_	_	9	nummod	_	Translit=tsen
+8	צען	צען	NUM	_	_	9	nummod	_	Translit=tsen|Translit_Lemma=tsen
 9	פּײפּערס	פּײפּער	NOUN	_	_	6	obj	_	Translit=peypers|Translit_Lemma=peyper
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
 11	טאָג	טאָג	NOUN	_	_	6	obl	_	Translit=tog|Translit_Lemma=tog
@@ -27438,7 +27438,7 @@
 21	;	;	PUNCT	_	_	22	punct	_	Translit=;|Translit_Lemma=;
 22	האַלט	האַלטן	VERB	_	_	1	parataxis	_	Translit=halt|Translit_Lemma=haltn
 23	אין	אין	ADP	_	_	22	fixed	_	Translit=in|Translit_Lemma=in
-24	אײן	_	NUM	_	_	22	fixed	_	Translit=eyn
+24	אײן	אײן	NUM	_	_	22	fixed	_	Translit=eyn|Translit_Lemma=eyn
 25	פֿרעגן	פֿרעגן	VERB	_	_	22	xcomp	_	SpaceAfter=No|Translit=fregn|Translit_Lemma=fregn
 26	,	,	PUNCT	_	_	29	punct	_	Translit=,|Translit_Lemma=,
 27	פֿאַר	פֿאַר	ADP	_	_	28	case	_	Translit=far|Translit_Lemma=far
@@ -27446,7 +27446,7 @@
 29	לאָזט	לאָזן	VERB	_	_	25	ccomp	_	Translit=lozt|Translit_Lemma=lozn
 30	מען	מען	PRON	_	_	29	nsubj	_	Translit=men|Translit_Lemma=men
 31	זײ	זײ	PRON	_	_	29	obj	_	Translit=zey|Translit_Lemma=zey
-32	אונטערגײן	אונטערגײַנען	VERB	_	_	29	xcomp	_	SpaceAfter=No|Translit=untergeyn|Translit_Lemma=untergaynen
+32	אונטערגײן	אונטערגײן	VERB	_	_	29	xcomp	_	SpaceAfter=No|Translit=untergeyn|Translit_Lemma=untergeyn
 33	,	,	PUNCT	_	_	36	punct	_	Translit=,|Translit_Lemma=,
 34	פֿאַר	פֿאַר	ADP	_	_	35	case	_	Translit=far|Translit_Lemma=far
 35	װאָס	װאָס	PRON	_	_	36	obl	_	Translit=vos|Translit_Lemma=vos
@@ -27459,7 +27459,7 @@
 
 # sent_id = bankrupt_6
 # text = זע נאָר, עס איז שױן שפּעט און אסתּר איז נאָך נישטאָ צו דינער.
-# translit = ze nor, es iz shoyn shpet un ister iz nokh nishto tsu diner.
+# translit = ze nor, es iz shoyn shpet un ester iz nokh nishto tsu diner.
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
@@ -27471,14 +27471,14 @@
 6	שױן	שױן	ADV	_	_	7	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 7	שפּעט	שפּעט	ADJ	_	_	0	root	_	Translit=shpet|Translit_Lemma=shpet
 8	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
-9	אסתּר	אסתּר	PROPN	_	_	13	nsubj	_	Translit=ister|Translit_Lemma=ister
+9	אסתּר	אסתּר	PROPN	_	_	13	nsubj	_	Translit=ester|Translit_Lemma=ester
 10	איז	זײַן	AUX	_	_	13	cop	_	Translit=iz|Translit_Lemma=zayn
 11	נאָך	נאָך	ADV	_	_	13	advmod	_	Translit=nokh|Translit_Lemma=nokh
 12-13	נישטאָ	_	_	_	_	_	_	_	Translit=nishto
 12	נישט	נישט	PART	_	_	13	advmod	_	Translit=nisht|Translit_Lemma=nisht
 13	דאָ	דאָ	ADV	_	_	7	conj	_	Translit=do|Translit_Lemma=do
 14	צו	צו	ADP	_	_	15	case	_	Translit=tsu|Translit_Lemma=tsu
-15	דינער	דין	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=diner|Translit_Lemma=din
+15	דינער	דינער	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=diner|Translit_Lemma=diner
 16	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bankrupt_7
@@ -27499,7 +27499,7 @@
 10	איז	זײַן	AUX	_	_	13	cop	_	Translit=iz|Translit_Lemma=zayn
 11	דאָך	דאָך	ADV	_	_	13	advmod	_	Translit=dokh|Translit_Lemma=dokh
 12	די	דער	DET	_	_	13	det	_	Translit=di|Translit_Lemma=der
-13	אײנציקע	אײַנציק	ADJ	_	_	5	parataxis	_	Translit=eyntsike|Translit_Lemma=ayntsik
+13	אײנציקע	אײנציק	ADJ	_	_	5	parataxis	_	Translit=eyntsike|Translit_Lemma=eyntsik
 14	װאָס	װאָס	SCONJ	_	_	15	mark	_	Translit=vos|Translit_Lemma=vos
 15	האַלט	האַלטן	VERB	_	_	13	acl:relcl	_	Translit=halt|Translit_Lemma=haltn
 16	אױף	אױף	ADP	_	_	15	compound:prt	_	Translit=oyf|Translit_Lemma=oyf
@@ -27519,7 +27519,7 @@
 4	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
 6	טאַטן	טאַטן	NOUN	_	_	7	obl	_	Translit=tatn|Translit_Lemma=tatn
-7	געראָטן	רעטן	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=gerotn|Translit_Lemma=retn
+7	געראָטן	ראַטן	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=gerotn|Translit_Lemma=ratn
 8	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bankrupt_9
@@ -27534,8 +27534,8 @@
 4	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 5	האָט	האָבן	VERB	_	_	3	conj	_	Translit=hot|Translit_Lemma=hobn
 6	נעבעך	נעבעך	ADV	_	_	5	advmod	_	Translit=nebekh|Translit_Lemma=nebekh
-7	קײן	_	DET	_	_	8	det	_	Translit=keyn
-8	מזל	מזלן	NOUN	_	_	5	obj	_	Translit=mazl|Translit_Lemma=mazlen
+7	קײן	קײן	DET	_	_	8	det	_	Translit=keyn|Translit_Lemma=keyn
+8	מזל	מזל	NOUN	_	_	5	obj	_	Translit=mazl|Translit_Lemma=mazl
 9	נישט	נישט	PART	_	_	5	advmod	_	SpaceAfter=No|Translit=nisht|Translit_Lemma=nisht
 10	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -27546,10 +27546,10 @@
 # source = Bankrupt
 # genre = fiction
 1	אַן	אַ	DET	_	_	3	det	_	Translit=an|Translit_Lemma=a
-2	אַנדער	_	DET	_	_	3	det	_	Translit=ander
+2	אַנדער	אַנדער	DET	_	_	3	det	_	Translit=ander|Translit_Lemma=ander
 3	מײדל	מויד	NOUN	_	_	11	nsubj	_	Translit=meydl|Translit_Lemma=moyd
 4	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
-5	אירע	אירע	DET	_	_	6	det:poss	_	Translit=ire|Translit_Lemma=ire
+5	אירע	איר	DET	_	_	6	det:poss	_	Translit=ire|Translit_Lemma=ir
 6	יאָרן	יאָר	NOUN	_	_	3	nmod	_	Translit=yorn|Translit_Lemma=yor
 7	האָט	האָבן	AUX	_	_	11	aux	_	Translit=hot|Translit_Lemma=hobn
 8	שױן	שױן	ADV	_	_	11	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -27566,7 +27566,7 @@
 # genre = fiction
 1	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
-3	אירע	אירע	DET	_	_	4	det:poss	_	Translit=ire|Translit_Lemma=ire
+3	אירע	איר	DET	_	_	4	det:poss	_	Translit=ire|Translit_Lemma=ir
 4	יאָרן	יאָר	NOUN	_	_	1	nmod	_	Translit=yorn|Translit_Lemma=yor
 5	בין	זײַן	AUX	_	_	9	aux	_	Translit=bin|Translit_Lemma=zayn
 6	שױן	שױן	ADV	_	_	9	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -27576,7 +27576,7 @@
 10	און	און	CCONJ	_	_	13	cc	_	Translit=un|Translit_Lemma=un
 11	בײַ	בײַ	ADP	_	_	12	case	_	Translit=bay|Translit_Lemma=bay
 12	איר	איר	PRON	_	_	13	obl	_	Translit=ir|Translit_Lemma=ir
-13	הײבט	הײַבן	VERB	_	_	9	conj	_	Translit=heybt|Translit_Lemma=haybn
+13	הײבט	הײבן	VERB	_	_	9	conj	_	Translit=heybt|Translit_Lemma=heybn
 14	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 15	נאָך	נאָך	ADV	_	_	13	advmod	_	Translit=nokh|Translit_Lemma=nokh
 16	גאָרנישט	גאָרנישט	PRON	_	_	13	nsubj	_	Translit=gornisht|Translit_Lemma=gornisht
@@ -27598,7 +27598,7 @@
 7	גוטע	גוט	ADJ	_	_	4	conj	_	Translit=gute|Translit_Lemma=gut
 8	און	און	CCONJ	_	_	11	cc	_	Translit=un|Translit_Lemma=un
 9	נישט	נישט	PART	_	_	11	advmod	_	Translit=nisht|Translit_Lemma=nisht
-10	קײן	_	DET	_	_	11	det	_	Translit=keyn
+10	קײן	קײן	DET	_	_	11	det	_	Translit=keyn|Translit_Lemma=keyn
 11	מיאוסע	מיאוס	ADJ	_	_	4	conj	_	SpaceAfter=No|Translit=miese|Translit_Lemma=mies
 12	,	,	PUNCT	_	_	15	punct	_	Translit=,|Translit_Lemma=,
 13	און	און	CCONJ	_	_	15	cc	_	Translit=un|Translit_Lemma=un
@@ -27609,7 +27609,7 @@
 18	נישט	נישט	PART	_	_	15	advmod	_	Translit=nisht|Translit_Lemma=nisht
 19	אום	אום	ADP	_	_	15	compound:prt	_	Translit=um|Translit_Lemma=um
 20	אױף	אױף	ADP	_	_	21	case	_	Translit=oyf|Translit_Lemma=oyf
-21	איר	איר	PRON	_	_	15	obl	_	SpaceAfter=No|Translit=ir|Translit_Lemma=ir
+21	איר	זי	PRON	_	_	15	obl	_	SpaceAfter=No|Translit=ir|Translit_Lemma=zi
 22	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bankrupt_13
@@ -27618,15 +27618,15 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-1	װײ	ווײַן	NOUN	_	_	0	root	_	Translit=vey|Translit_Lemma=vayn
+1	װײ	װײ	NOUN	_	_	0	root	_	Translit=vey|Translit_Lemma=vey
 2	איז	זײַן	AUX	_	_	1	cop	_	Translit=iz|Translit_Lemma=zayn
 3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
-4	מאַמען	מאַם	NOUN	_	_	1	obl:arg	_	SpaceAfter=No|Translit=mamen|Translit_Lemma=mam
+4	מאַמען	מאַמע	NOUN	_	_	1	obl:arg	_	SpaceAfter=No|Translit=mamen|Translit_Lemma=mame
 5	!	!	PUNCT	_	_	4	punct	_	Translit=!|Translit_Lemma=!
 
 # sent_id = bankrupt_14
 # text = זאָג מיר, איך בעט דיך, װי אַלט איז אונדזער אסתּר?
-# translit = zog mir, ikh bet dikh, vi alt iz undzer ister?
+# translit = zog mir, ikh bet dikh, vi alt iz undzer ester?
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
@@ -27634,19 +27634,19 @@
 2	מיר	מיר	PRON	_	_	1	obl:arg	_	SpaceAfter=No|Translit=mir|Translit_Lemma=mir
 3	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 4	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-5	בעט	בעט	VERB	_	_	1	parataxis	_	Translit=bet|Translit_Lemma=bet
+5	בעט	בעטן	VERB	_	_	1	parataxis	_	Translit=bet|Translit_Lemma=betn
 6	דיך	דו	PRON	_	_	5	obj	_	SpaceAfter=No|Translit=dikh|Translit_Lemma=du
 7	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 8	װי	װי	ADV	_	_	9	advmod	_	Translit=vi|Translit_Lemma=vi
 9	אַלט	אַלט	ADJ	_	_	1	ccomp	_	Translit=alt|Translit_Lemma=alt
 10	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
 11	אונדזער	אונדזער	DET	_	_	12	det:poss	_	Translit=undzer|Translit_Lemma=undzer
-12	אסתּר	אסתּר	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=ister|Translit_Lemma=ister
+12	אסתּר	אסתּר	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=ester|Translit_Lemma=ester
 13	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
 
 # sent_id = bankrupt_15
 # text = אָט האָסטו אַ טאַטן צו מײַנע צרות, װײסט אַפֿילו נישט װי אַלט זײַן טאָכטער איז.
-# translit = ot hostu a tatn tsu mayne tsres, veyst afile nisht vi alt zayn tokhter iz.
+# translit = ot hostu a tatn tsu mayne tsores, veyst afile nisht vi alt zayn tokhter iz.
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
@@ -27655,12 +27655,12 @@
 2	האָסט	האָבן	VERB	_	_	0	root	_	Translit=host|Translit_Lemma=hobn
 3	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
-5	טאַטן	טאַטן	NOUN	_	_	2	obj	_	Translit=tatn|Translit_Lemma=tatn
+5	טאַטן	טאַטע	NOUN	_	_	2	obj	_	Translit=tatn|Translit_Lemma=tate
 6	צו	צו	ADP	_	_	8	case	_	Translit=tsu|Translit_Lemma=tsu
-7	מײַנע	מײַנע	DET	_	_	8	det:poss	_	Translit=mayne|Translit_Lemma=mayne
-8	צרות	צרי	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=tsres|Translit_Lemma=tsri
+7	מײַנע	מײַן	DET	_	_	8	det:poss	_	Translit=mayne|Translit_Lemma=mayn
+8	צרות	צרה	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=tsores|Translit_Lemma=tsore
 9	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
-10	װײסט	ווײַסן	VERB	_	_	5	conj	_	Translit=veyst|Translit_Lemma=vaysn
+10	װײסט	װיסן	VERB	_	_	5	conj	_	Translit=veyst|Translit_Lemma=visn
 11	אַפֿילו	אַפֿילו	ADV	_	_	10	advmod	_	Translit=afile|Translit_Lemma=afile
 12	נישט	נישט	PART	_	_	10	advmod	_	Translit=nisht|Translit_Lemma=nisht
 13	װי	װי	ADV	_	_	14	advmod	_	Translit=vi|Translit_Lemma=vi
@@ -27679,7 +27679,7 @@
 1	זי	זי	PRON	_	_	6	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
 3	שױן	שױן	ADV	_	_	6	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
-4	דרײַסיק	_	NUM	_	_	5	nummod	_	Translit=draysik
+4	דרײַסיק	דרײַסיק	NUM	_	_	5	nummod	_	Translit=draysik|Translit_Lemma=draysik
 5	יאָר	יאָר	NOUN	_	_	6	obl	_	Translit=yor|Translit_Lemma=yor
 6	אַלט	אַלט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=alt|Translit_Lemma=alt
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -27691,16 +27691,16 @@
 # source = Bankrupt
 # genre = fiction
 1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
-2	װײסט	ווײַסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=vaysn
+2	װײסט	װיסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=visn
 3	װאָס	װאָס	PRON	_	_	5	obj	_	Translit=vos|Translit_Lemma=vos
 4	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
-5	מײנט	מײַנט	VERB	_	_	2	ccomp	_	Translit=meynt|Translit_Lemma=maynt
+5	מײנט	מיינען	VERB	_	_	2	ccomp	_	Translit=meynt|Translit_Lemma=meynen
 6	הײַנטיקע	הײַנטיק	ADJ	_	_	7	amod	_	Translit=hayntike|Translit_Lemma=hayntik
 7	צײַטן	צײַט	NOUN	_	_	5	obl	_	Translit=tsaytn|Translit_Lemma=tsayt
 8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
 9	מײדל	מויד	NOUN	_	_	5	nsubj	_	Translit=meydl|Translit_Lemma=moyd
 10	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
-11	דרײַסיק	_	NUM	_	_	12	nummod	_	Translit=draysik
+11	דרײַסיק	דרײַסיק	NUM	_	_	12	nummod	_	Translit=draysik|Translit_Lemma=draysik
 12	יאָר	יאָר	NOUN	_	_	9	nmod	_	SpaceAfter=No|Translit=yor|Translit_Lemma=yor
 13	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
@@ -27710,10 +27710,10 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-1	דרײַסיק	_	NUM	_	_	4	nsubj	_	Translit=draysik
+1	דרײַסיק	דרײַסיק	NUM	_	_	4	nsubj	_	Translit=draysik|Translit_Lemma=draysik
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
-4	אַכצן	_	NUM	_	_	0	root	_	SpaceAfter=No|Translit=akhtsn
+4	אַכצן	אַכצן	NUM	_	_	0	root	_	SpaceAfter=No|Translit=akhtsn|Translit_Lemma=akhtsn
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bankrupt_19
@@ -27722,20 +27722,20 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-1	מײנסט	מײַנען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=meynst|Translit_Lemma=maynen
+1	מײנסט	מײנען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=meynst|Translit_Lemma=meynen
 2	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 3	אַז	אַז	SCONJ	_	_	5	mark	_	Translit=az|Translit_Lemma=az
 4	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
-5	זאָרג	זאָרג	VERB	_	_	1	ccomp	_	Translit=zorg|Translit_Lemma=zorg
+5	זאָרג	זאָרגן	VERB	_	_	1	ccomp	_	Translit=zorg|Translit_Lemma=zorgn
 6	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 7	װײניק	ווײניק	ADJ	_	_	5	advmod	_	Translit=veynik|Translit_Lemma=veynik
 8	פֿאַר	פֿאַר	ADP	_	_	9	case	_	Translit=far|Translit_Lemma=far
-9	איר	איר	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=ir|Translit_Lemma=ir
+9	איר	זי	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=ir|Translit_Lemma=zi
 10	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
 
 # sent_id = bankrupt_20
 # text = איך קען דאָך גאַנצע נעכט קײן אױג נישט צומאַכן פֿון צרות.
-# translit = ikh ken dokh gantse nekht keyn oyg nisht tsumakhn fun tsres.
+# translit = ikh ken dokh gantse nekht keyn oyg nisht tsumakhn fun tsores.
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
@@ -27744,12 +27744,12 @@
 3	דאָך	דאָך	ADV	_	_	9	advmod	_	Translit=dokh|Translit_Lemma=dokh
 4	גאַנצע	גאַנץ	ADJ	_	_	5	amod	_	Translit=gantse|Translit_Lemma=gants
 5	נעכט	נאַכט	NOUN	_	_	9	obl	_	Translit=nekht|Translit_Lemma=nakht
-6	קײן	_	DET	_	_	7	det	_	Translit=keyn
+6	קײן	קײן	DET	_	_	7	det	_	Translit=keyn|Translit_Lemma=keyn
 7	אױג	אױג	NOUN	_	_	9	obj	_	Translit=oyg|Translit_Lemma=oyg
 8	נישט	נישט	PART	_	_	9	advmod	_	Translit=nisht|Translit_Lemma=nisht
 9	צומאַכן	צומאַכן	VERB	_	_	0	root	_	Translit=tsumakhn|Translit_Lemma=tsumakhn
 10	פֿון	פֿון	ADP	_	_	11	case	_	Translit=fun|Translit_Lemma=fun
-11	צרות	צרי	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=tsres|Translit_Lemma=tsri
+11	צרות	צרה	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=tsores|Translit_Lemma=tsore
 12	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bankrupt_21
@@ -27775,7 +27775,7 @@
 1	און	און	CCONJ	_	_	12	cc	_	Translit=un|Translit_Lemma=un
 2	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
 3	דו	דו	PRON	_	_	4	nsubj	_	Translit=du|Translit_Lemma=du
-4	הײבסט	הײַבן	VERB	_	_	12	advcl	_	Translit=heybst|Translit_Lemma=haybn
+4	הײבסט	הײבן	VERB	_	_	12	advcl	_	Translit=heybst|Translit_Lemma=heybn
 5	אָן	אָן	ADV	_	_	4	compound:prt	_	Translit=on|Translit_Lemma=on
 6	צו	צו	PART	_	_	7	mark	_	Translit=tsu|Translit_Lemma=tsu
 7	כראָפּען	כראָפּען	VERB	_	_	4	xcomp	_	Translit=khropen|Translit_Lemma=khropen
@@ -27789,42 +27789,42 @@
 
 # sent_id = bankrupt_23
 # text = נו, יאָ, מיט דעם זענט איר מענער געבענטשט; אַז איר לײגט זיך פֿאַרגעסט איר אין די צרות, אָבער װען מיר װײַבער לײגן זיך, הײבן זיך אונדזערע צרות ערשט אָן...
-# translit = nu, yo, mit dem zent ir mener gebentsht; az ir leygt zikh fargest ir in di tsres, ober ven mir vayber leygn zikh, heybn zikh undzere tsres ersht on...
+# translit = nu, yo, mit dem zent ir mener gebentsht; az ir leygt zikh fargest ir in di tsores, ober ven mir vayber leygn zikh, heybn zikh undzere tsores ersht on...
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-1	נו	_	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=nu
+1	נו	נו	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=nu|Translit_Lemma=nu
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
-3	יאָ	_	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=yo
+3	יאָ	יאָ	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=yo|Translit_Lemma=yo
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 5	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
 6	דעם	דער	DET	_	_	10	obl	_	Translit=dem|Translit_Lemma=der
 7	זענט	זײַן	AUX	_	_	10	cop	_	Translit=zent|Translit_Lemma=zayn
-8	איר	_	DET	_	_	9	det	_	Translit=ir
+8	איר	איר	DET	_	_	9	det	_	Translit=ir|Translit_Lemma=ir
 9	מענער	מאַן	NOUN	_	_	10	nsubj	_	Translit=mener|Translit_Lemma=man
 10	געבענטשט	בענטשן	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=gebentsht|Translit_Lemma=bentshn
 11	;	;	PUNCT	_	_	16	punct	_	Translit=;|Translit_Lemma=;
 12	אַז	אַז	SCONJ	_	_	14	mark	_	Translit=az|Translit_Lemma=az
 13	איר	איר	PRON	_	_	14	nsubj	_	Translit=ir|Translit_Lemma=ir
-14	לײגט	לײַגן	VERB	_	_	16	advcl	_	Translit=leygt|Translit_Lemma=laygn
+14	לײגט	לײגן	VERB	_	_	16	advcl	_	Translit=leygt|Translit_Lemma=leygn
 15	זיך	זיך	PRON	_	_	14	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 16	פֿאַרגעסט	פֿאַרגעסן	VERB	_	_	10	parataxis	_	Translit=fargest|Translit_Lemma=fargesn
 17	איר	איר	PRON	_	_	16	nsubj	_	Translit=ir|Translit_Lemma=ir
 18	אין	אין	ADP	_	_	20	case	_	Translit=in|Translit_Lemma=in
 19	די	דער	DET	_	_	20	det	_	Translit=di|Translit_Lemma=der
-20	צרות	צרי	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=tsres|Translit_Lemma=tsri
+20	צרות	צרה	NOUN	_	_	16	obl	_	SpaceAfter=No|Translit=tsores|Translit_Lemma=tsore
 21	,	,	PUNCT	_	_	29	punct	_	Translit=,|Translit_Lemma=,
 22	אָבער	אָבער	CCONJ	_	_	29	cc	_	Translit=ober|Translit_Lemma=ober
 23	װען	װען	SCONJ	_	_	26	mark	_	Translit=ven|Translit_Lemma=ven
 24	מיר	מיר	PRON	_	_	25	det	_	Translit=mir|Translit_Lemma=mir
 25	װײַבער	ווײַב	NOUN	_	_	26	nsubj	_	Translit=vayber|Translit_Lemma=vayb
-26	לײגן	לײַגן	VERB	_	_	29	advcl	_	Translit=leygn|Translit_Lemma=laygn
+26	לײגן	לײגן	VERB	_	_	29	advcl	_	Translit=leygn|Translit_Lemma=leygn
 27	זיך	זיך	PRON	_	_	26	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
 28	,	,	PUNCT	_	_	26	punct	_	Translit=,|Translit_Lemma=,
-29	הײבן	הײַבן	VERB	_	_	16	conj	_	Translit=heybn|Translit_Lemma=haybn
+29	הײבן	הײבן	VERB	_	_	16	conj	_	Translit=heybn|Translit_Lemma=heybn
 30	זיך	זיך	PRON	_	_	29	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
-31	אונדזערע	אונדזערע	DET	_	_	32	det:poss	_	Translit=undzere|Translit_Lemma=undzere
-32	צרות	צרי	NOUN	_	_	29	nsubj	_	Translit=tsres|Translit_Lemma=tsri
+31	אונדזערע	אונדזער	DET	_	_	32	det:poss	_	Translit=undzere|Translit_Lemma=undzer
+32	צרות	צרה	NOUN	_	_	29	nsubj	_	Translit=tsores|Translit_Lemma=tsores
 33	ערשט	ערשט	ADV	_	_	29	advmod	_	Translit=ersht|Translit_Lemma=ersht
 34	אָן	אָן	ADP	_	_	29	compound:prt	_	SpaceAfter=No|Translit=on|Translit_Lemma=on
 35	...	...	PUNCT	_	_	10	punct	_	Translit=...|Translit_Lemma=...
