@@ -14466,6 +14466,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I was furious.
 1-2	כ׳בין	_	_	_	_	_	_	_	Translit=kh'bin
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	4	aux	_	Translit=bin|Translit_Lemma=zayn
@@ -25028,7 +25029,7 @@
 22	,	,	PUNCT	_	_	27	punct	_	Translit=,|Translit_Lemma=,
 23	און	און	CCONJ	_	_	27	cc	_	Translit=un|Translit_Lemma=un
 24	וואָס	וואָס	SCONJ	_	_	27	mark	_	Translit=vos|Translit_Lemma=vos
-25	אַלע	_	DET	_	_	26	det	_	Translit=ale
+25	אַלע	אַלע	DET	_	_	26	det	_	Translit=ale|Translit_Lemma=ale
 26	ייִדן	ייִד	NOUN	_	_	27	nsubj	_	Translit=yidn|Translit_Lemma=yid
 27	פֿאַרשטייען	פֿאַרשטיין	VERB	_	_	14	conj	_	SpaceAfter=No|Translit=farshteyen|Translit_Lemma=farshteyn
 28	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
@@ -25544,8 +25545,8 @@
 5	זאַך	זאַך	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=zakh|Translit_Lemma=zakh
 6	,	,	PUNCT	_	_	11	punct	_	Translit=,|Translit_Lemma=,
 7	אַז	אַז	SCONJ	_	_	11	mark	_	Translit=az|Translit_Lemma=az
-8	יעדער	_	DET	_	_	11	det	_	Translit=yeder
-9	ייִד	ײִד	PROPN	_	_	11	nsubj	_	Translit=yid|Translit_Lemma=yid
+8	יעדער	יעדער	DET	_	_	11	det	_	Translit=yeder|Translit_Lemma=yeder
+9	ייִד	ײִד	NOUN	_	_	11	nsubj	_	Translit=yid|Translit_Lemma=yid
 10	זאָל	זאָלן	AUX	_	_	11	aux	_	Translit=zol|Translit_Lemma=zoln
 11	פֿאַרשטיין	פֿאַרשטיין	VERB	_	_	5	acl	_	SpaceAfter=No|Translit=farshteyn|Translit_Lemma=farshteyn
 12	,	,	PUNCT	_	_	13	punct	_	Translit=,|Translit_Lemma=,
@@ -25568,7 +25569,7 @@
 28	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 29	פֿון	פֿון	ADP	_	_	30	case	_	Translit=fun|Translit_Lemma=fun
 30	וואַנען	וואַנען	ADV	_	_	31	obl	_	Translit=vanen|Translit_Lemma=vanen
-31	נעמען	נאָמען	VERB	_	_	11	ccomp	_	Translit=nemen|Translit_Lemma=nomen
+31	נעמען	נעמען	VERB	_	_	11	ccomp	_	Translit=nemen|Translit_Lemma=nemen
 32	זיי	זיי	PRON	_	_	31	nsubj	_	Translit=zey|Translit_Lemma=zey
 33	זיך	זיך	PRON	_	_	31	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
 34	,	,	PUNCT	_	_	36	punct	_	Translit=,|Translit_Lemma=,
