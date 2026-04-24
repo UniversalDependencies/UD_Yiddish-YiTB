@@ -247,7 +247,6 @@
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 # text_en = "Sholem Aleichem is one of the classicists of the literature in Yiddish, and he created the canon of this very literature by himself."
-
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אײנער	אײנער	DET	_	_	0	root	_	Translit=eyner|Translit_Lemma=eyner
@@ -308,8 +307,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Yiddish had a bad reputation as an "impure" language that people could only write cheap "shund" novels in. 
-was a bad reptile from a unclean language on whose ways they could only write cheap Shunamms.
+# text_en = Yiddish had a bad reputation as an "impure" language that people could only write cheap "shund" novels in.
 1	ייִדיש	ײִדיש	PROPN	_	_	3	nsubj	_	Translit=yidish|Translit_Lemma=yidish
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
@@ -395,7 +393,6 @@ was a bad reptile from a unclean language on whose ways they could only write ch
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
 # text_en = People should and they must create good literature in Yiddish.
-May and may good literature be offered in Yiddish!
 1	מע	מען	PRON	_	_	6	nsubj	_	Translit=me|Translit_Lemma=men
 2	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
 3	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
