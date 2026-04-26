@@ -246,7 +246,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = "Sholem Aleichem is one of the classicists of the literature in Yiddish, and he created the canon of this very literature by himself."
+# text_en = Sholem Aleichem is one of the classicists of the literature in Yiddish, and he created the canon of this very literature by himself.
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אײנער	אײנער	DET	_	_	0	root	_	Translit=eyner|Translit_Lemma=eyner
@@ -454,11 +454,11 @@
 
 # sent_id = py_sholem-aleichem_20
 # text = צום בײַשפּיל, דער שלמזדיקער מנחם־מענדל, אַ לופֿטמענטש און אַן אַװאַנטוריס, אָדער אונדזער טײַערער טבֿיה דער מילכיקער װאָס איז באַקאַנט איבער דער װעלט אַ דאַנק דעם מוזיק־פֿילם "פֿידלער אױפֿן דאַך".
-# translit = tsum bayshpil, der shlamazdiker minkhem-mendl, a luftmentsh un an avanturis, oder undzer tayerer teviye der milkhiker vos iz bakant iber der velt a dank dem muzik-film "fidler oyfn dakh".
+# translit = tsum bayshpil, der shlamazdiker minkhem-mendl, a luftmentsh un an avanturis, oder undzer tayerer tevye der milkhiker vos iz bakant iber der velt a dank dem muzik-film "fidler oyfn dakh".
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = At Bishkel, Solomon’s alien, a herald of joy and an adventurer, or our precious weapons, the milkWho is familiar in the world, thanks for the music movie on the roof.
+# text_en = For example, the unlucky Menakhem-Mendl, a luftmensch and an adventurer, or our dear Tevye the Dairyman who is known throughout the world thanks to the musical film "Fiddler on the Roof."
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
 1	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
@@ -477,7 +477,7 @@
 15	אָדער	אָדער	CCONJ	_	_	18	cc	_	Translit=oder|Translit_Lemma=oder
 16	אונדזער	אונדזער	DET	_	_	18	det:poss	_	Translit=undzer|Translit_Lemma=undzer
 17	טײַערער	טײַער	ADJ	_	_	18	amod	_	Translit=tayerer|Translit_Lemma=tayer
-18	טבֿיה	טבֿיה	PROPN	_	_	7	conj	_	Translit=teviye|Translit_Lemma=teviye
+18	טבֿיה	טבֿיה	PROPN	_	_	7	conj	_	Translit=tevye|Translit_Lemma=tevye
 19	דער	דער	DET	_	_	20	det	_	Translit=der|Translit_Lemma=der
 20	מילכיקער	מילכיקער	NOUN	_	_	18	appos	_	Translit=milkhiker|Translit_Lemma=milkhiker
 21	װאָס	װאָס	SCONJ	_	_	23	mark	_	Translit=vos|Translit_Lemma=vos
@@ -505,7 +505,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = or the youngest fashion of the world, we can all learn optimism and joy even in the earthen harsh labor.
+# text_en = Or the boy Motl, from whom we all can learn optimism and joy even in the very worst conditions.
 1	אָדער	אָדער	CCONJ	_	_	3	cc	_	Translit=oder|Translit_Lemma=oder
 2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
 3	ייִנגל	יונג	NOUN	_	_	0	root	_	Translit=yingl|Translit_Lemma=yung
@@ -533,7 +533,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = The work of peaceful Elisha are a panic from the Jewish life in the end of the 19th and the beginning of the 20th century.
+# text_en = The works of Sholem Aleichem are a panorama of Jewish life at the end of the 19th and beginning of the 20th century.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	װערק	ווערק	NOUN	_	_	7	nsubj	_	Translit=verk|Translit_Lemma=verk
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -569,7 +569,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = He described the ancient times when the ancient Hebrew tradition was still here, but the new, modern, unleavened season had begun, with its new challenges and questions.
+# text_en = He describes the era when the old, traditional Yiddish world was still around but the new, modern, urbanized time had already begun with its new challenges and questions.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	באַשרײַבט	באַשרײַבן	VERB	_	_	0	root	_	Translit=bashraybt|Translit_Lemma=bashraybn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -611,7 +611,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Why do I like to read peaceful things?
+# text_en = Why do I love to read Sholem Aleichem?
 1	פֿאַרװאָס	פֿאַרװאָס	ADV	_	_	2	advmod	_	Translit=farvos|Translit_Lemma=farvos
 2	האָב	האָבן	VERB	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
 3	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
@@ -627,7 +627,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = What can we find today, in the stories of long ago, while Jews live in Eastern European cities?
+# text_en = What can we find nowadays in the stories about long-gone days when Jews lived in Eastern European Jewish villages?
 1	װאָס	װאָס	PRON	_	_	4	obj	_	Translit=vos|Translit_Lemma=vos
 2	קענען	קענען	AUX	_	_	4	aux	_	Translit=kenen|Translit_Lemma=kenen
 3	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
@@ -656,7 +656,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = As for the Lord GOD, Peace be filled with kindness to His heroes and men in all.
+# text_en = First of all, Sholem Aleichem is full of kindheartedness towards his heroes and people in general.
 1	כּודם־כּל	כּודם־כּל	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=koydem-kol|Translit_Lemma=koydem-kol
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -678,7 +678,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = He smiles and laughs together with them, not with them.
+# text_en = He smiles and laughs together with them, not at them.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	שמײכלט	שמײכלען	VERB	_	_	0	root	_	Translit=shmeykhlt|Translit_Lemma=shmeykhlen
 3	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
@@ -698,7 +698,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = It's hard to find really great character in his works, although there are also such things.
+# text_en = It is hard to find truly cruel characters in his works, although such are also present.
 1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	שװער	שווער	ADJ	_	_	0	root	_	Translit=shver|Translit_Lemma=shver
@@ -724,7 +724,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Hello, understands the world to be very deep, and see how many evils are there everywhere. But He will let the mourning events of the funny corn.
+# text_en = Sholem Aleichem understands the world very deeply and sees how much evil there is everywhere, but he chooses to show sad events from a comical point of view.
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	2	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	פֿאַרשטײט	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyt|Translit_Lemma=farshteyn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -760,7 +760,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = He believes in his heroes and sees that there is always hope.
+# text_en = He believes in his heroes, and he shows that there is always hope.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	גלױבט	גלויבן	VERB	_	_	0	root	_	Translit=gloybt|Translit_Lemma=gloybn
 3	אין	אין	ADP	_	_	5	case	_	Translit=in|Translit_Lemma=in
@@ -784,7 +784,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = The laughing of peace is often the laughing of tears.
+# text_en = Laughter because of Sholem Aleichem is often laughter through tears.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	געלעכטער	געלעכטער	NOUN	_	_	8	nsubj	_	Translit=gelekhter|Translit_Lemma=gelekhter
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -799,15 +799,15 @@
 
 # sent_id = py_sholem-aleichem_32
 # text = אָבער דאָס געלעכטער דװקה העלפֿט סײַ די פּערסאָנאַזשן און סײַ אונדז איבערלעבן טראַגישע סיטואַציעס.
-# translit = ober dos gelekhter dveyke helft say di personazhn un say undz iberlebn tragishe situatsyes.
+# translit = ober dos gelekhter davke helft say di personazhn un say undz iberlebn tragishe situatsyes.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = But laughing supports both the staffs and the us both survive tragical situation.
+# text_en = But laughter actually helps both the character and us to survive tragic situations.
 1	אָבער	אָבער	CCONJ	_	_	5	cc	_	Translit=ober|Translit_Lemma=ober
 2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
 3	געלעכטער	געלעכט	NOUN	_	_	5	nsubj	_	Translit=gelekhter|Translit_Lemma=gelekht
-4	דװקה	דװקה	ADV	_	_	5	advmod	_	Translit=dveyke|Translit_Lemma=dveyke
+4	דװקה	דװקה	ADV	_	_	5	advmod	_	Translit=davke|Translit_Lemma=davke
 5	העלפֿט	העלפֿן	VERB	_	_	0	root	_	Translit=helft|Translit_Lemma=helfn
 6	סײַ	סײַ	CCONJ	_	_	8	cc	_	Translit=say|Translit_Lemma=say
 7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
@@ -826,7 +826,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Hello, wrote Shimei down novels, monologs, reliefs, and spears.
+# text_en = Sholem Aleichem wrote dozens of novels, monologues, stories, and plays.
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געשריבן	שרײַבן	VERB	_	_	0	root	_	Translit=geshribn|Translit_Lemma=shraybn
@@ -847,7 +847,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = He was very famous and favorite of the linen.
+# text_en = He was very famous and loved by readers.
 1	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	5	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	5	cop	_	Translit=geven|Translit_Lemma=zayn
@@ -862,11 +862,11 @@
 
 # sent_id = py_sholem-aleichem_35
 # text = כאַפּט אַ קוק אױף אַ בילד פֿון זײַן לװיה אין ניו־יאָרק אין 1916 – איר װעט זען טױזענטער מענטשן װאָס זענען געקומען זיך געזענגען מיט דעם שרײַבער.
-# translit = khapt a kuk oyf a bild fun zayn levaye in nyu-york in 1916 – ir vet zen toyzenter mentshn vos zenen gekumen zikh gezengen mit dem shrayber.
+# translit = khapt a kuk oyf a bild fun zayn levaye in nyu-york in 1916 – ir vet zen toyzenter mentshn vos zenen gekumen zikh gezegenen mit dem shrayber.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Look down in the picture of his lord in New York of 1940. You shall see a thousand men who came to marry the scribe.
+# text_en = Take a look at a picture from his funeal in New York in 1916 - you will see thousands of people who came to say goodbye to the writer.
 1	כאַפּט	כאַפּן	VERB	_	_	0	root	_	Translit=khapt|Translit_Lemma=khapn
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	קוק	קוק	VERB	_	_	1	compound:lvc	_	Translit=kuk|Translit_Lemma=kuk
@@ -890,7 +890,7 @@
 21	זענען	זײַן	AUX	_	_	22	aux	_	Translit=zenen|Translit_Lemma=zayn
 22	געקומען	קומען	VERB	_	_	19	acl:relcl	_	Translit=gekumen|Translit_Lemma=kumen
 23	זיך	זיך	PRON	_	_	24	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
-24	געזענגען	געזענגען	VERB	_	_	22	advcl	_	Translit=gezengen|Translit_Lemma=gezengen
+24	געזעגענען	געזעגענען	VERB	_	_	22	advcl	_	Translit=gezegenen|Translit_Lemma=gezegenen
 25	מיט	מיט	ADP	_	_	27	case	_	Translit=mit|Translit_Lemma=mit
 26	דעם	דער	DET	_	_	27	det	_	Translit=dem|Translit_Lemma=der
 27	שרײַבער	שרײַבער	NOUN	_	_	24	obl	_	SpaceAfter=No|Translit=shrayber|Translit_Lemma=shrayber
@@ -902,7 +902,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Hello said, "Lack!
+# text_en = Sholem Aleichem said, "Laugh!
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|Translit_Lemma=sholem-aleykhem
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געזאָגט	זאָגן	VERB	_	_	0	root	_	Translit=gezogt|Translit_Lemma=zogn
@@ -916,7 +916,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Lack is healthy.
+# text_en = Laughing is healthy.
 1	לאַכן	לאַכן	VERB	_	_	3	nsubj	_	Translit=lakhn|Translit_Lemma=lakhn
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	געזונט	געזונט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=gezunt|Translit_Lemma=gezunt
@@ -928,7 +928,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Doctors lie down laughters.
+# text_en = Doctors order one to laugh."
 1	דאָקטױרים	דאָקטער	NOUN	_	_	2	nsubj	_	Translit=doktoyrim|Translit_Lemma=dokter
 2	הײסן	הײַסן	VERB	_	_	0	root	_	Translit=heysn|Translit_Lemma=haysn
 3	לאַכן	לאַכן	VERB	_	_	2	ccomp	_	SpaceAfter=No|Translit=lakhn|Translit_Lemma=lakhn
@@ -941,7 +941,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = That's a wonderful advice for everyone. laugh and read peace!
+# text_en = That is wonderful advice for everyone: Laugh and read Sholem Aleichem!
 1	דאָס	דער	DET	_	_	5	nsubj	_	Translit=dos|Translit_Lemma=der
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
@@ -1000,7 +1000,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
-# text_en = I'm buying a stamp.
+# text_en = I am buying a stamp.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	קויף	קויפֿן	VERB	_	_	0	root	_	Translit=koyf|Translit_Lemma=koyfn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1029,7 +1029,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
-# text_en = I'll remind you.
+# text_en = I will remind you of it.
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 3	דיך	דו	PRON	_	_	4	obj	_	Translit=dikh|Translit_Lemma=du
@@ -25812,7 +25812,7 @@
 # rtl = yes
 # source = Wikipedia
 # genre = wiki
-# text_en = Yiddish, Hebrew, and Yiddish, by name of ancestor Lashon, is a language uttered from the end of the year 150,000 Jews and known at the end of the world, mostly from the stock of Ashken.
+# text_en = Yiddish, called "mame-loshn" by Jews, is a language that is spoken today by around 1.5 million Jews and is known by 3,142,560 people across the world, primarily of Ashkenazi descent.
 1	ייִדיש	ײִדישן	PROPN	_	_	15	nsubj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 3	אידיש	אידיש	PROPN	_	_	1	conj	_	Translit=idish|Translit_Lemma=idish
@@ -25856,7 +25856,7 @@
 
 # sent_id = wiki_2
 # text = אין יענער תקופה איז יידיש באנוצט געווארן אויף וואס א שפראך ווערט באנוצט, לשון קודש איז באנוצט געווארן נאר צו דאווענען און שרייבן תורה רייד, אבער אנהייב דעם 20סטן יאר הונדערט האט אליעזר בן יהודה מאדערנעזירט דעם לשון קודש און איר אהערגעשטעלט ווי א גערעדטע שפראך פאר יידן, און עס גערופן העברעאיש.
-# translit = in yener tkufe iz yidish banutst gevarn oyf vos  shprakh vert banutst, loshn koydesh iz banutst gevarn nor tsu davenen un shraybn toyre reyd, aber anheyb dem 20stn yor hundert hat alyezer ben yehude madernezirt dem loshn koydesh un ir hergeshtelt vi  geredte shprakh far yidn, un es gerufn hebreish.
+# translit = in yener tkufe iz yidish banutst gevorn oyf vos a shprakh vert banutst, loshn koydesh iz banutst gevorn nor tsu davenen un shraybn toyre reyd, aber anheyb dem 20stn yor hundert hot alyezer ben yehude modernezirt dem loshn koydesh un ir hergeshtelt vi a geredte shprakh far yidn, un es gerufn hebreish.
 # rtl = yes
 # source = Wikipedia
 # genre = wiki
@@ -26037,7 +26037,7 @@
 # rtl = yes
 # source = Wikipedia
 # genre = wiki
-# text_en = Today, about three million people speak Hebrew, mostly in the Land of Israel and in America, while the first half of them is the Old Hebrew.
+# text_en = Today, about three million people speak Yiddish, mostly in the Land of Israel and in America, while the first half of them is the Old Hebrew.
 1	הײַנט	הײַנט	NOUN	_	_	4	obl	_	Translit=haynt|Translit_Lemma=haynt
 2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 3	טאָג	טאָג	NOUN	_	_	1	nmod	_	Translit=tog|Translit_Lemma=tog
@@ -26534,7 +26534,8 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Yiddish was taught in Hebrew, in Jeshit, in Hebrew, in Hebrew, in Hebrew, and Aramaic, and Aramaic, in Hebrew, and Aramaic.
+# text_en = In Yiddish one studied in cheders, in yeshivas, in kloizes and batei midrashim, translating Torah and holy books; in Yiddish, rabbis and geniuses delivered Torah and ethical teachings to the public; in Yiddish, ethical books were written.
+Yiddish was taught in Hebrew, in Jeshit, in Hebrew, in Hebrew, in Hebrew, and Aramaic, and Aramaic, in Hebrew, and Aramaic.
 1	אויף	אויף	ADP	_	_	2	case	_	Translit=oyf|Translit_Lemma=oyf
 2	ייִדיש	ײִדיש	PROPN	_	_	5	obl	_	Translit=yidish|Translit_Lemma=yidish
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -27300,7 +27301,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = This was in the town where Beth-ba was born, not far from the cave, in Germany.
+# text_en = It happened in Bonn (the city, where Beethoven was born, not far from Cologne, in Germany).
 1	דאָס	דער	DET	_	_	5	nsubj	_	Translit=dos|Translit_Lemma=der
 2	איז	זײַן	AUX	_	_	5	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	5	cop	_	Translit=geven|Translit_Lemma=zayn
@@ -27332,7 +27333,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = In a Lebanese morning I have ever come in to ask to walk him.
+# text_en = On a moonlit spring evening, I once stopped by Beethoven's to call him for a walk.
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	לבֿניקן	לבֿניק	ADJ	_	_	4	amod	_	Translit=levonikn|Translit_Lemma=levonik
@@ -27355,7 +27356,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = We walked through a narrow dark bar.
+# text_en = We went through a narrow, dark alley.
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זײַנען	זײַן	AUX	_	_	3	aux	_	Translit=zaynen|Translit_Lemma=zayn
 3	געגאַנגען	גיין	VERB	_	_	0	root	_	Translit=gegangen|Translit_Lemma=geyn
@@ -27372,7 +27373,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Suddenly stone was left.
+# text_en = Suddenly, Beethoven stood still.
 1	פּלוצלונג	פּלוצלונג	ADV	_	_	5	advmod	_	Translit=plutslung|Translit_Lemma=plutslung
 2	איז	זײַן	AUX	_	_	5	aux	_	Translit=iz|Translit_Lemma=zayn
 3	בעטהאָװען	בעטהאָװען	PROPN	_	_	5	nsubj	_	Translit=bethoven|Translit_Lemma=bethoven
@@ -27386,7 +27387,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Wait... he replied. What were these a rumor?
+# text_en = Wait... he said - What is that sound?
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	װאַרט	וואַרטן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=vart|Translit_Lemma=vartn
 3	…	…	PUNCT	_	_	2	punct	_	Translit=…|Translit_Lemma=…
@@ -27410,7 +27411,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Someone plays my son...
+# text_en = Someone is playing my sonata...
 1	עמעצער	עמעץ	PRON	_	_	2	nsubj	_	Translit=emetser|Translit_Lemma=emets
 2	שפּילט	שפּילן	VERB	_	_	0	root	_	Translit=shpilt|Translit_Lemma=shpiln
 3	מײַן	מײַן	DET	_	_	4	det:poss	_	Translit=mayn|Translit_Lemma=mayn
@@ -27423,7 +27424,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = How well he plays the!
+# text_en = And how well he plays!...
 1	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 2	װי	װי	ADV	_	_	3	advmod	_	Translit=vi|Translit_Lemma=vi
 3	גוט	גוט	ADJ	_	_	5	advmod	_	Translit=gut|Translit_Lemma=gut
@@ -27438,7 +27439,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = We were standing at a little armed house and sheltered.
+# text_en = We stood by a small, poor house and listened with delight.
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זײַנען	זײַן	AUX	_	_	3	aux	_	Translit=zaynen|Translit_Lemma=zayn
 3	געשטאַנען	שטיין	VERB	_	_	0	root	_	Translit=geshtanen|Translit_Lemma=shteyn
@@ -27460,7 +27461,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = In a little while the music burst into, and we heard a bitch.
+# text_en = After a while, the music stopped, and we heard a stifled cry.
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	ווײַלע	ווײַלע	NOUN	_	_	9	obl	_	Translit=vayle|Translit_Lemma=vayle
@@ -27485,7 +27486,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I will never play again! One could hear a pretext of his, which is too dull;
+# text_en = "I cannot play anymore!..." - someone's voice was heard - "This is too magnificent..."
 1	—	—	PUNCT	_	_	6	punct	_	Translit=—|Translit_Lemma=—
 2	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	קאָן	קענען	AUX	_	_	6	aux	_	Translit=kon|Translit_Lemma=kenen
@@ -27514,7 +27515,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I don't play as we need...
+# text_en = I feel that I do not play like one should...
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	פֿיל	פֿילן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=fil|Translit_Lemma=filn
 3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
@@ -27534,7 +27535,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Oh, if it give me the right to hear it once more in the performance of a great music!
+# text_en = Oh, if it were only possible, just once, to hear a great musician perform this!...
 1	אָ	_	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=o
 2	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 3	װען	װען	SCONJ	_	_	5	mark	_	Translit=ven|Translit_Lemma=ven
@@ -27566,7 +27567,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = [Abraham] was a dream, sister, and he answered a second time, a dream which is too dull to spurn.
+# text_en = "It's a dream, sister" - a second voice answered - "a dream, that's hard to make a reality..."
 1	–	–	PUNCT	_	_	5	punct	_	Translit=–|Translit_Lemma=–
 2-3	ס′איז	_	_	_	_	_	_	_	Translit=s’iz
 2	עס	עס	PRON	_	_	5	nsubj	_	Translit=es|Translit_Lemma=es
@@ -27600,7 +27601,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = We were still so lenient, so oppressed...
+# text_en = After all, we are so common, so oppressed...
 1	מיר	מיר	PRON	_	_	5	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זײַנען	זײַן	AUX	_	_	5	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	דאָך	דאָך	ADV	_	_	5	advmod	_	Translit=dokh|Translit_Lemma=dokh
@@ -27617,7 +27618,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I know my name!
+# text_en = "I know, I know!...
 1	–	–	PUNCT	_	_	3	punct	_	Translit=–|Translit_Lemma=–
 2	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	װײס	ווײַס	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veys|Translit_Lemma=vays
@@ -27633,7 +27634,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Only when it sounds like to me when it's not.
+# text_en = If only I could succeed at some time or another.
 1	נאָר	נאָר	ADV	_	_	4	advmod	_	Translit=nor|Translit_Lemma=nor
 2	װען	װען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
 3	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
@@ -27651,7 +27652,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = At least once in life to hear truth jealous music.
+# text_en = Just once in life to hear truly uplifting music!...
 1	כאָטש	כאָטש	ADV	_	_	7	advmod	_	Translit=khotsh|Translit_Lemma=khotsh
 2	אײן	_	NUM	_	_	3	nummod	_	Translit=eyn
 3	מאָל	מאָל	NOUN	_	_	7	obl	_	Translit=mol|Translit_Lemma=mol
@@ -27671,7 +27672,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = “Come in,” said my father-in-law, “and his own voice has trembled.”
+# text_en = "Let's go in," said Beethoven, and his voice trembled.
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	קום	קומען	VERB	_	_	6	ccomp	_	Translit=kum|Translit_Lemma=kumen
 3	אַרײַן	אַרײַן	ADV	_	_	2	compound:prt	_	Translit=arayn|Translit_Lemma=arayn
@@ -27695,7 +27696,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Come in?
+# text_en = "Inside?"
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	אַרײַן	אַרײַן	ADV	_	_	0	root	_	SpaceAfter=No|Translit=arayn|Translit_Lemma=arayn
 3	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
@@ -27706,7 +27707,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = What for?
+# text_en = What for?...
 1	צו	צו	ADP	_	_	2	case	_	Translit=tsu|Translit_Lemma=tsu
 2	װאָס	װאָס	PRON	_	_	0	root	_	SpaceAfter=No|Translit=vos|Translit_Lemma=vos
 3	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=?|Translit_Lemma=?
@@ -27718,7 +27719,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = “I will answer,” he replied—and I shall be treated here.
+# text_en = "I will play," he answered, "and I will be understood here."
 1	–	–	PUNCT	_	_	4	punct	_	Translit=–|Translit_Lemma=–
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
@@ -27741,7 +27742,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I'm feeling this.
+# text_en = I feel it.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	פֿיל	פֿילן	VERB	_	_	0	root	_	Translit=fil|Translit_Lemma=filn
 3	דאָס	דער	DET	_	_	2	obj	_	SpaceAfter=No|Translit=dos|Translit_Lemma=der
@@ -27753,7 +27754,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He opened the door and we went in.
+# text_en = He opened the door, and we went in.
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געעפֿנט	עפֿענען	VERB	_	_	0	root	_	Translit=geefnt|Translit_Lemma=efenen
@@ -27771,7 +27772,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = At the outskirts of the table, a youth was sitting together and ripped an old silver.
+# text_en = A young man sat at the end of a table and repaired an old boot.
 1-2	בײַם	_	_	_	_	_	_	_	Translit=baym
 1	בײַ	בײַ	ADP	_	_	4	case	_	Translit=bay|Translit_Lemma=bay
 2	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -27795,7 +27796,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = On the old lattice, leaning in the hoofs, she was sitting a girl with glitter hair, and covered her shoulders.
+# text_en = At an old-fasioned piano, leaning on the keys, sat a young girl with magnificent, light hair that covered her shoulders.
 1	בײַ	בײַ	ADP	_	_	4	case	_	Translit=bay|Translit_Lemma=bay
 2	אַן	אַ	DET	_	_	4	det	_	Translit=an|Translit_Lemma=a
 3	אַלטפֿרענקישן	אַלטפֿרענקיש	ADJ	_	_	4	amod	_	Translit=altfrenkishn|Translit_Lemma=altfrenkish
@@ -27828,7 +27829,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = “The reminder!” he began. “I have heard no games here, and we have come in here.
+# text_en = "Pardon," said Beethoven, "I heard music playing here, so we came in...
 1	–	–	PUNCT	_	_	10	punct	_	Translit=–|Translit_Lemma=–
 2	אַנטשולדיקט	_	INTJ	_	_	10	discourse	_	Translit=antshuldikt
 3	–	–	PUNCT	_	_	5	punct	_	Translit=–|Translit_Lemma=–
@@ -27853,7 +27854,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I'm a musician.
+# text_en = I am a musician.
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	4	cop	_	Translit=bin|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -27866,7 +27867,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The girl took a trembling.
+# text_en = The young girl trembled.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	מיידל	מויד	NOUN	_	_	6	nsubj	_	Translit=meydl|Translit_Lemma=moyd
 3	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -27881,7 +27882,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The youth husband looked at us unhappy and disaster.
+# text_en = The young man looked at us, unfriendly and angry.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	יונגער־מאַן	יונגער־מאַן	NOUN	_	_	6	nsubj	_	Translit=yunger-man|Translit_Lemma=yunger-man
 3	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -27901,7 +27902,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I have heard—you said—and have spoken further. If you would, then, and should you be carried off, I will...
+# text_en = "I heard, she said," Beethoven continued, "you want someone to play for you. I...I want to play for you."
 1	–	–	PUNCT	_	_	4	punct	_	Translit=–|Translit_Lemma=–
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	האָב	האָבן	AUX	_	_	4	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -27938,7 +27939,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Suddenly our boss is coming,Their weird one, the owner of the poor house.He has appeared, chosen by us.
+# text_en = Our sudden appearance came off as very strange, and the master of this poor little house, it seemed, wanted to get rid of us.
 1	אונדזער	אונדזער	DET	_	_	3	det:poss	_	Translit=undzer|Translit_Lemma=undzer
 2	פּלוצלונגדיק	פּלוצלונגדיק	ADJ	_	_	3	amod	_	Translit=plutslungdik|Translit_Lemma=plutslungdik
 3	דערשײַנען	דערשײַנען	NOUN	_	_	5	nsubj	_	Translit=dershaynen|Translit_Lemma=dershaynen
@@ -27972,7 +27973,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Thank you! He replied.
+# text_en = "Thank you!" he said.
 1	–	–	PUNCT	_	_	3	punct	_	Translit=–|Translit_Lemma=–
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	דאַנק	דאַנק	NOUN	_	_	8	ccomp	_	SpaceAfter=No|Translit=dank|Translit_Lemma=dank
@@ -27989,7 +27990,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Our instrument is a very bad and we have no nearby...
+# text_en = Our instrument is a very bad one, and we don't have any sheet music..."
 1	אונדזער	אונדזער	DET	_	_	2	det:poss	_	Translit=undzer|Translit_Lemma=undzer
 2	אינסטרומענט	אינסטרומענט	NOUN	_	_	6	nsubj	_	Translit=instrument|Translit_Lemma=instrument
 3	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -28010,7 +28011,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = What did you expect? (You were welcome to inquire.)
+# text_en = "You don't have any sheet music?" Beethoven asked, amazed.
 1	–	–	PUNCT	_	_	3	punct	_	Translit=–|Translit_Lemma=–
 2	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	האָט	האָבן	VERB	_	_	12	ccomp	_	Translit=hot|Translit_Lemma=hobn
@@ -28031,7 +28032,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = What are you playing?
+# text_en = "Then how do you play?"
 1	–	–	PUNCT	_	_	5	punct	_	Translit=–|Translit_Lemma=–
 2	װי	װי	ADV	_	_	5	advmod	_	Translit=vi|Translit_Lemma=vi
 3	אַזוי	אַזוי	ADV	_	_	2	fixed	_	Translit=azoy|Translit_Lemma=azoy
@@ -28046,7 +28047,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He looked in the face of the young girl. Now we knew that she was blind.
+# text_en = He looked into the face of the young girl, and only then did we notice that she is blind...
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	אַרײַנגעקוקט	אַרײַנקוקן	VERB	_	_	0	root	_	Translit=arayngekukt|Translit_Lemma=araynkukn
@@ -28074,7 +28075,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = “The wrong done you!” I responded. “Tell me; but what did you hear that you were only playing?”
+# text_en = "Pardon," Beethoven apologized, "but tell me, where did you hear what you just played?"
 1	–	–	PUNCT	_	_	10	punct	_	Translit=–|Translit_Lemma=–
 2	אַנטשולדיקט	_	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=antshuldikt
 3	…	…	PUNCT	_	_	2	punct	_	Translit=…|Translit_Lemma=…
@@ -28108,7 +28109,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = “Once a year ago—the girl told it—she lived beside us a good wife, a good playing her.
+# text_en = "Several years ago," the young girl explained, "a woman lived next to us, a good player...
 1	–	–	PUNCT	_	_	15	punct	_	Translit=–|Translit_Lemma=–
 2	מיט	מיט	ADP	_	_	4	case	_	Translit=mit|Translit_Lemma=mit
 3	עטלעכע	_	DET	_	_	4	det	_	Translit=etlekhe
@@ -28138,7 +28139,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = In the spring and summer, I would long stand before the open windows of her house and listen to...
+# text_en = In spring and summer, I used to stand before the open window of her house and listen...
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
 2	פֿרילינג	פֿרילינג	NOUN	_	_	8	obl	_	Translit=friling|Translit_Lemma=friling
 3	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
@@ -28177,7 +28178,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Pray, nothing answered.
+# text_en = Beethoven did not answer at all.
 1	בעטהאָװען	בעטהאָװען	PROPN	_	_	4	nsubj	_	Translit=bethoven|Translit_Lemma=bethoven
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	גאָרנישט	גאָרנישט	PRON	_	_	4	obj	_	Translit=gornisht|Translit_Lemma=gornisht
@@ -28190,7 +28191,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He sat down to the keyboard and took games.
+# text_en = He sat down silently at the piano and started to play.
 1	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -28211,7 +28212,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = As soon as the first rumors were heard, so I understood what this one would produce.
+# text_en = As soon as the first sounds were heard, I already understood, what would come of this.
 1	װי	װי	SCONJ	_	_	6	mark	_	Translit=vi|Translit_Lemma=vi
 2	נאָר	נאָר	ADV	_	_	6	advmod	_	Translit=nor|Translit_Lemma=nor
 3	עס	עס	PRON	_	_	6	expl	_	Translit=es|Translit_Lemma=es
@@ -28240,7 +28241,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Never, for this and never, I have heard no music like that one; never and for anybody have played noble with such a divination as that evening in the houses of the poor, the shepherd and the sister of the blind.
+# text_en = Never, not before, not after, have I heard such music; never and for no one had Beethoven played with such inspiration as on that evening in the little house of the poor cobbler and his blind sister.
 1	קיין	קײַן	DET	_	_	2	det	_	Translit=keyn|Translit_Lemma=keyn
 2	מאָל	מאָל	NOUN	_	_	17	obl	_	SpaceAfter=No|Translit=mol|Translit_Lemma=mol
 3	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
@@ -28293,7 +28294,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The "New Testament" has wrought something turns into tears, lamenting divination, and lamenting divination.
+# text_en = The very tone of the old instrument seemed to suddenly change somehow and sounded gentle, deep, solemn...
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	עצם	עצם	ADJ	_	_	3	amod	_	Translit=etsem|Translit_Lemma=etsem
 3	טאָן	טאָן	NOUN	_	_	15	nsubj	_	Translit=ton|Translit_Lemma=ton
@@ -28324,7 +28325,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The brother and the sister were beating silence, destroyed the breath, filled with marvels and terebinths.
+# text_en = The brother and his sister fell silent, held their breath, full of wonder and enthusiasm. 
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	ברודער	ברודער	NOUN	_	_	7	nsubj	_	Translit=bruder|Translit_Lemma=bruder
 3	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
@@ -28350,7 +28351,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The brother left the work.
+# text_en = The brother stopped his work.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	ברודער	ברודער	NOUN	_	_	4	nsubj	_	Translit=bruder|Translit_Lemma=bruder
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -28365,7 +28366,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The sister was standing beside the lattice of broad eyes, shriveling the heart; if she was afraid, shouldn’t destroy the lattice of the sorcery poems.
+# text_en = The sister stood by the piano with wide open blind eyes, pressing her hand to her breast, as if she were afraid her beating heart would destroy the harmony of the enchanting sounds.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	שװעסטער	שוועסטער	NOUN	_	_	4	nsubj	_	Translit=shvester|Translit_Lemma=shvester
 3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -28413,7 +28414,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The one light that laden the room shaped suddenly.
+# text_en = The one light that had illuminated the room suddenly brightened.
 1	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 2	איין	אײן	NUM	_	_	3	nummod	_	Translit=eyn|Translit_Lemma=eyn
 3	ליכט	ליכט	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Translit=likht|Translit_Lemma=likht
@@ -28435,7 +28436,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The flame wandered and ran away...
+# text_en = The little flame flickered and went out...
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	פֿלעמל	פֿלאַם	NOUN	_	_	7	nsubj	_	Translit=fleml|Translit_Lemma=flam
 3	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -28454,7 +28455,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Bats stopped playing.
+# text_en = Beethoven stopped playing.
 1	בעטהאָװען	בעטהאָװען	PROPN	_	_	3	nsubj	_	Translit=bethoven|Translit_Lemma=bethoven
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	אויפֿגעהערט	אויפֿהערן	VERB	_	_	0	root	_	Translit=oyfgehert|Translit_Lemma=oyfhern
@@ -28467,7 +28468,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I opened the floor.
+# text_en = I opened the shutters.
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
 3	געעפֿנט	עפֿענען	VERB	_	_	0	root	_	Translit=geefnt|Translit_Lemma=efenen
@@ -28481,7 +28482,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Waves of the moonlight poured into the room.
+# text_en = Waves of moonlight poured into the room.
 1	כװאַליעס	כוואַליע	NOUN	_	_	5	nsubj	_	Translit=khvalyes|Translit_Lemma=khvalye
 2	לבֿנה־ליכט	לבֿנה־ליכט	NOUN	_	_	1	nmod	_	Translit=levone-likht|Translit_Lemma=levone-likht
 3	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
@@ -28497,7 +28498,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = It was still light as before.
+# text_en = It became brighter than earlier.
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	3	nsubj	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -28514,7 +28515,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The form of great musicians at the keyboard was parted in the dark corner.
+# text_en = The figure of the great musician at the piano stood out sharply in the dark corner.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	געשטאַלט	געשטאַלט	NOUN	_	_	12	nsubj	_	Translit=geshtalt|Translit_Lemma=geshtalt
 3	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
@@ -28539,7 +28540,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The head fell on the breast, the hands were uncircumcised on the knees—
+# text_en = His head sank down onto his chest, his hands lay motionless on his knees...
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	קאָפּ	קאָפּ	NOUN	_	_	5	nsubj	_	Translit=kop|Translit_Lemma=kop
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -28566,7 +28567,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He was sank into deep horses...
+# text_en = He was immersed in deep thought...
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	4	cop	_	Translit=geven|Translit_Lemma=zayn
@@ -28582,7 +28583,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = That's how some minutes pass.
+# text_en = Several minutes passed this way.
 1	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
 2	זײַנען	זײַן	AUX	_	_	3	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	אַריבער	אַריבער	ADV	_	_	0	root	_	Translit=ariber|Translit_Lemma=ariber
@@ -28596,7 +28597,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The youth husband rose and went to bed.
+# text_en = The young man stood up and went over to Beethoven.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	יונגער־מאַן	יונגער־מאַן	NOUN	_	_	5	nsubj	_	Translit=yunger-man|Translit_Lemma=yunger-man
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -28615,7 +28616,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = What a marvelous thing! He said still and long:
+# text_en = "Wonderful!" he said softly and slowly.
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	װוּנדערבאַר	װוּנדערבאַר	INTJ	_	_	10	ccomp	_	SpaceAfter=No|Translit=vunderbar|Translit_Lemma=vunderbar
 3	!	!	PUNCT	_	_	2	punct	_	Translit=!|Translit_Lemma=!
@@ -28646,7 +28647,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Where from?
+# text_en = Where are you from?
 1	פֿון	פֿון	ADP	_	_	2	case	_	Translit=fun|Translit_Lemma=fun
 2	װאַנען	װאַנען	ADV	_	_	0	root	_	SpaceAfter=No|Translit=vanen|Translit_Lemma=vanen
 3	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
@@ -28657,7 +28658,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Hear [this], and instead of having a reply, he said, “Please, play his son-in-law, the same for whom the blond girl was playing.
+# text_en = "Listen," said Beethoven softly instead of answering, and he started playing his sonata, the same one that the blond young girl had played before...
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	הערט	הערן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=hert|Translit_Lemma=hern
 3	…	…	PUNCT	_	_	2	punct	_	Translit=…|Translit_Lemma=…
@@ -28695,7 +28696,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The outcry of the shrieks of the two of them had to be heard at the end.
+# text_en = They both let out a cry of delight at the end.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	געשרײ	געשרײ	NOUN	_	_	9	nsubj	_	Translit=geshrey|Translit_Lemma=geshrey
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -28717,7 +28718,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = The brother and the sister threw themselves to plead, lay still upon his hands, covered them with kisses and tears.
+# text_en = The brother and sister threw themselves at Beethoven, fell to his hands, and covered them with kisses and tears.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	ברודער	ברודער	NOUN	_	_	10	nsubj	_	Translit=bruder|Translit_Lemma=bruder
 3	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
@@ -28751,7 +28752,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = We recognized.—We recognized.—
+# text_en = "We knew it!...
 1	–	–	PUNCT	_	_	4	punct	_	Translit=–|Translit_Lemma=–
 2	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
 3	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
@@ -28765,7 +28766,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = You were begging... said them.
+# text_en = You're Beethoven...," they said.
 1	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
 2	זײַט	זײַן	AUX	_	_	3	cop	_	Translit=zayt|Translit_Lemma=zayn
 3	בעטהאָװען	בעטהאָװען	PROPN	_	_	7	ccomp	_	SpaceAfter=No|Translit=bethoven|Translit_Lemma=bethoven
@@ -28794,7 +28795,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I wish you were gone.
+# text_en = He wanted to leave.
 1	געװאָלט	װעלן	AUX	_	_	2	aux	_	Translit=gevolt|Translit_Lemma=veln
 2	אַװעקגיין	אַוועקגיין	VERB	_	_	0	root	_	SpaceAfter=No|Translit=avekgeyn|Translit_Lemma=avekgeyn
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -28805,7 +28806,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = [Suddenly] we do something else to play? [Jacob] responded, “Please do something at ease.”
+# text_en = "Play something else for us!..." they begged.
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|Translit_Lemma=–
 2	שפּילט	שפּילן	VERB	_	_	13	ccomp	_	Translit=shpilt|Translit_Lemma=shpiln
 3	אונדז	מיר	PRON	_	_	2	obl:arg	_	Translit=undz|Translit_Lemma=mir
@@ -28827,7 +28828,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = Once again!
+# text_en = One more time!...
 1	נאָך	נאָך	ADV	_	_	3	advmod	_	Translit=nokh|Translit_Lemma=nokh
 2	איין	אײן	NUM	_	_	3	nummod	_	Translit=eyn|Translit_Lemma=eyn
 3	מאָל	מאָל	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=mol|Translit_Lemma=mol
@@ -28840,7 +28841,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He didn't get and sat down again at the key.
+# text_en = He did not protest and sat down again at the piano.
 1	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -28862,7 +28863,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = It was before that the moon was calm and quiet,His majestic head cried down,His majestic edge.
+# text_en = As before, the moon shone calmly and brightly and illuminated his majestic, powerful head, his powerful, noble figure.
 1	װי	װי	SCONJ	_	_	2	case	_	Translit=vi|Translit_Lemma=vi
 2	פֿריִער	פֿריִער	ADV	_	_	7	obl	_	Translit=frier|Translit_Lemma=frier
 3	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -28891,7 +28892,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He looked to the window—upon heaven, where the moon was swimming, where the distant stars were hollowed;
+# text_en = He looked out the window, at the sky, where the moon swum around, where the distant stars twinkled...
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געקוקט	קוקן	VERB	_	_	0	root	_	Translit=gekukt|Translit_Lemma=kukn
@@ -28925,7 +28926,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He touched the lamentations and the ancient instructions with which he began to get out the weapons, solid and fiery, which were spread on high, and filled the whole chamber—just as the moonlight spread out over the anointing nature.
+# text_en = He touched the keys, and the old instrument began to give out tones, gentle and solemn, that rose up above and filled up the whole room, just like the moonlight spread over the slumbering nature.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -28996,7 +28997,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = We've gone.
+# text_en = We took off.
 1	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זײַנען	זײַן	AUX	_	_	3	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	אַװעק	אַװעק	ADV	_	_	0	root	_	SpaceAfter=No|Translit=avek|Translit_Lemma=avek
@@ -29008,7 +29009,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I go home”—said my bed.
+# text_en = "I am going home," said Beethoven.
 1	–	–	PUNCT	_	_	3	punct	_	Translit=–|Translit_Lemma=–
 2	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	גיי	גיין	VERB	_	_	8	ccomp	_	Translit=gey|Translit_Lemma=geyn
@@ -29021,11 +29022,11 @@
 
 # sent_id = beethoven_79
 # text = איך דאַרף אָנשרײַבן מײַן לבֿנה־סאָנאַטע, כּל־זמן איך הער זי נאָך קלינגען.
-# translit = ikh darf onshraybn mayn levone-sonate, kel־zman ikh her zi nokh klingen.
+# translit = ikh darf onshraybn mayn levone-sonate, kolzman ikh her zi nokh klingen.
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = I need to write down my moon-sown until I hear it still sounding.
+# text_en = I need to write down my moonlight sonata, as long as I still hear it ringing.
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	דאַרף	דאַרפֿן	AUX	_	_	3	aux	_	Translit=darf|Translit_Lemma=darfn
 3	אָנשרײַבן	אָנשרײַבן	VERB	_	_	0	root	_	Translit=onshraybn|Translit_Lemma=onshraybn
@@ -29046,7 +29047,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = He was sitting in charge of the work of the night and the morning.
+# text_en = And he sat down to work on it all night and early morning.
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -29067,7 +29068,7 @@
 # rtl = yes
 # source = Beethoven's Moonlight Sonata
 # genre = fiction
-# text_en = That is how the lamenting shadow of the glorious moon was saved—From the furnace we were all disappointed—Shall forever save man the highest son.
+# text_en = That is how Beethoven's famous "Moonlight Sonata" was created, by which we are all so delighted, and which will provide people the greatest plesaure forever.
 1	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
 2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געשאַפֿן	שאַפֿן	VERB	_	_	0	root	_	Translit=geshafn|Translit_Lemma=shafn
