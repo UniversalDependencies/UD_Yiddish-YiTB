@@ -861,7 +861,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = py_sholem-aleichem_35
-# text = כאַפּט אַ קוק אױף אַ בילד פֿון זײַן לװיה אין ניו־יאָרק אין 1916 – איר װעט זען טױזענטער מענטשן װאָס זענען געקומען זיך געזענגען מיט דעם שרײַבער.
+# text = כאַפּט אַ קוק אױף אַ בילד פֿון זײַן לװיה אין ניו־יאָרק אין 1916 – איר װעט זען טױזענטער מענטשן װאָס זענען געקומען זיך געזעגענען מיט דעם שרײַבער.
 # translit = khapt a kuk oyf a bild fun zayn levaye in nyu-york in 1916 – ir vet zen toyzenter mentshn vos zenen gekumen zikh gezegenen mit dem shrayber.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
@@ -26534,8 +26534,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = In Yiddish one studied in cheders, in yeshivas, in kloizes and batei midrashim, translating Torah and holy books; in Yiddish, rabbis and geniuses delivered Torah and ethical teachings to the public; in Yiddish, ethical books were written.
-Yiddish was taught in Hebrew, in Jeshit, in Hebrew, in Hebrew, in Hebrew, and Aramaic, and Aramaic, in Hebrew, and Aramaic.
+# text_en = In Yiddish one studied in cheders, in yeshivas, in kloizes and batei midrashim, translating Torah and holy books; in Yiddish, rabbis and sages delivered Torah and ethical teachings to the congregation; in Yiddish, ethical books were written.
 1	אויף	אויף	ADP	_	_	2	case	_	Translit=oyf|Translit_Lemma=oyf
 2	ייִדיש	ײִדיש	PROPN	_	_	5	obl	_	Translit=yidish|Translit_Lemma=yidish
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
