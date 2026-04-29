@@ -4,7 +4,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Friday, 939, the Germans entered it.
+# text_en = Friday, September 8, 1939, the Germans arrived here.
 1	פֿרײַטאָג	פֿרײַטאָג	NOUN	_	_	10	obl	_	Translit=fraytog|Translit_Lemma=fraytog
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
 3	8–טן	8	ADJ	_	_	1	appos	_	Translit=8–tn|Translit_Lemma=8
@@ -23,7 +23,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The first years of the world of Germany reigned over to the Hebrews, all of them: “The Germans were un certain whether they stay here, or sheep will belong to the Russians.”
+# text_en = During the first days, the German military treated the Jews quite politely: the Germans were not sure whether they would stay here, or if Sierpc would belong to the Russians.
 1	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 2	ערשטע	ערשט	ADJ	_	_	3	amod	_	Translit=ershte|Translit_Lemma=ersht
 3	טעג	טאָג	NOUN	_	_	9	obl	_	Translit=teg|Translit_Lemma=tog
@@ -65,7 +65,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The attitude has been very short,Has begun Sodom at work and reaping beards.
+# text_en = The attitude changed very quickly; the usual practice began of putting Jews to work and cutting their beards.
 1	זײער	זײער	ADV	_	_	2	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
 2	גיך	גיך	ADJ	_	_	5	advmod	_	Translit=gikh|Translit_Lemma=gikh
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -94,7 +94,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = That's why we'll talk again.
+# text_en = We will talk about that another time.
 1	װעגן	װעגן	ADP	_	_	2	case	_	Translit=vegn|Translit_Lemma=vegn
 2	דעם	דער	DET	_	_	5	obl	_	Translit=dem|Translit_Lemma=der
 3	װעלן	װעלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln

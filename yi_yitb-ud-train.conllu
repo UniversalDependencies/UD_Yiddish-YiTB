@@ -26534,7 +26534,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = In Yiddish one studied in cheders, in yeshivas, in kloizes and batei midrashim, translating Torah and holy books; in Yiddish, rabbis and sages delivered Torah and ethical teachings to the congregation; in Yiddish, ethical books were written.
+# text_en = In Yiddish, people studied in traditional primary schools, in religious academies, in synagogues and little prayer houses, translating Torah and holy books; in Yiddish, rabbis and sages delivered Torah and ethical teachings to the congregation; in Yiddish, ethics books were written.
 1	אויף	אויף	ADP	_	_	2	case	_	Translit=oyf|Translit_Lemma=oyf
 2	ייִדיש	ײִדיש	PROPN	_	_	5	obl	_	Translit=yidish|Translit_Lemma=yidish
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -26584,7 +26584,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Have we been swept away in the world by a helmet in Yiddish, and nobody failed to ask whether is it right? Is Yiddish really our language and should we possess anything else?
+# text_en = In short, Jews have lived their entire lives in Yiddish, and it never occurred to anyone to ask whether it was right this way, whether Yiddish was really our language or whether we maybe should have a different language altogether.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	קיצור	קיצור	NOUN	_	_	9	obl	_	Translit=kitser|Translit_Lemma=kitser
 3	אויף	אויף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -26642,7 +26642,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Well, then what?
+# text_en = What else?
 1	וואָס	וואָס	PRON	_	_	0	root	_	Translit=vos|Translit_Lemma=vos
 2	דען	דען	ADV	_	_	1	advmod	_	SpaceAfter=No|Translit=den|Translit_Lemma=den
 3	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
@@ -26653,7 +26653,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Of course, there is a world to speak only in the language of which Jews have spoken through the ages and which all Jews understand.
+# text_en = Of course, one can only live fully in the language that Jews have had in their mouths for generations, and that all Jews understand.
 1	אַוודאי	אַוודאי	ADV	_	_	6	advmod	_	Translit=avade|Translit_Lemma=avade
 2	קען	קענען	AUX	_	_	6	aux	_	Translit=ken|Translit_Lemma=kenen
 3	מען	מען	PRON	_	_	6	nsubj	_	Translit=men|Translit_Lemma=men
@@ -26689,7 +26689,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Indeed, Jews did not ask a difficult question, or did it very, or in their language, in Judean.
+# text_en = So, Jews truly did not ask any crazy questions and did their own thing, and truly in their own language, in Yiddish.
 1	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
 2	ייִדן	ייִד	NOUN	_	_	5	nsubj	_	Translit=yidn|Translit_Lemma=yid
 3	טאַקע	טאַקע	ADV	_	_	5	advmod	_	Translit=take|Translit_Lemma=take
@@ -26719,7 +26719,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = worm Yiddish has given a world to see.
+# text_en = Because Yiddish opened up a whole world to them.
 1	וואָרעם	וואָרעם	SCONJ	_	_	4	mark	_	Translit=vorem|Translit_Lemma=vorem
 2	ייִדיש	ײִדישן	PROPN	_	_	4	nsubj	_	Translit=yidish|Translit_Lemma=yidishn
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -26736,7 +26736,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Do Jews, for example, know in the world to talk before Jewish newspapers came?
+# text_en = Did Jews, for example, know much about the world before Yiddish newspapers came out?
 1	צי	צי	PART	_	_	7	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	האָבן	האָבן	AUX	_	_	7	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	ייִדן	ייִד	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Translit=yidn|Translit_Lemma=yid
@@ -26765,7 +26765,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = Just because, at the time of daybreak, and bookshit was beginning in the world of Yiddish in this day, a Jew could learn what was practicing in Mizraim, between Jews and peoples, all the world.
+# text_en = Only when newspapers and books about the contemporary world started being printed in Yiddish could a Jew know what was going on in politics, in business, between Jews, in other countries and between nations–in general what was going on in the entire world.
 1	ערשט	ערשט	ADV	_	_	22	advmod	_	SpaceAfter=No|Translit=ersht|Translit_Lemma=ersht
 2	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
 3	אַז	אַז	SCONJ	_	_	6	mark	_	Translit=az|Translit_Lemma=az
@@ -26825,7 +26825,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = “Jewish people could learn what time elapsed from us how to keep it with Jews, their princesses and their spirit.
+# text_en = Jews could find out what the times demanded of us, how things stood with the Jews, with their livelihoods and with their spiritual lives.
 1	ייִדן	ייִד	NOUN	_	_	5	nsubj	_	Translit=yidn|Translit_Lemma=yid
 2	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -26861,7 +26861,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = And what Jews need to make demands, that Jews should not be abused, so that they would improve their squares.
+# text_en = What do Jews need to ask for, what is to be done so that Jews are not mistreated, so that they might improve their situation, and so forth.
 1	וואָס	וואָס	PRON	_	_	4	obj	_	Translit=vos|Translit_Lemma=vos
 2	דאַרפֿן	דאַרפֿן	AUX	_	_	4	aux	_	Translit=darfn|Translit_Lemma=darfn
 3	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|Translit_Lemma=yid
@@ -26894,7 +26894,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = A throughout Yiddish is a Jew, unloaded by Jews and in the world, like any other nation through its language, and could search for Mesha as not to remain untrimmed out of a world.
+# text_en = In short, through Yiddish a Jew was linked and connected to other Jews and to the world just like every other people through their language, and was able to seek means of how not to remain behind in the world.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	כּלל	כּלל	NOUN	_	_	9	obl	_	Translit=klal|Translit_Lemma=klal
 3	דורך	דורך	ADP	_	_	4	case	_	Translit=durkh|Translit_Lemma=durkh
@@ -26945,7 +26945,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = That's how our world celebrated, O Jews, that they needed.
+# text_en = That's how our little Yiddish world did things, as it always had; Jews maintained that's how it should be.
 1	אַזוי	אַזוי	ADV	_	_	4	advmod	_	Translit=azoy|Translit_Lemma=azoy
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -26971,7 +26971,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = How welcome is it now to be a whole yearling Jew, who, at a time, he announces the last year oath “Jewish,” and “Hebrew, about a “companion” that comes between two columns at the school and at the Talmud, in the images and caves.
+# text_en = How amazed an ordinary Jew must be now when, all of a sudden in recent years, he hears about "Yiddishists" and "Hebraists," about a "fight" that occurs between two camps in the secular schools and in religious schools, in the educational associations and Jewish city councils!
 1	ווי	ווי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
 2	פֿאַרוווּנדערט	פֿאַרוווּנדערן	ADJ	_	_	0	root	_	Translit=farvundert|Translit_Lemma=farvundern
 3	דאַרף	דאַרפֿן	AUX	_	_	2	aux	_	Translit=darf|Translit_Lemma=darfn
@@ -27035,7 +27035,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = What is he to do when [Hebrew] talk to be enticed at once? "Jewish" is not a language, but a shame, or a "ragon," which is to be asked to be advanced?
+# text_en = What is he to think when "Hebraists" suddenly try to convince him that "Yiddish" is not a language but only a disgrace, a "jargon" that one needs to get rid of as soon as possible.
 1	וואָס	וואָס	SCONJ	_	_	5	mark	_	Translit=vos|Translit_Lemma=vos
 2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
 3	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
@@ -27091,7 +27091,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = What should he think when he he he hears that "Hebrew" are dead, that "Jewish people" mean to blot out our whole "Eber" with the teaching, with all our good Judaism, to get no shield to blasphemy?
+# text_en = What should he think when he hears how "Hebraists" are in an uproar, that "Yiddishists" want to erase our entire "past" with the Torah, with all our good Judaism, leading practically to conversion.
 1	וואָס	וואָס	PRON	_	_	5	obj	_	Translit=vos|Translit_Lemma=vos
 2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
 3	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
@@ -27143,7 +27143,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = They, too, will save the people of Israel, all the Judeans who have never begun to speak Hebrew, like a water, and they, the Hebrews, will set us a new, a new Hebrew soul.
+# text_en = And they, the "Hebraists," will surely save the people of Israel, all Jewish children will suddenly start speaking Hebrew, fluently, and they, the "Hebraists," will implant in us a new, kosher Hebrew soul.
 1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
 2	זיי	זיי	PRON	_	_	11	nsubj	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
 3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
@@ -27199,7 +27199,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = You have to explain the thing to make every Jew understand what kind of "Jewish" is the "Egyptish" that is being made now into "Egypt-Israelite, from where they go and what they want?
+# text_en = So one needs to clarify the matter so that every Jew should understand what exactly "Yiddishists" are, who are now being made into enemies of Israel, where they come from, and what they want.
 1	דאַרף	דאַרפֿן	AUX	_	_	3	aux	_	Translit=darf|Translit_Lemma=darfn
 2	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 3	אויפֿקלערן	אויפֿקלערן	VERB	_	_	0	root	_	Translit=oyfklern|Translit_Lemma=oyfklern
@@ -27246,7 +27246,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = What further, then, is the abomination of the Holocaust, which is the abomination of the Judites and what they want to transport?
+# text_en = Furthermore, just what are "Hebraists," what kind of sins do they accuse the "Yiddishists" of, and what do they want to accomplish?
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	ווײַטער	ווײַטער	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=vayter|Translit_Lemma=vayter
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,|Translit_Lemma=,
@@ -27282,7 +27282,7 @@
 # rtl = yes
 # source = Jews and Yiddish
 # genre = nonfiction
-# text_en = What to do, he will understand now.
+# text_en = What to do, he will then understand for himself.
 1	וואָס	וואָס	PRON	_	_	3	obj	_	Translit=vos|Translit_Lemma=vos
 2	צו	צו	PART	_	_	3	mark	_	Translit=tsu|Translit_Lemma=tsu
 3	טאָן	טאָן	VERB	_	_	9	ccomp	_	SpaceAfter=No|Translit=ton|Translit_Lemma=ton
@@ -29101,7 +29101,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Do Bernie work?
+# text_en = Benny working?
 1	בעני	בעני	PROPN	_	_	2	nsubj	_	Translit=beni|Translit_Lemma=beni
 2	אַרבעט	אַרבעט	VERB	_	_	0	root	_	SpaceAfter=No|Translit=arbet|Translit_Lemma=arbet
 3	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
@@ -29112,7 +29112,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = I know as much as you know.
+# text_en = I know as much as you.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	װײס	וויסן	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=visn
 3	אַזױ	אַזױ	ADV	_	_	4	advmod	_	Translit=azoy|Translit_Lemma=azoy
@@ -29127,7 +29127,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Come home, eat well and be on your way.
+# text_en = He comes home, has his fill, and goes his way.
 1	קומט	קומען	VERB	_	_	0	root	_	Translit=kumt|Translit_Lemma=kumen
 2	אַהײם	אַהײם	ADV	_	_	1	compound:prt	_	SpaceAfter=No|Translit=aheym|Translit_Lemma=aheym
 3	,	,	PUNCT	_	_	4	punct	_	Translit=,|Translit_Lemma=,
@@ -29146,7 +29146,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = All the weeks I have not seen Peninnie of him.
+# text_en = For weeks, I haven't seen a penny from him.
 1	גאַנצע	גאַנץ	ADJ	_	_	2	amod	_	Translit=gantse|Translit_Lemma=gants
 2	װאָכן	וואָך	NOUN	_	_	10	obl	_	Translit=vokhn|Translit_Lemma=vokh
 3	האָב	האָבן	AUX	_	_	10	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -29165,7 +29165,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Go to all the myrtles,Buy down might be ten shekels a day,And all the myrtles and mine;Attend to one question,Why do they let them perish?
+# text_en = He goes to all the meetings, buys maybe ten papers a day and he's become best buds with the miners; keeps on asking 
 1	גײט	גײן	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=geyn
 2	אױף	אױף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
 3	אַלע	אַלע	DET	_	_	4	det	_	Translit=ale|Translit_Lemma=ale
@@ -29214,7 +29214,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Just look at it is late and Esther still has no serveers.
+# text_en = Look, it's already late, and Ester hasn't come home for dinner.
 1	זע	זען	VERB	_	_	7	parataxis	_	Translit=ze|Translit_Lemma=zen
 2	נאָר	נאָר	ADV	_	_	1	advmod	_	SpaceAfter=No|Translit=nor|Translit_Lemma=nor
 3	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
@@ -29239,7 +29239,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = It shall be so heavy and bitter: it is the only one who dwells on the house!
+# text_en = She works herself to death, poor child; after all, she is the only one that looks after this house.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	האָרעװעט	האָרעווען	VERB	_	_	0	root	_	Translit=horevet|Translit_Lemma=horeven
 3	נעבעך	נעבעך	ADV	_	_	2	advmod	_	Translit=nebekh|Translit_Lemma=nebekh
@@ -29266,7 +29266,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = A good child, speak in his father.
+# text_en = A good child, takes after her father.
 1	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 2	גוט	גוט	ADJ	_	_	3	amod	_	Translit=gut|Translit_Lemma=gut
 3	קינד	קינד	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=kind|Translit_Lemma=kind
@@ -29282,7 +29282,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = A good child and had no chance.
+# text_en = A good child but sadly has no luck.
 1	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 2	גוט	גוט	ADJ	_	_	3	amod	_	Translit=gut|Translit_Lemma=gut
 3	קינד	קינד	NOUN	_	_	0	root	_	Translit=kind|Translit_Lemma=kind
@@ -29300,7 +29300,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = A different girl during her years had married her last year.
+# text_en = Another girl her age has already gotten married.
 1	אַן	אַ	DET	_	_	3	det	_	Translit=an|Translit_Lemma=a
 2	אַנדער	אַנדער	DET	_	_	3	det	_	Translit=ander|Translit_Lemma=ander
 3	מײדל	מויד	NOUN	_	_	11	nsubj	_	Translit=meydl|Translit_Lemma=moyd
@@ -29320,7 +29320,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = In her years, I was now a mother, and still don't have grown up.
+# text_en = At her age, I was already a mother, and nothing has even started for her.
 1	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 3	אירע	איר	DET	_	_	4	det:poss	_	Translit=ire|Translit_Lemma=ir
@@ -29389,7 +29389,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Tell me how old is our Esther?
+# text_en = Tell me, I beg you, how old is our Esther?
 1	זאָג	זאָגן	VERB	_	_	0	root	_	Translit=zog|Translit_Lemma=zogn
 2	מיר	מיר	PRON	_	_	1	obl:arg	_	SpaceAfter=No|Translit=mir|Translit_Lemma=mir
 3	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
@@ -29437,7 +29437,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = She is thirty years old.
+# text_en = She is already thirty years old.
 1	זי	זי	PRON	_	_	6	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
 3	שױן	שױן	ADV	_	_	6	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -29452,7 +29452,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Do you know what it is thirty years old this day?”
+# text_en = Do you know what it means in today's time to be an unmarried woman of thirty years?
 1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 2	װײסט	װיסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=visn
 3	װאָס	װאָס	PRON	_	_	5	obj	_	Translit=vos|Translit_Lemma=vos
@@ -29486,7 +29486,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Do you think I worry whining for her?
+# text_en = Do you think that I don't worry for her enough?
 1	מײנסט	מײנען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=meynst|Translit_Lemma=meynen
 2	,	,	PUNCT	_	_	5	punct	_	Translit=,|Translit_Lemma=,
 3	אַז	אַז	SCONJ	_	_	5	mark	_	Translit=az|Translit_Lemma=az
@@ -29504,7 +29504,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = I can't see any problems all night.
+# text_en = I cannot get any shut-eye the whole night worrying.
 1	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	קען	קענען	AUX	_	_	9	aux	_	Translit=ken|Translit_Lemma=kenen
 3	דאָך	דאָך	ADV	_	_	9	advmod	_	Translit=dokh|Translit_Lemma=dokh
@@ -29524,7 +29524,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = You don't sleep; you're just a monster.
+# text_en = You don't sleep, you snore.
 1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 2	שלאָפֿסט	שלאָפֿן	VERB	_	_	0	root	_	Translit=shlofst|Translit_Lemma=shlofn
 3	נישט	נישט	PART	_	_	2	advmod	_	SpaceAfter=No|Translit=nisht|Translit_Lemma=nisht
@@ -29539,7 +29539,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = If you refuse to wipe out the dead, you may wipe out
+# text_en = And when you start to snore, you could wake the dead...
 1	און	און	CCONJ	_	_	12	cc	_	Translit=un|Translit_Lemma=un
 2	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
 3	דו	דו	PRON	_	_	4	nsubj	_	Translit=du|Translit_Lemma=du
@@ -29561,7 +29561,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Now suppose you, our men have blessed themselves—When you lay down in matters,When we lay down,Our matters once spread—
+# text_en = Ah, yes, in that way you men are blessed; when you lie down, you forget all your troubles, but when we wives lie down, our troubles are only just beginning.
 1	נו	נו	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=nu|Translit_Lemma=nu
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	יאָ	יאָ	INTJ	_	_	10	discourse	_	SpaceAfter=No|Translit=yo|Translit_Lemma=yo
@@ -29604,7 +29604,7 @@
 # rtl = yes
 # source = Bankrupt
 # genre = fiction
-# text_en = Who can sleep, who?
+# text_en = Who can sleep then, who?
 1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
 2	קען	קענען	AUX	_	_	4	aux	_	Translit=ken|Translit_Lemma=kenen
 3	דען	דען	ADV	_	_	4	advmod	_	Translit=den|Translit_Lemma=den
@@ -29619,7 +29619,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = When we look at the Jewish family in America, we see a square thing.
+# text_en = When we look at Jewish family life in America, we see a strange thing.
 1	ווען	ווען	SCONJ	_	_	3	mark	_	Translit=ven|Translit_Lemma=ven
 2	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 3	קוקן	קוקן	VERB	_	_	12	advcl	_	Translit=kukn|Translit_Lemma=kukn
@@ -29645,7 +29645,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = We see that the children's relief is all threw up against the mother, that she should turn her hair away, stringing the father’s relief to the children all of them.
+# text_en = We see that the raising of children is thrust entirely upon the mother; she is supposed to do everything, while the father's influence on the children is entirely neglected.
 1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זעען	זען	VERB	_	_	0	root	_	Translit=zeen|Translit_Lemma=zen
 3	אַז	אַז	SCONJ	_	_	12	mark	_	Translit=az|Translit_Lemma=az
@@ -29688,7 +29688,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = The results are sad. For the Amorites meanwhile the children do not seek their mothers, and the mothers have horrible anguish, they must devour themselves for all sickness, and nightmares, when the parents see that their children aren't like them to be, they still have to married to their mothers.
+# text_en = The result is a sad one, because most often the children do not want to obey their mothers, and the mothers suffer terrible aggravation, having to eat their hearts out over every little thing; and later, when the time comes that the fathers realize their children are not as they ought to be, they even have complaints against the mother.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	רעזולטאַט	רעזולטאַט	NOUN	_	_	5	nsubj	_	Translit=rezultat|Translit_Lemma=rezultat
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -29759,7 +29759,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = The mother is in all.
+# text_en = Everything is the mother's fault.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	מאַמע	מאַמע	NOUN	_	_	4	nsubj	_	Translit=mame|Translit_Lemma=mame
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -29774,7 +29774,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = She taught them that.
+# text_en = For she taught them.
 1	זי	זי	PRON	_	_	5	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיי	זיי	PRON	_	_	5	iobj	_	Translit=zey|Translit_Lemma=zey
@@ -29788,7 +29788,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = The average Jew in America doesn't want to get a grandparents of a father.
+# text_en = The average Jewish man in America does not want to grasp the great responsibility of a father.
 1	דער	דער	DET	_	_	3	det	_	Translit=der|Translit_Lemma=der
 2	דורכשניטלעכער	דורכשניטלעך	ADJ	_	_	3	amod	_	Translit=durkhshnitlekher|Translit_Lemma=durkhshnitlekh
 3	ייִד	ייִד	NOUN	_	_	9	nsubj	_	Translit=yid|Translit_Lemma=yid
@@ -29812,7 +29812,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = If he is better and splintered on his children more money, then he is definitely an enemy father; the rest is unharmed and the other is not his affair. My mother would do what she wants, and he would not have time to stray from his children by the provisions of his children.
+# text_en = When he is better off and spends more money on his children, he certainly thinks he is a good father, and the rest is not his business, so let the mother do what she wants; he has no time to concern himself with the upbringing of his children.
 1	ווען	ווען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
 2	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -29875,7 +29875,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = He has Impassionate things; he's a humble person.
+# text_en = He has more important things; he's a busy man!
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 3	בילכערע	בילכער	ADJ	_	_	4	amod	_	Translit=bilkhere|Translit_Lemma=bilkher
@@ -29894,7 +29894,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = Take from among her male and female slaves, and see that he is more known to his officials than to his own sons.
+# text_en = Take any manufacturer or businessman and you will see that he is a lot more acquainted with his office boys than with his own sons.
 1	נעמט	נעמען	VERB	_	_	0	root	_	Translit=nemt|Translit_Lemma=nemen
 2	אירגנד	_	DET	_	_	4	det	_	Translit=irgnd
 3	וועלכן	_	DET	_	_	4	det	_	Translit=velkhn
@@ -29928,7 +29928,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = He never takes the time to walk or to meet them at a half-stones, and have with them a serious and a long imprecation of life.
+# text_en = He never takes the time to go somewhere or spend half an hour with them to have a serious and long conversation about important things in life.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	נעמט	נעמען	VERB	_	_	0	root	_	Translit=nemt|Translit_Lemma=nemen
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -29971,7 +29971,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = The father takes off himself the heavy yoke and throws it into the mother.
+# text_en = The father takes the large, heavy yoke off of himself and throws it upon the mother.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	פֿאָטער	פֿאָטער	NOUN	_	_	3	nsubj	_	Translit=foter|Translit_Lemma=foter
 3	נעמט	נעמען	VERB	_	_	0	root	_	Translit=nemt|Translit_Lemma=nemen
@@ -29997,7 +29997,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = The entire reserve lies in the hands of the mother.
+# text_en = The entire upbringing lies in the hands of the mother.
 1	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 2	גאַנצע	גאַנץ	ADJ	_	_	3	amod	_	Translit=gantse|Translit_Lemma=gants
 3	דערציִונג	דערציִונג	NOUN	_	_	4	nsubj	_	Translit=dertsiung|Translit_Lemma=dertsiung
@@ -30016,7 +30016,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = She threshes the children as she wants.
+# text_en = She directs the children as she wants.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	דרעסט	דרעסן	VERB	_	_	0	root	_	Translit=drest|Translit_Lemma=dresn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -30032,7 +30032,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = He refuses to presume anything, thinking that it is his own guilt.
+# text_en = He doesn't want to take into consideration at all that this is his own fault.
 1	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
 2	וויל	וועלן	AUX	_	_	5	aux	_	Translit=vil|Translit_Lemma=veln
 3	גאָר	גאָר	ADV	_	_	4	advmod	_	Translit=gor|Translit_Lemma=gor
@@ -30054,7 +30054,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = Instead of the children, however, the children must have children’s claim.
+# text_en = But instead of them having complaints against the children, it is the children who ought to have complaints against them.
 1	אָבער	אָבער	CCONJ	_	_	15	cc	_	Translit=ober|Translit_Lemma=ober
 2	אַנשטאָט	אַנשטאָט	SCONJ	_	_	5	mark	_	Translit=anshtot|Translit_Lemma=anshtot
 3	זיי	זיי	PRON	_	_	5	nsubj	_	Translit=zey|Translit_Lemma=zey
@@ -30081,7 +30081,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = When children are young, they must have a teacher, a vegan.
+# text_en = When children are young, they must have a teacher, a guide.
 1	ווען	ווען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
 2	קינדער	קינד	NOUN	_	_	4	nsubj	_	Translit=kinder|Translit_Lemma=kind
 3	זײַנען	זײַן	AUX	_	_	4	cop	_	Translit=zaynen|Translit_Lemma=zayn
@@ -30102,7 +30102,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = There are things to why my mother can Athens.
+# text_en = There are things that the mother can attend to.
 1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
 2	זײַנען	זײַן	AUX	_	_	3	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	דאָ	דאָ	ADV	_	_	0	root	_	Translit=do|Translit_Lemma=do
@@ -30121,7 +30121,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = This sword is Gad is the best uninhabited person who can make life.
+# text_en = These hours are precisely the best investment that a person can make in life.
 1	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 2	דאָזיקע	דאָזיק	DET	_	_	3	det	_	Translit=dozike|Translit_Lemma=dozik
 3	שטונדן	שטונד	NOUN	_	_	8	nsubj	_	Translit=shtundn|Translit_Lemma=shtund
@@ -30145,7 +30145,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = Everyone asks for his age.
+# text_en = Every person prays he will live to be old.
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
 2	מענטש	מענטשן	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
 3	בעט	בעט	VERB	_	_	0	root	_	Translit=bet|Translit_Lemma=bet
@@ -30161,7 +30161,7 @@
 # rtl = yes
 # source = Fathers and Children
 # genre = nonfiction
-# text_en = You were standing at their birth and did not leave you until your livestock.
+# text_en = You were present at their birth, and they will not leave you until your last breath.
 1	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
 2	זײַט	זײַן	AUX	_	_	3	aux	_	Translit=zayt|Translit_Lemma=zayn
 3	געשטאַנען	שטיין	VERB	_	_	0	root	_	Translit=geshtanen|Translit_Lemma=shteyn
@@ -30184,7 +30184,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Words shall be announced and noted.
+# text_en = Words should be weighed and not counted.
 1	װערטער	וואָרט	NOUN	_	_	4	obj	_	Translit=verter|Translit_Lemma=vort
 2	זאָל	זאָלן	AUX	_	_	4	aux	_	Translit=zol|Translit_Lemma=zoln
 3	מען	מען	PRON	_	_	4	nsubj	_	Translit=men|Translit_Lemma=men
@@ -30200,7 +30200,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = His word would be a rod, not to be interpreted.
+# text_en = If his word was a stick, you couldn't lean on it.
 1	זײַן	זײַן	DET	_	_	2	det:poss	_	Translit=zayn|Translit_Lemma=zayn
 2	װאָרט	וואָרט	NOUN	_	_	6	nsubj	_	Translit=vort|Translit_Lemma=vort
 3	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
@@ -30222,7 +30222,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = His word would be a bridge, if I were afraid to cross.
+# text_en = If his word were a bridge, I'd be afraid to cross it.
 1	זײַן	זײַן	DET	_	_	2	det:poss	_	Translit=zayn|Translit_Lemma=zayn
 2	װאָרט	וואָרט	NOUN	_	_	6	nsubj	_	Translit=vort|Translit_Lemma=vort
 3	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
@@ -30243,7 +30243,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Nobody sees his own hunter.
+# text_en = No one sees the hump on his own back.
 1	קײנער	קײנער	DET	_	_	2	nsubj	_	Translit=keyner|Translit_Lemma=keyner
 2	זעט	זען	VERB	_	_	0	root	_	Translit=zet|Translit_Lemma=zen
 3	ניט	ניט	PART	_	_	2	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -30258,7 +30258,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = No one knows whom the sandals are over, but whoever walks in it.
+# text_en = No one knows whose shoe pinches, only the person who walks in it.
 1	קײנער	קײנער	DET	_	_	2	nsubj	_	Translit=keyner|Translit_Lemma=keyner
 2	װײס	ווײַס	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=vays
 3	ניט	ניט	PART	_	_	2	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -30281,7 +30281,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Every person has his fur.
+# text_en = Every person has his own burden.
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
 2	מענטש	מענטשן	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
 3	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
@@ -30292,16 +30292,16 @@
 
 # sent_id = yiddish_proverbs_7
 # text = צרות זײַנען פֿאַר דעם מענטשן װי זשאַװער פֿאַר אײַזן.
-# translit = tsres zaynen far dem mentshn vi zhaver far ayzn.
+# translit = tsores zaynen far dem mentshn vi zhaver far ayzn.
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Problems are for people like frogs for iron.
-1	צרות	צרי	NOUN	_	_	5	nsubj	_	Translit=tsres|Translit_Lemma=tsri
+# text_en = Troubles are to man what rust is to iron.
+1	צרות	צרה	NOUN	_	_	5	nsubj	_	Translit=tosres|Translit_Lemma=tsore
 2	זײַנען	זײַן	AUX	_	_	5	cop	_	Translit=zaynen|Translit_Lemma=zayn
 3	פֿאַר	פֿאַר	ADP	_	_	5	case	_	Translit=far|Translit_Lemma=far
 4	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
-5	מענטשן	מענטשן	NOUN	_	_	0	root	_	Translit=mentshn|Translit_Lemma=mentshn
+5	מענטשן	מענטש	NOUN	_	_	0	root	_	Translit=mentshn|Translit_Lemma=mentsh
 6	װי	װי	SCONJ	_	_	9	mark	_	Translit=vi|Translit_Lemma=vi
 7	זשאַװער	זשאַווער	NOUN	_	_	9	nsubj	_	Translit=zhaver|Translit_Lemma=zhaver
 8	פֿאַר	פֿאַר	ADP	_	_	9	case	_	Translit=far|Translit_Lemma=far
@@ -30314,7 +30314,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Humans are once stronger than iron and ever weaker than flies.
+# text_en = A person is sometimes stronger than iron and sometimes weaker than a fly.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	מענטש	מענטשן	NOUN	_	_	6	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
 3	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -30338,7 +30338,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = In a beautiful apple you can find a worm.
+# text_en = In a beautiful apple you sometimes find a worm.
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	שײנעם	שײַנעם	ADJ	_	_	4	amod	_	Translit=sheynem|Translit_Lemma=shaynem
@@ -30357,7 +30357,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = If my aunt had balls, she'd be my uncle.
+# text_en = If grandma had a beard, she would be a grandpa.
 1	אױב	אױב	SCONJ	_	_	5	mark	_	Translit=oyb|Translit_Lemma=oyb
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	באָבע	באָבע	NOUN	_	_	5	nsubj	_	Translit=bobe|Translit_Lemma=bobe
@@ -30379,7 +30379,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = If my aunt had balls, she'd be my uncle.
+# text_en = If grandma had wheels, she would be a wagon.
 1	אױב	אױב	SCONJ	_	_	5	mark	_	Translit=oyb|Translit_Lemma=oyb
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	באָבע	באָבע	NOUN	_	_	5	nsubj	_	Translit=bobe|Translit_Lemma=bobe
@@ -30400,7 +30400,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = A goat has also a beard and is still a goat.
+# text_en = A goat also has a beard and is still just a goat.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	ציג	ציג	NOUN	_	_	3	nsubj	_	Translit=tsig|Translit_Lemma=tsig
 3	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
@@ -30421,7 +30421,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = If a snare has broken loose, Will he become rude?
+# text_en = If you put a shtreimel on a pig, would it become a rabbi?
 1	טו	טאָן	VERB	_	_	10	advcl	_	Translit=tu|Translit_Lemma=ton
 2	אָן	אָן	ADP	_	_	4	case	_	Translit=on|Translit_Lemma=on
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -30441,7 +30441,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He wants a finger of the leopardy.
+# text_en = Show a pig a finger, it will want the whole hand.
 1	וײַז	ווײַזן	VERB	_	_	6	advcl	_	Translit=vayz|Translit_Lemma=vayzn
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	חזיר	חזירן	NOUN	_	_	1	obl:arg	_	Translit=khazer|Translit_Lemma=khazern
@@ -30460,7 +30460,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Ammonition of twenty-eight percent of horror, two percent of sugar and seventy percent of ruin.
+# text_en = A Jew is twenty-eight percent fear, two percent sugar, and seventy percent chutzpah.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	ײִד	ייִד	NOUN	_	_	3	nsubj	_	Translit=yid|Translit_Lemma=yid
 3	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
@@ -30485,7 +30485,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = A dog isn't sent into the Japanese.
+# text_en = Don't send a dog to the butcher shop.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
 2	הונט	הונט	NOUN	_	_	3	obj	_	Translit=hunt|Translit_Lemma=hunt
 3	שיקט	שיקן	VERB	_	_	0	root	_	Translit=shikt|Translit_Lemma=shikn
@@ -30502,7 +30502,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Don't stick the head of the wolf in the mouth.
+# text_en = Don't stick your head in a wolf's mouth.
 1	שטעק	שטעקן	VERB	_	_	0	root	_	Translit=shtek|Translit_Lemma=shtekn
 2	ניט	ניט	PART	_	_	1	advmod	_	Translit=nit|Translit_Lemma=nit
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -30520,7 +30520,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = What can happen from the flock that wolf is the judge?
+# text_en = What will become of the sheep when the wolf is the judge?
 1	װאָס	װאָס	PRON	_	_	3	nsubj	_	Translit=vos|Translit_Lemma=vos
 2	קען	קענען	AUX	_	_	3	aux	_	Translit=ken|Translit_Lemma=kenen
 3	װערן	װערן	VERB	_	_	0	root	_	Translit=vern|Translit_Lemma=vern
@@ -30541,7 +30541,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = The sea can't be drawn with a spoon.
+# text_en = You can't empty the ocean with a spoon.
 1	מיט	מיט	ADP	_	_	3	case	_	Translit=mit|Translit_Lemma=mit
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	לעפֿל	לאָפֿל	NOUN	_	_	9	obl	_	Translit=lefl|Translit_Lemma=lofl
@@ -30559,7 +30559,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = You can't dance with one ass for two marriages.
+# text_en = You can't dance at two weddings with one behind.
 1	מיט	מיט	ADP	_	_	3	case	_	Translit=mit|Translit_Lemma=mit
 2	אײן	_	NUM	_	_	3	nummod	_	Translit=eyn
 3	תּחת	תּחת	NOUN	_	_	7	obl	_	Translit=tokhes|Translit_Lemma=tokhes
@@ -30578,7 +30578,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = You can't make no stumble at a leak.
+# text_en = You can't make a shtreimel out of a pig's tail.
 1	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	חזירשן	חזירש	NOUN	_	_	4	nmod	_	Translit=khazershn|Translit_Lemma=khazersh
@@ -30597,7 +30597,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = It's better to be wise than to kiss an idiot.
+# text_en = Better a slap from a sage than a kiss from a fool.
 1	בעסער	בעסער	ADJ	_	_	0	root	_	Translit=beser|Translit_Lemma=beser
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	פּאַטש	פּאַטש	NOUN	_	_	1	nsubj	_	Translit=patsh|Translit_Lemma=patsh
@@ -30618,7 +30618,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = When God divided your mind, you slept.
+# text_en = When God was giving out brains, you were sleeping.
 1	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
 2	גאָט	גאָט	NOUN	_	_	4	nsubj	_	Translit=got|Translit_Lemma=got
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -30637,14 +30637,14 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = The horses look at the teeth, the men consider it.
+# text_en = With horses you check the teeth; with a human you check the brains.
 1	בײַ	בײַ	ADP	_	_	2	case	_	Translit=bay|Translit_Lemma=bay
 2	פֿערד	פֿערד	NOUN	_	_	3	obl	_	Translit=ferd|Translit_Lemma=ferd
 3	קוקט	קוקן	VERB	_	_	0	root	_	Translit=kukt|Translit_Lemma=kukn
 4	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 5	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
 6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
-7	צײן	צײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַ	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tseyn|Translit_Lemma=tsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsaynts
+7	צײן	צאָן	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tseyn|Translit_Lemma=tson
 8	;	;	PUNCT	_	_	11	punct	_	Translit=;|Translit_Lemma=;
 9	בײַ	בײַ	ADP	_	_	11	case	_	Translit=bay|Translit_Lemma=bay
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
@@ -30659,7 +30659,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Wherever we need to help you don't have the energy.
+# text_en = When you need brains, brawn doesn't help.
 1	װוּ	װוּ	ADV	_	_	4	advmod	_	Translit=vu|Translit_Lemma=vu
 2	מען	מען	PRON	_	_	4	nsubj	_	Translit=men|Translit_Lemma=men
 3	דאַרף	דאַרפֿן	AUX	_	_	4	aux	_	Translit=darf|Translit_Lemma=darfn
@@ -30752,11 +30752,233 @@
 # source = extra
 # gender = grammar-examples
 # text_en = He came in.
-1	ער	_	PRON	_	_	6	nsubj	_	Translit=er
-2	האָט	_	AUX	_	_	6	aux	_	Translit=hot
-3	אַ	_	DET	_	_	4	det	_	Translit=a
-4	קום	_	VERB	_	_	6	compound:lvc	_	Translit=kum
-5	אַרײַן	_	ADV	_	_	4	compound:prt	_	Translit=arayn
-6	געטאָן	_	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geton
-7	.	_	PUNCT	_	_	6	punct	_	Translit=.
+1	ער	ער	PRON	_	_	6	nsubj	_	Translit=er|Translit_Lemma=er
+2	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
+3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
+4	קום	קומען	VERB	_	_	6	compound:lvc	_	Translit=kum|Translit_Lemma=kumen
+5	אַרײַן	אַרײַן	ADV	_	_	4	compound:prt	_	Translit=arayn|Translit_Lemma=arayn
+6	געטאָן	טאָן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geton|Translit_Lemma=ton
+7	.	_	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
 
+# sent_id = 1
+# text = מיר ברענגען דעם אַלטן מאַן אַ נײַעם מאַנטל.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	_
+2	ברענגען	ברענגען	VERB	_	_	0	root	_	_
+3	דעם	דער	DET	_	_	5	det	_	_
+4	אַלטן	אַלט	ADJ	_	_	5	amod	_	_
+5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	_
+6	אַ	אַ	DET	_	_	8	det	_	_
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	_
+8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 2
+# text = דער תּלמיד גיט דעם גוטן לערער אַ קוס.
+1	דער	דער	DET	_	_	2	det	_	_
+2	תּלמיד	תּלמיד	NOUN	_	_	3	nsubj	_	_
+3	גיט	געבן	VERB	_	_	0	root	_	_
+4	דעם	דער	DET	_	_	6	det	_	_
+5	גוטן	גוט	ADJ	_	_	6	amod	_	_
+6	לערער	לערער	NOUN	_	_	3	obl:arg	_	_
+7	אַ	אַ	DET	_	_	8	det	_	_
+8	קוס	קוס	NOUN	_	_	3	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 3
+# text = די מאַמע האָט געגעבן דער גוטן טאָכטער אַ נײַ קלײדל.
+1	די	דער	DET	_	_	2	det	_	_
+2	מאַמע	מאַמע	NOUN	_	_	4	nsubj	_	_
+3	האָט	האָבן	AUX	_	_	4	aux	_	_
+4	געגעבן	געבן	VERB	_	_	0	root	_	_
+5	דער	דער	DET	_	_	7	det	_	_
+6	גוטן	גוט	ADJ	_	_	7	amod	_	_
+7	טאָכטער	טאָכטער	NOUN	_	_	4	obl:arg	_	_
+8	אַ	אַ	DET	_	_	10	det	_	_
+9	נײַ	נײַ	ADJ	_	_	10	amod	_	_
+10	קלײדל	קלײדל	NOUN	_	_	4	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 4
+# text = די שנור האָט געװױנט מיט דער אַלטער שװיגער.
+1	די	דער	DET	_	_	2	det	_	_
+2	שנור	שנור	NOUN	_	_	4	nsubj	_	_
+3	האָט	האָבן	AUX	_	_	4	aux	_	_
+4	געװױנט	ווױנען	VERB	_	_	0	root	_	_
+5	מיט	מיט	ADP	_	_	8	case	_	_
+6	דער	דער	DET	_	_	8	det	_	_
+7	אַלטער	אַלטער	ADJ	_	_	8	amod	_	_
+8	שװיגער	שװיגער	NOUN	_	_	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 5
+# text = דער טאַטע האָט געזונגען דעם קלײנעם קינד אַ װיגליד.
+1	דער	דער	DET	_	_	2	det	_	_
+2	טאַטע	טאַטע	NOUN	_	_	4	nsubj	_	_
+3	האָט	האָבן	AUX	_	_	4	aux	_	_
+4	געזונגען	זינגען	VERB	_	_	0	root	_	_
+5	דעם	דער	DET	_	_	7	det	_	_
+6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	_
+7	קינד	קינד	NOUN	_	_	4	obl:arg	_	_
+8	אַ	אַ	DET	_	_	9	det	_	_
+9	װיגליד	װיגליד	NOUN	_	_	4	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 6
+# text = דאָס קלוגע מײדל האָט גערעדט מיט אַ קלײן קינד.
+1	דאָס	דער	DET	_	_	3	det	_	_
+2	קלוגע	קלוג	ADJ	_	_	3	amod	_	_
+3	מײדל	מויד	NOUN	_	_	5	nsubj	_	_
+4	האָט	האָבן	AUX	_	_	5	aux	_	_
+5	גערעדט	רעדן	VERB	_	_	0	root	_	_
+6	מיט	מיט	ADP	_	_	9	case	_	_
+7	אַ	אַ	DET	_	_	9	det	_	_
+8	קלײן	קלײן	ADJ	_	_	9	amod	_	_
+9	קינד	קינד	NOUN	_	_	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 7
+# text = די גבֿירים ברענגען די אָרעמע מענטשן תּבֿואה.
+1	די	דער	DET	_	_	2	det	_	_
+2	גבֿירים	גבֿיר	NOUN	_	_	3	nsubj	_	_
+3	ברענגען	ברענגען	VERB	_	_	0	root	_	_
+4	די	דער	DET	_	_	6	det	_	_
+5	אָרעמע	אָרעמ	ADJ	_	_	6	amod	_	_
+6	מענטשן	מענטשן	NOUN	_	_	3	obl:arg	_	_
+7	תּבֿואה	תּבֿואה	NOUN	_	_	3	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 8
+# text = מיר גיבן דעם רײַכן מאַן דאָס געלד.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	_
+2	גיבן	גיב	VERB	_	_	0	root	_	_
+3	דעם	דער	DET	_	_	5	det	_	_
+4	רײַכן	רײַכן	NOUN	_	_	5	amod	_	_
+5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	_
+6	דאָס	דער	DET	_	_	7	det	_	_
+7	געלד	געלד	NOUN	_	_	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 9
+# text = פֿאַר װאָס גיבן מיר געלד אַ רײַכן מאַן?
+1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	_
+2	װאָס	װאָס	PRON	_	_	3	obl	_	_
+3	גיבן	גיב	VERB	_	_	0	root	_	_
+4	מיר	מיר	PRON	_	_	3	nsubj	_	_
+5	געלד	געלד	ADV	_	_	3	obj	_	_
+6	אַ	אַ	DET	_	_	8	det	_	_
+7	רײַכן	רײַכן	ADJ	_	_	8	amod	_	_
+8	מאַן	מאַן	NOUN	_	_	3	obl:arg	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 10
+# text = די תּלמידים רעדן מיט דעם פֿרומען לערער.
+1	די	דער	DET	_	_	2	det	_	_
+2	תּלמידים	תּלמיד	NOUN	_	_	3	nsubj	_	_
+3	רעדן	רעדן	VERB	_	_	0	root	_	_
+4	מיט	מיט	ADP	_	_	7	case	_	_
+5	דעם	דער	DET	_	_	7	det	_	_
+6	פֿרומען	פֿרום	ADJ	_	_	7	amod	_	_
+7	לערער	לערער	NOUN	_	_	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 11
+# text = די קינדער זיצן אַרום דעם קלײנעם טיש.
+1	די	דער	DET	_	_	2	det	_	_
+2	קינדער	קינד	NOUN	_	_	3	nsubj	_	_
+3	זיצן	זיצן	VERB	_	_	0	root	_	_
+4	אַרום	אַרום	ADV	_	_	7	case	_	_
+5	דעם	דער	DET	_	_	7	det	_	_
+6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	_
+7	טיש	טיש	NOUN	_	_	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 12
+# text = מיר טראַכטן פֿון דעם פֿרײַען מענטש.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	_
+2	טראַכטן	טראַכטן	VERB	_	_	0	root	_	_
+3	פֿון	פֿון	ADP	_	_	6	case	_	_
+4	דעם	דער	DET	_	_	6	det	_	_
+5	פֿרײַען	פֿרײַען	ADJ	_	_	6	amod	_	_
+6	מענטש	מענטשן	NOUN	_	_	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 13
+# text = הערשעלע איז געװען אָנגעטאָן אין אַ נײַעם מאַנטל.
+1	הערשעלע	הערשעל	PROPN	_	_	4	nsubj	_	_
+2	איז	זײַן	AUX	_	_	4	aux	_	_
+3	געװען	זײַן	AUX	_	_	4	aux	_	_
+4	אָנגעטאָן	אָנטאָן	VERB	_	_	0	root	_	_
+5	אין	אין	ADP	_	_	8	case	_	_
+6	אַ	אַ	DET	_	_	8	det	_	_
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	_
+8	מאַנטל	מאַנטל	NOUN	_	_	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 14
+# text = די מאַמע גיט דער שײנער טאָכטער די שיך.
+1	די	דער	DET	_	_	2	det	_	_
+2	מאַמע	מאַמע	NOUN	_	_	3	nsubj	_	_
+3	גיט	געבן	VERB	_	_	0	root	_	_
+4	דער	דער	DET	_	_	6	det	_	_
+5	שײנער	שײַנער	ADJ	_	_	6	amod	_	_
+6	טאָכטער	טאָכטער	NOUN	_	_	3	obl:arg	_	_
+7	די	דער	DET	_	_	8	det	_	_
+8	שיך	שוך	NOUN	_	_	3	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 15
+# text = דער גבֿיר רעדט צו אַן אָרעמער פֿרױ.
+1	דער	דער	DET	_	_	2	det	_	_
+2	גבֿיר	גבֿיר	NOUN	_	_	3	nsubj	_	_
+3	רעדט	רעדן	VERB	_	_	0	root	_	_
+4	צו	צו	ADP	_	_	7	case	_	_
+5	אַן	אַ	DET	_	_	7	det	_	_
+6	אָרעמער	אָרעם	ADJ	_	_	7	amod	_	_
+7	פֿרױ	פֿרי	NOUN	_	_	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 16
+# text = מיר גיבן דעם גוטן קינד אַ דאָלאַר.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	_
+2	גיבן	גיב	VERB	_	_	0	root	_	_
+3	דעם	דער	DET	_	_	5	det	_	_
+4	גוטן	גוט	ADJ	_	_	5	amod	_	_
+5	קינד	קינד	NOUN	_	_	2	obl:arg	_	_
+6	אַ	אַ	DET	_	_	7	det	_	_
+7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 17
+# text = מיר גיבן אַ גוט קינד אַ דאָלאַר.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	_
+2	גיבן	גיב	VERB	_	_	0	root	_	_
+3	אַ	אַ	DET	_	_	5	det	_	_
+4	גוט	גוט	ADJ	_	_	5	amod	_	_
+5	קינד	קינד	NOUN	_	_	2	obl:arg	_	_
+6	אַ	אַ	DET	_	_	7	det	_	_
+7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 18
+# text = זײ קױפֿן דעם קלײנעם ייִנגל אַ נײַעם מאַנטל.
+1	זײ	זײ	PRON	_	_	2	nsubj	_	_
+2	קױפֿן	קױפֿן	VERB	_	_	0	root	_	_
+3	דעם	דער	DET	_	_	5	det	_	_
+4	קלײנעם	קלײַן	ADJ	_	_	5	amod	_	_
+5	ייִנגל	יונג	NOUN	_	_	2	obl:arg	_	_
+6	אַ	אַ	DET	_	_	8	det	_	_
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	_
+8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 19
+# text = זײ קױפֿן אַ קלײן ייִנגל אַ נײַעם מאַנטל.
+1	זײ	זײ	PRON	_	_	2	nsubj	_	_
+2	קױפֿן	קױפֿן	VERB	_	_	0	root	_	_
+3	אַ	אַ	DET	_	_	5	det	_	_
+4	קלײן	קלײן	ADJ	_	_	5	amod	_	_
+5	ייִנגל	יונג	NOUN	_	_	2	obl:arg	_	_
+6	אַ	אַ	DET	_	_	8	det	_	_
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	_
+8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
