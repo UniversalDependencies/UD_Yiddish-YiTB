@@ -31395,7 +31395,7 @@
 9	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
 # sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-sample.8
-# text = מע טאָר ניט פֿאַרזוצן דעם קאָמפּאָט.
+# text = מע טאָר ניט פֿאַרזוכן דעם קאָמפּאָט.
 # translit = me tor nit farzukhn dem kompot.
 # text_en = You can't taste the compote.
 1	מע	מען	PRON	_	_	4	nsubj	_	Translit=me|Translit_Lemma=men
