@@ -30132,7 +30132,7 @@
 8	אינוועסטמענט	אינוועסטמענט	NOUN	_	_	0	root	_	Translit=investment|Translit_Lemma=investment
 9	וואָס	וואָס	SCONJ	_	_	13	mark	_	Translit=vos|Translit_Lemma=vos
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
-11	מענטש	מענטשן	NOUN	_	_	13	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
+11	מענטש	מענטש	NOUN	_	_	13	nsubj	_	Translit=mentsh|Translit_Lemma=mentsh
 12	קען	קענען	AUX	_	_	13	aux	_	Translit=ken|Translit_Lemma=kenen
 13	מאַכן	מאַכן	VERB	_	_	8	acl:relcl	_	Translit=makhn|Translit_Lemma=makhn
 14	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
@@ -30147,7 +30147,7 @@
 # genre = nonfiction
 # text_en = Every person prays he will live to be old.
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
-2	מענטש	מענטשן	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
+2	מענטש	מענטש	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentsh
 3	בעט	בעט	VERB	_	_	0	root	_	Translit=bet|Translit_Lemma=bet
 4	ער	ער	PRON	_	_	7	nsubj	_	Translit=er|Translit_Lemma=er
 5	זאָל	זאָלן	AUX	_	_	7	aux	_	Translit=zol|Translit_Lemma=zoln
@@ -30283,7 +30283,7 @@
 # genre = proverb
 # text_en = Every person has his own burden.
 1	יעדער	_	DET	_	_	2	det	_	Translit=yeder
-2	מענטש	מענטשן	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
+2	מענטש	מענטש	NOUN	_	_	3	nsubj	_	Translit=mentsh|Translit_Lemma=mentsh
 3	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 4	זיך	זיך	PRON	_	_	3	obl	_	Translit=zikh|Translit_Lemma=zikh
 5	זײַן	זײַן	DET	_	_	6	det:poss	_	Translit=zayn|Translit_Lemma=zayn
@@ -30316,7 +30316,7 @@
 # genre = proverb
 # text_en = A person is sometimes stronger than iron and sometimes weaker than a fly.
 1	אַ	אַ	DET	_	_	2	det	_	Translit=a|Translit_Lemma=a
-2	מענטש	מענטשן	NOUN	_	_	6	nsubj	_	Translit=mentsh|Translit_Lemma=mentshn
+2	מענטש	מענטש	NOUN	_	_	6	nsubj	_	Translit=mentsh|Translit_Lemma=mentsh
 3	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 5	מאָל	מאָל	NOUN	_	_	6	obl	_	Translit=mol|Translit_Lemma=mol
@@ -30760,11 +30760,213 @@
 6	געטאָן	טאָן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geton|Translit_Lemma=ton
 7	.	_	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-19
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.1
+# text = מיר ברענגען דעם אַלטן מאַן אַ נײַעם מאַנטל.
+# translit = mir brengen dem altn man a nayem mantl.
+# text_en = We bring the old man a new coat.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	ברענגען	ברענגען	VERB	_	_	0	root	_	Translit=brengen|Translit_Lemma=brengen
+3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
+4	אַלטן	אַלט	ADJ	_	_	5	amod	_	Translit=altn|Translit_Lemma=alt
+5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	Translit=man|Translit_Lemma=man
+6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
+8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.5c
+# text = עס האָבן געבראַכט די חבֿרים דאָס געלד.
+# translit = es hobn gebrakht di khaveyrim dos geld.
+# text_en = The friends brought the money.
+1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
+2	האָבן	האָבן	AUX	_	_	3	aux	_	Translit=hobn|Translit_Lemma=hobn
+3	געבראַכט	ברענגען	VERB	_	_	0	root	_	Translit=gebrakht|Translit_Lemma=brengen
+4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+5	חבֿרים	חבֿר	NOUN	_	_	3	nsubj	_	Translit=khaveyrim|Translit_Lemma=khaver
+6	דאָס	דער	DET	_	_	7	det	_	Translit=dos|Translit_Lemma=der
+7	געלד	געלד	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=geld|Translit_Lemma=geld
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-204-grammar.ii.more_about_es_subject.2-1
+# text = עס טוט מיר װײ דער קאָפּ.
+# translit = es tut mir vey der kop.
+# text_en = My head hurts.
+1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
+2	טוט	טאָן	VERB	_	_	0	root	_	Translit=tut|Translit_Lemma=ton
+3	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
+4	װײ	װײ	NOUN	_	_	2	xcomp	_	Translit=vey|Translit_Lemma=vey
+5	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
+6	קאָפּ	קאָפּ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=kop|Translit_Lemma=kop
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.3a
+# text = דער קעלנער גיסט די זופּ אױף דעם קונה.
+# translit = der kelner gist di zup oyf dem koyne.
+# text_en = The waiter spills the soup on the customer.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	קעלנער	קעלנער	NOUN	_	_	3	nsubj	_	Translit=kelner|Translit_Lemma=kelner
+3	גיסט	גיסן	VERB	_	_	0	root	_	Translit=gist|Translit_Lemma=gisn
+4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+5	זופּ	זופּ	NOUN	_	_	3	obj	_	Translit=zup|Translit_Lemma=zup
+6	אױף	אױף	ADP	_	_	8	case	_	Translit=oyf|Translit_Lemma=oyf
+7	דעם	דער	DET	_	_	8	det	_	Translit=dem|Translit_Lemma=der
+8	קונה	קונה	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=koyne|Translit_Lemma=koyne
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.6
+# text = דאָס קלוגע מײדל האָט גערעדט מיט אַ קלײן קינד.
+# translit = dos kluge meydl hot geredt mit a kleyn kind.
+# text_en = The smart girl was talking to a small child.
+1	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
+2	קלוגע	קלוג	ADJ	_	_	3	amod	_	Translit=kluge|Translit_Lemma=klug
+3	מײדל	מויד	NOUN	_	_	5	nsubj	_	Translit=meydl|Translit_Lemma=moyd
+4	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
+5	גערעדט	רעדן	VERB	_	_	0	root	_	Translit=geredt|Translit_Lemma=redn
+6	מיט	מיט	ADP	_	_	9	case	_	Translit=mit|Translit_Lemma=mit
+7	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+8	קלײן	קלײן	ADJ	_	_	9	amod	_	Translit=kleyn|Translit_Lemma=kleyn
+9	קינד	קינד	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=kind|Translit_Lemma=kind
+10	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.masculine_dative-4
+# text = הערשעלע איז געװען אָנגעטאָן אין אַ נײַעם מאַנטל.
+# translit = hershele iz geven ongeton in a nayem mantl.
+# text_en = Hershele was dressed in a new coat.
+1	הערשעלע	הערשעלע	PROPN	_	_	4	nsubj	_	Translit=hershele|Translit_Lemma=hershele
+2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
+3	געװען	זײַן	AUX	_	_	4	aux	_	Translit=geven|Translit_Lemma=zayn
+4	אָנגעטאָן	אָנטאָן	VERB	_	_	0	root	_	Translit=ongeton|Translit_Lemma=onton
+5	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
+8	מאַנטל	מאַנטל	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-1b
+# text = איך האָב ליב טרינקען טײ אין אַ גלאַז.
+# translit = ikh hob lib trinken tey in a glaz.
+# text_en = I love drinking tea in a glass.
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	AUX	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
+3	ליב	ליב	NOUN	_	_	2	compound:lvc	_	Translit=lib|Translit_Lemma=lib
+4	טרינקען	טרינקען	VERB	_	_	2	xcomp	_	Translit=trinken|Translit_Lemma=trinken
+5	טײ	טײ	NOUN	_	_	4	obj	_	Translit=tey|Translit_Lemma=tey
+6	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
+7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+8	גלאַז	גלאַז	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=glaz|Translit_Lemma=glaz
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.7
+# text = די מאַמע האָט געװאָלט די קינדער זאָלן גרײטן צום טיש.
+# translit = di mame hot gevolt di kinder zoln greytn tsum tish.
+# text_en = The mother wants the children to set the table.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	מאַמע	מאַמע	NOUN	_	_	4	nsubj	_	Translit=mame|Translit_Lemma=mame
+3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+4	געװאָלט	װעלן	VERB	_	_	0	root	_	Translit=gevolt|Translit_Lemma=veln
+5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+6	קינדער	קינד	NOUN	_	_	8	obj	_	Translit=kinder|Translit_Lemma=kind
+7	זאָלן	זאָלן	AUX	_	_	8	aux	_	Translit=zoln|Translit_Lemma=zoln
+8	גרײטן	גרײטן	VERB	_	_	4	ccomp	_	Translit=greytn|Translit_Lemma=greytn
+9-10	צום	_	_	_	_	_	_	_	Translit=tsum
+9	צו	צו	ADP	_	_	11	case	_	Translit=tsu|Translit_Lemma=tsu
+10	דעם	דער	DET	_	_	11	det	_	Translit=dem|Translit_Lemma=der
+11	טיש	טיש	NOUN	_	_	8	obl	_	SpaceAfter=No|Translit=tish|Translit_Lemma=tish
+12	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.masculine_dative-3
+# text = מיר טראַכטן פֿון דעם פֿרײַען מענטש.
+# translit = mir trakhtn fun dem frayen mentsh.
+# text_en = We think of the free man.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	טראַכטן	טראַכטן	VERB	_	_	0	root	_	Translit=trakhtn|Translit_Lemma=trakhtn
+3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
+4	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+5	פֿרײַען	פֿרײַ	ADJ	_	_	6	amod	_	Translit=frayen|Translit_Lemma=fray
+6	מענטש	מענטש	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=mentsh|Translit_Lemma=mentsh
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.dative_plural-1
+# text = גוטע מענטשן העלפֿן די אָרעמע מענטשן.
+# translit = gute mentshn helfn di oreme mentshn.
+# text_en = Good people help the poor people.
+1	גוטע	גוט	ADJ	_	_	2	amod	_	Translit=gute|Translit_Lemma=gut
+2	מענטשן	מענטש	NOUN	_	_	3	nsubj	_	Translit=mentshn|Translit_Lemma=mentsh
+3	העלפֿן	העלפֿן	VERB	_	_	0	root	_	Translit=helfn|Translit_Lemma=helfn
+4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+5	אָרעמע	אָרעם	ADJ	_	_	6	amod	_	Translit=oreme|Translit_Lemma=orem
+6	מענטשן	מענטש	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Translit=mentshn|Translit_Lemma=mentsh
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.neuter_dative-3
+# text = זײ קױפֿן דעם קלײנעם ייִנגל אַ נײַעם מאַנטל.
+# translit = zey koyfn dem kleynem yingl a nayem mantl.
+# text_en = They are buying the little boy a new coat.
+1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zey|Translit_Lemma=zey
+2	קױפֿן	קױפֿן	VERB	_	_	0	root	_	Translit=koyfn|Translit_Lemma=koyfn
+3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
+4	קלײנעם	קלײַן	ADJ	_	_	5	amod	_	Translit=kleynem|Translit_Lemma=klayn
+5	ייִנגל	יונג	NOUN	_	_	2	obl:arg	_	Translit=yingl|Translit_Lemma=yung
+6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
+8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.2
+# text = דער תּלמיד גיט דעם גוטן לערער אַ קוס.
+# translit = der talmed git dem gutn lerer a kus.
+# text_en = The student gives the good teacher a kiss.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	תּלמיד	תּלמיד	NOUN	_	_	3	nsubj	_	Translit=talmed|Translit_Lemma=talmed
+3	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
+4	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+5	גוטן	גוט	ADJ	_	_	6	amod	_	Translit=gutn|Translit_Lemma=gut
+6	לערער	לערער	NOUN	_	_	3	obl:arg	_	Translit=lerer|Translit_Lemma=lerer
+7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+8	קוס	קוס	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=kus|Translit_Lemma=kus
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.7
+# text = די גבֿירים ברענגען די אָרעמע מענטשן תּבֿואה.
+# translit = di gvirim brengen di oreme mentshn tvue.
+# text_en = The rich people bring wheat to the poor people.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	גבֿירים	גבֿיר	NOUN	_	_	3	nsubj	_	Translit=gvirim|Translit_Lemma=gvir
+3	ברענגען	ברענגען	VERB	_	_	0	root	_	Translit=brengen|Translit_Lemma=brengen
+4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+5	אָרעמע	אָרעם	ADJ	_	_	6	amod	_	Translit=oreme|Translit_Lemma=orem
+6	מענטשן	מענטש	NOUN	_	_	3	obl:arg	_	Translit=mentshn|Translit_Lemma=mentsh
+7	תּבֿואה	תּבֿואה	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=tvue|Translit_Lemma=tvue
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-203-grammar.i.verb_plus_infinitive-sample.5
+# text = די תּלמידים דאַרפֿן קריגן נײַע ביכער.
+# translit = di talmidim darfn krign naye bikher.
+# text_en = The students have to get new books.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	תּלמידים	תּלמיד	NOUN	_	_	4	nsubj	_	Translit=talmidim|Translit_Lemma=talmed
+3	דאַרפֿן	דאַרפֿן	AUX	_	_	4	aux	_	Translit=darfn|Translit_Lemma=darfn
+4	קריגן	קריגן	VERB	_	_	0	root	_	Translit=krign|Translit_Lemma=krign
+5	נײַע	נײַ	ADJ	_	_	6	amod	_	Translit=naye|Translit_Lemma=nay
+6	ביכער	בוך	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=bikher|Translit_Lemma=bukh
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.4b
+# text = עס איז דער זײדע געשטאָרבן.
+# translit = es iz der zeyde geshtorbn.
+# text_en = The grandfather died.
+1	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	5	aux	_	Translit=iz|Translit_Lemma=zayn
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	זײדע	זײַדע	NOUN	_	_	5	nsubj	_	Translit=zeyde|Translit_Lemma=zeyde
+5	געשטאָרבן	שטאַרבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geshtorbn|Translit_Lemma=shtarbn
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.neuter_dative-4
 # text = זײ קױפֿן אַ קלײן ייִנגל אַ נײַעם מאַנטל.
-# translit = zay koyfn a kleyn yingl a nayem mantl.
+# translit = zey koyfn a kleyn yingl a nayem mantl.
 # text_en = They are buying a little boy a new coat.
-1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zay|Translit_Lemma=zay
+1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zey|Translit_Lemma=zey
 2	קױפֿן	קױפֿן	VERB	_	_	0	root	_	Translit=koyfn|Translit_Lemma=koyfn
 3	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
 4	קלײן	קלײן	ADJ	_	_	5	amod	_	Translit=kleyn|Translit_Lemma=kleyn
@@ -30774,7 +30976,475 @@
 8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
 9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-3
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.2
+# text = איך װיל דו זאָלסט טאָן די אַרבעט.
+# translit = ikh vil du zolst ton di arbet.
+# text_en = I want you to do the work.
+# rtl = yes
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	װיל	וועלן	VERB	_	_	0	root	_	Translit=vil|Translit_Lemma=veln
+3	דו	דו	PRON	_	_	5	nsubj	_	Translit=du|Translit_Lemma=du
+4	זאָלסט	זאָלן	AUX	_	_	5	aux	_	Translit=zolst|Translit_Lemma=zoln
+5	טאָן	טאָן	VERB	_	_	2	ccomp	_	Translit=ton|Translit_Lemma=ton
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	אַרבעט	אַרבעט	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=arbet|Translit_Lemma=arbet
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.feminine_dative-2
+# text = דער גבֿיר רעדט צו אַן אָרעמער פֿרױ.
+# translit = der gvir redt tsu an oremer froy.
+# text_en = The rich man speaks to a poor woman.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	גבֿיר	גבֿיר	NOUN	_	_	3	nsubj	_	Translit=gvir|Translit_Lemma=gvir
+3	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
+4	צו	צו	ADP	_	_	7	case	_	Translit=tsu|Translit_Lemma=tsu
+5	אַן	אַ	DET	_	_	7	det	_	Translit=an|Translit_Lemma=a
+6	אָרעמער	אָרעם	ADJ	_	_	7	amod	_	Translit=oremer|Translit_Lemma=orem
+7	פֿרױ	פֿרױ	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=froy|Translit_Lemma=froy
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-1
+# text = דער קונה װיל פֿאַרזוכן דעם קאָמפּאָט.
+# translit = der koyne vil farzukhn dem kompot.
+# text_en = The customer wants to taste the compote.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	קונה	קונה	NOUN	_	_	4	nsubj	_	Translit=koyne|Translit_Lemma=koyne
+3	װיל	וועלן	AUX	_	_	4	aux	_	Translit=vil|Translit_Lemma=veln
+4	פֿאַרזוכן	פֿאַרזוכן	VERB	_	_	0	root	_	Translit=farzukhn|Translit_Lemma=farzukhn
+5	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+6	קאָמפּאָט	קאָמפּאָט	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=kompot|Translit_Lemma=kompot
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.6
+# text = ער האָט געװאָלט איך זאָל קומען.
+# translit = er hot gevolt ikh zol kumen.
+# text_en = He wanted me to come.
+# rtl = yes
+1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
+2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
+3	געװאָלט	װעלן	VERB	_	_	0	root	_	Translit=gevolt|Translit_Lemma=veln
+4	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+5	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
+6	קומען	קומען	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=kumen|Translit_Lemma=kumen
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case-2
+# text = פֿאַר װאָס גיבן מיר געלד אַ רײַכן מאַן?
+# translit = far vos gibn mir geld a raykhn man?
+# text_en = Why are we giving money to a rich man?
+1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	Translit=far|Translit_Lemma=far
+2	װאָס	װאָס	PRON	_	_	3	obl	_	Translit=vos|Translit_Lemma=vos
+3	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
+4	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
+5	געלד	געלד	ADV	_	_	3	obj	_	Translit=geld|Translit_Lemma=geld
+6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
+7	רײַכן	רײַך	ADJ	_	_	8	amod	_	Translit=raykhn|Translit_Lemma=raykh
+8	מאַן	מאַן	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Translit=man|Translit_Lemma=man
+9	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=?|Translit_Lemma=?
+
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-sample.extra
+# text = ער איז פֿאַר די געסט.
+# translit = er iz far di gest.
+# text_en = It is for the guests.
+1	ער	ער	PRON	_	_	5	nsubj	_	Translit=er|Translit_Lemma=er
+2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
+3	פֿאַר	פֿאַר	ADP	_	_	5	case	_	Translit=far|Translit_Lemma=far
+4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+5	געסט	גאַס	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=gest|Translit_Lemma=gas
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.5
+# text = דער טאַטע האָט געזונגען דעם קלײנעם קינד אַ װיגליד.
+# translit = der tate hot gezungen dem kleynem kind a viglid.
+# text_en = The father sang a lullaby to the small child.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	טאַטע	טאַטע	NOUN	_	_	4	nsubj	_	Translit=tate|Translit_Lemma=tate
+3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+4	געזונגען	זינגען	VERB	_	_	0	root	_	Translit=gezungen|Translit_Lemma=zingen
+5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
+6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	Translit=kleynem|Translit_Lemma=klayn
+7	קינד	קינד	NOUN	_	_	4	obl:arg	_	Translit=kind|Translit_Lemma=kind
+8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+9	װיגליד	װיגליד	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=viglid|Translit_Lemma=viglid
+10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-sample.7
+# text = זונטיק אין דער פֿרי העלפֿן די קינדער גרײטן צום טיש.
+# translit = zuntik in der fri helfn di kinder greytn tsum tish.
+# text_en = Sunday morning, the children help set the table.
+1	זונטיק	זונטיק	NOUN	_	_	5	obl	_	Translit=zuntik|Translit_Lemma=zuntik
+2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	פֿרי	פֿרי	NOUN	_	_	1	nmod	_	Translit=fri|Translit_Lemma=fri
+5	העלפֿן	העלפֿן	VERB	_	_	0	root	_	Translit=helfn|Translit_Lemma=helfn
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	קינדער	קינד	NOUN	_	_	5	nsubj	_	Translit=kinder|Translit_Lemma=kind
+8	גרײטן	גרײטן	VERB	_	_	5	xcomp	_	Translit=greytn|Translit_Lemma=greytn
+9-10	צום	_	_	_	_	_	_	_	Translit=tsum
+9	צו	צו	ADP	_	_	11	case	_	Translit=tsu|Translit_Lemma=tsu
+10	דעם	דער	DET	_	_	11	det	_	Translit=dem|Translit_Lemma=der
+11	טיש	טיש	NOUN	_	_	8	obl	_	SpaceAfter=No|Translit=tish|Translit_Lemma=tish
+12	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-203-grammar.i.verb_plus_infinitive-sample.1
+# text = די קונים קענען בעשטעלן װאָס זײ װילן.
+# translit = di koynem kenen beshteln vos zey viln.
+# text_en = The customers can order what they want.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	קונים	קונים	NOUN	_	_	4	nsubj	_	Translit=koynem|Translit_Lemma=koynem
+3	קענען	קענען	AUX	_	_	4	aux	_	Translit=kenen|Translit_Lemma=kenen
+4	בעשטעלן	בעשטעלן	VERB	_	_	0	root	_	Translit=beshteln|Translit_Lemma=beshteln
+5	װאָס	װאָס	PRON	_	_	7	obj	_	Translit=vos|Translit_Lemma=vos
+6	זײ	זײ	PRON	_	_	7	nsubj	_	Translit=zey|Translit_Lemma=zey
+7	װילן	װעלן	AUX	_	_	4	ccomp	_	SpaceAfter=No|Translit=viln|Translit_Lemma=veln
+8	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.1b
+# text = עס זײַנען די בלינצעס געשמאַק.
+# translit = es zaynen di blintses geshmak.
+# text_en = The blintzes are delicious.
+1	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
+2	זײַנען	זײַן	AUX	_	_	5	cop	_	Translit=zaynen|Translit_Lemma=zayn
+3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+4	בלינצעס	בלינצע	ADJ	_	_	5	nsubj	_	Translit=blintses|Translit_Lemma=blintse
+5	געשמאַק	געשמאַק	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=geshmak|Translit_Lemma=geshmak
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.dative_plural-4
+# text = מיר פֿאָרן צו רײַכע שװעסטערקינדער.
+# translit = mir forn tsu raykhe shvesterkinder.
+# text_en = We are going to rich cousins.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	פֿאָרן	פֿאָרן	VERB	_	_	0	root	_	Translit=forn|Translit_Lemma=forn
+3	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
+4	רײַכע	רײַכך	ADJ	_	_	5	amod	_	Translit=raykhe|Translit_Lemma=raykh
+5	שװעסטערקינדער	שװעסטערקינד	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=shvesterkinder|Translit_Lemma=shvesterkind
+6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.1
+# text = מיר װילן איר זאָלט עסן װעטשערע מיט אונדז.
+# translit = mir viln ir zolt esn vetshere mit undz.
+# text_en = We want you to eat dinner with us.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	װילן	װעלן	VERB	_	_	0	root	_	Translit=viln|Translit_Lemma=veln
+3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
+4	זאָלט	זאָלן	AUX	_	_	5	aux	_	Translit=zolt|Translit_Lemma=zoln
+5	עסן	עסן	VERB	_	_	2	ccomp	_	Translit=esn|Translit_Lemma=esn
+6	װעטשערע	װעטשערע	NOUN	_	_	5	obj	_	Translit=vetshere|Translit_Lemma=vetshere
+7	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
+8	אונדז	מיר	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=undz|Translit_Lemma=mir
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.masculine_dative-2
+# text = די קינדער זיצן אַרום דעם קלײנעם טיש.
+# translit = di kinder zitsn arum dem kleynem tish.
+# text_en = The children are sitting around the little table.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	קינדער	קינד	NOUN	_	_	3	nsubj	_	Translit=kinder|Translit_Lemma=kind
+3	זיצן	זיצן	VERB	_	_	0	root	_	Translit=zitsn|Translit_Lemma=zitsn
+4	אַרום	אַרום	ADV	_	_	7	case	_	Translit=arum|Translit_Lemma=arum
+5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
+6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	Translit=kleynem|Translit_Lemma=klayn
+7	טיש	טיש	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tish|Translit_Lemma=tish
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.feminine_dative-1
+# text = די מאַמע גיט דער שײנער טאָכטער די שיך.
+# translit = di mame git der sheyner tokhter di shikh.
+# text_en = The mother gives the pretty daughter the shoes.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	מאַמע	מאַמע	NOUN	_	_	3	nsubj	_	Translit=mame|Translit_Lemma=mame
+3	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
+4	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
+5	שײנער	שײַן	ADJ	_	_	6	amod	_	Translit=sheyner|Translit_Lemma=sheyn
+6	טאָכטער	טאָכטער	NOUN	_	_	3	obl:arg	_	Translit=tokhter|Translit_Lemma=tokhter
+7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
+8	שיך	שוך	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=shikh|Translit_Lemma=shukh
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case.masculine_dative-1
+# text = די תּלמידים רעדן מיט דעם פֿרומען לערער.
+# translit = di talmidim redn mit dem frumen lerer.
+# text_en = The students are speaking to the pious teacher.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	תּלמידים	תּלמיד	NOUN	_	_	3	nsubj	_	Translit=talmidim|Translit_Lemma=talmed
+3	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
+4	מיט	מיט	ADP	_	_	7	case	_	Translit=mit|Translit_Lemma=mit
+5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
+6	פֿרומען	פֿרום	ADJ	_	_	7	amod	_	Translit=frumen|Translit_Lemma=frum
+7	לערער	לערער	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=lerer|Translit_Lemma=lerer
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.dative_plural-3
+# text = מיר פֿאָרן צו די רײַכע שװעסטערקינדער.
+# translit = mir forn tsu di raykhe shvesterkinder.
+# text_en = We are going to our rich cousins.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	פֿאָרן	פֿאָרן	VERB	_	_	0	root	_	Translit=forn|Translit_Lemma=forn
+3	צו	צו	ADP	_	_	6	case	_	Translit=tsu|Translit_Lemma=tsu
+4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+5	רײַכע	רײַך	ADJ	_	_	6	amod	_	Translit=raykhe|Translit_Lemma=raykh
+6	שװעסטערקינדער	שװעסטערקינד	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=shvesterkinder|Translit_Lemma=shvesterkind
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.neuter_dative-2
+# text = מיר גיבן אַ גוט קינד אַ דאָלאַר.
+# translit = mir gibn a gut kind a dolar.
+# text_en = We give a good child a dollar.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
+3	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
+4	גוט	גוט	ADJ	_	_	5	amod	_	Translit=gut|Translit_Lemma=gut
+5	קינד	קינד	NOUN	_	_	2	obl:arg	_	Translit=kind|Translit_Lemma=kind
+6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
+7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=dolar|Translit_Lemma=dolar
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-20-grammar.i.verb_plus_infinitive-sample.3
+# text = די תּלמידה מוז ענטפֿערן אױף די פֿראַגעס.
+# translit = di talmide muz entfern oyf di frages.
+# text_en = The student must answer the questions.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	תּלמידה	תּלמידה	NOUN	_	_	4	nsubj	_	Translit=talmido|Translit_Lemma=talmido
+3	מוז	מוזן	AUX	_	_	4	aux	_	Translit=muz|Translit_Lemma=muzn
+4	ענטפֿערן	ענטפֿֿערן	VERB	_	_	0	root	_	Translit=entfern|Translit_Lemma=entfern
+5	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	פֿראַגעס	פֿראַגע	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=frages|Translit_Lemma=frage
+8	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.4
+# text = איך װיל דער קעלנער זאָל דערלאַנגען די בילקעס.
+# translit = ikh vil der kelner zol derlangen di bulkes.
+# text_en = I want the waiter to serve the rolls.
+# rtl = yes
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	װיל	וועלן	VERB	_	_	0	root	_	Translit=vil|Translit_Lemma=veln
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	קעלנער	קעלנער	NOUN	_	_	6	nsubj	_	Translit=kelner|Translit_Lemma=kelner
+5	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
+6	דערלאַנגען	דערלאַנגען	VERB	_	_	2	ccomp	_	Translit=derlangen|Translit_Lemma=derlangen
+7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
+8	בילקעס	בילקע	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=bulkes|Translit_Lemma=bulke
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-2
+# text = דאָס קינד װיל טרינקען דעם זאַפֿט.
+# translit = dos kind vil trinken dem zaft.
+# text_en = The child wants to drink the juice.
+1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
+2	קינד	קינד	NOUN	_	_	4	nsubj	_	Translit=kind|Translit_Lemma=kind
+3	װיל	וועלן	AUX	_	_	4	aux	_	Translit=vil|Translit_Lemma=veln
+4	טרינקען	טרינקען	VERB	_	_	0	root	_	Translit=trinken|Translit_Lemma=trinken
+5	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+6	זאַפֿט	זאַפֿט	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=zaft|Translit_Lemma=zaft
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.1a
+# text = די בלינצעס זײַנען געשמאַק.
+# translit = di blintses zaynen geshmak.
+# text_en = The blintzes are delicious.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	בלינצעס	בלינצע	NOUN	_	_	4	nsubj	_	Translit=blintses|Translit_Lemma=blintse
+3	זײַנען	זײַן	AUX	_	_	4	cop	_	Translit=zaynen|Translit_Lemma=zayn
+4	געשמאַק	געשמאַק	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=geshmak|Translit_Lemma=geshmak
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.dative_plural-2
+# text = גוטע מענטשן העלפֿן אָרעמע מענטשן.
+# translit = gute mentshn helfn oreme mentshn.
+# text_en = Good people help poor people.
+1	גוטע	גוט	ADJ	_	_	2	amod	_	Translit=gute|Translit_Lemma=gut
+2	מענטשן	מענטש	NOUN	_	_	3	nsubj	_	Translit=mentshn|Translit_Lemma=mentsh
+3	העלפֿן	העלפֿן	VERB	_	_	0	root	_	Translit=helfn|Translit_Lemma=helfn
+4	אָרעמע	אָרעם	ADJ	_	_	5	amod	_	Translit=oreme|Translit_Lemma=orem
+5	מענטשן	מענטש	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Translit=mentshn|Translit_Lemma=mentsh
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.5b
+# text = עס האָבן די חבֿרים געבראַכט דאָס געלד.
+# translit = es hobn di khaveyrim gebrakht dos geld.
+# text_en = The friends brought the money.
+1	עס	עס	PRON	_	_	5	expl	_	Translit=es|Translit_Lemma=es
+2	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
+3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
+4	חבֿרים	חבֿר	NOUN	_	_	5	nsubj	_	Translit=khaveyrim|Translit_Lemma=khaver
+5	געבראַכט	ברענגען	VERB	_	_	0	root	_	Translit=gebrakht|Translit_Lemma=brengen
+6	דאָס	דער	DET	_	_	7	det	_	Translit=dos|Translit_Lemma=der
+7	געלד	געלד	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=geld|Translit_Lemma=geld
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-203-grammar.i.verb_plus_infinitive-sample.2
+# text = דו מעגסט אָנטאָן די נײַע סטיװל.
+# translit = du megst onton di naye stivl.
+# text_en = You may put on the new boots.
+1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
+2	מעגסט	מעגן	AUX	_	_	3	aux	_	Translit=megst|Translit_Lemma=megn
+3	אָנטאָן	אָנטאָן	VERB	_	_	0	root	_	Translit=onton|Translit_Lemma=onton
+4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+5	נײַע	נײַ	ADJ	_	_	6	amod	_	Translit=naye|Translit_Lemma=nay
+6	סטיװל	סטיװל	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=stivl|Translit_Lemma=stivl
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-170-grammar.i.dative_case.neuter_dative-1
+# text = מיר גיבן דעם גוטן קינד אַ דאָלאַר.
+# translit = mir gibn dem gutn kind a dolar.
+# text_en = We give the good child a dollar.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
+3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
+4	גוטן	גוט	ADJ	_	_	5	amod	_	Translit=gutn|Translit_Lemma=gut
+5	קינד	קינד	NOUN	_	_	2	obl:arg	_	Translit=kind|Translit_Lemma=kind
+6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
+7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=dolar|Translit_Lemma=dolar
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-1a
+# text = איך האָב ליב צו טרינקען טײ אין אַ גלאַז.
+# translit = ikh hob lib tsu trinken tey in a glaz.
+# text_en = I love to drink tea in a glass.
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	האָב	האָבן	VERB	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
+3	ליב	ליב	NOUN	_	_	2	compound:lvc	_	Translit=lib|Translit_Lemma=lib
+4	צו	צו	PART	_	_	5	mark	_	Translit=tsu|Translit_Lemma=tsu
+5	טרינקען	טרינקען	VERB	_	_	2	xcomp	_	Translit=trinken|Translit_Lemma=trinken
+6	טײ	טײ	NOUN	_	_	5	obj	_	Translit=tey|Translit_Lemma=tey
+7	אין	אין	ADP	_	_	9	case	_	Translit=in|Translit_Lemma=in
+8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
+9	גלאַז	גלאַז	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=glaz|Translit_Lemma=glaz
+10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-169-grammar.i.dative_case-1
+# text = מיר גיבן דעם רײַכן מאַן דאָס געלד.
+# translit = mir gibn dem raykhn man dos geld.
+# text_en = We are giving the rich man the money.
+1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
+2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
+3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
+4	רײַכן	רײַך	NOUN	_	_	5	amod	_	Translit=raykhn|Translit_Lemma=raykh
+5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	Translit=man|Translit_Lemma=man
+6	דאָס	דער	DET	_	_	7	det	_	Translit=dos|Translit_Lemma=der
+7	געלד	געלד	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=geld|Translit_Lemma=geld
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.3
+# text = ער װיל דאָס װײַב זאָל טראָגן טײַערע קלײדער.
+# translit = er vil dos vayb zol trogn tayere kleyder.
+# text_en = He wants his wife to wear expensive clothes.
+# rtl = yes
+1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
+2	װיל	וועלן	VERB	_	_	0	root	_	Translit=vil|Translit_Lemma=veln
+3	דאָס	דער	DET	_	_	4	det	_	Translit=dos|Translit_Lemma=der
+4	װײַב	ווײַב	NOUN	_	_	6	nsubj	_	Translit=vayb|Translit_Lemma=vayb
+5	זאָל	זאָלן	AUX	_	_	6	aux	_	Translit=zol|Translit_Lemma=zoln
+6	טראָגן	טראָגן	VERB	_	_	2	ccomp	_	Translit=trogn|Translit_Lemma=trogn
+7	טײַערע	טײַער	ADJ	_	_	8	amod	_	Translit=tayere|Translit_Lemma=tayer
+8	קלײדער	קלײד	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=kleyder|Translit_Lemma=kleyd
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.5d
+# text = עס האָבן געבראַכט דאָס געלד די חבֿרים.
+# translit = es hobn gebrakht dos geld di khaveyrim.
+# text_en = The friends brought the money.
+1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
+2	האָבן	האָבן	AUX	_	_	3	aux	_	Translit=hobn|Translit_Lemma=hobn
+3	געבראַכט	ברענגען	VERB	_	_	0	root	_	Translit=gebrakht|Translit_Lemma=brengen
+4	דאָס	דער	DET	_	_	5	det	_	Translit=dos|Translit_Lemma=der
+5	געלד	געלד	NOUN	_	_	3	obj	_	Translit=geld|Translit_Lemma=geld
+6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
+7	חבֿרים	חבֿר	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=khaveyrim|Translit_Lemma=khaver
+8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-203-grammar.i.verb_plus_infinitive-sample.4
+# text = איך װיל פֿאַרזוכן אַלץ.
+# translit = ikh vil farzukhn alts.
+# text_en = I want to taste everything.
+1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
+2	װיל	וועלן	AUX	_	_	3	aux	_	Translit=vil|Translit_Lemma=veln
+3	פֿאַרזוכן	פֿאַרזוכן	VERB	_	_	0	root	_	Translit=farzukhn|Translit_Lemma=farzukhn
+4	אַלץ	אַלץ	PRON	_	_	3	obj	_	SpaceAfter=No|Translit=alts|Translit_Lemma=alts
+5	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.4
+# text = די שנור האָט געװױנט מיט דער אַלטער שװיגער.
+# translit = di shnur hot gevoynt mit der alter shviger.
+# text_en = The daughter-in-law lived with her old mother-in-law.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	שנור	שנור	NOUN	_	_	4	nsubj	_	Translit=shnur|Translit_Lemma=shnur
+3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
+4	געװױנט	ווױנען	VERB	_	_	0	root	_	Translit=gevoynt|Translit_Lemma=voynen
+5	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
+6	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
+7	אַלטער	אַלט	ADJ	_	_	8	amod	_	Translit=alter|Translit_Lemma=alt
+8	שװיגער	שװיגער	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=shviger|Translit_Lemma=shviger
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-3
+# text = דער טאַטע װיל ניט גרײטן צום טיש.
+# translit = der tate vil nit greytn tsum tish.
+# text_en = Father does not want to set the table.
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	טאַטע	טאַטע	NOUN	_	_	5	nsubj	_	Translit=tate|Translit_Lemma=tate
+3	װיל	וועלן	AUX	_	_	5	aux	_	Translit=vil|Translit_Lemma=veln
+4	ניט	ניט	PART	_	_	5	advmod	_	Translit=nit|Translit_Lemma=nit
+5	גרײטן	גרײטן	VERB	_	_	0	root	_	Translit=greytn|Translit_Lemma=greytn
+6-7	צום	_	_	_	_	_	_	_	Translit=tsum
+6	צו	צו	ADP	_	_	8	case	_	Translit=tsu|Translit_Lemma=tsu
+7	דעם	דער	DET	_	_	8	det	_	Translit=dem|Translit_Lemma=der
+8	טיש	טיש	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=tish|Translit_Lemma=tish
+9	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-sample.8
+# text = מע טאָר ניט פֿאַרזוצן דעם קאָמפּאָט.
+# translit = me tor nit farzukhn dem kompot.
+# text_en = You can't taste the compote.
+1	מע	מען	PRON	_	_	4	nsubj	_	Translit=me|Translit_Lemma=men
+2	טאָר	טאָרן	AUX	_	_	4	aux	_	Translit=tor|Translit_Lemma=torn
+3	ניט	ניט	PART	_	_	4	advmod	_	Translit=nit|Translit_Lemma=nit
+4	פֿאַרזוכן	פֿאַרזוכן	VERB	_	_	0	root	_	Translit=farzukhn|Translit_Lemma=farzukhn
+5	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+6	קאָמפּאָט	קאָמפּאָט	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=kompot|Translit_Lemma=kompot
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-sample.5
+# text = דער אײדעם װיל דער נדן זאָל זײַן גרעסער.
+# translit = der eydem vil der nadn zol zayn greser.
+# text_en = The son-in-law wants the dowry to be bigger.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
+2	אײדעם	אײדעם	NOUN	_	_	3	nsubj	_	Translit=eydem|Translit_Lemma=eydem
+3	װיל	וועלן	VERB	_	_	0	root	_	Translit=vil|Translit_Lemma=veln
+4	דער	דער	DET	_	_	5	det	_	Translit=der|Translit_Lemma=der
+5	נדן	נדן	NOUN	_	_	8	nsubj	_	Translit=nadn|Translit_Lemma=nadn
+6	זאָל	זאָלן	AUX	_	_	8	aux	_	Translit=zol|Translit_Lemma=zoln
+7	זײַן	זײַן	AUX	_	_	8	cop	_	Translit=zayn|Translit_Lemma=zayn
+8	גרעסער	גרױס	ADJ	_	_	3	ccomp	_	SpaceAfter=No|Translit=greser|Translit_Lemma=groys
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.5a
+# text = די חבֿרים האָבן געבראַכט דאָס געלד.
+# translit = di khaveyrim hobn gebrakht dos geld.
+# text_en = The friends brought the money.
+1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
+2	חבֿרים	חבֿר	NOUN	_	_	4	nsubj	_	Translit=khaveyrim|Translit_Lemma=khaver
+3	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
+4	געבראַכט	ברענגען	VERB	_	_	0	root	_	Translit=gebrakht|Translit_Lemma=brengen
+5	דאָס	דער	DET	_	_	6	det	_	Translit=dos|Translit_Lemma=der
+6	געלד	געלד	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=geld|Translit_Lemma=geld
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.4c
+# text = עס איז געשטאָרבן דער זײדע.
+# translit = es iz geshtorbn der zeyde.
+# text_en = The grandfather died.
+1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
+2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
+3	געשטאָרבן	שטאַרבן	VERB	_	_	0	root	_	Translit=geshtorbn|Translit_Lemma=shtarbn
+4	דער	דער	DET	_	_	5	det	_	Translit=der|Translit_Lemma=der
+5	זײדע	זײַדע	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=zeyde|Translit_Lemma=zeyde
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+
+# sent_id = zucker-9b-168-grammar.i.dative_case-sample.3
 # text = די מאַמע האָט געגעבן דער גוטן טאָכטער אַ נײַ קלײדל.
 # translit = di mame hot gegebn der gutn tokhter a nay kleydl.
 # text_en = The mother gave the good daughter a new dress.
@@ -30790,234 +31460,75 @@
 10	קלײדל	קלײד	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=kleydl|Translit_Lemma=kleyd
 11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-2
-# text = דער תּלמיד גיט דעם גוטן לערער אַ קוס.
-# translit = der talmed git dem gutn lerer a kus.
-# text_en = The student gives the good teacher a kiss.
-1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
-2	תּלמיד	תּלמיד	NOUN	_	_	3	nsubj	_	Translit=talmed|Translit_Lemma=talmed
-3	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
-4	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
-5	גוטן	גוט	ADJ	_	_	6	amod	_	Translit=gutn|Translit_Lemma=gut
-6	לערער	לערער	NOUN	_	_	3	obl:arg	_	Translit=lerer|Translit_Lemma=lerer
-7	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
-8	קוס	קוס	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=kus|Translit_Lemma=kus
-9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-14
-# text = די מאַמע גיט דער שײנער טאָכטער די שיך.
-# translit = di mame git der sheyner tokhter di shikh.
-# text_en = The mother gives the pretty daughter the shoes.
-1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	מאַמע	מאַמע	NOUN	_	_	3	nsubj	_	Translit=mame|Translit_Lemma=mame
-3	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
-4	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
-5	שײנער	שײַן	ADJ	_	_	6	amod	_	Translit=sheyner|Translit_Lemma=sheyn
-6	טאָכטער	טאָכטער	NOUN	_	_	3	obl:arg	_	Translit=tokhter|Translit_Lemma=tokhter
-7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
-8	שיך	שוך	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=shikh|Translit_Lemma=shukh
-9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-4
-# text = די שנור האָט געװױנט מיט דער אַלטער שװיגער.
-# translit = di shnur hot gevoynt mit der alter shviger.
-# text_en = The daughter-in-law lived with her old mother-in-law.
-1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	שנור	שנור	NOUN	_	_	4	nsubj	_	Translit=shnur|Translit_Lemma=shnur
-3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
-4	געװױנט	ווױנען	VERB	_	_	0	root	_	Translit=gevoynt|Translit_Lemma=voynen
-5	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-6	דער	דער	DET	_	_	8	det	_	Translit=der|Translit_Lemma=der
-7	אַלטער	אַלט	ADJ	_	_	8	amod	_	Translit=alter|Translit_Lemma=alt
-8	שװיגער	שװיגער	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=shviger|Translit_Lemma=shviger
-9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-18
-# text = זײ קױפֿן דעם קלײנעם ייִנגל אַ נײַעם מאַנטל.
-# translit = zay koyfn dem kleynem yingl a nayem mantl.
-# text_en = They are buying the little boy a new coat.
-1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zay|Translit_Lemma=zay
-2	קױפֿן	קױפֿן	VERB	_	_	0	root	_	Translit=koyfn|Translit_Lemma=koyfn
-3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
-4	קלײנעם	קלײַן	ADJ	_	_	5	amod	_	Translit=kleynem|Translit_Lemma=klayn
-5	ייִנגל	יונג	NOUN	_	_	2	obl:arg	_	Translit=yingl|Translit_Lemma=yung
-6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
-7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
-8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
-9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-8
-# text = מיר גיבן דעם רײַכן מאַן דאָס געלד.
-# translit = mir gibn dem raykhn man dos geld.
-# text_en = We are giving the rich man the money.
-1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
-3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
-4	רײַכן	רײַך	NOUN	_	_	5	amod	_	Translit=raykhn|Translit_Lemma=raykh
-5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	Translit=man|Translit_Lemma=man
-6	דאָס	דער	DET	_	_	7	det	_	Translit=dos|Translit_Lemma=der
-7	געלד	געלד	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=geld|Translit_Lemma=geld
+# sent_id = zucker-10b-204-grammar.i.verb_plus_infinitive-sample.6
+# text = איר לערנט זיך לײענען און שרײַבן ייִדיש.
+# translit = ir lernt zikh leyenen un shraybn yidish.
+# text_en = You are learning to read and write Yiddish.
+1	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
+2	לערנט	לערנען	VERB	_	_	0	root	_	Translit=lernt|Translit_Lemma=lernen
+3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
+4	לײענען	לײענען	VERB	_	_	2	xcomp	_	Translit=leyenen|Translit_Lemma=leyenen
+5	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
+6	שרײַבן	שרײַבן	VERB	_	_	4	conj	_	Translit=shraybn|Translit_Lemma=shraybn
+7	ייִדיש	ייִדיש	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidish
 8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-6
-# text = דאָס קלוגע מײדל האָט גערעדט מיט אַ קלײן קינד.
-# translit = dos kluge meydl hot geredt mit a kleyn kind.
-# text_en = The smart girl was talking to a small child.
-1	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
-2	קלוגע	קלוג	ADJ	_	_	3	amod	_	Translit=kluge|Translit_Lemma=klug
-3	מײדל	מויד	NOUN	_	_	5	nsubj	_	Translit=meydl|Translit_Lemma=moyd
-4	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
-5	גערעדט	רעדן	VERB	_	_	0	root	_	Translit=geredt|Translit_Lemma=redn
-6	מיט	מיט	ADP	_	_	9	case	_	Translit=mit|Translit_Lemma=mit
-7	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
-8	קלײן	קלײן	ADJ	_	_	9	amod	_	Translit=kleyn|Translit_Lemma=kleyn
-9	קינד	קינד	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=kind|Translit_Lemma=kind
-10	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-1
-# text = מיר ברענגען דעם אַלטן מאַן אַ נײַעם מאַנטל.
-# translit = mir brengen dem altn man a nayem mantl.
-# text_en = We bring the old man a new coat.
-1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	ברענגען	ברענגען	VERB	_	_	0	root	_	Translit=brengen|Translit_Lemma=brengen
-3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
-4	אַלטן	אַלט	ADJ	_	_	5	amod	_	Translit=altn|Translit_Lemma=alt
-5	מאַן	מאַן	NOUN	_	_	2	obl:arg	_	Translit=man|Translit_Lemma=man
-6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
-7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
-8	מאַנטל	מאַנטל	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
-9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-10
-# text = די תּלמידים רעדן מיט דעם פֿרומען לערער.
-# translit = di talmidim redn mit dem frumen lerer.
-# text_en = The students are speaking to the pious teacher.
-1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	תּלמידים	תּלמיד	NOUN	_	_	3	nsubj	_	Translit=talmidim|Translit_Lemma=talmed
-3	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
-4	מיט	מיט	ADP	_	_	7	case	_	Translit=mit|Translit_Lemma=mit
-5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
-6	פֿרומען	פֿרום	ADJ	_	_	7	amod	_	Translit=frumen|Translit_Lemma=frum
-7	לערער	לערער	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=lerer|Translit_Lemma=lerer
-8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-9
-# text = פֿאַר װאָס גיבן מיר געלד אַ רײַכן מאַן?
-# translit = far vos gibn mir geld a raykhn man?
-# text_en = Why are we giving money to a rich man?
-1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	Translit=far|Translit_Lemma=far
-2	װאָס	װאָס	PRON	_	_	3	obl	_	Translit=vos|Translit_Lemma=vos
-3	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
-4	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
-5	געלד	געלד	ADV	_	_	3	obj	_	Translit=geld|Translit_Lemma=geld
-6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
-7	רײַכן	רײַך	ADJ	_	_	8	amod	_	Translit=raykhn|Translit_Lemma=raykh
-8	מאַן	מאַן	NOUN	_	_	3	obl:arg	_	SpaceAfter=No|Translit=man|Translit_Lemma=man
-9	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=?|Translit_Lemma=?
-
-# sent_id = sheva_9b-11
-# text = די קינדער זיצן אַרום דעם קלײנעם טיש.
-# translit = di kinder zitsn arum dem kleynem tish.
-# text_en = The children are sitting around the little table.
-1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	קינדער	קינד	NOUN	_	_	3	nsubj	_	Translit=kinder|Translit_Lemma=kind
-3	זיצן	זיצן	VERB	_	_	0	root	_	Translit=zitsn|Translit_Lemma=zitsn
-4	אַרום	אַרום	ADV	_	_	7	case	_	Translit=arum|Translit_Lemma=arum
-5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
-6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	Translit=kleynem|Translit_Lemma=klayn
-7	טיש	טיש	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tish|Translit_Lemma=tish
-8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-5
-# text = דער טאַטע האָט געזונגען דעם קלײנעם קינד אַ װיגליד.
-# translit = der tate hot gezungen dem kleynem kind a viglid.
-# text_en = The father sang a lullaby to the small child.
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.4a
+# text = דער זײדע איז געשטאָרבן.
+# translit = der zeyde iz geshtorbn.
+# text_en = The grandfather died.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
-2	טאַטע	טאַטע	NOUN	_	_	4	nsubj	_	Translit=tate|Translit_Lemma=tate
-3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
-4	געזונגען	זינגען	VERB	_	_	0	root	_	Translit=gezungen|Translit_Lemma=zingen
-5	דעם	דער	DET	_	_	7	det	_	Translit=dem|Translit_Lemma=der
-6	קלײנעם	קלײַן	ADJ	_	_	7	amod	_	Translit=kleynem|Translit_Lemma=klayn
-7	קינד	קינד	NOUN	_	_	4	obl:arg	_	Translit=kind|Translit_Lemma=kind
-8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
-9	װיגליד	װיגליד	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=viglid|Translit_Lemma=viglid
-10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+2	זײדע	זײדע	NOUN	_	_	4	nsubj	_	Translit=zeyde|Translit_Lemma=zeyde
+3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
+4	געשטאָרבן	שטאַרבן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=geshtorbn|Translit_Lemma=shtarbn
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-12
-# text = מיר טראַכטן פֿון דעם פֿרײַען מענטש.
-# translit = mir trakhtn fun dem frayen mentsh.
-# text_en = We think of the free man.
-1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	טראַכטן	טראַכטן	VERB	_	_	0	root	_	Translit=trakhtn|Translit_Lemma=trakhtn
-3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
-4	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
-5	פֿרײַען	פֿרײַ	ADJ	_	_	6	amod	_	Translit=frayen|Translit_Lemma=fray
-6	מענטש	מענטש	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=mentsh|Translit_Lemma=mentsh
-7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+# sent_id = zucker-10b-205-grammar.ii.more_about_es_subject-sample.3b
+# text = עס גיסט דער קעלנער די זופּ אױף דעם קונה.
+# translit = es gist der kelner di zup oyf dem koyne.
+# text_en = The waiter spills the soup on the customer.
+1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
+2	גיסט	גיסן	VERB	_	_	0	root	_	Translit=gist|Translit_Lemma=gisn
+3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
+4	קעלנער	קעלנער	NOUN	_	_	2	nsubj	_	Translit=kelner|Translit_Lemma=kelner
+5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
+6	זופּ	זופּ	NOUN	_	_	2	obj	_	Translit=zup|Translit_Lemma=zup
+7	אױף	אױף	ADP	_	_	9	case	_	Translit=oyf|Translit_Lemma=oyf
+8	דעם	דער	DET	_	_	9	det	_	Translit=dem|Translit_Lemma=der
+9	קונה	קונה	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=koyne|Translit_Lemma=koyne
+10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-17
-# text = מיר גיבן אַ גוט קינד אַ דאָלאַר.
-# translit = mir gibn a gut kind a dolar.
-# text_en = We give a good child a dollar.
-1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
-3	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
-4	גוט	גוט	ADJ	_	_	5	amod	_	Translit=gut|Translit_Lemma=gut
-5	קינד	קינד	NOUN	_	_	2	obl:arg	_	Translit=kind|Translit_Lemma=kind
-6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
-7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=dolar|Translit_Lemma=dolar
-8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+# sent_id = zucker-10a-192-grammar.ii.constructions_after_veln-4
+# text = דו װילסט טאָן די אַרבעט.
+# translit = du vilst ton di arbet.
+# text_en = You want to do the work.
+1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
+2	װילסט	וועלן	AUX	_	_	3	aux	_	Translit=vilst|Translit_Lemma=veln
+3	טאָן	טאָן	VERB	_	_	0	root	_	Translit=ton|Translit_Lemma=ton
+4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
+5	אַרבעט	אַרבעט	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=arbet|Translit_Lemma=arbet
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-13
-# text = הערשעלע איז געװען אָנגעטאָן אין אַ נײַעם מאַנטל.
-# translit = hershele iz geven ongeton in a nayem mantl.
-# text_en = Hershele was dressed in a new coat.
-1	הערשעלע	הערשעלע	PROPN	_	_	4	nsubj	_	Translit=hershele|Translit_Lemma=hershele
-2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
-3	געװען	זײַן	AUX	_	_	4	aux	_	Translit=geven|Translit_Lemma=zayn
-4	אָנגעטאָן	אָנטאָן	VERB	_	_	0	root	_	Translit=ongeton|Translit_Lemma=onton
-5	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in
-6	אַ	אַ	DET	_	_	8	det	_	Translit=a|Translit_Lemma=a
-7	נײַעם	נײַ	ADJ	_	_	8	amod	_	Translit=nayem|Translit_Lemma=nay
-8	מאַנטל	מאַנטל	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=mantl|Translit_Lemma=mantl
-9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-7
-# text = די גבֿירים ברענגען די אָרעמע מענטשן תּבֿואה.
-# translit = di gvirim brengen di oreme mentshn tvue.
-# text_en = The rich people bring wheat to the poor people.
+# sent_id = zucker-10a-193-grammar.iii.vartn_oyf-2
+# text = די קונים װאַרטן אױף דעם קעלנער.
+# translit = di koynem vartn oyf dem kelner.
+# text_en = The customers are waiting for the waiter.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
-2	גבֿירים	גבֿיר	NOUN	_	_	3	nsubj	_	Translit=gvirim|Translit_Lemma=gvir
-3	ברענגען	ברענגען	VERB	_	_	0	root	_	Translit=brengen|Translit_Lemma=brengen
-4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
-5	אָרעמע	אָרעם	ADJ	_	_	6	amod	_	Translit=oreme|Translit_Lemma=orem
-6	מענטשן	מענטש	NOUN	_	_	3	obl:arg	_	Translit=mentshn|Translit_Lemma=mentsh
-7	תּבֿואה	תּבֿואה	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=tvue|Translit_Lemma=tvue
-8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+2	קונים	קונים	NOUN	_	_	3	nsubj	_	Translit=koynem|Translit_Lemma=koynem
+3	װאַרטן	װאַרט	VERB	_	_	0	root	_	Translit=vartn|Translit_Lemma=vart
+4	אױף	אױף	ADP	_	_	6	case	_	Translit=oyf|Translit_Lemma=oyf
+5	דעם	דער	DET	_	_	6	det	_	Translit=dem|Translit_Lemma=der
+6	קעלנער	קעלנער	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=kelner|Translit_Lemma=kelner
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
-# sent_id = sheva_9b-16
-# text = מיר גיבן דעם גוטן קינד אַ דאָלאַר.
-# translit = mir gibn dem gutn kind a dolar.
-# text_en = We give the good child a dollar.
-1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
-2	גיבן	געבן	VERB	_	_	0	root	_	Translit=gibn|Translit_Lemma=gebn
-3	דעם	דער	DET	_	_	5	det	_	Translit=dem|Translit_Lemma=der
-4	גוטן	גוט	ADJ	_	_	5	amod	_	Translit=gutn|Translit_Lemma=gut
-5	קינד	קינד	NOUN	_	_	2	obl:arg	_	Translit=kind|Translit_Lemma=kind
-6	אַ	אַ	DET	_	_	7	det	_	Translit=a|Translit_Lemma=a
-7	דאָלאַר	דאָלאַר	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=dolar|Translit_Lemma=dolar
-8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
-
-# sent_id = sheva_9b-15
-# text = דער גבֿיר רעדט צו אַן אָרעמער פֿרױ.
-# translit = der gvir redt tsu an oremer froy.
-# text_en = The rich man speaks to a poor woman.
-1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
-2	גבֿיר	גבֿיר	NOUN	_	_	3	nsubj	_	Translit=gvir|Translit_Lemma=gvir
-3	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
-4	צו	צו	ADP	_	_	7	case	_	Translit=tsu|Translit_Lemma=tsu
-5	אַן	אַ	DET	_	_	7	det	_	Translit=an|Translit_Lemma=a
-6	אָרעמער	אָרעם	ADJ	_	_	7	amod	_	Translit=oremer|Translit_Lemma=orem
-7	פֿרױ	פֿרױ	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=froy|Translit_Lemma=froy
-8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
+# sent_id = zucker-10b-204-grammar.ii.more_about_es_subject.2-2
+# text = עס חלשט מיר דאָס האַרץ.
+# translit = es khalesht mir dos harts.
+# text_en = My heart is weak.
+1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
+2	חלשט	חלשן	VERB	_	_	0	root	_	Translit=khalesht|Translit_Lemma=khaleshn
+3	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
+4	דאָס	דער	DET	_	_	5	det	_	Translit=dos|Translit_Lemma=der
+5	האַרץ	האַרץ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=harts|Translit_Lemma=harts
+6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|Translit_Lemma=.
 
