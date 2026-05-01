@@ -2359,7 +2359,7 @@
 # source = Proste Yiddish, Season 1: Episode 3 - Shavuot and an Old Joke
 # genre = spoken, web
 # text_en = "Good.
-1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=NoTranslit="|Translit_Lemma="
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 2	גוט	_	INTJ	_	_	0	root	_	SpaceAfter=No|Translit=gut
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
 
