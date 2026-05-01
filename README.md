@@ -32,6 +32,7 @@ Lemmas and transliterations into Latin script are provided as well by self-made 
 | The Four Questions | Traditional      | liturgical | 2.17  | test |
 | A Bit of Clarity and Simplicity Regarding the Language Question | Hillel Zeitlin      | nonfiction | 2.17  | train |
 | Song of Songs      | Yehoyesh translation      | bible | 2.17  | train |
+| Yiddish: Volume 1      | Sheva Zucker      | grammar | 2.18  | train |
 
 
 # Acknowledgments
