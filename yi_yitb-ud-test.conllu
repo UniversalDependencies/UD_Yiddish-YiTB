@@ -65,7 +65,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The attitude changed very quickly; the usual practice began of putting Jews to work and cutting their beards.
+# text_en = The attitude changed very quickly; and so the usual practice began of putting Jews to work and cutting their beards.
 1	זײער	זײער	ADV	_	_	2	advmod	_	Translit=zeyer|Translit_Lemma=zeyer
 2	גיך	גיך	ADJ	_	_	5	advmod	_	Translit=gikh|Translit_Lemma=gikh
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -94,7 +94,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = We will talk about that another time.
+# text_en = We will talk about this another time.
 1	װעגן	װעגן	ADP	_	_	2	case	_	Translit=vegn|Translit_Lemma=vegn
 2	דעם	דער	DET	_	_	5	obl	_	Translit=dem|Translit_Lemma=der
 3	װעלן	װעלן	AUX	_	_	5	aux	_	Translit=veln|Translit_Lemma=veln
@@ -111,7 +111,8 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = This time is here our subject, the boundary.
+# text_en = This time, our topic is: the border. 
+is here our subject, the boundary.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	מאָל	מאָל	NOUN	_	_	9	obl	_	Translit=mol|Translit_Lemma=mol
 3	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -129,7 +130,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Here's how she went to the lamb.
+# text_en = And this is how things went down in Sierpc.
 1	איז	זײַן	AUX	_	_	2	cop	_	Translit=iz|Translit_Lemma=zayn
 2	אָט	אָט	ADV	_	_	0	root	_	Translit=ot|Translit_Lemma=ot
 3	װי	װי	ADV	_	_	7	advmod	_	Translit=vi|Translit_Lemma=vi
@@ -147,7 +148,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = At the workplace, once on the workplace, there was a team: "Stop work!"
+# text_en = One time, a command was heard at the work station: "Stop working!"
 1	אײן	אײן	NUM	_	_	2	nummod	_	Translit=eyn|Translit_Lemma=eyn
 2	מאָל	מאָל	NOUN	_	_	3	obl	_	Translit=mol|Translit_Lemma=mol
 3	דערהערט	דערהערן	VERB	_	_	0	root	_	Translit=derhert|Translit_Lemma=derhern
@@ -171,7 +172,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The crowd thought that we should go home.
+# text_en = The crowd thought - we are going home.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	עולם	עולם	NOUN	_	_	4	nsubj	_	Translit=oylem|Translit_Lemma=oylem
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -189,7 +190,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = They all went up to the Canadian of the dough and all of them asked, “Who is unleashed?”
+# text_en = Everyone was lead to the administrative office of the Gestapo, and everyone was questioned there: "Who is married?"
 1	מע	מען	PRON	_	_	4	nsubj	_	Translit=me|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	אַלע	אַלע	DET	_	_	4	obj	_	Translit=ale|Translit_Lemma=ale
@@ -216,7 +217,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Thus 18 young men split, and they stood still.
+# text_en = 53 young men split off and remained standing.
 1	עס	עס	PRON	_	_	4	expl	_	Translit=es|Translit_Lemma=es
 2	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -234,7 +235,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Tell us about the moment the Catshon Jew.J.
+# text_en = The shoemaker Y.G.D. told us about this moment:
 1	דערצײלט	דערצײלען	VERB	_	_	0	root	_	Translit=dertseylt|Translit_Lemma=dertseyln
 2	אונדז	מיר	PRON	_	_	1	obl:arg	_	Translit=undz|Translit_Lemma=mir
 3	װעגן	װעגן	ADP	_	_	5	case	_	Translit=vegn|Translit_Lemma=vegn
@@ -251,7 +252,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Ah, let a man of impeded speech! "That's Germany."
+# text_en = "A Gestapo man took out a declaration and read: 'This is Germany.
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 2	נעמט	נעמען	VERB	_	_	0	root	_	Translit=nemt|Translit_Lemma=nemen
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -274,7 +275,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = I know perish in writing that I must leave the German terrorist.
+# text_en = I, Jew, sign my name, that I must leave the German territory.'
 1	איך	איך	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=ikh|Translit_Lemma=ikh
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 3	יודע	יודע	NOUN	_	_	1	appos	_	SpaceAfter=No|Translit=yude|Translit_Lemma=yude
@@ -294,17 +295,17 @@
 17	.	.	PUNCT	_	_	5	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = bulletin_14
-# text = נאָך אַמאָל אױסגעטײַטשט: " איך פֿאַרלאָז פֿ ר ײַ װ י ל י ק די דײַטשע טעריטאָריע.
-# translit = nokh amol oysgetaytsht: " ikh farloz f r ay v i l i k di daytshe teritorye.
+# text = נאָך אַמאָל אױסגעטײַטשט: "איך פֿאַרלאָז פֿ ר ײַ װ י ל י ק די דײַטשע טעריטאָריע.
+# translit = nokh amol oysgetaytsht: "ikh farloz f r ay v i l i k di daytshe teritorye.
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = He continued the word of the LORD, “I leave the power of the Nile, and the German terathorites.”
+# text_en = And then explained: 'I will leave the German territory v-o-l-u-n-t-a-r-i-l-y.
 1	נאָך	נאָך	ADV	_	_	3	advmod	_	Translit=nokh|Translit_Lemma=nokh
 2	אַמאָל	אַמאָל	ADV	_	_	3	advmod	_	Translit=amol|Translit_Lemma=amol
 3	אױסגעטײַטשט	אױסטײַטשן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=oysgetaytsht|Translit_Lemma=oystaytshn
 4	:	:	PUNCT	_	_	7	punct	_	Translit=:|Translit_Lemma=:
-5	"	"	PUNCT	_	_	7	punct	_	Translit="|Translit_Lemma="
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 6	איך	איך	PRON	_	_	7	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 7	פֿאַרלאָז	פֿאַרלאָזן	VERB	_	_	3	ccomp	_	Translit=farloz|Translit_Lemma=farlozn
 8	פֿ	פֿ	ADV	_	_	7	advmod	_	Translit=f|Translit_Lemma=f
@@ -326,7 +327,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Then, should I come back, I shall be shot.”
+# text_en = And if I come back, I will be shot.'
 1	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
 2	טאָמער	טאָמער	SCONJ	_	_	10	mark	_	Translit=tomer|Translit_Lemma=tomer
 3	קום	קומען	VERB	_	_	10	advcl	_	Translit=kum|Translit_Lemma=kumen
@@ -346,7 +347,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = And one of them said he was ill.
+# text_en = Then, one man said he was sick.
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 2	אײנער	אײנער	DET	_	_	3	nsubj	_	Translit=eyner|Translit_Lemma=eyner
 3	געזאָגט	זאָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
@@ -362,7 +363,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = He has a sick heart.
+# text_en = He had a bad heart.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 3	אַ	אַ	DET	_	_	5	det	_	Translit=a|Translit_Lemma=a
@@ -376,7 +377,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = He struck him with the gun, saying, “Oh, you can be healed!”
+# text_en = So someone beat him with a rifle, saying: There, that'll fix you.
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 2	אים	ער	PRON	_	_	3	obj	_	Translit=im|Translit_Lemma=er
 3	געשלאָגן	שלאָגן	VERB	_	_	0	root	_	Translit=geshlogn|Translit_Lemma=shlogn
@@ -404,7 +405,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Everyone wrote down the statement, under the sockets of the rebels.
+# text_en = So everyone signed the declarations - with revolvers pointed at them.
 1	האָבן	האָבן	AUX	_	_	3	aux	_	Translit=hobn|Translit_Lemma=hobn
 2	אַלע	אַלע	DET	_	_	3	nsubj	_	Translit=ale|Translit_Lemma=ale
 3	אונטערגעשריבן	אונטערשרײַבן	VERB	_	_	0	root	_	Translit=untergeshribn|Translit_Lemma=untershraybn
@@ -424,7 +425,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Everyone got a bread in his hand.
+# text_en = Everyone received a piece of bread in their hand.
 1	יעדער	יעדער	DET	_	_	3	nsubj	_	Translit=yeder|Translit_Lemma=yeder
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	באַקומען	באַקומען	VERB	_	_	0	root	_	Translit=bakumen|Translit_Lemma=bakumen
@@ -441,7 +442,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Everyone was set up and taken to the tower.
+# text_en = People were lined up and lead away to prison.
 1-2	מ'האָט	_	_	_	_	_	_	_	Translit=m'hot
 1	מע	מען	PRON	_	_	4	nsubj	_	Translit=me|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -459,7 +460,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The Jews were singing loudly on the highroad.
+# text_en = On the way, the Jews were made to sing loudly.
 1-2	אױפֿן	_	_	_	_	_	_	_	Translit=oyfn
 1	אױף	אױף	ADP	_	_	3	case	_	Translit=oyf|Translit_Lemma=oyf
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
@@ -478,7 +479,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = She was beaten.
+# text_en = And if they did not, they received a beating.
 1	זיסט	זיסן	VERB	_	_	3	advcl	_	Translit=zist|Translit_Lemma=zisn
 2	–	–	PUNCT	_	_	1	punct	_	Translit=–|Translit_Lemma=–
 3	געקראָגן	קריגן	VERB	_	_	0	root	_	Translit=gekrogn|Translit_Lemma=krign
@@ -491,7 +492,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Mother's, brothers, and sisters ran after.
+# text_en = Mothers, little brothers, and little sisters ran behind.
 1	מוטערס	מוטער	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Translit=muters|Translit_Lemma=muter
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 3	ברידערלעך	ברודערל	NOUN	_	_	1	conj	_	Translit=briderlekh|Translit_Lemma=bruderl
@@ -507,7 +508,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = In the town came a wailing: The children were dismissed.
+# text_en = In the town, there was an outcry: the children were being sent away.
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
 2	שטעטל	שטעטל	NOUN	_	_	4	obl	_	Translit=shtetl|Translit_Lemma=shtetl
 3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -529,7 +530,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The Germans quaked, not at last.
+# text_en = But the Germans did not let them say goodbye.
 1	אָבער	אָבער	CCONJ	_	_	9	cc	_	Translit=ober|Translit_Lemma=ober
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	דײַטשן	דײַטש	NOUN	_	_	9	nsubj	_	Translit=daytshn|Translit_Lemma=daytsh
@@ -547,7 +548,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Only with the blessings...
+# text_en = Only with glances...
 1	בלױז	בלױז	ADV	_	_	4	advmod	_	Translit=bloyz|Translit_Lemma=bloyz
 2	מיט	מיט	ADP	_	_	4	case	_	Translit=mit|Translit_Lemma=mit
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -560,7 +561,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = “Come into prison,All of them drawn in,Scattered through a narrow door.
+# text_en = Arriving at the prison, everyone was lined up and led into cells through a narrow door.
 1	געקומען	קומען	VERB	_	_	6	advcl	_	Translit=gekumen|Translit_Lemma=kumen
 2	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 3	תּפֿיסה	תּפֿיסה	NOUN	_	_	1	obl	_	SpaceAfter=No|Translit=tfise|Translit_Lemma=tfise
@@ -584,7 +585,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Thro the two sides, stallions and all of them, struck down with the calves.
+# text_en = On both sides stood Gestapo men, and they beat everyone hard with the butts of their guns.
 1	פֿון	פֿון	ADP	_	_	3	case	_	Translit=fun|Translit_Lemma=fun
 2	בײדע	בײדע	DET	_	_	3	det	_	Translit=beyde|Translit_Lemma=beyde
 3	זײַטן	זײַט	NOUN	_	_	5	obl	_	Translit=zaytn|Translit_Lemma=zayt
@@ -606,7 +607,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = We lamented in the tats, weeping, each other comforted: might we be sent to the border!
+# text_en = In the cells, we lamented, cried, and comforted each other: "Maybe they are sending us to the border."
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	צעלעס	צעלע	NOUN	_	_	6	obl	_	Translit=tseles|Translit_Lemma=tsele
@@ -636,7 +637,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = We had not eaten all day, nor said the stanza now to cut down the bread and not to eat— "By eight bulls."
+# text_en = We did not eat for an entire day, but now the Gestapo also ordered us to cut the bread, but not to eat - not 'until 8 o'clock.'
 1	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 2	גאַנצן	גאַנץ	ADJ	_	_	3	amod	_	Translit=gantsn|Translit_Lemma=gants
 3	טאָג	טאָג	NOUN	_	_	7	obl	_	Translit=tog|Translit_Lemma=tog
@@ -673,7 +674,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = None of us could keep watch over and take a piece of food.
+# text_en = One of us could not restrain himself and grabbed a piece of bread.
 1	אײנער	אײנער	DET	_	_	8	nsubj	_	Translit=eyner|Translit_Lemma=eyner
 2	פֿון	פֿון	ADP	_	_	3	case	_	Translit=fun|Translit_Lemma=fun
 3	אונדז	מיר	PRON	_	_	1	nmod	_	Translit=undz|Translit_Lemma=mir
@@ -695,7 +696,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = The steps husband looked up and saw him: “Who took that piece of food?”
+# text_en = And the Gestapo man noticed it: 'Who took that piece of bread?'
 1	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 2	דער	דער	DET	_	_	3	det	_	Translit=der|Translit_Lemma=der
 3	געשטאַפּאָ־מאַן	געשטאַפּאָ־מאַן	NOUN	_	_	5	nsubj	_	Translit=geshtapo-man|Translit_Lemma=geshtapo-man
@@ -719,7 +720,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = He struck that with a beer, gave the meat and the bread of all men.
+# text_en = And he beat that man with a whip, slapped him, and finally took the bread away from everyone.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	יענעם	יענער	DET	_	_	4	obj	_	Translit=yenem|Translit_Lemma=yener
@@ -746,7 +747,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Yet no one had anything to eat—an evil!
+# text_en = And no one had anything to eat - as punishment!
 1	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 2	קײנער	_	DET	_	_	5	nsubj	_	Translit=keyner
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -767,7 +768,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = In the end, everyone was taken to work—for the courts of the toilet.
+# text_en = In the morning, everyone was put to work again - in the courtyrard, at the toilets, etc.
 1	אינדערפֿרי	אינדערפֿרי	ADV	_	_	6	advmod	_	Translit=inderfri|Translit_Lemma=inderfri
 2	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
 3	מען	מען	PRON	_	_	6	nsubj	_	Translit=men|Translit_Lemma=men
@@ -792,7 +793,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = And they summoned all the Kedarites—fifty men, not a wife—and all the men mounted on three burnt cars—which we are being accompanied?
+# text_en = At 8:00 in the morning, everyone was called into the corridor, fifty-some men, none of them married, were counted off, and everyone was loaded onto three trucks - - - where are they taking us?
 1	אַכט	_	NUM	_	_	2	nummod	_	Translit=akht
 2	אינדערפֿרי	אינדערפֿרי	ADV	_	_	5	advmod	_	Translit=inderfri|Translit_Lemma=inderfri
 3	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -833,7 +834,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Do warsaw branch?
+# text_en = To the Warsaw front?
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
 1	צו	צו	ADP	_	_	4	case	_	Translit=tsu|Translit_Lemma=tsu
 2	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -847,7 +848,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Draw a while, came to pay rise, next to the bridge, beyond its side, foolish.
+# text_en = We traveled for several hours and came to Pułtusk, next to the bridge, on the far side of the Narew river.
 1	געפֿאָרן	פֿאָרן	VERB	_	_	0	root	_	Translit=geforn|Translit_Lemma=forn
 2	עטלעכע	_	DET	_	_	3	det	_	Translit=etlekhe
 3	שעה	שעהן	NOUN	_	_	1	obl	_	SpaceAfter=No|Translit=sho|Translit_Lemma=sho
@@ -872,7 +873,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Heckle all Jews, dismissed.
+# text_en = Every Jew was ordered out and lined up.
 1	געהײסן	הײַסן	VERB	_	_	0	root	_	Translit=geheysn|Translit_Lemma=haysn
 2	אַלע	_	DET	_	_	3	det	_	Translit=ale
 3	ייִדן	ייִד	NOUN	_	_	1	obj	_	Translit=yidn|Translit_Lemma=yid
@@ -887,7 +888,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = used to cleanse the carcasses, the beaten.
+# text_en = First they ordered us to clean the trucks, beating us in the process.
 1	פֿריער	פֿריער	ADV	_	_	2	advmod	_	Translit=frier|Translit_Lemma=frier
 2	געהײסן	הײַסן	VERB	_	_	0	root	_	Translit=geheysn|Translit_Lemma=haysn
 3	אױפֿרײניקן	אױפֿרײַניק	VERB	_	_	2	xcomp	_	Translit=oyfreynikn|Translit_Lemma=oyfraynik
@@ -905,7 +906,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = After the ram, we read the statement: Here is the boundary of the third wealth, the idiot.
+# text_en = After that, they read the declaration to us again: 'Here is the border of the Third Reich, the Narew.
 1	נאָך	נאָך	ADP	_	_	2	case	_	Translit=nokh|Translit_Lemma=nokh
 2	דעם	דער	DET	_	_	6	obl	_	Translit=dem|Translit_Lemma=der
 3	װידער	װידער	ADV	_	_	6	advmod	_	Translit=vider|Translit_Lemma=vider
@@ -934,7 +935,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = He who goes back will be shot.
+# text_en = Whoever comes back will be shot.'
 1	װער	װער	PRON	_	_	9	nsubj:pass	_	Translit=ver|Translit_Lemma=ver
 2-3	ס'װעט	_	_	_	_	_	_	_	Translit=s'vet
 2	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
@@ -954,7 +955,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Thus the Germans caught coal into the bulls; they bartered us and commander gave: “Let us be!”
+# text_en = Then the Germans loaded bullets into their rifles, photographed us, and gave the command: 'Go!
 1	דאַן	דאַן	ADV	_	_	5	advmod	_	Translit=dan|Translit_Lemma=dan
 2	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -982,21 +983,21 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Quick!
+# text_en = Run fast!
 1	שנעל	שנעל	ADJ	_	_	2	advmod	_	Translit=shnel|Translit_Lemma=shnel
 2	לױפֿן	לױפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=loyfn|Translit_Lemma=loyfn
 3	!	!	PUNCT	_	_	2	punct	_	Translit=!|Translit_Lemma=!
 
 # sent_id = bulletin_46
-# text = צעשיטן זיך! ".
-# translit = tseshitn zikh! ".
+# text = צעשיטן זיך!".
+# translit = tseshitn zikh!".
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Scram!
+# text_en = Scram!'
 1	צעשיטן	צעשיטן	VERB	_	_	0	root	_	Translit=tseshitn|Translit_Lemma=tseshitn
 2	זיך	זיך	PRON	_	_	1	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
-3	!	!	PUNCT	_	_	1	punct	_	Translit=!|Translit_Lemma=!
+3	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=!|Translit_Lemma=!
 4	"	"	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
 5	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
 
@@ -1006,7 +1007,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = We're all gone to the forest.
+# text_en = We all went away into the forest.
 1	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	זענען	זײַן	AUX	_	_	4	cop	_	Translit=zenen|Translit_Lemma=zayn
 3	אַלע	אַלע	ADV	_	_	4	advmod	_	Translit=ale|Translit_Lemma=ale
@@ -1021,7 +1022,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Free struggle.
+# text_en = Breathed a bit easier.
 1	פֿרײַער	פֿרײַער	ADJ	_	_	2	advmod	_	Translit=frayer|Translit_Lemma=frayer
 2	אָפּגעאָטעמט	אָפּבעטעמען	VERB	_	_	0	root	_	SpaceAfter=No|Translit=opgeotemt|Translit_Lemma=opbetemen
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
@@ -1032,7 +1033,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = Thus, the third wealth extended to the distant boundary. [It was] with the help of the "unclean" sheep's elders.
+# text_en = Thus did the Third Reich say goodbye at the Narew border (with the U.S.S.R) to the "unwanted" elements from Sierpc.
 1	אַזױ	אַזױ	ADV	_	_	7	advmod	_	Translit=azoy|Translit_Lemma=azoy
 2	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זיך	זיך	PRON	_	_	7	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1064,7 +1065,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Be upset.
+# text_en = Greetings y'all!
 1	זײַט	זײַן	AUX	_	_	2	aux:pass	_	Translit=zayt|Translit_Lemma=zayn
 2	באַגריסט	באַגריסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=bagrist|Translit_Lemma=bagrisn
 3	!	!	PUNCT	_	_	2	punct	_	Translit=!|Translit_Lemma=!
@@ -1075,7 +1076,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = This is most prettiest Yiddish and I'm named Esther.
+# text_en = This is certainly "Proste Yiddish," and my name is Esther.
 1	דאָס	דער	DET	_	_	5	nsubj	_	Translit=dos|Translit_Lemma=der
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַװדאי	אַװדאי	ADV	_	_	5	advmod	_	Translit=avade|Translit_Lemma=avade
@@ -1093,7 +1094,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Do you love speaking Yiddish?
+# text_en = Do you love to speak Yiddish?
 1	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 2	איר	איר	PRON	_	_	1	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	ליב	ליב	NOUN	_	_	1	compound:lvc	_	Translit=lib|Translit_Lemma=lib
@@ -1108,7 +1109,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Do you write in Yiddish?
+# text_en = Or to write in Yiddish?
 1	אָדער	אָדער	CCONJ	_	_	3	cc	_	Translit=oder|Translit_Lemma=oder
 2	צו	צו	PART	_	_	3	mark	_	Translit=tsu|Translit_Lemma=tsu
 3	שרײַבן	שרײַבן	VERB	_	_	0	root	_	Translit=shraybn|Translit_Lemma=shraybn
@@ -1122,7 +1123,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Be a guest for the postman!
+# text_en = Be a guest on the podcast!
 1	זײַט	זײַן	AUX	_	_	3	cop	_	Translit=zayt|Translit_Lemma=zayn
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	גאַסט	גאַסט	NOUN	_	_	0	root	_	Translit=gast|Translit_Lemma=gast
@@ -1138,7 +1139,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = I'm always ready to hear people who want to record anything for prostitutes Yiddish.
+# text_en = I am always ready to hear from people who want to record something for "Proste Yiddish."
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	5	cop	_	Translit=bin|Translit_Lemma=zayn
 3	אַלע	_	DET	_	_	4	det	_	Translit=ale
@@ -1163,7 +1164,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Send me a email address.
+# text_en = Send me an email at prosteyiddish@gmail.com.
 1	שיקט	שיקן	VERB	_	_	0	root	_	Translit=shikt|Translit_Lemma=shikn
 2	מיר	מיר	PRON	_	_	1	obl:arg	_	Translit=mir|Translit_Lemma=mir
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1177,7 +1178,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = And if you are a teacher, I can help you with the sculptured.
+# text_en = And when you are a learner, I can help you with a script.
 1	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
 2	אַז	אַז	SCONJ	_	_	6	mark	_	Translit=az|Translit_Lemma=az
 3	איר	איר	PRON	_	_	6	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -1200,7 +1201,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Well, why isn't a guest?
+# text_en = Well then, why not be a guest?
 1	נו	_	INTJ	_	_	8	discourse	_	SpaceAfter=No|Translit=nu
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	פֿאַר	פֿאַר	ADP	_	_	4	case	_	Translit=far|Translit_Lemma=far
@@ -1217,7 +1218,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Passover is now at last, but I still think about passover things.
+# text_en = Passover is already over, but I am still thinking about Passover things.
 1	פּסח	פּסח	PROPN	_	_	4	nsubj	_	Translit=peysekh|Translit_Lemma=peysekh
 2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
 3	שױן	שױן	ADV	_	_	4	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -1238,7 +1239,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = We will hear in the epidemicAgainst judgment and sorrow and sorrow,Against the prophet Elijah.
+# text_en = In this episode, we will hear about the Haggadahs and Seders and what else - about Elijah the Prophet. 
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
 3	עפּיזאָד	עפּיזאָד	NOUN	_	_	6	obl	_	Translit=epizod|Translit_Lemma=epizod
@@ -1264,7 +1265,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = I hope it'll interest you.
+# text_en = I hope that it'll interest you all.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָף	האָפֿן	VERB	_	_	0	root	_	Translit=hof|Translit_Lemma=hofn
 3	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|Translit_Lemma=az
@@ -1281,7 +1282,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Passover is a day of friendship.
+# text_en = Passover is a holiday of storytelling.
 1	פּסח	פּסח	PROPN	_	_	4	nsubj	_	Translit=peysekh|Translit_Lemma=peysekh
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1296,7 +1297,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = As is written in the Hebrew, "And tell your son."
+# text_en = As it is written in the Tanakh: "You shall tell your son." 
 1	װי	װי	SCONJ	_	_	3	mark	_	Translit=vi|Translit_Lemma=vi
 2	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
 3	שטײט	שטײן	VERB	_	_	0	root	_	Translit=shteyt|Translit_Lemma=shteyn
@@ -1319,7 +1320,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The Hebrew word "hadith" meaning "do tell."
+# text_en = The Hebrew word "v'higgadta" means "you shall tell."
 1	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
 2	העברעישע	העברעיש	ADJ	_	_	3	amod	_	Translit=hebreishe|Translit_Lemma=hebreish
 3	װאָרט	וואָרט	NOUN	_	_	7	nsubj	_	Translit=vort|Translit_Lemma=vort
@@ -1340,7 +1341,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = From this comes the Passover, the text that is read at the Orthodox.
+# text_en = From this comes the "Passover Haggadah" - the text that one reads at the Seder.
 1	פֿון	פֿון	ADP	_	_	2	case	_	Translit=fun|Translit_Lemma=fun
 2	דעם	דער	DET	_	_	3	obl	_	Translit=dem|Translit_Lemma=der
 3	קומט	קומען	VERB	_	_	0	root	_	Translit=kumt|Translit_Lemma=kumen
@@ -1368,7 +1369,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = It's very important that everyone should understand the cloth.
+# text_en = It's very important that every single person should understand the Haggadah.
 1-2	ס'איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	4	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1389,7 +1390,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = That's why that was translated into various languages.
+# text_en = Therefore, it was translated into all sorts of languages.
 1	דערפֿאַר	דערפֿאַר	ADV	_	_	5	advmod	_	Translit=derfar|Translit_Lemma=derfar
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	מען	מען	PRON	_	_	5	nsubj	_	Translit=men|Translit_Lemma=men
@@ -1406,7 +1407,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = We sing the passover poems in Hebrew and other languages.
+# text_en = People sing the Passover songs both in Hebrew and in other languages.
 1	מען	מען	PRON	_	_	2	nsubj	_	Translit=men|Translit_Lemma=men
 2	זינגט	זינגען	VERB	_	_	0	root	_	Translit=zingt|Translit_Lemma=zingen
 3	אױך	אױך	ADV	_	_	2	advmod	_	Translit=oykh|Translit_Lemma=oykh
@@ -1428,7 +1429,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Solomon, in Bulgaria, the Sephardi Jews sang poems in Judeo-Spanish, with a translation in Turkish for the elders and the Bulgarian for the puppies.
+# text_en = For example, the Sephardic Jews in Bulgaria used to sing songs in Ladio, with a translation in Turkish for the older people and in Bulgarian for the young. 
 1	למשל	למשל	ADV	_	_	7	advmod	_	Translit=lemoshl|Translit_Lemma=lemoshl
 2	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 3	ספֿרדישע	ספֿרדיש	ADJ	_	_	4	amod	_	Translit=sfardishe|Translit_Lemma=sfardish
@@ -1464,7 +1465,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = To the Jews of Morocco and the others of the Caucasian, they are being carried on stretches of the PassoverShall play the sort of passoverShall be like the mating of purum.
+# text_en = Among the Jews from Morocco, and also from the Caucasus, people perform scenes from the Passover story - a kind of Passover play, just like the Purim plays.
 1	בײַ	בײַ	ADP	_	_	3	case	_	Translit=bay|Translit_Lemma=bay
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	ייִדן	ייִד	NOUN	_	_	12	obl	_	Translit=yidn|Translit_Lemma=yid
@@ -1500,7 +1501,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = At the strict times when Jews entered political ways, they created new "dedictions" from the traditional deeds.
+# text_en = In modern times, when Jews entered into political movements, people created new "Haggadahs" inspired by the traditional stories.
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 3	מאָדערנע	מאָדערן	ADJ	_	_	4	amod	_	Translit=moderne|Translit_Lemma=modern
@@ -1532,7 +1533,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Many Jews from the world would never again follow the ancient customs, but they would win a order.
+# text_en = Many secular Jews no longer wanted to follow the old customs, but they did want to celebrate a Seder.
 1	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 2	סך	סך	PART	_	_	1	fixed	_	Translit=sakh|Translit_Lemma=sakh
 3	װעלטלעכע	וועלטלעך	ADJ	_	_	4	amod	_	Translit=veltlekhe|Translit_Lemma=veltlekh
@@ -1562,7 +1563,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = According to the end of the century of Anarchistic sources, the group was translated by anti-fascist ideology.
+# text_en = For example, in anarchist circles at the end of the 19th century, the Haggadah was remade according to anti-capitalist ideology.
 1	למשל	למשל	ADV	_	_	12	advmod	_	SpaceAfter=No|Translit=lemoshl|Translit_Lemma=lemoshl
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
