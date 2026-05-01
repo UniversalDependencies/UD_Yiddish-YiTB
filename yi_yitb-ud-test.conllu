@@ -17906,7 +17906,7 @@
 # rtl = yes
 # source = The Four Questions
 # genre = spoken, liturgical
-# text_en = All the night of a year we eat of leaven or unleavened bread, but the night of Easter we eat just unleavened bread.
+# text_en = All the night of a year we eat of leaven or matzah, but the night of Passover we eat just matzah.
 1	אַלע	אַלע	DET	_	_	2	det	_	Translit=ale|Translit_Lemma=ale
 2	נעכט	נאַכט	NOUN	_	_	7	obl	_	Translit=nekht|Translit_Lemma=nakht
 3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
@@ -17937,7 +17937,7 @@
 # rtl = yes
 # source = The Four Questions
 # genre = spoken, liturgical
-# text_en = All the night of a year we eat all kinds of vegetables, but the night of Easter we eat bitter herbs.
+# text_en = All the night of a year we eat all kinds of vegetables, but the night of Passover we eat bitter herbs.
 1	אַלע	אַלע	DET	_	_	2	det	_	Translit=ale|Translit_Lemma=ale
 2	נעכט	נאַכט	NOUN	_	_	7	obl	_	Translit=nekht|Translit_Lemma=nakht
 3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
@@ -17967,7 +17967,7 @@
 # rtl = yes
 # source = The Four Questions
 # genre = spoken, liturgical
-# text_en = All the night of a whole year we never dark, nor do we ever dark the night of a passover. But we are dark again.
+# text_en = All the night of a whole year we do not dip even once; but on the night of Passover, we dip twice..
 1	אַלע	אַלע	DET	_	_	2	det	_	Translit=ale|Translit_Lemma=ale
 2	נעכט	נאַכט	NOUN	_	_	7	obl	_	Translit=nekht|Translit_Lemma=nakht
 3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
@@ -18002,7 +18002,7 @@
 # rtl = yes
 # source = The Four Questions
 # genre = spoken, liturgical
-# text_en = All the night of each year we eat, whether seated or leavened; but the night of the passover, we are only leavening.
+# text_en = All other nights of a whole year we eat either sitting or reclined; but on the night of Passover, we eat only reclined.
 1	אַלע	אַלע	DET	_	_	2	det	_	Translit=ale|Translit_Lemma=ale
 2	נעכט	נאַכט	NOUN	_	_	7	obl	_	Translit=nekht|Translit_Lemma=nakht
 3	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|Translit_Lemma=fun
@@ -18035,7 +18035,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He claims or has a flea.
+# text_en = He's meditating on whether a flea has a belly-button.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	קלערט	קלערן	VERB	_	_	0	root	_	Translit=klert|Translit_Lemma=klern
 3	צי	צי	SCONJ	_	_	6	mark	_	Translit=tsi|Translit_Lemma=tsi
@@ -18052,7 +18052,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He eats like the world.
+# text_en = He's contemplating the rotation of the earth.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	קלערט	קלערן	VERB	_	_	0	root	_	Translit=klert|Translit_Lemma=klern
 3	װי	װי	SCONJ	_	_	6	mark	_	Translit=vi|Translit_Lemma=vi
@@ -18068,7 +18068,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He is cutting off the smoke of the storehouses.
+# text_en = He's wondering where the chimney smoke goes.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	קלערט	קלערן	VERB	_	_	0	root	_	Translit=klert|Translit_Lemma=klern
 3	װוּ	װוּ	SCONJ	_	_	8	mark	_	Translit=vu|Translit_Lemma=vu
@@ -18086,7 +18086,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He claims further than the couscous bows are bigger than the lambs.
+# text_en = He's pondering whether bagels from Kulikov are bigger than bagels from Lemberg.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	קלערט	קלערן	VERB	_	_	0	root	_	Translit=klert|Translit_Lemma=klern
 3	צי	צי	SCONJ	_	_	8	mark	_	Translit=tsi|Translit_Lemma=tsi
@@ -18106,7 +18106,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Lock him off his nose.
+# text_en = Pay him for blowing his nose.
 1	צאָל	צאָל	VERB	_	_	0	root	_	Translit=tsol|Translit_Lemma=tsol
 2	אים	עס	PRON	_	_	1	obj	_	Translit=im|Translit_Lemma=es
 3	אָפּ	אָפּ	ADP	_	_	1	compound:prt	_	Translit=op|Translit_Lemma=op
@@ -18122,7 +18122,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He doesn't know a cat the tail.
+# text_en = He couldn't attach a tail to a cat.
 1	ער	ער	PRON	_	_	8	nsubj	_	Translit=er|Translit_Lemma=er
 2	קען	קענען	AUX	_	_	8	aux	_	Translit=ken|Translit_Lemma=kenen
 3	ניט	ניט	PART	_	_	8	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -18139,7 +18139,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He can't count two.
+# text_en = He can't count to two.
 1	ער	ער	PRON	_	_	6	nsubj	_	Translit=er|Translit_Lemma=er
 2	קען	קענען	AUX	_	_	6	aux	_	Translit=ken|Translit_Lemma=kenen
 3	קײן	קײן	DET	_	_	4	det	_	Translit=keyn|Translit_Lemma=keyn
@@ -18150,14 +18150,14 @@
 
 # sent_id = yiddish_proverbs_38
 # text = ער שרײַבט נח מיט זיבן גרײַזן.
-# translit = er shraybt neyekh mit zibn grayzn.
+# translit = er shraybt noyekh mit zibn grayzn.
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He writes poems.
+# text_en = He writes "Noah" with seven mistakes.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	שרײַבט	שרײַבן	VERB	_	_	0	root	_	Translit=shraybt|Translit_Lemma=shraybn
-3	נח	נח	PROPN	_	_	2	obj	_	Translit=neyekh|Translit_Lemma=neyekh
+3	נח	נח	PROPN	_	_	2	obj	_	Translit=noyekh|Translit_Lemma=noyekh
 4	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
 5	זיבן	זיבן	NUM	_	_	6	nummod	_	Translit=zibn|Translit_Lemma=zibn
 6	גרײַזן	גרײַז	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=grayzn|Translit_Lemma=grayz
@@ -18169,7 +18169,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He says Hebrew like a ax swims.
+# text_en = He reads Hebrew like an axe swims.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	זאָגט	זאָגן	VERB	_	_	0	root	_	Translit=zogt|Translit_Lemma=zogn
 3	עבֿרי	עבֿרי	PROPN	_	_	2	obj	_	Translit=ivre|Translit_Lemma=ivre
@@ -18214,7 +18214,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = The one wants to be wiser than the other.
+# text_en = The eggs think they're smarter than the chickens.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	אײער	אײַער	NOUN	_	_	5	nsubj	_	Translit=eyer|Translit_Lemma=ayer
 3	װילן	וועלן	AUX	_	_	5	aux	_	Translit=viln|Translit_Lemma=veln
@@ -18231,7 +18231,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Two smart people can't vote.
+# text_en = Two smart people can't agree.
 1	צװײ	צװײ	NUM	_	_	2	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 2	קלוגע	קלוג	NOUN	_	_	5	nsubj	_	Translit=kluge|Translit_Lemma=klug
 3	קענען	קענען	AUX	_	_	5	aux	_	Translit=kenen|Translit_Lemma=kenen
@@ -18245,7 +18245,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Intelligence is a warlock.
+# text_en = Understanding grows at a snail's pace.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	שׂכל	שׂכל	NOUN	_	_	5	nsubj	_	Translit=seykhl|Translit_Lemma=seykhl
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -18259,7 +18259,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = To seventy years they learn discernment and die an idiot.
+# text_en = You study until you're seventy and you die a fool.
 1	ביז	ביז	ADP	_	_	3	case	_	Translit=biz|Translit_Lemma=biz
 2	זיבעציק	זיבעציק	NUM	_	_	3	nummod	_	Translit=zibetsik|Translit_Lemma=zibetsik
 3	יאָר	יאָר	NOUN	_	_	4	obl	_	Translit=yor|Translit_Lemma=yor
@@ -18294,7 +18294,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = A black dog can also borrow a white one.
+# text_en = A black hen can lay a white egg too.
 1	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 2	שװאַרצע	שוואַרץ	ADJ	_	_	3	amod	_	Translit=shvartse|Translit_Lemma=shvarts
 3	הון	האָן	NOUN	_	_	6	nsubj	_	Translit=hun|Translit_Lemma=hon
@@ -18327,7 +18327,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = As far as the school, far as the LORD.
+# text_en = The closer to the synagogue, the farther from God.
 1	װאָס	װאָס	ADV	_	_	2	advmod	_	Translit=vos|Translit_Lemma=vos
 2	נאָענטער	נאָענט	ADJ	_	_	8	advcl	_	Translit=noenter|Translit_Lemma=noent
 3	צו	צו	ADP	_	_	5	case	_	Translit=tsu|Translit_Lemma=tsu
@@ -18346,7 +18346,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Why did Adam and Hah cover the story with leaves when no one saw them?
+# text_en = Why did Adam and Eve cover their business with a leaf if there was nobody to see them?
 1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	Translit=far|Translit_Lemma=far
 2	װאָס	װאָס	PRON	_	_	7	obl	_	Translit=vos|Translit_Lemma=vos
 3	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -18373,7 +18373,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Rush is not insane.
+# text_en = Rashi isn’t crazy.
 1	רשי	רשי	PROPN	_	_	4	nsubj	_	Translit=roshe|Translit_Lemma=roshe
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	ניט	ניט	PART	_	_	4	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -18386,7 +18386,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He's swimming in the sea of Bethlehem.
+# text_en = He's swimming in the Sea of Talmud.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	שװימט	שווימען	VERB	_	_	0	root	_	Translit=shvimt|Translit_Lemma=shvimen
 3	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
@@ -18400,7 +18400,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = The sea is without blemish; the Teaching is without tail.
+# text_en = The sea has no shore — the Torah has no end.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	ים	ים	NOUN	_	_	6	nsubj	_	Translit=yam|Translit_Lemma=yam
 3	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -18422,7 +18422,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = Knowledge Torah is not a star to sin.
+# text_en = Knowing Torah doesn't prevent you from sinning.
 1	קענען	קענען	VERB	_	_	6	csubj	_	Translit=kenen|Translit_Lemma=kenen
 2	תּורה	תּורה	PROPN	_	_	1	obj	_	Translit=toyre|Translit_Lemma=toyre
 3	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -18454,7 +18454,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = ten milk of Adam's hell is burning.
+# text_en = The fires of hell burn ten miles from Odessa.
 1	צען	צענען	NUM	_	_	2	nummod	_	Translit=tsen|Translit_Lemma=tsenen
 2	מײַל	מײַל	NOUN	_	_	5	obl	_	Translit=mayl|Translit_Lemma=mayl
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -18470,7 +18470,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = If the LORD would punish a heretic,He will give him a pimp of wife.
+# text_en = When God wants to punish an unbeliever, He gives him a pious wife.
 1	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
 2	גאָט	גאָט	NOUN	_	_	4	nsubj	_	Translit=got|Translit_Lemma=got
 3	װיל	וועלן	AUX	_	_	4	aux	_	Translit=vil|Translit_Lemma=veln
@@ -18491,7 +18491,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = It should be a healing off, if it was bought in the pharmacy.
+# text_en = If the Book of Psalms were a remedy, you could buy it at the drugstore.
 1	תּהילים	תּהיל	PROPN	_	_	5	nsubj	_	Translit=tehilem|Translit_Lemma=tohl
 2	זאָל	זאָלן	AUX	_	_	5	aux	_	Translit=zol|Translit_Lemma=zoln
 3	זײַן	זײַן	AUX	_	_	5	cop	_	Translit=zayn|Translit_Lemma=zayn
@@ -18512,7 +18512,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He doesn't mean the cloth, but the tails.
+# text_en = He's not interested in the Haggadah, only the dumplings.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	מײנט	מײַנט	VERB	_	_	0	root	_	Translit=meynt|Translit_Lemma=maynt
 3	ניט	ניט	ADV	_	_	2	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -18530,7 +18530,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
-# text_en = He doesn't mean the autumn, but the autumn is the same.
+# text_en = 	He’s not interested in the charoset, only the four cups of wine.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	מײנט	מײַנט	VERB	_	_	0	root	_	Translit=meynt|Translit_Lemma=maynt
 3	ניט	ניט	PART	_	_	2	advmod	_	Translit=nit|Translit_Lemma=nit
@@ -18544,13 +18544,13 @@
 11	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = foolish_1
-# text = ײזעלע, דאָס קלײנע, קױם זעקסיעריקע, מײדעלע קאָן הײַנט גאָר נישט פֿאַרשטײן, װאָס דאָ טוט זיך אין שטוב.
-# translit = yzele, dos kleyne, koym zeksyerike, meydele kon haynt gor nisht farshteyn, vos do tut zikh in shtub.
+# text = רײזעלע, דאָס קלײנע, קױם זעקסיעריקע, מײדעלע קאָן הײַנט גאָר נישט פֿאַרשטײן, װאָס דאָ טוט זיך אין שטוב.
+# translit = reyzele, dos kleyne, koym zeksyerike, meydele kon haynt gor nisht farshteyn, vos do tut zikh in shtub.
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = “Hear, then, the little, the little, the little ones, the little ones, can’t understand anything this day what's going on in the house.
-1	ײזעלע	יזעלע	PROPN	_	_	14	nsubj	_	SpaceAfter=No|Translit=yzele|Translit_Lemma=yzele
+# text_en = Reyzele, the small, barely six-year-old girl, cannot understand at all today what is going on here in the house.
+1	רײזעלע	רײזעלע	PROPN	_	_	14	nsubj	_	SpaceAfter=No|Translit=reyzele|Translit_Lemma=reyzele
 2	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 3	דאָס	דער	DET	_	_	9	det	_	Translit=dos|Translit_Lemma=der
 4	קלײנע	קלײַנע	ADJ	_	_	9	amod	_	SpaceAfter=No|Translit=kleyne|Translit_Lemma=klayne
@@ -18579,7 +18579,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = Every time, when the kneading bowls be opened every morning, he called, “Mushite!” When the kneading bow comes in, you shall come and take to rest.
+# text_en = Every time, when Reyzele opens her little eyes in the morning and lets out a call: "Mommy!" – Mommy comes in right away, helps her get up, get dressed, and wash up.
 1	אַלע	אַלע	DET	_	_	2	det	_	Translit=ale|Translit_Lemma=ale
 2	מאָל	מאָל	NOUN	_	_	23	obl	_	SpaceAfter=No|Translit=mol|Translit_Lemma=mol
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,|Translit_Lemma=,
@@ -18624,7 +18624,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = Today is now called, “Mush, maush!” and maush! She does not come in and doesn’t even call her.
+# text_en = Today Reyzele has already called and cried out several times: "Mommy, mommy!" and her mommy, she neither comes in nor does she even answer.
 1	הײַנט	הײַנט	NOUN	_	_	7	obl	_	Translit=haynt|Translit_Lemma=haynt
 2	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 3	שױן	שױן	ADV	_	_	7	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -18664,7 +18664,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = She came to her in the child room is very wondrous.
+# text_en = It’s Aunt Eydle who enters the child’s room.
 1	אַרײַנגעקומען	אַרײַנקומען	VERB	_	_	0	root	_	Translit=arayngekumen|Translit_Lemma=araynkumen
 2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 3	איר	איר	PRON	_	_	1	obl	_	Translit=ir|Translit_Lemma=ir
@@ -18683,7 +18683,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = How does the aunt come so early here?
+# text_en = How come Aunt Eydle comes here so early?
 1	װי	װי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
 2	קומט	קומען	VERB	_	_	0	root	_	Translit=kumt|Translit_Lemma=kumen
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -18700,7 +18700,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = For today is not the sabbath of the day,They have a clear sign from the herd and from the flock.
+# text_en = And that today is not the Sabbath, Reyzele has a clear sign: over there stands Yokhe the cook in the kitchen and is cooking something.
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|Translit_Lemma=un
 2	אַז	אַז	SCONJ	_	_	6	mark	_	Translit=az|Translit_Lemma=az
 3	הײַנט	הײַנט	NOUN	_	_	6	nsubj	_	Translit=haynt|Translit_Lemma=haynt
@@ -18733,7 +18733,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = The sabbath will not boil himself,They know divine beings,Because of money in the world.
+# text_en = On the Sabbath, Yokhe herself would not cook, Reyzele knows, for all the money in the world.
 1	שבת	שבת	NOUN	_	_	6	obl	_	Translit=shabes|Translit_Lemma=shabes
 2	װאָלט	װאָלט	AUX	_	_	6	aux	_	Translit=volt|Translit_Lemma=volt-
 3	יאָכע	יאָך	PROPN	_	_	6	nsubj	_	Translit=yokhe|Translit_Lemma=yokh
@@ -18759,7 +18759,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = And so, when He has noteded the rain,Do He recognize that today is not Saturday?
+# text_en = And anyway, doesn't Reyzele then recognize that today is not the Sabbath?
 1	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 2	גלאַט	גלאַט	ADJ	_	_	3	advmod	_	Translit=glat|Translit_Lemma=glat
 3	אַזױ	אַזױ	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=azoy|Translit_Lemma=azoy
@@ -18782,7 +18782,7 @@
 # rtl = yes
 # source = A Foolish Child
 # genre = fiction
-# text_en = The house looks different on every sabbath.
+# text_en = On the Sabbath the house looks completely different.
 1	שבת	שבת	NOUN	_	_	2	obl	_	Translit=shabes|Translit_Lemma=shabes
 2	זעט	זען	VERB	_	_	0	root	_	Translit=zet|Translit_Lemma=zen
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
