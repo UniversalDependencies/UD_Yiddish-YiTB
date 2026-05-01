@@ -49,7 +49,7 @@ To the best of our knowledge, the source texts used for the creation of this tre
 Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: bible
+Parallel: no
 Genre: grammar-examples learner-essays bible wiki fiction nonfiction spoken web
 Lemmas: automatic
 UPOS: manual native
