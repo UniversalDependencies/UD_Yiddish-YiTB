@@ -1613,7 +1613,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = In the U.S. Civil, the working ring spread a different order, throughout Yiddish in which the third rule was attached.
+# text_en = In the United States, the Workers Circle celebrated a special Seder, entirely in Yiddish, which is called the Third Seder. 
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 3	פֿאַרײניקטע	פֿאַרײַניקט	ADJ	_	_	4	amod	_	Translit=fareynikte|Translit_Lemma=faraynikt
@@ -1644,7 +1644,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = This was a great humility of thousands men, an Orthodox, singers, dancers, and children of the Jews.
+# text_en = That was a great undertaking with thousands of people, an orchestra, singers, dancers, and children from the Yiddish schools.
 1	דאָס	דער	DET	_	_	6	nsubj	_	Translit=dos|Translit_Lemma=der
 2	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
@@ -1675,7 +1675,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The third order isn't as great, but still in Yiddish.
+# text_en = Nowadays the Third Seder is not as big, but it is still in Yiddish.
 1	הײַנט	הײַנט	NOUN	_	_	10	obl	_	Translit=haynt|Translit_Lemma=haynt
 2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 3	טאָג	טאָג	NOUN	_	_	1	nmod	_	Translit=tog|Translit_Lemma=tog
@@ -1700,7 +1700,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Further, in the Annals, they would perform a great ritual with the Jewish synagogue.
+# text_en = And here in Melbourne, one used to celebrate a big Third Seder with the children from the Yiddish school.
 1	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
 2	דאָ	דאָ	ADV	_	_	5	advmod	_	Translit=do|Translit_Lemma=do
 3	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
@@ -1728,7 +1728,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = A lot of new Jewish poems were written in the order.
+# text_en = A lot of new Yiddish songs were even written for the Seder.
 1	מען	מען	PRON	_	_	4	nsubj	_	Translit=men|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	אַפֿולו	אַפֿולו	ADV	_	_	4	advmod	_	Translit=afulu|Translit_Lemma=afulu
@@ -1750,7 +1750,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Have you ever read a Jewish girt or a political?
+# text_en = Have you ever read a Yiddish Haggadah or a political one?
 1	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 2	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1770,7 +1770,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Can you write a widow by what's important to you?
+# text_en = Or have you maybe written a Haggadah according to what is important to you?
 1	אָדער	אָדער	CCONJ	_	_	5	cc	_	Translit=oder|Translit_Lemma=oder
 2	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -1791,7 +1791,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Every year Easter has been reminded of the prophet Elijah.
+# text_en = Every year at Passover time, people remember Elijah the Prophet.
 1	יעדעס	_	DET	_	_	2	det	_	Translit=yedes
 2	יאָר	יאָר	NOUN	_	_	4	obl	_	Translit=yor|Translit_Lemma=yor
 3	פּסחצײַט	פּסחצײַט	NOUN	_	_	2	nmod	_	Translit=peysekhtsayt|Translit_Lemma=peysekhtsayt
@@ -1807,7 +1807,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = When the order is to be poured, for him there is a cup of wine; and he can get the door open.
+# text_en = At the Seder, a cup of wine is poured for him, and a door is left open so that he should be able to come in.
 1-2	בײַם	_	_	_	_	_	_	_	Translit=baym
 1	בײַ	בײַ	ADP	_	_	3	case	_	Translit=bay|Translit_Lemma=bay
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
@@ -1838,7 +1838,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = We don't just think about Elijah the prophet.
+# text_en = Not only on Passover do people think about Elijah the Prophet.
 1	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|Translit_Lemma=nisht
 2	נאָר	נאָר	ADV	_	_	5	advmod	_	Translit=nor|Translit_Lemma=nor
 3	אױף	אױף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -1856,7 +1856,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The sabbath daylight is singing a song concerning him, and the sound of a message is set before him.
+# text_en = On Saturday night, people sing a song about him, and at a bris, a vacant chair is set out for him.
 1	שבת־צו־נאַכטס	שבת־צו־נאַכט	NOUN	_	_	2	obl	_	Translit=shabes-tsu-nakhts|Translit_Lemma=shabes-tsu-nakht
 2	זינגט	זינגען	VERB	_	_	0	root	_	Translit=zingt|Translit_Lemma=zingen
 3	מען	מען	PRON	_	_	2	nsubj	_	Translit=men|Translit_Lemma=men
@@ -1883,7 +1883,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Who is the prophet Elijah?
+# text_en = Who then is the prophet Elijah?
 1	װער	װער	PRON	_	_	0	root	_	Translit=ver|Translit_Lemma=ver
 2	דען	דען	ADV	_	_	1	advmod	_	Translit=den|Translit_Lemma=den
 3	איז	זײַן	AUX	_	_	1	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1897,7 +1897,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Elijah is one of the prophets of the Tanach, but he became the favorite branch of the Jewish peoples.
+# text_en = Elijah is one of the prophets of the Tanakh, but he also became the most beloved figure of the Yiddish folk tales.
 1	אליהו	אליהון	PROPN	_	_	3	nsubj	_	Translit=elyohu|Translit_Lemma=elyohun
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אײנער	אײנער	DET	_	_	0	root	_	Translit=eyner|Translit_Lemma=eyner
@@ -1926,7 +1926,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = In the stories He is a living One among us;He is not only living in the heavens,And He goes through the world.
+# text_en = In the stories, he is a "living one" among us - he not only lives in heaven, he also walks around in our world.
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	מעשׂיות	מעשׂה	NOUN	_	_	8	obl	_	Translit=maysoyes|Translit_Lemma=mayse
@@ -1961,7 +1961,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = This is in the Talmud’s tradition: The prophet Elijah was a trained righteous man who delivered good Jews in their troubles, who saveed Jews in their distress.
+# text_en = Already in the Talmudic tradition, Elijah the Prophet was a hidden righteous man who helps good Jews when they are in trouble, who rescues Jews in need.
 1	שױן	שױן	ADV	_	_	12	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 2	אין	אין	ADP	_	_	5	case	_	Translit=in|Translit_Lemma=in
 3	דער	דער	DET	_	_	5	det	_	Translit=der|Translit_Lemma=der
@@ -1998,7 +1998,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The Jewish language had a great tradition of the legs.
+# text_en = In the Yiddish language, there was a great tradition of the legends.
 1	אויף	אויף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
 2	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
 3	ייִדישער	ייִדיש	ADJ	_	_	4	amod	_	Translit=yidisher|Translit_Lemma=yidish
@@ -2019,7 +2019,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = In every town and village, the prophet Elijah was told about his arrival there.
+# text_en = In every town and village, people told of Elijah the Prophet and his arrival there.
 1	אין	אין	ADP	_	_	3	case	_	Translit=in|Translit_Lemma=in
 2	יעדן	_	DET	_	_	3	det	_	Translit=yedn
 3	שטעטל	שטאָט	NOUN	_	_	8	obl	_	Translit=shtetl|Translit_Lemma=shtot
@@ -2043,7 +2043,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = A lot of things are heard about prettiest Jews who meet an old man, a poor man with a long beard.
+# text_en = In many stories, you hear of simple Jews who met an old man, a poor one with a big, long beard.
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	סך	סך	PART	_	_	2	fixed	_	Translit=sakh|Translit_Lemma=sakh
@@ -2095,7 +2095,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = When they are given to him to eat and help him, such a miracle will occur: if they find gold or recovery,
+# text_en = When you give him something to eat, or help him, some kind of miracle happens - you find gold, or you get healthy... 
 1	אַז	אַז	SCONJ	_	_	3	mark	_	Translit=az|Translit_Lemma=az
 2	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 3	גיט	געבן	VERB	_	_	11	advcl	_	Translit=git|Translit_Lemma=gebn
@@ -2126,7 +2126,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The hidden prophet Elijah helps the good Jews give generously.
+# text_en = The hidden prophet Elijah helps the good Jews who give with a generous hand.
 1	דער	דער	DET	_	_	3	det	_	Translit=der|Translit_Lemma=der
 2	באַהאַלטענער	באַהאַלטן	ADJ	_	_	3	amod	_	Translit=bahaltener|Translit_Lemma=bahaltn
 3	אליהו	אליהו	NOUN	_	_	5	nsubj	_	Translit=elyohu|Translit_Lemma=elyohu
@@ -2149,7 +2149,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = When the passover door was opened, they thought about Elijah and how he wandered.
+# text_en = When the door is left open on Passover, one thinks about Elijah and how he wanders around.
 1	װען	װען	SCONJ	_	_	3	mark	_	Translit=ven|Translit_Lemma=ven
 2	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 3	לאָזט	לאָזן	VERB	_	_	8	advcl	_	Translit=lozt|Translit_Lemma=lozn
@@ -2175,7 +2175,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = It can be that poor man in the street who is seen.
+# text_en = It is possible that he is that poor man who you see in the street.
 1	עס	עס	PRON	_	_	8	expl	_	Translit=es|Translit_Lemma=es
 2	קען	קענען	AUX	_	_	8	aux	_	Translit=ken|Translit_Lemma=kenen
 3	זײַן	זײַן	AUX	_	_	8	cop	_	Translit=zayn|Translit_Lemma=zayn
@@ -2208,7 +2208,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = The epidemic is over.
+# text_en = The episode is over.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	עפּיזאָד	עפּיזאָד	NOUN	_	_	4	nsubj	_	Translit=epizod|Translit_Lemma=epizod
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -2221,7 +2221,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = until we meet again, we're all healthy and strong!
+# text_en = Until we meet again, stay healthy and strong! 
 1	ביז	ביז	SCONJ	_	_	3	mark	_	Translit=biz|Translit_Lemma=biz
 2	מיר	מיר	PRON	_	_	3	nsubj	_	Translit=mir|Translit_Lemma=mir
 3	טרעפֿן	טרעפֿן	VERB	_	_	10	advcl	_	Translit=trefn|Translit_Lemma=trefn
@@ -2266,7 +2266,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 1: Episode 3 - Shavuot and an Old Joke
 # genre = spoken, web
-# text_en = Go to the restaurant.
+# text_en = He goes into the restaurant.
 1	גײט	גײַט	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=gayt
 2	ער	ער	PRON	_	_	1	nsubj	_	Translit=er|Translit_Lemma=er
 3	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
