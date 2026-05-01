@@ -111,8 +111,7 @@
 # rtl = yes
 # source = Bulletin No. 3: At the Border
 # genre = nonfiction
-# text_en = This time, our topic is: the border. 
-is here our subject, the boundary.
+# text_en = This time, our topic is: the border.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	מאָל	מאָל	NOUN	_	_	9	obl	_	Translit=mol|Translit_Lemma=mol
 3	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1590,7 +1589,7 @@ is here our subject, the boundary.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
-# text_en = Communist fetters were used in the Soviet Union and bondists wrote also socialist fetters.
+# text_en = Communist Haggadahs were used in the Soviet Union, and Bundists also wrote socialist Haggadahs.
 1	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געניצט	געניצן	VERB	_	_	0	root	_	Translit=genitst|Translit_Lemma=genitsn
