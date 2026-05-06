@@ -5,32 +5,32 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>3054</sentences><tokens>27488</tokens><words>27879</words><fused>391</fused></total>
-    <train><sentences>1818</sentences><tokens>15761</tokens><words>15989</words><fused>228</fused></train>
+    <total><sentences>3113</sentences><tokens>27954</tokens><words>28348</words><fused>394</fused></total>
+    <train><sentences>1877</sentences><tokens>16227</tokens><words>16458</words><fused>231</fused></train>
     <dev><sentences>157</sentences><tokens>1855</tokens><words>1873</words><fused>18</fused></dev>
     <test><sentences>1079</sentences><tokens>9872</tokens><words>10017</words><fused>145</fused></test>
   </size>
-  <lemmas unique="3465" /><!-- ., זײַן, דער, האָבן, ,, אַ, איך, און, נישט, פֿון, ?, אין, טאָם, מיר, ער -->
-  <forms unique="4445" /><!-- ., איז, ,, אַ, איך, און, האָט, די, נישט, פֿון, ?, אין, דער, ער, טאָם -->
-  <fusions unique="73" /><!-- ס׳איז, כ׳בין, פֿונעם, כ׳האָב, צום, האָסטו, אויפֿן, ביסטו, נישטאָ, מיטן, בײַם, ס׳זענען, ס'איז, אינעם, אױפֿן -->
+  <lemmas unique="3605" /><!-- ., זײַן, דער, האָבן, אַ, ,, איך, און, נישט, פֿון, ?, אין, טאָם, ער, מיר -->
+  <forms unique="4476" /><!-- ., איז, ,, אַ, איך, די, האָט, און, נישט, פֿון, ?, אין, דער, ער, דעם -->
+  <fusions unique="73" /><!-- ס׳איז, כ׳בין, פֿונעם, צום, כ׳האָב, האָסטו, אויפֿן, ביסטו, נישטאָ, מיטן, בײַם, ס׳זענען, ס'איז, אינעם, אױפֿן -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">1359</tag><!-- גוט, ייִדיש, גאַנץ, גרויס, פֿאַרנומען, שיין, מיד, אַלט, קלוג, נײַ -->
-    <tag name="ADP">1704</tag><!-- פֿון, אין, מיט, צו, פֿאַר, אױף, אויף, בײַ, אָן, אויס -->
-    <tag name="ADV">927</tag><!-- דאָ, אַזוי, נאָך, זייער, נאָר, אַזױ, אויך, אױך, איצט, זײער -->
-    <tag name="AUX">3010</tag><!-- זײַן, האָבן, װעלן, קענען, זאָלן, וועלן, װערן, דאַרפֿן, װאָלט, מוזן -->
-    <tag name="CCONJ">677</tag><!-- און, אָבער, אָדער, נאָר, סײַ, צי, אבער, אדער, סײַדן -->
-    <tag name="DET">3078</tag><!-- דער, אַ, _, קײַן, זײַן, מײַן, דײַן, קײנער, אונדזער, מײַנע -->
-    <tag name="INTJ">30</tag><!-- _, אַיאָ, ברוך־השם, יא -->
-    <tag name="NOUN">3858</tag><!-- ייִד, קינד, שפּראַך, מענטשן, מאָל, קאַץ, ליב, בוך, וואָרט, זון -->
-    <tag name="NUM">110</tag><!-- _ -->
-    <tag name="PART">727</tag><!-- נישט, ניט, צו, צי, סך, הלוואַי -->
-    <tag name="PRON">2874</tag><!-- איך, מיר, ער, זיך, עס, דו, איר, זי, מען, וואָס -->
-    <tag name="PROPN">1562</tag><!-- טאָם, ײִדישן, גאָט, טאָמען, מערי, ישׂראל, ײִדישקײט, פֿראַנצײזיש, סאַמי, אסתּר -->
-    <tag name="PUNCT">4473</tag><!-- ., ,, ?, ", !, :, –, „, {, } -->
-    <tag name="SCONJ">510</tag><!-- אַז, וואָס, װאָס, ווי, װי, ווען, װען, צי, ווײַל, װאָרום -->
-    <tag name="VERB">2920</tag><!-- האָבן, זאָגן, רעדן, זען, פֿאַרשטיין, קומען, לערנען, טאָן, עסן, שרײַבן -->
-    <tag name="X">60</tag><!-- _ -->
+    <tag name="ADJ">1396</tag><!-- גוט, ייִדיש, גאַנץ, גרויס, נײַ, אַלט, פֿאַרנומען, שיין, מיד, קלוג -->
+    <tag name="ADP">1725</tag><!-- פֿון, אין, מיט, צו, פֿאַר, אױף, אויף, בײַ, אָן, אויס -->
+    <tag name="ADV">928</tag><!-- דאָ, אַזוי, נאָך, זייער, נאָר, אַזױ, אויך, אױך, איצט, אַרײַן -->
+    <tag name="AUX">3048</tag><!-- זײַן, האָבן, װעלן, קענען, זאָלן, וועלן, װערן, דאַרפֿן, װאָלט, מוזן -->
+    <tag name="CCONJ">678</tag><!-- און, אָבער, אָדער, נאָר, סײַ, צי, אבער, אדער, סײַדן -->
+    <tag name="DET">3170</tag><!-- דער, אַ, קײַן, זײַן, מײַן, דײַן, אַלע, אונדזער, קײן, קײנער -->
+    <tag name="INTJ">30</tag><!-- אַיאָ, נוען, יאָ, אַנטשולדיקן, אָ, הײ, אָקײ, אָװאַ, ברוך־השם, גוט -->
+    <tag name="NOUN">3964</tag><!-- ייִד, קינד, שפּראַך, מענטשן, מאָל, קאַץ, ליב, בוך, וואָרט, זון -->
+    <tag name="NUM">110</tag><!-- צװײ, אײן, דרײַען, דרײַסיק, אַכט, גנבֿה, זיבעציק, געװינס, זיבן, ליד -->
+    <tag name="PART">730</tag><!-- נישט, ניט, צו, צי, סך, הלוואַי -->
+    <tag name="PRON">2918</tag><!-- איך, ער, מיר, זיך, דו, עס, איר, זי, מען, זײ -->
+    <tag name="PROPN">1563</tag><!-- טאָם, ײִדישן, גאָט, מערי, טאָמען, ישׂראל, ײִדישקײט, פֿראַנצײזיש, סאַמי, אסתּר -->
+    <tag name="PUNCT">4532</tag><!-- ., ,, ?, ", !, :, –, „, {, } -->
+    <tag name="SCONJ">509</tag><!-- אַז, וואָס, װאָס, ווי, װי, ווען, װען, צי, ווײַל, װאָרום -->
+    <tag name="VERB">2987</tag><!-- האָבן, זאָגן, רעדן, זען, פֿאַרשטיין, קומען, לערנען, טאָן, עסן, שרײַבן -->
+    <tag name="X">60</tag><!-- דאַן, _, בשם, הגדה, הוא, לא, מעלטשלימוס, מרעיש־עולמות, פּסח, שלען -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="3">
@@ -44,28 +44,28 @@
     <dep name="acl:relcl">145</dep>
     <dep name="advcl">216</dep>
     <dep name="advcl:relcl">1</dep>
-    <dep name="advmod">1425</dep>
-    <dep name="amod">680</dep>
+    <dep name="advmod">1427</dep>
+    <dep name="amod">713</dep>
     <dep name="appos">96</dep>
-    <dep name="aux">1609</dep>
+    <dep name="aux">1640</dep>
     <dep name="aux:pass">69</dep>
-    <dep name="case">1667</dep>
-    <dep name="cc">673</dep>
-    <dep name="ccomp">284</dep>
+    <dep name="case">1689</dep>
+    <dep name="cc">674</dep>
+    <dep name="ccomp">292</dep>
     <dep name="compound">57</dep>
-    <dep name="compound:lvc">83</dep>
+    <dep name="compound:lvc">85</dep>
     <dep name="compound:prt">127</dep>
     <dep name="compound:redup">1</dep>
-    <dep name="conj">695</dep>
-    <dep name="cop">1271</dep>
+    <dep name="conj">696</dep>
+    <dep name="cop">1276</dep>
     <dep name="csubj">21</dep>
     <dep name="dep">51</dep>
-    <dep name="det">2413</dep>
+    <dep name="det">2505</dep>
     <dep name="det:poss">389</dep>
     <dep name="discourse">25</dep>
     <dep name="dislocated">7</dep>
-    <dep name="expl">78</dep>
-    <dep name="expl:pv">254</dep>
+    <dep name="expl">87</dep>
+    <dep name="expl:pv">255</dep>
     <dep name="fixed">62</dep>
     <dep name="flat">16</dep>
     <dep name="flat:foreign">2</dep>
@@ -73,22 +73,22 @@
     <dep name="goeswith">1</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">558</dep>
-    <dep name="nmod">469</dep>
+    <dep name="nmod">470</dep>
     <dep name="nmod:poss">53</dep>
-    <dep name="nsubj">3501</dep>
+    <dep name="nsubj">3567</dep>
     <dep name="nsubj:outer">13</dep>
     <dep name="nsubj:pass">59</dep>
     <dep name="nummod">82</dep>
-    <dep name="obj">1396</dep>
-    <dep name="obl">1166</dep>
+    <dep name="obj">1431</dep>
+    <dep name="obl">1187</dep>
     <dep name="obl:agent">14</dep>
-    <dep name="obl:arg">158</dep>
+    <dep name="obl:arg">174</dep>
     <dep name="orphan">16</dep>
     <dep name="parataxis">121</dep>
-    <dep name="punct">4473</dep>
+    <dep name="punct">4532</dep>
     <dep name="reparandum">1</dep>
-    <dep name="root">3054</dep>
+    <dep name="root">3113</dep>
     <dep name="vocative">23</dep>
-    <dep name="xcomp">211</dep>
+    <dep name="xcomp">216</dep>
   </deps>
 </treebank>
