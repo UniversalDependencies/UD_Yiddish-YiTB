@@ -4,6 +4,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = At the collapsing of the staff, I also mentioned the name "horse happiness."
 1	פֿון	פֿון	ADP	_	_	2	case	_	Translit=fun|Translit_Lemma=fun
 2	די	דער	DET	_	_	14	obl	_	SpaceAfter=No|Translit=di|Translit_Lemma=der
 3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
@@ -33,6 +34,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = He doesn't leave my memory.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	גײט	גײַט	VERB	_	_	0	root	_	Translit=geyt|Translit_Lemma=gayt
 3	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
@@ -48,8 +50,9 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = I had still a conversation with him about his poems before.
 1	מיט	מיט	ADP	_	_	3	case	_	Translit=mit|Translit_Lemma=mit
-2	עטלעכע	_	DET	_	_	3	det	_	Translit=etlekhe
+2	עטלעכע	עטלעך	DET	_	_	3	det	_	Translit=etlekhe|Translit_Lemma=etlekh
 3	טעג	טאָג	NOUN	_	_	8	obl	_	Translit=teg|Translit_Lemma=tog
 4	פֿריִער	פֿריִער	ADV	_	_	3	advmod	_	Translit=frier|Translit_Lemma=frier
 5	האָב	האָבן	AUX	_	_	8	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -71,6 +74,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = What we do.
 1	װי	װי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
 2	מאָדנע	מאָדנע	ADJ	_	_	0	root	_	Translit=modne|Translit_Lemma=modne
 3	דאָס	דער	DET	_	_	2	nsubj	_	Translit=dos|Translit_Lemma=der
@@ -87,6 +91,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Look down that everyone knows that his end is coming, and that everyone of us speaks graciously concerning the idols, the sucklers.
 1	דוכט	דוכטן	VERB	_	_	0	root	_	Translit=dukht|Translit_Lemma=dukhtn
 2	זיך	זיך	PRON	_	_	1	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
 3	,	,	PUNCT	_	_	6	punct	_	Translit=,|Translit_Lemma=,
@@ -123,6 +128,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = We make chickens even after them.
 1	אָפֿט	אָפֿט	ADV	_	_	2	advmod	_	Translit=oft|Translit_Lemma=oft
 2	מאַכן	מאַכן	VERB	_	_	0	root	_	Translit=makhn|Translit_Lemma=makhn
 3	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
@@ -139,6 +145,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Thro the first time that the Nazis had decreed the city pursuing the Dr. Shaban the dead for battle, after Dr. Conversion [went on] and occupied the city, after the teachers of barley and pursuers.
 1	אָט	אָט	ADV	_	_	6	advmod	_	Translit=ot|Translit_Lemma=ot
 2	זײַנען	זײַן	AUX	_	_	6	aux	_	Translit=zaynen|Translit_Lemma=zayn
 3	אַפֿילו	אַפֿילו	ADV	_	_	6	advmod	_	Translit=afile|Translit_Lemma=afile
@@ -190,6 +197,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = We had spoken in mourning, and we told tears.
 1	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געהאַלטן	האַלטן	VERB	_	_	0	root	_	Translit=gehaltn|Translit_Lemma=haltn
@@ -207,6 +215,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = I have not entered the Temple and the terror encompassed me, seeing that the entire nation has turned toward an end to meet the Holy of Holies.
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	5	aux	_	Translit=bin|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -243,6 +252,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Then we turned the oath to construct to ourselves;They, the foes, are so happy,So they have anyone to succeed themWith venomous creepers in dust—
 1	האָט	האָבן	AUX	_	_	5	aux	_	Translit=hot|Translit_Lemma=hobn
 2	מיר	מיר	PRON	_	_	5	obl:arg	_	Translit=mir|Translit_Lemma=mir
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -279,6 +289,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Who will Kadesh say after us?
 1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
 2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	קדיש	קדיש	PROPN	_	_	4	obj	_	Translit=kadesh|Translit_Lemma=kadesh
@@ -293,6 +304,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Who will remind us?
 1	װער	װער	PRON	_	_	4	nsubj	_	Translit=ver|Translit_Lemma=ver
 2	װעט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	אונדז	מיר	PRON	_	_	4	obj	_	Translit=undz|Translit_Lemma=mir
@@ -305,6 +317,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = But life goes on.
 1	אָבער	אָבער	CCONJ	_	_	4	cc	_	Translit=ober|Translit_Lemma=ober
 2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
 3	לעבן	לעבן	NOUN	_	_	4	nsubj	_	Translit=lebn|Translit_Lemma=lebn
@@ -319,9 +332,10 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Mondays the lineage...
 1	מאָנט	מאָנען	VERB	_	_	0	root	_	Translit=mont|Translit_Lemma=monen
 2	דאָס	דער	DET	_	_	3	det	_	Translit=dos|Translit_Lemma=der
-3	זײַניקע	_	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=zaynike
+3	זײַניקע	זײַניק	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=zaynike|Translit_Lemma=zaynik
 4	…	…	PUNCT	_	_	1	punct	_	Translit=…|Translit_Lemma=…
 
 # sent_id = hirshke-glik_15
@@ -330,6 +344,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Hearken, hearken, happy.
 1	הירשקע	הירשקע	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=hirshke|Translit_Lemma=hirshke
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 3	הירשקע	הירשקע	PROPN	_	_	1	appos	_	Translit=hirshke|Translit_Lemma=hirshke
@@ -342,6 +357,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = The "New Testament" has appeared to me again, in a wild salad.
 1	באַװיזן	באַוויז	VERB	_	_	0	root	_	Translit=bavizn|Translit_Lemma=baviz
 2	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 3	מיר	מיר	PRON	_	_	1	obl	_	Translit=mir|Translit_Lemma=mir
@@ -373,6 +389,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = I write, too, and he wrote out silently, and "And there are still things to write, a whole group."
 1	„	„	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
 2	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	שרײַב	שרײַבן	VERB	_	_	0	root	_	Translit=shrayb|Translit_Lemma=shraybn
@@ -406,6 +423,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = A whole group, I'm pretty Czech, "Who are you?"
 1	„	„	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	גאַנצע	גאַנץ	ADJ	_	_	4	amod	_	Translit=gantse|Translit_Lemma=gants
@@ -430,6 +448,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = These are coming to me in a pair of days’ time: Holicious happiness, Sheba’s figs, Moses, and Rabbinoth.
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 2	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 3	פּאָר	פּאָר	NOUN	_	_	2	fixed	_	Translit=por|Translit_Lemma=por
@@ -459,6 +478,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Children are after.
 1	קינדער	קינד	NOUN	_	_	0	root	_	Translit=kinder|Translit_Lemma=kind
 2	נאָך	נאָך	ADV	_	_	1	advmod	_	SpaceAfter=No|Translit=nokh|Translit_Lemma=nokh
 3	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
@@ -469,6 +489,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Poverty threw them out of the city and looked for Pharaoh to capture.
 1	אָרעמקײט	אָרעמקײַט	NOUN	_	_	6	nsubj	_	Translit=oremkeyt|Translit_Lemma=oremkayt
 2	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
 3	זײ	זײ	PRON	_	_	6	obj	_	Translit=zey|Translit_Lemma=zey
@@ -488,13 +509,14 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = The boys can stand each other long ago.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ייִנגלעך	ייִנגל	NOUN	_	_	3	nsubj	_	Translit=yinglekh|Translit_Lemma=yingl
 3	קענען	קענען	VERB	_	_	0	root	_	Translit=kenen|Translit_Lemma=kenen
 4	זיך	זיך	PRON	_	_	3	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
 5	אײנע	אײנער	DET	_	_	3	obj	_	Translit=eyne|Translit_Lemma=eyner
 6	די	דער	DET	_	_	5	fixed	_	Translit=di|Translit_Lemma=der
-7	אַנדערע	_	DET	_	_	5	fixed	_	Translit=andere
+7	אַנדערע	אַנדער	DET	_	_	5	fixed	_	Translit=andere|Translit_Lemma=ander
 8	שױן	שױן	ADV	_	_	5	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 9	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
 10	לאַנג	לאַנג	ADJ	_	_	5	obl	_	SpaceAfter=No|Translit=lang|Translit_Lemma=lang
@@ -506,11 +528,12 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Now they live on a single street, on a little shore, and they are gathering at a single school, in the House of Judah.
 1	זײ	זײ	PRON	_	_	2	nsubj	_	Translit=zey|Translit_Lemma=zey
 2	װױנען	ווױנען	VERB	_	_	0	root	_	Translit=voynen|Translit_Lemma=voynen
 3	איצט	איצט	ADV	_	_	2	advmod	_	Translit=itst|Translit_Lemma=itst
 4	אױף	אױף	ADP	_	_	6	case	_	Translit=oyf|Translit_Lemma=oyf
-5	אײן	_	NUM	_	_	6	nummod	_	Translit=eyn
+5	אײן	אײן	NUM	_	_	6	nummod	_	Translit=eyn|Translit_Lemma=eyn
 6	גאַס	גאַס	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=gas|Translit_Lemma=gas
 7	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 8	אױף	אױף	ADP	_	_	9	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -519,7 +542,7 @@
 11	אױך	אױך	ADV	_	_	16	advmod	_	Translit=oykh|Translit_Lemma=oykh
 12	צוזאַמען	צוזאַמען	ADV	_	_	16	advmod	_	Translit=tsuzamen|Translit_Lemma=tsuzamen
 13	אין	אין	ADP	_	_	15	case	_	Translit=in|Translit_Lemma=in
-14	אײן	_	NUM	_	_	15	nummod	_	Translit=eyn
+14	אײן	אײן	NUM	_	_	15	nummod	_	Translit=eyn|Translit_Lemma=eyn
 15	שול	שול	NOUN	_	_	16	obl	_	Translit=shul|Translit_Lemma=shul
 16	געגאַנגען	גיין	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=gegangen|Translit_Lemma=geyn
 17	,	,	PUNCT	_	_	21	punct	_	Translit=,|Translit_Lemma=,
@@ -536,6 +559,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = When they learned that Sheba fig trees were writing, they sewed her up in the uproar, and they read one for the other.
 1	װען	װען	SCONJ	_	_	5	mark	_	Translit=ven|Translit_Lemma=ven
 2	זײ	זײ	PRON	_	_	5	nsubj	_	Translit=zey|Translit_Lemma=zey
 3	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|Translit_Lemma=hobn
@@ -564,7 +588,7 @@
 26	אײנע	אײנער	DET	_	_	25	obl:arg	_	Translit=eyne|Translit_Lemma=eyner
 27	פֿאַר	פֿאַר	ADP	_	_	29	case	_	Translit=far|Translit_Lemma=far
 28	די	דער	DET	_	_	29	det	_	Translit=di|Translit_Lemma=der
-29	אַנדערע	_	DET	_	_	26	nmod	_	Translit=andere
+29	אַנדערע	אַנדער	DET	_	_	26	nmod	_	Translit=andere|Translit_Lemma=ander
 30	זײערע	זײַער	DET	_	_	31	det:poss	_	Translit=zeyere|Translit_Lemma=zayer
 31	שאַפֿונגען	שאַפֿונג	NOUN	_	_	25	obj	_	SpaceAfter=No|Translit=shafungen|Translit_Lemma=shafung
 32	.	.	PUNCT	_	_	17	punct	_	Translit=.|Translit_Lemma=.
@@ -575,6 +599,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Let them now hear what I say to them.
 1	װילן	וועלן	AUX	_	_	4	aux	_	Translit=viln|Translit_Lemma=veln
 2	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
 3	איצט	איצט	ADV	_	_	4	advmod	_	Translit=itst|Translit_Lemma=itst
@@ -593,8 +618,9 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Everyone read his offerings, and I have heeded and thought in marvels, “Heavens and all the fathers.”
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
-2	יעדער	_	DET	_	_	3	nsubj	_	Translit=yeder
+2	יעדער	יעדער	DET	_	_	3	nsubj	_	Translit=yeder|Translit_Lemma=yeder
 3	געלײענט	לײַענען	VERB	_	_	0	root	_	Translit=geleyent|Translit_Lemma=layenen
 4	זײַנע	זײַן	DET	_	_	5	det:poss	_	Translit=zayne|Translit_Lemma=zayn
 5	שאַפֿונגען	שאַפֿונג	NOUN	_	_	3	obj	_	Translit=shafungen|Translit_Lemma=shafung
@@ -615,7 +641,7 @@
 20	קינדער	קינד	NOUN	_	_	17	ccomp	_	Translit=kinder|Translit_Lemma=kind
 21	—	—	PUNCT	_	_	24	punct	_	Translit=—|Translit_Lemma=—
 22	און	און	CCONJ	_	_	24	cc	_	Translit=un|Translit_Lemma=un
-23	אַזעלכע	_	DET	_	_	24	det	_	Translit=azelkhe
+23	אַזעלכע	אַזעלכע	DET	_	_	24	det	_	Translit=azelkhe|Translit_Lemma=azelkhe
 24	פֿעיִקע	פֿעיִק	NOUN	_	_	20	conj	_	SpaceAfter=No|Translit=feike|Translit_Lemma=feik
 25	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
@@ -625,6 +651,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = I gave them my warm words and my knowledge, and I delivered them with what I could.
 1	מײַנע	מײַנע	DET	_	_	3	det:poss	_	Translit=mayne|Translit_Lemma=mayne
 2	װאַרעמסטע	וואַרעמסט	ADJ	_	_	3	amod	_	Translit=varemste|Translit_Lemma=varemst
 3	װערטער	וואָרט	NOUN	_	_	9	obj	_	Translit=verter|Translit_Lemma=vort
@@ -654,6 +681,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = later, to the youth came up to the youth of Philistia.
 1	שפּעטער	שפּעט	ADJ	_	_	8	advmod	_	Translit=shpeter|Translit_Lemma=shpet
 2	צו	צו	ADV	_	_	1	advmod	_	Translit=tsu|Translit_Lemma=tsu
 3	האָט	האָבן	AUX	_	_	8	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -674,6 +702,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = He lived in the same street for them.
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געװױנט	ווױנען	VERB	_	_	0	root	_	Translit=gevoynt|Translit_Lemma=voynen
@@ -692,11 +721,12 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = They brought out, together, some recesses from a public domain.
 1	צוזאַמען	צוזאַמען	ADV	_	_	4	advmod	_	Translit=tsuzamen|Translit_Lemma=tsuzamen
 2	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
 4	אַרױסגעגעבן	אַרױסגעבן	VERB	_	_	0	root	_	Translit=aroysgegebn|Translit_Lemma=aroysgebn
-5	עטלעכע	_	DET	_	_	6	det	_	Translit=etlekhe
+5	עטלעכע	עטלעך	DET	_	_	6	det	_	Translit=etlekhe|Translit_Lemma=etlekh
 6	נומערן	נומער	NOUN	_	_	4	obj	_	Translit=numern|Translit_Lemma=numer
 7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
 8	אַ	אַ	DET	_	_	9	det	_	Translit=a|Translit_Lemma=a
@@ -712,6 +742,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = The group afterwards became known in the city.
 1	אונטער	אונטער	ADP	_	_	3	case	_	Translit=unter|Translit_Lemma=unter
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
 3	נאָמען	נאָמען	NOUN	_	_	10	obl	_	Translit=nomen|Translit_Lemma=nomen
@@ -732,6 +763,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = The gazelle was first working in a paper shop at Joseph’s rarely on the smallest street.
 1	הירשקע	הירשקע	PROPN	_	_	3	nsubj	_	Translit=hirshke|Translit_Lemma=hirshke
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געאַרבעט	אַרבעטן	VERB	_	_	0	root	_	Translit=gearbet|Translit_Lemma=arbetn
@@ -755,6 +787,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = We did not have to wait for a decision, but the poem was quickly spread in the job.
 1	מען	מען	PRON	_	_	7	nsubj	_	Translit=men|Translit_Lemma=men
 2	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|Translit_Lemma=hobn
 3	שױן	שױן	ADV	_	_	7	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -782,6 +815,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = happy wrote a lot of poems and poems.
 1	גליק	גליק	PROPN	_	_	3	nsubj	_	Translit=glik|Translit_Lemma=glik
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געשריבן	שרײַבן	VERB	_	_	0	root	_	Translit=geshribn|Translit_Lemma=shraybn
@@ -798,6 +832,7 @@
 # rtl = yes
 # source = Hirshke Glik
 # genre = nonfiction
+# text_en = Wine remained famous.
 1	װײניק	ווײניק	DET	_	_	3	nsubj	_	Translit=veynik|Translit_Lemma=veynik
 2	זײַנען	זײַן	AUX	_	_	3	aux	_	Translit=zaynen|Translit_Lemma=zayn
 3	געבליבן	בלײַבן	VERB	_	_	0	root	_	Translit=geblibn|Translit_Lemma=blaybn
@@ -810,13 +845,14 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
+# text_en = He's a meathead.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
 4	שטיק	שטיק	NOUN	_	_	0	root	_	Translit=shtik|Translit_Lemma=shtik
 5	פֿלײש	פֿלײַש	NOUN	_	_	4	nmod	_	Translit=fleysh|Translit_Lemma=flaysh
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 8	אױגן	אױג	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=oygn|Translit_Lemma=oyg
 9	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
@@ -826,6 +862,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
+# text_en = He gazes with his eyes,Hearken with his ears,And understands like the walls.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	קוקט	קוקן	VERB	_	_	0	root	_	Translit=kukt|Translit_Lemma=kukn
 3	מיט	מיט	ADP	_	_	5	case	_	Translit=mit|Translit_Lemma=mit
@@ -850,6 +887,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
+# text_en = He lacks furniture in the roofs.
 1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
 2	פֿעלט	פֿעלן	VERB	_	_	0	root	_	Translit=felt|Translit_Lemma=feln
 3	אים	עס	PRON	_	_	2	obl:arg	_	Translit=im|Translit_Lemma=es
@@ -864,6 +902,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
+# text_en = This hat is just a head is too small.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	היטל	הוט	NOUN	_	_	4	nsubj	_	Translit=hitl|Translit_Lemma=hut
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -882,6 +921,7 @@
 # rtl = yes
 # source = Yiddish proverb
 # genre = proverb
+# text_en = He's the splendor of the world.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
@@ -897,6 +937,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Do you want to call me or should I call you?
 1	צי	צי	PART	_	_	5	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2-3	ווילסטו	_	_	_	_	_	_	_	Translit=vilstu
 2	װילסט	וועלן	AUX	_	_	5	aux	_	Translit=vilst|Translit_Lemma=veln
@@ -917,6 +958,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom isn't nasty.
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -929,6 +971,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Can you understand Tom?
 1	צי	צי	PART	_	_	4	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	קענט	קענען	AUX	_	_	4	aux	_	Translit=kent|Translit_Lemma=kenen
 3	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -942,12 +985,13 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I'm going to give her some flowers.
 1-2	כ׳וועל	_	_	_	_	_	_	_	Translit=kh'vel
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	װעל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 3	איר	איר	PRON	_	_	4	obl:arg	_	Translit=ir|Translit_Lemma=ir
 4	געבן	געבן	VERB	_	_	0	root	_	Translit=gebn|Translit_Lemma=gebn
-5	עטלעכע	_	DET	_	_	6	det	_	Translit=etlekhe
+5	עטלעכע	עטלעך	DET	_	_	6	det	_	Translit=etlekhe|Translit_Lemma=etlekh
 6	בלומען	בלום	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=blumen|Translit_Lemma=blum
 7	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
@@ -957,6 +1001,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = If I were younger, I'd do that.
 1	ווען	ווען	SCONJ	_	_	4	mark	_	Translit=ven|Translit_Lemma=ven
 2	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 3	בין	זײַן	AUX	_	_	4	cop	_	Translit=bin|Translit_Lemma=zayn
@@ -974,6 +1019,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = The Jews are tired.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ייִדן	ייִד	NOUN	_	_	4	nsubj	_	Translit=yidn|Translit_Lemma=yid
 3	זענען	זײַן	AUX	_	_	4	cop	_	Translit=zenen|Translit_Lemma=zayn
@@ -986,6 +1032,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She's taller than I am.
 1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	העכער	האָכער	ADJ	_	_	0	root	_	Translit=hekher|Translit_Lemma=hokher
@@ -999,6 +1046,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Hannah is a Reform Jew.
 1	חנה	חנה	PROPN	_	_	4	nsubj	_	Translit=khane|Translit_Lemma=khane
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1011,6 +1059,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Are you gay?
 1-2	ביסטו	_	_	_	_	_	_	_	Translit=bistu
 1	ביסט	זײַן	AUX	_	_	3	cop	_	Translit=bist|Translit_Lemma=zayn
 2	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
@@ -1023,6 +1072,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = You can have a little salami.
 1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|Translit_Lemma=du
 2	מעגסט	מעגן	AUX	_	_	3	aux	_	Translit=megst|Translit_Lemma=megn
 3	האָבן	האָבן	VERB	_	_	0	root	_	Translit=hobn|Translit_Lemma=hobn
@@ -1037,6 +1087,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She speaks Bangla.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
 3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
@@ -1048,6 +1099,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = It's great to win.
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	3	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1062,6 +1114,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom should run.
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	זאָל	זאָלן	AUX	_	_	3	aux	_	Translit=zol|Translit_Lemma=zoln
 3	לויפֿן	לויפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=loyfn|Translit_Lemma=loyfn
@@ -1073,6 +1126,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom is older than Mary is.
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	עלטער	עלטער	ADJ	_	_	0	root	_	Translit=elter|Translit_Lemma=elter
@@ -1086,6 +1140,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I know that was very flying.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	ווייס	וויסן	VERB	_	_	0	root	_	Translit=veys|Translit_Lemma=visn
 3	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
@@ -1102,6 +1157,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = He is a thief.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1114,6 +1170,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = The "New Testament" was Roman anti-Jewish propaganda.
 1	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 2	אַזוי	אַזוי	ADV	_	_	3	advmod	_	Translit=azoy|Translit_Lemma=azoy
 3	אָנגערופענע	אָנגערופֿן	ADJ	_	_	4	amod	_	Translit=ongerufene|Translit_Lemma=ongerufn
@@ -1131,6 +1188,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = My name is Tom.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	הייס	הייס	VERB	_	_	0	root	_	Translit=heys|Translit_Lemma=heys
 3	טאָם	טאָם	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=tom|Translit_Lemma=tom
@@ -1142,6 +1200,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I want you to meet my new squeeze.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וויל	וועלן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=vil|Translit_Lemma=veln
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
@@ -1161,6 +1220,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Salt dissolves in water.
 1	זאַלץ	זאַלצן	NOUN	_	_	2	nsubj	_	Translit=zalts|Translit_Lemma=zaltsn
 2	צעגײט	צעגײַט	VERB	_	_	0	root	_	Translit=tsegeyt|Translit_Lemma=tsegayt
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1174,6 +1234,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = No dogs allowed.
 1	קיין	קײַן	DET	_	_	2	det	_	Translit=keyn|Translit_Lemma=keyn
 2	הינט	הונט	NOUN	_	_	5	nsubj	_	Translit=hint|Translit_Lemma=hunt
 3	טאָרן	טאָרן	AUX	_	_	5	aux	_	Translit=torn|Translit_Lemma=torn
@@ -1187,6 +1248,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = The Voodoo religion is associated with Haiti.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	וווּדו־רעליגיע	וווּדו־רעליגיע	NOUN	_	_	4	nsubj:pass	_	Translit=vudu-religye|Translit_Lemma=vudu-religye
 3	איז	זײַן	AUX	_	_	4	aux:pass	_	Translit=iz|Translit_Lemma=zayn
@@ -1201,6 +1263,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom is a thief and a liar.
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1216,6 +1279,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I won't let anything happen to you.
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|Translit_Lemma=veln
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1234,6 +1298,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She comes from Austria.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
 3	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|Translit_Lemma=fun
@@ -1246,6 +1311,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I ate a pear.
 1-2	כ׳האָב	_	_	_	_	_	_	_	Translit=kh'hob
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
@@ -1260,6 +1326,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = The Holy Roman Empire came to an end in the year 1806.
 1	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 2	„	„	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
 3	הייליקע	הייליק	ADJ	_	_	5	amod	_	Translit=heylike|Translit_Lemma=heylik
@@ -1272,7 +1339,7 @@
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a
 11	סוף	סוף	NOUN	_	_	8	obl	_	Translit=sof|Translit_Lemma=sof
 12	אין	אין	ADP	_	_	13	case	_	Translit=in|Translit_Lemma=in
-13	1806	_	NUM	_	_	8	obl	_	SpaceAfter=No|Translit=1806
+13	1806	זמן	NUM	_	_	8	obl	_	SpaceAfter=No|Translit=1806|Translit_Lemma=zman
 14	.	.	PUNCT	_	_	8	punct	_	Translit=.|Translit_Lemma=.
 
 # sent_id = tatoeba_1652
@@ -1281,6 +1348,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Judaism is the religion of the Jews.
 1	ייִדישקייט	ײִדישקײט	PROPN	_	_	4	nsubj	_	Translit=yidishkeyt|Translit_Lemma=yidishkeyt
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1295,6 +1363,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = We ran out of fuel.
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	4	expl	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -1310,6 +1379,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom built a kite.
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געבויט	בויען	VERB	_	_	0	root	_	Translit=geboyt|Translit_Lemma=boyen
@@ -1323,6 +1393,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Hitler hated the Jews.
 1	היטלער	היטל	PROPN	_	_	4	nsubj	_	Translit=hitler|Translit_Lemma=hitl
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	פֿײַנט	פֿײַנט	NOUN	_	_	4	compound:lvc	_	Translit=faynt|Translit_Lemma=faynt
@@ -1336,6 +1407,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I tell you it's a bad idea.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	זאָג	זאָגן	VERB	_	_	0	root	_	Translit=zog|Translit_Lemma=zogn
 3	דיר	דו	PRON	_	_	2	obl:arg	_	SpaceAfter=No|Translit=dir|Translit_Lemma=du
@@ -1353,6 +1425,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = He doesn't want to be a cowboy.
 1	ער	ער	PRON	_	_	6	nsubj	_	Translit=er|Translit_Lemma=er
 2	וויל	וועלן	AUX	_	_	6	aux	_	Translit=vil|Translit_Lemma=veln
 3	נישט	נישט	PART	_	_	6	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1367,6 +1440,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I like strawberries.
 1	מיר	מיר	PRON	_	_	2	obl:arg	_	Translit=mir|Translit_Lemma=mir
 2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
 3	טרוסקאַפֿקעס	טרוסקאַפֿקע	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=trúskafkes|Translit_Lemma=trúskafke
@@ -1378,6 +1452,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = How have you been feeling lately?
 1	ווי	ווי	ADV	_	_	2	advmod	_	Translit=vi|Translit_Lemma=vi
 2	פֿילט	פֿילן	VERB	_	_	0	root	_	Translit=filt|Translit_Lemma=filn
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -1391,6 +1466,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Jesus was not the first or last Jew to be crucified.
 1	ישו	ישוע	PROPN	_	_	13	nsubj	_	Translit=yoshu|Translit_Lemma=yoshee
 2	־	־	PUNCT	_	_	3	punct	_	Translit=־|Translit_Lemma=־
 3	הנוצרי	הנוצרי	PROPN	_	_	1	flat:name	_	Translit=hanotstri|Translit_Lemma=hanotstri
@@ -1418,6 +1494,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I was born in Israel.
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	בין	זײַן	AUX	_	_	3	aux	_	Translit=bin|Translit_Lemma=zayn
 3	געבוירן	געבוירן	VERB	_	_	0	root	_	Translit=geboyrn|Translit_Lemma=geboyrn
@@ -1431,6 +1508,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I feel good here.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	פֿיל	פֿילן	VERB	_	_	0	root	_	Translit=fil|Translit_Lemma=filn
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1444,7 +1522,8 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
-1	אַלע	_	DET	_	_	2	nsubj	_	Translit=ale
+# text_en = Everyone knows that Tom's French is good.
+1	אַלע	אַלע	DET	_	_	2	nsubj	_	Translit=ale|Translit_Lemma=ale
 2	ווייסן	וויסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veysn|Translit_Lemma=visn
 3	,	,	PUNCT	_	_	8	punct	_	Translit=,|Translit_Lemma=,
 4	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
@@ -1460,6 +1539,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Life is fair.
 1	דאָס	דער	DET	_	_	2	det	_	Translit=dos|Translit_Lemma=der
 2	לעבן	לעבן	NOUN	_	_	4	nsubj	_	Translit=lebn|Translit_Lemma=lebn
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1472,6 +1552,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = My mother is Jewish and my father is Polish.
 1	מײַן	מײַן	DET	_	_	2	det:poss	_	Translit=mayn|Translit_Lemma=mayn
 2	מאַמע	מאַמע	NOUN	_	_	5	nsubj	_	Translit=mame|Translit_Lemma=mame
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1491,6 +1572,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = He's looking for our car.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	זוכט	זוכן	VERB	_	_	0	root	_	Translit=zukht|Translit_Lemma=zukhn
 3	אונדזער	אונדזער	DET	_	_	4	det:poss	_	Translit=undzer|Translit_Lemma=undzer
@@ -1503,6 +1585,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She writes poems.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	שרײַבט	שרײַבן	VERB	_	_	0	root	_	Translit=shraybt|Translit_Lemma=shraybn
 3	לידער	לידערן	NOUN	_	_	2	obj	_	SpaceAfter=No|Translit=lider|Translit_Lemma=lidern
@@ -1514,6 +1597,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Are you still here?
 1	זײַט	זײַן	AUX	_	_	4	cop	_	Translit=zayt|Translit_Lemma=zayn
 2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	נאָך	נאָך	ADV	_	_	4	advmod	_	Translit=nokh|Translit_Lemma=nokh
@@ -1526,6 +1610,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Don't you know who I am?
 1	דו	דו	PRON	_	_	2	nsubj	_	Translit=du|Translit_Lemma=du
 2	ווייסט	וויסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=visn
 3	נישט	נישט	PART	_	_	2	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1540,6 +1625,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She understands Yiddish.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	פֿאַרשטייט	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyt|Translit_Lemma=farshteyn
 3	ייִדיש	ײִדישן	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=yidish|Translit_Lemma=yidishn
@@ -1551,6 +1637,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Don't read this sentence.
 1	לייענט	לייענען	VERB	_	_	0	root	_	Translit=leyent|Translit_Lemma=leyenen
 2	נישט	נישט	PART	_	_	1	advmod	_	Translit=nisht|Translit_Lemma=nisht
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -1563,6 +1650,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = And that's that!
 1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
 2	אַזוי	אַזוי	ADV	_	_	0	root	_	Translit=azoy|Translit_Lemma=azoy
 3	איז	זײַן	AUX	_	_	2	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1575,6 +1663,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = She is Russian.
 1	זי	זי	PRON	_	_	3	nsubj	_	Translit=zi|Translit_Lemma=zi
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|Translit_Lemma=zayn
 3	רוסיש	רוסיש	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=rusish|Translit_Lemma=rusish
@@ -1586,6 +1675,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = God is called Elohim in Hebrew, Elaha in Aramaic, and Allah in Arabic.
 1	גאָט	גאָט	PROPN	_	_	2	nsubj	_	Translit=got|Translit_Lemma=got
 2	הייסט	הייסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=heysn
 3	אויף	אויף	ADP	_	_	4	case	_	Translit=oyf|Translit_Lemma=oyf
@@ -1608,6 +1698,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom became a beggar.
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געוואָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
@@ -1621,6 +1712,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = How's Tom getting back to Boston?
 1	ווי	ווי	ADV	_	_	4	advmod	_	Translit=vi|Translit_Lemma=vi
 2	וועט	װעלן	AUX	_	_	4	aux	_	Translit=vet|Translit_Lemma=veln
 3	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
@@ -1635,6 +1727,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = In Russia I was German, and in Germany, I'm Russian.
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
 2	רוסלאַנד	רוסלאַנד	PROPN	_	_	7	obl	_	Translit=rusland|Translit_Lemma=rusland
 3	בין	זײַן	AUX	_	_	7	aux	_	Translit=bin|Translit_Lemma=zayn
@@ -1659,12 +1752,13 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Are you from another planet?
 1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	שטאַמט	שטאַמען	VERB	_	_	0	root	_	Translit=shtamt|Translit_Lemma=shtamen
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
 4	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
 5	אַן	אַ	DET	_	_	7	det	_	Translit=an|Translit_Lemma=a
-6	אַנדער	_	DET	_	_	7	det	_	Translit=ander
+6	אַנדער	אַנדער	DET	_	_	7	det	_	Translit=ander|Translit_Lemma=ander
 7	פּלאַנעט	פּלאַנעט	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=planet|Translit_Lemma=planet
 8	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
@@ -1674,6 +1768,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = It's very smooth.
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	4	nsubj	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1687,6 +1782,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Dust the shelves.
 1	שטויב	שטויב	VERB	_	_	0	root	_	Translit=shtoyb|Translit_Lemma=shtoyb
 2	אָפּ	אָפּ	ADV	_	_	1	compound:prt	_	Translit=op|Translit_Lemma=op
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1699,6 +1795,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = We fuck.
 1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	טרענען	טרענען	VERB	_	_	0	root	_	Translit=trenen|Translit_Lemma=trenen
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
@@ -1710,6 +1807,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Ali's grandfather was Jewish.
 1	אַליס	אַליסן	PROPN	_	_	6	nsubj	_	Translit=alis|Translit_Lemma=alisn
 2	זיידע	זיידע	NOUN	_	_	1	flat:name	_	Translit=zeyde|Translit_Lemma=zeyde
 3	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -1724,6 +1822,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = We need new curtains.
 1	מיר	מיר	PRON	_	_	2	nsubj	_	Translit=mir|Translit_Lemma=mir
 2	דאַרפֿן	דאַרפֿן	VERB	_	_	0	root	_	Translit=darfn|Translit_Lemma=darfn
 3	נײַע	נײַ	ADJ	_	_	4	amod	_	Translit=naye|Translit_Lemma=nay
@@ -1736,6 +1835,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Tom is a thief and a liar.
 1	טאָם	טאָם	PROPN	_	_	4	nsubj	_	Translit=tom|Translit_Lemma=tom
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	אַ	אַ	DET	_	_	4	det	_	Translit=a|Translit_Lemma=a
@@ -1751,6 +1851,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = It's not my fault.
 1-2	ס׳איז	_	_	_	_	_	_	_	Translit=s'iz
 1	עס	עס	PRON	_	_	5	nsubj	_	Translit=es|Translit_Lemma=es
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -1765,6 +1866,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = I have small ears.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	VERB	_	_	0	root	_	Translit=hob|Translit_Lemma=hobn
 3	קליינע	קליין	ADJ	_	_	4	amod	_	Translit=kleyne|Translit_Lemma=kleyn
@@ -1777,6 +1879,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Do you like oranges?
 1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	געפֿעלן	געפֿעלן	VERB	_	_	0	root	_	Translit=gefeln|Translit_Lemma=gefeln
 3	דיר	דו	PRON	_	_	2	obl:arg	_	Translit=dir|Translit_Lemma=du
@@ -1789,6 +1892,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = Jerusalem is the capital of Israel.
 1	ירושלים	ירושל	PROPN	_	_	4	nsubj	_	Translit=yerusholayim|Translit_Lemma=yerushl
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
@@ -1803,6 +1907,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = He's not fat.
 1	ער	ער	PRON	_	_	4	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
 3	נישט	נישט	PART	_	_	4	advmod	_	Translit=nisht|Translit_Lemma=nisht
@@ -1815,6 +1920,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = He speaks Bangla.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
 3	בענגאַליש	בענגאַליש	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=bengalish|Translit_Lemma=bengalish
@@ -1826,6 +1932,7 @@
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
+# text_en = The Beatles are popular among young people.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ביטלס	ביטל	NOUN	_	_	4	nsubj	_	Translit=bitls|Translit_Lemma=bitl
 3	זענען	זײַן	AUX	_	_	4	aux	_	Translit=zenen|Translit_Lemma=zayn
@@ -1841,6 +1948,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = This is where Esther and this is most prettiest Yiddish, a poetry to all who learn Yiddish.
 1	דאָ	דאָ	ADV	_	_	2	advmod	_	Translit=do|Translit_Lemma=do
 2	רעדט	רעדן	VERB	_	_	0	root	_	Translit=redt|Translit_Lemma=redn
 3	אסתּר	אסתּר	PROPN	_	_	2	nsubj	_	Translit=ister|Translit_Lemma=ister
@@ -1854,7 +1962,7 @@
 11	אַ	אַ	DET	_	_	12	det	_	Translit=a|Translit_Lemma=a
 12	פּאָדקאַסט	פּאָדקאַסט	NOUN	_	_	9	appos	_	Translit=podkast|Translit_Lemma=podkast
 13	פֿאַר	פֿאַר	ADP	_	_	14	case	_	Translit=far|Translit_Lemma=far
-14	אַלע	_	DET	_	_	12	nmod	_	Translit=ale
+14	אַלע	אַלע	DET	_	_	12	nmod	_	Translit=ale|Translit_Lemma=ale
 15	װאָס	װאָס	SCONJ	_	_	16	mark	_	Translit=vos|Translit_Lemma=vos
 16	לערנען	לערנען	VERB	_	_	14	acl:relcl	_	Translit=lernen|Translit_Lemma=lernen
 17	זיך	זיך	PRON	_	_	16	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -1867,6 +1975,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = S'up?
 1	װאָס	װאָס	PRON	_	_	2	nsubj	_	Translit=vos|Translit_Lemma=vos
 2	הערט	האַררט	VERB	_	_	0	root	_	Translit=hert|Translit_Lemma=harrt
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	SpaceAfter=No|Translit=zikh|Translit_Lemma=zikh
@@ -1878,6 +1987,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = This place, near the post, we had a small overlay, a discharge, but I don't think that I didn't work.
 1	דאָ	דאָ	ADV	_	_	7	advmod	_	Translit=do|Translit_Lemma=do
 2-3	בײַם	_	_	_	_	_	_	_	Translit=baym
 2	בײַ	בײַ	ADP	_	_	4	case	_	Translit=bay|Translit_Lemma=bay
@@ -1909,6 +2019,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = I worked with Sun, who made the rams become proscribed Yiddish and now all these things.
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
 3	געאַרבעט	אַרבעטן	VERB	_	_	0	root	_	Translit=gearbet|Translit_Lemma=arbetn
@@ -1933,11 +2044,12 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = This is the name of all the thirty epigram of prosper Yiddish to this day, and so are there on our U.S.
 1	דאָס	דער	DET	_	_	2	nsubj	_	Translit=dos|Translit_Lemma=der
 2	הײסט	הײַסן	VERB	_	_	0	root	_	Translit=heyst|Translit_Lemma=haysn
 3	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
-4	אַלע	_	DET	_	_	6	det	_	Translit=ale
-5	דרײַסיק	_	NUM	_	_	6	nummod	_	Translit=draysik
+4	אַלע	אַלע	DET	_	_	6	det	_	Translit=ale|Translit_Lemma=ale
+5	דרײַסיק	דרײַסיק	NUM	_	_	6	nummod	_	Translit=draysik|Translit_Lemma=draysik
 6	עפּיזאָדן	עפּיזאָד	NOUN	_	_	17	nsubj	_	Translit=epizodn|Translit_Lemma=epizod
 7	פֿון	פֿון	ADP	_	_	9	case	_	Translit=fun|Translit_Lemma=fun
 8	פּראָסטע	פּראָסט	ADJ	_	_	9	compound	_	Translit=proste|Translit_Lemma=prost
@@ -1958,6 +2070,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Take a look!
 1	גיט	געבן	VERB	_	_	0	root	_	Translit=git|Translit_Lemma=gebn
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|Translit_Lemma=a
 3	קוק	קוק	VERB	_	_	1	compound:lvc	_	SpaceAfter=No|Translit=kuk|Translit_Lemma=kuk
@@ -1969,6 +2082,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = You shall hear about scoundrels, and I will learn a lot of Yiddish.
 1	איר	איר	PRON	_	_	3	nsubj	_	Translit=ir|Translit_Lemma=ir
 2	װעט	װעלן	AUX	_	_	3	aux	_	Translit=vet|Translit_Lemma=veln
 3	הערן	הערן	VERB	_	_	0	root	_	Translit=hern|Translit_Lemma=hern
@@ -1992,6 +2106,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = You can hear a little about the dialects of Yiddish and a tithe about my cat this day.
 1	הײַנט	הײַנט	NOUN	_	_	7	obl	_	Translit=haynt|Translit_Lemma=haynt
 2	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -2020,6 +2135,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = One of my favorite stories about cats!
 1	אײנע	אײנער	DET	_	_	0	root	_	Translit=eyne|Translit_Lemma=eyner
 2	פֿון	פֿון	ADP	_	_	5	case	_	Translit=fun|Translit_Lemma=fun
 3	מײַנע	מײַנע	DET	_	_	5	det:poss	_	Translit=mayne|Translit_Lemma=mayne
@@ -2036,7 +2152,8 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
-1	נו	_	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu
+# text_en = Are you ready?
+1	נו	נוען	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu|Translit_Lemma=nuen
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
 4	זײַט	זײַן	AUX	_	_	5	cop	_	Translit=zayt|Translit_Lemma=zayn
@@ -2049,6 +2166,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Let's hear a little Yiddish, prosper Yiddish!
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
 1	לאָז	לאָזן	VERB	_	_	0	root	_	Translit=loz|Translit_Lemma=lozn
 2	מיר	מיר	PRON	_	_	1	obj	_	Translit=mir|Translit_Lemma=mir
@@ -2067,17 +2185,18 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Do you know I live with two wild beasts, my two cats?
 1	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|Translit_Lemma=ir
 2	װײסט	ווײַסן	VERB	_	_	0	root	_	Translit=veyst|Translit_Lemma=vaysn
 3	אַז	אַז	SCONJ	_	_	5	mark	_	Translit=az|Translit_Lemma=az
 4	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 5	װױן	ווױ	VERB	_	_	2	ccomp	_	Translit=voyn|Translit_Lemma=voy
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 8	שוטב־חיות	שוטב־חי	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=shutev-khiyes|Translit_Lemma=shoytev-khay
 9	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
 10	מײַנע	מײַנע	DET	_	_	12	det:poss	_	Translit=mayne|Translit_Lemma=mayne
-11	צװײ	_	NUM	_	_	12	nummod	_	Translit=tsvey
+11	צװײ	צװײ	NUM	_	_	12	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 12	קעץ	קאַץ	NOUN	_	_	8	appos	_	SpaceAfter=No|Translit=kets|Translit_Lemma=kats
 13	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
@@ -2087,6 +2206,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = The cats speak bullshit and princess.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	קעץ	קאַץ	NOUN	_	_	3	nsubj	_	Translit=kets|Translit_Lemma=kats
 3	הײסן	הײַסן	VERB	_	_	0	root	_	Translit=heysn|Translit_Lemma=haysn
@@ -2101,6 +2221,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = prince lived with my partner Brands before we met.
 1	פּרינץ	פּרינץ	PROPN	_	_	4	nsubj	_	Translit=prints|Translit_Lemma=prints
 2	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 3	שױן	שױן	ADV	_	_	4	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
@@ -2122,6 +2243,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = prince likes to be outside.
 1	פּרינץ	פּרינץ	PROPN	_	_	2	nsubj	_	Translit=prints|Translit_Lemma=prints
 2	האָט	האָבן	VERB	_	_	0	root	_	Translit=hot|Translit_Lemma=hobn
 3	ליב	ליב	NOUN	_	_	2	compound:lvc	_	Translit=lib|Translit_Lemma=lib
@@ -2137,6 +2259,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = I know it's not proper that a cat is outside, better that they stay at the house.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	װײס	ווײַס	VERB	_	_	0	root	_	SpaceAfter=No|Translit=veys|Translit_Lemma=vays
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
@@ -2167,6 +2290,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Now prince loved the strangers very much.
 1	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
 2	פּרינץ	פּרינץ	PROPN	_	_	6	nsubj	_	Translit=prints|Translit_Lemma=prints
 3	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -2184,6 +2308,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = He used to lay down on the sun and be with the men.
 1	ער	ער	PRON	_	_	2	nsubj	_	Translit=er|Translit_Lemma=er
 2	פֿלעגט	פֿלעגן	VERB	_	_	0	root	_	Translit=flegt|Translit_Lemma=flegn
 3	זיך	זיך	PRON	_	_	4	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -2204,6 +2329,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = He walked to walk the streets and met people in the park.
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	איז	זײַן	AUX	_	_	3	aux	_	Translit=iz|Translit_Lemma=zayn
 3	געגאַנגען	גיין	VERB	_	_	0	root	_	Translit=gegangen|Translit_Lemma=geyn
@@ -2226,6 +2352,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = He had lots of friends in the Plain.
 1	ער	ער	PRON	_	_	3	nsubj	_	Translit=er|Translit_Lemma=er
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
 3	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|Translit_Lemma=hobn
@@ -2242,6 +2369,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = They told us that prince was advancing to gas and sleeping on their bed or playing with their children.
 1	זײ	זײ	PRON	_	_	4	nsubj	_	Translit=zey|Translit_Lemma=zey
 2	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
 3	אונדז	מיר	PRON	_	_	4	obl:arg	_	Translit=undz|Translit_Lemma=mir
@@ -2269,6 +2397,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Nicholas Klingon is a Judeo-Hebrew teacher and a language of antisemite, who sent a tiny report about Yiddish.
 1	ניק	ניקן	PROPN	_	_	6	nsubj	_	Translit=nik|Translit_Lemma=nikn
 2	קלעװסקי	קלעװסקי	PROPN	_	_	1	flat:name	_	Translit=klevski|Translit_Lemma=klevski
 3	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -2294,6 +2423,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Let's get a conversation about the story of native speakers and her dialects.
 1-2	לאָמיר	_	_	_	_	_	_	_	Translit=lomir
 1	לאָז	לאָזן	VERB	_	_	0	root	_	Translit=loz|Translit_Lemma=lozn
 2	מיר	מיר	PRON	_	_	1	obj	_	Translit=mir|Translit_Lemma=mir
@@ -2316,6 +2446,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Did you ever think that German was very similar to German?
 1	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
 2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	אַמאָל	אַמאָל	ADV	_	_	4	advmod	_	Translit=amol|Translit_Lemma=amol
@@ -2335,6 +2466,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Why?
 1	פֿאַרוואָס	פֿאַרוואָס	ADV	_	_	0	root	_	SpaceAfter=No|Translit=farvos|Translit_Lemma=farvos
 2	?	?	PUNCT	_	_	1	punct	_	Translit=?|Translit_Lemma=?
 
@@ -2344,9 +2476,10 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Do all Yiddish speakers speak the same?
 1	צי	צי	PART	_	_	2	advmod	_	Translit=tsi|Translit_Lemma=tsi
 2	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
-3	אַלע	_	DET	_	_	5	det	_	Translit=ale
+3	אַלע	אַלע	DET	_	_	5	det	_	Translit=ale|Translit_Lemma=ale
 4	יידישע	יידיש	ADJ	_	_	5	amod	_	Translit=yidishe|Translit_Lemma=yidish
 5	רעדערס	רעדער	NOUN	_	_	2	nsubj	_	Translit=reders|Translit_Lemma=reder
 6	דאָס	דער	DET	_	_	8	det	_	Translit=dos|Translit_Lemma=der
@@ -2360,6 +2493,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = The first language is a central Hebrew language that's a member of the Germanite languages and comes from High German—not today.
 1-2	צום	_	_	_	_	_	_	_	Translit=tsum
 1	צו	צו	ADP	_	_	3	case	_	Translit=tsu|Translit_Lemma=tsu
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
@@ -2397,6 +2531,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = It was later that the Hebrew speakers were wandering around Europe and during the wandering, Hiddim continued to evolve further and more and seize new words of Slavic languages like Polish, Ukrainian, Russian, and so.
 1	יידיש	ײדיש	PROPN	_	_	2	compound	_	Translit=yidish|Translit_Lemma=yadish
 2	רעדערס	רעדער	NOUN	_	_	4	nsubj	_	Translit=reders|Translit_Lemma=reder
 3	האָבן	האָבן	AUX	_	_	4	aux	_	Translit=hobn|Translit_Lemma=hobn
@@ -2439,6 +2574,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Now this was just with the Judean speakers who lived in East Europe, but a lot of speakers were settled in Western Europe—as if in France, Belgium and Kedaroth.
 1	אָבער	אָבער	CCONJ	_	_	9	cc	_	Translit=ober|Translit_Lemma=ober
 2	אַזױ	אַזױ	ADV	_	_	9	nsubj	_	Translit=azoy|Translit_Lemma=azoy
 3	איז	זײַן	AUX	_	_	9	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -2482,6 +2618,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = The nations in Western Europe took words of Romance languages like French and not of Slavic languages.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	רעדערס	רעדער	NOUN	_	_	10	nsubj	_	Translit=reders|Translit_Lemma=reder
 3	וואָס	וואָס	SCONJ	_	_	8	mark	_	Translit=vos|Translit_Lemma=vos
@@ -2513,8 +2650,9 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = After a few centuries, and a lot of dialects were created by the mother tongue.
 1	נאָך	נאָך	ADP	_	_	3	case	_	Translit=nokh|Translit_Lemma=nokh
-2	עטלעכע	_	DET	_	_	3	det	_	Translit=etlekhe
+2	עטלעכע	עטלעך	DET	_	_	3	det	_	Translit=etlekhe|Translit_Lemma=etlekh
 3	יאָרהונדערטער	יאָרהונדערט	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=yorhunderter|Translit_Lemma=yorhundert
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,|Translit_Lemma=,
 5	און	און	CCONJ	_	_	10	cc	_	Translit=un|Translit_Lemma=un
@@ -2534,10 +2672,11 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = There were two the heads of the Yiddish dialects.
 1	עס	עס	PRON	_	_	6	nsubj	_	Translit=es|Translit_Lemma=es
 2	זענען	זײַן	AUX	_	_	6	aux	_	Translit=zenen|Translit_Lemma=zayn
 3	געװען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
-4	צוויי	_	NUM	_	_	6	nummod	_	Translit=tsvey
+4	צוויי	צװײ	NUM	_	_	6	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 5	הויפּט	הויפּט	NOUN	_	_	6	amod	_	Translit=hoypt|Translit_Lemma=hoypt
 6	גרופּעס	גרופּע	NOUN	_	_	0	root	_	Translit=grupes|Translit_Lemma=grupe
 7	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
@@ -2552,6 +2691,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = East Hadi and Western Hadi.
 1	מזרחדיקע	מזרחדיק	ADJ	_	_	2	amod	_	Translit=mizrekhdike|Translit_Lemma=mizrekhdik
 2	יידיש	ײדיש	PROPN	_	_	0	root	_	Translit=yidish|Translit_Lemma=yadish
 3	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
@@ -2565,6 +2705,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = What's the difference?
 1	וואָס	וואָס	PRON	_	_	0	root	_	Translit=vos|Translit_Lemma=vos
 2	איז	זײַן	AUX	_	_	1	cop	_	Translit=iz|Translit_Lemma=zayn
 3	דער	דער	DET	_	_	4	det	_	Translit=der|Translit_Lemma=der
@@ -2577,6 +2718,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = The wolf is a little different, the pronouncement is a little different. Per the grammat is a little different.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|Translit_Lemma=der
 2	וואָקאַבולאַר	וואָקאַבולאַר	NOUN	_	_	6	nsubj	_	Translit=vokabular|Translit_Lemma=vokabular
 3	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|Translit_Lemma=zayn
@@ -2606,10 +2748,11 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Say: We can all speak the words of "Parents" and "Sides" but you knew that "parents" are the words of "parents"?
 1	למשל	למשל	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=lemoshl|Translit_Lemma=lemoshl
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|Translit_Lemma=:
 3	מיר	מיר	PRON	_	_	5	nsubj	_	Translit=mir|Translit_Lemma=mir
-4	אַלע	_	DET	_	_	3	det	_	Translit=ale
+4	אַלע	אַלע	DET	_	_	3	det	_	Translit=ale|Translit_Lemma=ale
 5	קענען	קענען	VERB	_	_	0	root	_	Translit=kenen|Translit_Lemma=kenen
 6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
 7	ווערטער	וואָרט	NOUN	_	_	5	obj	_	Translit=verter|Translit_Lemma=vort
@@ -2640,6 +2783,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = We say "Halal" in place of grandmother and "Falal" in place of grandfather.
 1	מען	מען	PRON	_	_	2	nsubj	_	Translit=men|Translit_Lemma=men
 2	זאָגט	זאָגן	VERB	_	_	0	root	_	Translit=zogt|Translit_Lemma=zogn
 3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
@@ -2661,6 +2805,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = After the Holocaust, the entire group of Western Yiddish died.
 1	לײַדער	לײַדער	ADV	_	_	13	advmod	_	Translit=layder|Translit_Lemma=layder
 2	נאָך	נאָך	ADP	_	_	4	case	_	Translit=nokh|Translit_Lemma=nokh
 3	דעם	דער	DET	_	_	4	det	_	Translit=dem|Translit_Lemma=der
@@ -2682,6 +2827,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = And today?
 1	און	און	CCONJ	_	_	2	cc	_	Translit=un|Translit_Lemma=un
 2	הײַנט	הײַנט	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=haynt|Translit_Lemma=haynt
 3	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
@@ -2692,6 +2838,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = On the post office, we hear a lot of Yiddish and all languages.
 1-2	אױפֿן	_	_	_	_	_	_	_	Translit=oyfn
 1	אױפֿ	אױפֿ	ADP	_	_	3	case	_	Translit=oyf|Translit_Lemma=oyf
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
@@ -2713,6 +2860,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = But the dialect that is spoken no more is Hassic ( Hungarian Yiddish!)
 1	אָבער	אָבער	CCONJ	_	_	14	cc	_	Translit=ober|Translit_Lemma=ober
 2	דער	דער	DET	_	_	3	det	_	Translit=der|Translit_Lemma=der
 3	דיאַלעקט	דיאַלעקט	NOUN	_	_	14	nsubj	_	Translit=dyalekt|Translit_Lemma=dyalekt
@@ -2736,6 +2884,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = If you're interested in dialects, take note of transgression and see more about divination.
 1	אַז	אַז	SCONJ	_	_	4	mark	_	Translit=az|Translit_Lemma=az
 2	איר	איר	PRON	_	_	4	nsubj	_	Translit=ir|Translit_Lemma=ir
 3	זײַט	זײַן	AUX	_	_	4	aux	_	Translit=zayt|Translit_Lemma=zayn
@@ -2754,7 +2903,7 @@
 15	איר	איר	PRON	_	_	17	nsubj	_	Translit=ir|Translit_Lemma=ir
 16	קענט	קענען	AUX	_	_	17	aux	_	Translit=kent|Translit_Lemma=kenen
 17	זעען	זען	VERB	_	_	8	conj	_	Translit=zeen|Translit_Lemma=zen
-18	מער	_	DET	_	_	17	obj	_	Translit=mer
+18	מער	מער	DET	_	_	17	obj	_	Translit=mer|Translit_Lemma=mer
 19	װעגן	װעגן	ADP	_	_	21	case	_	Translit=vegn|Translit_Lemma=vegn
 20	די	דער	DET	_	_	21	det	_	Translit=di|Translit_Lemma=der
 21	חילוקים	חילוק	NOUN	_	_	18	nmod	_	SpaceAfter=No|Translit=khilekim|Translit_Lemma=khilek
@@ -2766,6 +2915,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 1 - A Story with a Cat and Yiddish Dialects
 # genre = spoken, web
+# text_en = Per we'll talk further about dialects in a coming epidemic.
 1	אַפֿשר	אַפֿשר	ADV	_	_	4	advmod	_	Translit=afsher|Translit_Lemma=afsher
 2	װעלן	װעלן	AUX	_	_	4	aux	_	Translit=veln|Translit_Lemma=veln
 3	מיר	מיר	PRON	_	_	4	nsubj	_	Translit=mir|Translit_Lemma=mir
@@ -2785,6 +2935,7 @@
 # rtl = yes
 # source = Book of Exodus
 # genre = bible
+# text_en = Then Pharaoh charged all his people, saying, “Every boy that is born you shall throw into the Nile, but let every girl live.”
 1	און	און	CCONJ	_	_	4	cc	_	Translit=un|Translit_Lemma=un
 2	פַּרעה	פּרעה	PROPN	_	_	4	nsubj	_	Translit=pare|Translit_Lemma=pare
 3	האָט	האָבן	AUX	_	_	4	aux	_	Translit=hot|Translit_Lemma=hobn
@@ -2797,7 +2948,7 @@
 10	צו	צו	PART	_	_	11	mark	_	Translit=tsu|Translit_Lemma=tsu
 11	זאָגן	זאָגן	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=zogn|Translit_Lemma=zogn
 12	:	:	PUNCT	_	_	24	punct	_	Translit=:|Translit_Lemma=:
-13	יעטװעדער	_	DET	_	_	14	det	_	Translit=yetveder
+13	יעטװעדער	יעטװעד	DET	_	_	14	det	_	Translit=yetveder|Translit_Lemma=yetved
 14	זון	זון	NOUN	_	_	24	obj	_	Translit=zun|Translit_Lemma=zun
 15	װאָס	װאָס	SCONJ	_	_	17	mark	_	Translit=vos|Translit_Lemma=vos
 16	װערט	װערן	AUX	_	_	17	aux:pass	_	Translit=vert|Translit_Lemma=vern
@@ -2811,7 +2962,7 @@
 24	אַרײַנװאַרפֿן	אַרײַנוואַרפֿן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=araynvarfn|Translit_Lemma=araynvarfn
 25	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 26	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
-27	יעטװעדער	_	DET	_	_	28	det	_	Translit=yetveder
+27	יעטװעדער	יעטװעד	DET	_	_	28	det	_	Translit=yetveder|Translit_Lemma=yetved
 28	טאָכטער	טאָכטער	NOUN	_	_	31	obj	_	Translit=tokhter|Translit_Lemma=tokhter
 29	זאָלט	זאָלן	AUX	_	_	31	aux	_	Translit=zolt|Translit_Lemma=zoln
 30	איר	איר	PRON	_	_	31	nsubj	_	Translit=ir|Translit_Lemma=ir
@@ -2825,6 +2976,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = I look at a land; the sky is like a star and it looks like a yellow son and a cold.
 1	איך	איך	PRON	_	_	3	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	3	aux	_	Translit=hob|Translit_Lemma=hobn
 3	געזען	זען	VERB	_	_	0	root	_	Translit=gezen|Translit_Lemma=zen
@@ -2856,6 +3008,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = For the sun has set, the mild rain, and the linears of rain, with all the shining of the sun.
 1	עס	עס	PRON	_	_	2	expl	_	Translit=es|Translit_Lemma=es
 2	ציט	ציִען	VERB	_	_	0	root	_	Translit=tsit|Translit_Lemma=tsien
 3	זיך	זיך	PRON	_	_	2	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
@@ -2886,6 +3039,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = The earth is parched with noble stones, square stones, and houses spread with level and upright houses, as many as they have been carried off like the roots of the dead.
 1	די	דער	DET	_	_	2	det	_	Translit=di|Translit_Lemma=der
 2	ערד	ערד	NOUN	_	_	4	nsubj	_	Translit=erd|Translit_Lemma=erd
 3	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|Translit_Lemma=zayn
@@ -2925,6 +3079,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = I have seen people there,With pitiless shoulders,Scattered them, and marvelous bows on your feet.
 1	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 2	האָב	האָבן	AUX	_	_	5	aux	_	Translit=hob|Translit_Lemma=hobn
 3	דאָרט	דאָרט	ADV	_	_	5	advmod	_	Translit=dort|Translit_Lemma=dort
@@ -2951,6 +3106,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = upon them; and the lightning, with silver, fell among them.
 1	און	און	CCONJ	_	_	9	cc	_	Translit=un|Translit_Lemma=un
 2	אױף	אױף	ADP	_	_	3	case	_	Translit=oyf|Translit_Lemma=oyf
 3	זײ	זײ	PRON	_	_	9	obl	_	SpaceAfter=No|Translit=zey|Translit_Lemma=zey
@@ -2973,6 +3129,7 @@
 # rtl = yes
 # source = From the Land of Consumption
 # genre = fiction
+# text_en = The rain from the sun ran along with all its shining.
 1	און	און	CCONJ	_	_	6	cc	_	Translit=un|Translit_Lemma=un
 2	די	דער	DET	_	_	3	det	_	Translit=di|Translit_Lemma=der
 3	שנירלעך	שנירל	NOUN	_	_	6	nsubj	_	Translit=shnirlekh|Translit_Lemma=shnirl

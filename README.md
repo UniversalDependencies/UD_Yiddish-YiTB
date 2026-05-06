@@ -8,7 +8,7 @@ Yiddish is classified as a West Germanic language, although it includes many ele
 
 There are a total of 27,872 tokens in the treebank. Roughly 60% of these stem from the Tatoeba source and consist of short sentences provided by both native and non-native speakers of Yiddish. It must be noted that there are occasional grammatical errors in these sentences, such as the use of the auxiliary _zayn_ 'be' instead of _hobn_ 'have' in past tense constructions of periphrastic verbs formed with the verb _zayn_, as well as incorrect syntax of periphrastic verbs which have an underlying complement-head (OV) order and do not follow the typical order expected of an SVO language like Yiddish. This appears to be a common mistake of intermediate L2 Yiddish speakers. The remainder 40% of tokens stem from a variety of native speaker texts and genres. The various source texts and genres are shown below. 
 
-Lemmas and transliterations into Latin script are provided as well by self-made models but are not 100% accurate. The transliteration model, which can be accessed [here](https://huggingface.co/shoowadoo/galkhesnet), was trained on wiktionary and transliterated Bible data. The lemmatization model was trained on wiktionary data and can be found [here](https://huggingface.co/shoowadoo/yiddish-lemmas). Translations are not provided at this time, but a model trained on Tatoeba sentences and parallel Bible verses is accessible [here](https://huggingface.co/shoowadoo/m2m100-finetuned-yi-to-en_418M_2). Morphological features are also not included at this time.
+Lemmas and transliterations into Latin script are provided as well by self-made models but are not 100% accurate. The transliteration model, which can be accessed [here](https://huggingface.co/shoowadoo/galkhesnet), was trained on wiktionary and transliterated Bible data. The lemmatization model was trained on wiktionary data and can be found [here](https://huggingface.co/shoowadoo/yiddish-lemmas). Rough translations have been provided using a model trained on Tatoeba sentences and parallel Bible verses that is accessible [here](https://huggingface.co/shoowadoo/m2m100-finetuned-yi-to-en_418M_2). Many of these translations need manual correction, and that process is underway. Morphological features are also not included at this time.
 
 | Source | Author | Genre | Added | Split |
 |-------|-------|-------|-------|-------|
@@ -32,6 +32,7 @@ Lemmas and transliterations into Latin script are provided as well by self-made 
 | The Four Questions | Traditional      | liturgical | 2.17  | test |
 | A Bit of Clarity and Simplicity Regarding the Language Question | Hillel Zeitlin      | nonfiction | 2.17  | train |
 | Song of Songs      | Yehoyesh translation      | bible | 2.17  | train |
+| Yiddish: Volume 1      | Sheva Zucker      | grammar | 2.18  | train |
 
 
 # Acknowledgments
