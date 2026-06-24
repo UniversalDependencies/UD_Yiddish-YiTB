@@ -2956,7 +2956,7 @@
 18	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 19	זאָלט	זאָלן	AUX	_	_	24	aux	_	Translit=zolt|LTranslit=zoln
 20	איר	איר	PRON	_	_	24	nsubj	_	Translit=ir|LTranslit=ir
-21	אים	עס	PRON	_	_	14	dislocated	_	Translit=im|LTranslit=es
+21	אים	ער	PRON	_	_	14	dislocated	_	Translit=im|LTranslit=er
 22	אין	אין	ADP	_	_	23	case	_	Translit=in|LTranslit=in
 23	טײַך	טײַך	NOUN	_	_	24	obl	_	Translit=taykh|LTranslit=taykh
 24	אַרײַנװאַרפֿן	אַרײַנוואַרפֿן	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=araynvarfn|LTranslit=araynvarfn

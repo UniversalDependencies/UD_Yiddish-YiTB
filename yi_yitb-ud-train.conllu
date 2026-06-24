@@ -866,7 +866,7 @@
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
 # genre = spoken, web
-# text_en = Take a look at a picture from his funeal in New York in 1916 - you will see thousands of people who came to bid farewell to the writer.
+# text_en = Take a look at a picture from his funeral in New York in 1916 - you will see thousands of people who came to bid farewell to the writer.
 1	כאַפּט	כאַפּן	VERB	_	_	0	root	_	Translit=khapt|LTranslit=khapn
 2	אַ	אַ	DET	_	_	3	det	_	Translit=a|LTranslit=a
 3	קוק	קוק	VERB	_	_	1	compound:lvc	_	Translit=kuk|LTranslit=kuk
@@ -31531,4 +31531,369 @@
 4	דאָס	דער	DET	_	_	5	det	_	Translit=dos|LTranslit=der
 5	האַרץ	האַרץ	NOUN	_	_	2	nsubj	_	SpaceAfter=No|Translit=harts|LTranslit=harts
 6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+
+# sent_id = zucker-12a-7-grammar.i.comparative_of_adjectives-sample.5
+# text = די נײַערע תּלמידים לערנען פֿון אַ בעסער בוך.
+# translit = di nayere talmidim lernen fun a beser bukh.
+# text_en = The newer students are learning from a better book.
+# rtl = yes
+1	די	דער	DET	_	_	3	det	_	LTranslit=der|Translit=di
+2	נײַערע	נײַ	ADJ	_	_	3	amod	_	LTranslit=nay|Translit=nayere
+3	תּלמידים	תּלמיד	NOUN	_	_	4	nsubj	_	LTranslit=talmed|Translit=talmidim
+4	לערנען	לערנען	VERB	_	_	0	root	_	LTranslit=lernen|Translit=lernen
+5	פֿון	פֿון	ADP	_	_	8	case	_	LTranslit=fun|Translit=fun
+6	אַ	אַ	DET	_	_	8	det	_	LTranslit=a|Translit=a
+7	בעסער	גוט	ADJ	_	_	8	amod	_	LTranslit=gut|Translit=beser
+8	בוך	בוך	NOUN	_	_	4	obl	_	LTranslit=bukh|SpaceAfter=No|Translit=bukh
+9	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-10-grammar.iv.word_order-sample.1
+# text = דער רעדנער זאָגט מיר די טעמע.
+# translit = der redner zogt mir di teme.
+# text_en = The speaker tells me the topic.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	רעדנער	רעדנער	NOUN	_	_	3	nsubj	_	LTranslit=redner|Translit=redner
+3	זאָגט	זאָגן	VERB	_	_	0	root	_	LTranslit=zogn|Translit=zogt
+4	מיר	מיר	PRON	_	_	3	obl:arg	_	LTranslit=mir|Translit=mir
+5	די	דער	DET	_	_	6	det	_	LTranslit=der|Translit=di
+6	טעמע	טעמע	NOUN	_	_	3	obj	_	LTranslit=teme|SpaceAfter=No|Translit=teme
+7	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.v.adverb_zeyer-sample.7
+# text = דער זײער קלײנער עולם האָט סײַ װי אױסגעקליבן אַ נײַעם סעקרעטאַר.
+# translit = der zeyer kleyner oylem hot say vi oysgeklibn a nayem sekretar.
+# text_en = The very small crowd elected a new secretary anyway.
+# rtl = yes
+1	דער	דער	DET	_	_	4	det	_	LTranslit=der|Translit=der
+2	זײער	זײער	ADV	_	_	3	advmod	_	LTranslit=zeyer|Translit=zeyer
+3	קלײנער	קלײן	ADJ	_	_	4	amod	_	LTranslit=kleyn|Translit=kleyner
+4	עולם	עולם	NOUN	_	_	8	nsubj	_	LTranslit=oylem|Translit=oylem
+5	האָט	האָבן	AUX	_	_	8	aux	_	LTranslit=hobn|Translit=hot
+6	סײַ	סײַ	CCONJ	_	_	8	advmod	_	LTranslit=say|Translit=say
+7	װי	װי	ADV	_	_	6	fixed	_	LTranslit=vi|Translit=vi
+8	אױסגעקליבן	אױסקלײַבן	VERB	_	_	0	root	_	LTranslit=oysklaybn|Translit=oysgeklibn
+9	אַ	אַ	DET	_	_	11	det	_	LTranslit=a|Translit=a
+10	נײַעם	נײַ	ADJ	_	_	11	amod	_	LTranslit=nay|Translit=nayem
+11	סעקרעטאַר	סעקרעטאַר	NOUN	_	_	8	obj	_	LTranslit=sekretar|SpaceAfter=No|Translit=sekretar
+12	.	.	PUNCT	_	_	8	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-7-grammar.i.comparative_of_adjectives-sample.7
+# text = פֿישעלעך אין װאַסער, זײ איז פֿיל בעסער, בײַ זײ איז נישט קײן אונטערשײד פֿון קלענער ביז צום גרעסער.
+# translit = fishelekh in vaser, zey iz fil beser, bay zey iz nisht keyn untersheyd fun klener biz tsum greser.
+# text_en = Fish in the water have it much better, among them there is no difference between smaller and larger.
+# rtl = yes
+1	פֿישעלעך	פֿיש	NOUN	_	_	8	dislocated	_	LTranslit=fish|Translit=fishelekh
+2	אין	אין	ADP	_	_	3	case	_	LTranslit=in|Translit=in
+3	װאַסער	וואַסער	NOUN	_	_	1	nmod	_	LTranslit=vaser|SpaceAfter=No|Translit=vaser
+4	,	,	PUNCT	_	_	1	punct	_	LTranslit=,|Translit=,
+5	זײ	זײ	PRON	_	_	8	obl:arg	_	LTranslit=zey|Translit=zey
+6	איז	זײַן	AUX	_	_	8	cop	_	LTranslit=zayn|Translit=iz
+7	פֿיל	פֿיל	ADJ	_	_	8	advmod	_	LTranslit=fil|Translit=fil
+8	בעסער	בעסער	ADJ	_	_	0	root	_	LTranslit=beser|SpaceAfter=No|Translit=beser
+9	,	,	PUNCT	_	_	15	punct	_	LTranslit=,|Translit=,
+10	בײַ	בײַ	ADP	_	_	11	case	_	LTranslit=bay|Translit=bay
+11	זײ	זײ	PRON	_	_	15	obl	_	LTranslit=zey|Translit=zey
+12	איז	זײַן	AUX	_	_	15	cop	_	LTranslit=zayn|Translit=iz
+13	נישט	נישט	PART	_	_	15	advmod	_	LTranslit=nisht|Translit=nisht
+14	קײן	קײן	DET	_	_	15	det	_	LTranslit=keyn|Translit=keyn
+15	אונטערשײד	אונטערשײד	NOUN	_	_	8	parataxis	_	LTranslit=untersheyd|Translit=untersheyd
+16	פֿון	פֿון	ADP	_	_	17	case	_	LTranslit=fun|Translit=fun
+17	קלענער	קלײן	ADJ	_	_	15	nmod	_	LTranslit=kleyn|Translit=klener
+18	ביז	ביז	ADP	_	_	21	case	_	LTranslit=biz|Translit=biz
+19-20	צום	_	_	_	_	_	_	_	Translit=tsum
+19	צו	צו	ADP	_	_	21	case	_	LTranslit=tsu|Translit=tsu
+20	דעם	דער	DET	_	_	21	det	_	LTranslit=der|Translit=dem
+21	גרעסער	גרױס	ADJ	_	_	15	nmod	_	LTranslit=groys|SpaceAfter=No|Translit=greser
+22	.	.	PUNCT	_	_	8	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-7-grammar.i.comparative_of_adjectives-sample.1
+# text = דער קליגערער מענטש װעט געװינען.
+# translit = der kligerer mentsh vet gevinen.
+# text_en = The cleverer person will win.
+# rtl = yes
+1	דער	דער	DET	_	_	3	det	_	LTranslit=der|Translit=der
+2	קליגערער	קלוג	ADJ	_	_	3	amod	_	LTranslit=klug|Translit=kligerer
+3	מענטש	מענטש	NOUN	_	_	5	nsubj	_	LTranslit=mentsh|Translit=mentsh
+4	װעט	װעלן	AUX	_	_	5	aux	_	LTranslit=veln|Translit=vet
+5	געװינען	געװינען	VERB	_	_	0	root	_	LTranslit=gevinen|SpaceAfter=No|Translit=gevinen
+6	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.v.adverb_zeyer-sample.3
+# text = זי איז זײער אַ פֿאַרנומענער מענטש.
+# translit = zi iz zeyer a farnumener mentsh.
+# text_en = She is a very busy person.
+# rtl = yes
+1	זי	זי	PRON	_	_	6	nsubj	_	LTranslit=zi|Translit=zi
+2	איז	זײַן	AUX	_	_	6	cop	_	LTranslit=zayn|Translit=iz
+3	זײער	זײער	ADV	_	_	6	advmod	_	LTranslit=zeyer|Translit=zeyer
+4	אַ	אַ	DET	_	_	6	det	_	LTranslit=a|Translit=a
+5	פֿאַרנומענער	פֿאַרנומען	ADJ	_	_	6	amod	_	LTranslit=farnumen|Translit=farnumener
+6	מענטש	מענטש	NOUN	_	_	0	root	_	LTranslit=mentsh|SpaceAfter=No|Translit=mentsh
+7	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.v.adverb_zeyer-sample.5
+# text = די באַװעגונג האָט זײער גוטער מיטגלידער.
+# translit = di bavegung hot zeyer guter mitglider.
+# text_en = The movement has very good members.
+# rtl = yes
+1	די	דער	DET	_	_	2	det	_	LTranslit=der|Translit=di
+2	באַװעגונג	באַװעגונג	NOUN	_	_	3	nsubj	_	LTranslit=bavegung|Translit=bavegung
+3	האָט	האָבן	VERB	_	_	0	root	_	LTranslit=hobn|Translit=hot
+4	זײער	זײער	ADV	_	_	5	advmod	_	LTranslit=zeyer|Translit=zeyer
+5	גוטער	גוט	ADJ	_	_	6	amod	_	LTranslit=gut|Translit=guter
+6	מיטגלידער	מיטגליד	NOUN	_	_	3	obj	_	LTranslit=mitglid|SpaceAfter=No|Translit=mitglider
+7	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.ii.superlative_of_adjectives-sample.7
+# text = דער עלטסטער קאָמפּיוטער איז בעסער װי די נײַסטע שרײַבמאַשין.
+# translit = der eltster kompyuter iz beser vi di nayste shraybmashin.
+# text_en = The oldest computer is better than the newest typewriter.
+# rtl = yes
+1	דער	דער	DET	_	_	3	det	_	LTranslit=der|Translit=der
+2	עלטסטער	אַלט	ADJ	_	_	3	amod	_	LTranslit=alt|Translit=eltster
+3	קאָמפּיוטער	קאָמפּיוטער	NOUN	_	_	5	nsubj	_	LTranslit=kompyuter|Translit=kompyuter
+4	איז	זײַן	AUX	_	_	5	cop	_	LTranslit=zayn|Translit=iz
+5	בעסער	גוט	ADJ	_	_	0	root	_	LTranslit=gut|Translit=beser
+6	װי	װי	SCONJ	_	_	9	case	_	LTranslit=vi|Translit=vi
+7	די	דער	DET	_	_	9	det	_	LTranslit=der|Translit=di
+8	נײַסטע	נײַ	ADJ	_	_	9	amod	_	LTranslit=nay|Translit=nayste
+9	שרײַבמאַשין	שרײַבמאַשין	NOUN	_	_	5	obl	_	LTranslit=shraybmashin|SpaceAfter=No|Translit=shraybmashin
+10	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-10-grammar.iv.word_order-sample.3
+# text = דער נײַער פֿאָרזיצער האָט אונדז הײַיאָר געבראַכט עטלעכע נײַע מיטגלידער.
+# translit = der nayer forzitser hot undz hayyor gebrakht etlekhe naye mitglider.
+# text_en = The new chairman brought us several new members this year.
+# rtl = yes
+1	דער	דער	DET	_	_	3	det	_	LTranslit=der|Translit=der
+2	נײַער	נײַ	ADJ	_	_	3	amod	_	LTranslit=nay|Translit=nayer
+3	פֿאָרזיצער	פֿאָרזיצער	NOUN	_	_	7	nsubj	_	LTranslit=forzitser|Translit=forzitser
+4	האָט	האָבן	AUX	_	_	7	aux	_	LTranslit=hobn|Translit=hot
+5	אונדז	מיר	PRON	_	_	7	obl:arg	_	LTranslit=mir|Translit=undz
+6	הײַיאָר	הײַיאָר	ADV	_	_	7	advmod	_	LTranslit=hayyor|Translit=hayyor
+7	געבראַכט	ברענגען	VERB	_	_	0	root	_	LTranslit=brengen|Translit=gebrakht
+8	עטלעכע	עטלעך	DET	_	_	10	det	_	LTranslit=etlekh|Translit=etlekhe
+9	נײַע	נײַ	ADJ	_	_	10	amod	_	LTranslit=nay|Translit=naye
+10	מיטגלידער	מיטגליד	NOUN	_	_	7	obj	_	LTranslit=mitglid|SpaceAfter=No|Translit=mitglider
+11	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.iii.dative_pronouns-3
+# text = די באַאַמטע שיקן אים דאָס געלט.
+# translit = di baamte shikn im dos gelt.
+# text_en = The officers send him the money.
+# rtl = yes
+1	די	דער	DET	_	_	2	det	_	LTranslit=der|Translit=di
+2	באַאַמטע	באַאַמטע	NOUN	_	_	3	nsubj	_	LTranslit=baamte|Translit=baamte
+3	שיקן	שיקן	VERB	_	_	0	root	_	LTranslit=shikn|Translit=shikn
+4	אים	ער	PRON	_	_	3	obl:arg	_	LTranslit=er|Translit=im
+5	דאָס	דער	DET	_	_	6	det	_	LTranslit=der|Translit=dos
+6	געלט	געלט	NOUN	_	_	3	obj	_	LTranslit=gelt|SpaceAfter=No|Translit=gelt
+7	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.iii.dative_pronouns-5
+# text = קום מיט אונדז אױף דער זיצונג.
+# translit = kum mit undz oyf der zitsung.
+# text_en = Come to the meeting with us.
+# rtl = yes
+1	קום	קומען	VERB	_	_	0	root	_	LTranslit=kumen|Translit=kum
+2	מיט	מיט	ADP	_	_	3	case	_	LTranslit=mit|Translit=mit
+3	אונדז	מיר	PRON	_	_	1	obl	_	LTranslit=mir|Translit=undz
+4	אױף	אױף	ADP	_	_	6	case	_	LTranslit=oyf|Translit=oyf
+5	דער	דער	DET	_	_	6	det	_	LTranslit=der|Translit=der
+6	זיצונג	זיצונג	NOUN	_	_	1	obl	_	LTranslit=zitsung|SpaceAfter=No|Translit=zitsung
+7	.	.	PUNCT	_	_	1	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.iii.dative_pronouns-7
+# text = די מיטגלידער קענען גײן אָן זײ.
+# translit = di mitglider kenen geyn on zey.
+# text_en = The members can go without them.
+# rtl = yes
+1	די	דער	DET	_	_	2	det	_	LTranslit=der|Translit=di
+2	מיטגלידער	מיטגליד	NOUN	_	_	4	nsubj	_	LTranslit=mitglid|Translit=mitglider
+3	קענען	קענען	AUX	_	_	4	aux	_	LTranslit=kenen|Translit=kenen
+4	גײן	גײן	VERB	_	_	0	root	_	LTranslit=geyn|Translit=geyn
+5	אָן	אָן	ADP	_	_	6	case	_	LTranslit=on|Translit=on
+6	זײ	זײ	PRON	_	_	4	obl	_	LTranslit=zey|SpaceAfter=No|Translit=zey
+7	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.iv.word_order-1
+# text = דער שוסטער גיט עס זײ.
+# translit = der shuster git es zey.
+# text_en = The shoemaker gives it to them.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	שוסטער	שוסטער	NOUN	_	_	3	nsubj	_	LTranslit=shuster|Translit=shuster
+3	גיט	געבן	VERB	_	_	0	root	_	LTranslit=gebn|Translit=git
+4	עס	עס	PRON	_	_	3	obj	_	LTranslit=es|Translit=es
+5	זײ	זײ	PRON	_	_	3	obl:arg	_	LTranslit=zey|SpaceAfter=No|Translit=zey
+6	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.v.adverb_zeyer-sample.1
+# text = עס איז געװען זײער אַן אינטערעסאַנטע זיצונג.
+# translit = es iz geven zeyer an interesante zitsung.
+# text_en = It was a very interesting meeting.
+# rtl = yes
+1	עס	עס	PRON	_	_	7	nsubj	_	LTranslit=es|Translit=es
+2	איז	זײַן	AUX	_	_	7	aux	_	LTranslit=zayn|Translit=iz
+3	געװען	זײַן	AUX	_	_	7	cop	_	LTranslit=zayn|Translit=geven
+4	זײער	זײער	ADV	_	_	7	advmod	_	LTranslit=zeyer|Translit=zeyer
+5	אַן	אַ	DET	_	_	7	det	_	LTranslit=a|Translit=an
+6	אינטערעסאַנטע	אינטערעסאַנט	ADJ	_	_	7	amod	_	LTranslit=interesant|Translit=interesante
+7	זיצונג	זיצונג	NOUN	_	_	0	root	_	LTranslit=zitsung|SpaceAfter=No|Translit=zitsung
+8	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-10-grammar.iv.word_order-sample.5
+# text = דער זינגער װעט אײַך זינגען אַ נײַ ליד.
+# translit = der zinger vet aykh zingen a nay lid.
+# text_en = The singer will sing you a new song.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	זינגער	זינגער	NOUN	_	_	5	nsubj	_	LTranslit=zinger|Translit=zinger
+3	װעט	װעלן	AUX	_	_	5	aux	_	LTranslit=veln|Translit=vet
+4	אײַך	איר	PRON	_	_	5	obl:arg	_	LTranslit=ir|Translit=aykh
+5	זינגען	זינג	VERB	_	_	0	root	_	LTranslit=zing|Translit=zingen
+6	אַ	אַ	DET	_	_	8	det	_	LTranslit=a|Translit=a
+7	נײַ	נײַ	ADJ	_	_	8	amod	_	LTranslit=nay|Translit=nay
+8	ליד	ליד	NOUN	_	_	5	obj	_	LTranslit=lid|SpaceAfter=No|Translit=lid
+9	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.iii.dative_pronouns-1
+# text = דער פֿאָרזיצער האָט מיר דערצײלט װעגן די נײַע מיטגלידער.
+# translit = der forzitser hot mir dertseylt vegn di naye mitglider.
+# text_en = The chairman told me about the new members.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	פֿאָרזיצער	פֿאָרזיצער	NOUN	_	_	5	nsubj	_	LTranslit=forzitser|Translit=forzitser
+3	האָט	האָבן	AUX	_	_	5	aux	_	LTranslit=hobn|Translit=hot
+4	מיר	מיר	PRON	_	_	5	obl:arg	_	LTranslit=mir|Translit=mir
+5	דערצײלט	דערצײלן	VERB	_	_	0	root	_	LTranslit=dertseyln|Translit=dertseylt
+6	װעגן	װעגן	ADP	_	_	9	case	_	LTranslit=vegn|Translit=vegn
+7	די	דער	DET	_	_	9	det	_	LTranslit=der|Translit=di
+8	נײַע	נײַ	ADJ	_	_	9	amod	_	LTranslit=nay|Translit=naye
+9	מיטגלידער	מיטגליד	NOUN	_	_	5	obl	_	LTranslit=mitglid|SpaceAfter=No|Translit=mitglider
+10	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.iv.word_order-5
+# text = דער אַדװאָקאַט שיקט עס דעם ריכטער.
+# translit = der advokat shikt es dem rikhter.
+# text_en = The lawyer sends it to the judge.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	אַדװאָקאַט	אַדװאָקאַט	NOUN	_	_	3	nsubj	_	LTranslit=advokat|Translit=advokat
+3	שיקט	שיקן	VERB	_	_	0	root	_	LTranslit=shikn|Translit=shikt
+4	עס	עס	PRON	_	_	3	obj	_	LTranslit=es|Translit=es
+5	דעם	דער	DET	_	_	6	det	_	LTranslit=der|Translit=dem
+6	ריכטער	ריכטער	NOUN	_	_	3	obl:arg	_	LTranslit=rikhter|SpaceAfter=No|Translit=rikhter
+7	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-12-grammar.vii.groys_after_prep-sample.1
+# text = דער זינגער איז אױפֿגעטראָטן מיט גרױס הצלחה.
+# translit = der zinger iz oyfgetrotn mit groys hatslokhe.
+# text_en = The singer appeared with great success.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	זינגער	זינגער	NOUN	_	_	4	nsubj	_	LTranslit=zinger|Translit=zinger
+3	איז	זײַן	AUX	_	_	4	aux	_	LTranslit=zayn|Translit=iz
+4	אױפֿגעטראָטן	אױפֿטרעטן	VERB	_	_	0	root	_	LTranslit=oyftretn|Translit=oyfgetrotn
+5	מיט	מיט	ADP	_	_	7	case	_	LTranslit=mit|Translit=mit
+6	גרױס	גרויס	ADJ	_	_	7	amod	_	LTranslit=groys|Translit=groys
+7	הצלחה	הצלחה	NOUN	_	_	4	obl	_	LTranslit=hatslokhe|SpaceAfter=No|Translit=hatslokhe
+8	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-11-grammar.iv.word_order-3
+# text = דער קעלנער דערלאַנגט עס אים.
+# translit = der kelner derlangt es im.
+# text_en = The waiter serves it to him.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	קעלנער	קעלנער	NOUN	_	_	3	nsubj	_	LTranslit=kelner|Translit=kelner
+3	דערלאַנגט	דערלאַנגן	VERB	_	_	0	root	_	LTranslit=derlangn|Translit=derlangt
+4	עס	עס	PRON	_	_	3	obj	_	LTranslit=es|Translit=es
+5	אים	ער	PRON	_	_	3	obl:arg	_	LTranslit=er|SpaceAfter=No|Translit=im
+6	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.ii.superlative_of_adjectives-sample.3
+# text = פֿאַר װאָס האָבן די מיטגלידער אױסגעקליבן דעם ערגסטע רעדנער?
+# translit = far vos hobn di mitglider oysgeklibn dem ergste redner?
+# text_en = Why did the members choose the worst speaker?
+# rtl = yes
+1	פֿאַר	פֿאַר	ADP	_	_	2	case	_	LTranslit=far|Translit=far
+2	װאָס	װאָס	PRON	_	_	6	obl	_	LTranslit=vos|Translit=vos
+3	האָבן	האָבן	AUX	_	_	6	aux	_	LTranslit=hobn|Translit=hobn
+4	די	דער	DET	_	_	5	det	_	LTranslit=der|Translit=di
+5	מיטגלידער	מיטגליד	NOUN	_	_	6	nsubj	_	LTranslit=mitglid|Translit=mitglider
+6	אױסגעקליבן	אױסקלײַבן	VERB	_	_	0	root	_	LTranslit=oysklaybn|Translit=oysgeklibn
+7	דעם	דער	DET	_	_	9	det	_	LTranslit=der|Translit=dem
+8	ערגסטע	שלעכט	ADJ	_	_	9	amod	_	LTranslit=shlekht|Translit=ergste
+9	רעדנער	רעדנער	NOUN	_	_	6	obj	_	LTranslit=redner|SpaceAfter=No|Translit=redner
+10	?	?	PUNCT	_	_	6	punct	_	LTranslit=?|SpacesAfter=\n|Translit=?
+
+# sent_id = zucker-12a-12-grammar.vii.groys_after_prep-sample.3
+# text = דער גבֿיר לעבט אין גרױס כּבֿוד.
+# translit = der gvir lebt in groys koved.
+# text_en = The rich man lives in great honor.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	גבֿיר	גבֿיר	NOUN	_	_	3	nsubj	_	LTranslit=gvir|Translit=gvir
+3	לעבט	לעבן	VERB	_	_	0	root	_	LTranslit=lebn|Translit=lebt
+4	אין	אין	ADP	_	_	6	case	_	LTranslit=in|Translit=in
+5	גרױס	גרויס	ADJ	_	_	6	amod	_	LTranslit=groys|Translit=groys
+6	כּבֿוד	כּבֿוד	NOUN	_	_	3	obl	_	LTranslit=koved|SpaceAfter=No|Translit=koved
+7	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.ii.superlative_of_adjectives-sample.1
+# text = דער פֿאָרזיצער רעדט מיט דעם נײַסטן מיטגליד.
+# translit = der forzitser redt mit dem naystn mitglid.
+# text_en = The chairman is talking to the newest member.
+# rtl = yes
+1	דער	דער	DET	_	_	2	det	_	LTranslit=der|Translit=der
+2	פֿאָרזיצער	פֿאָרזיצער	NOUN	_	_	3	nsubj	_	LTranslit=forzitser|Translit=forzitser
+3	רעדט	רעדן	VERB	_	_	0	root	_	LTranslit=redn|Translit=redt
+4	מיט	מיט	ADP	_	_	7	case	_	LTranslit=mit|Translit=mit
+5	דעם	דער	DET	_	_	7	det	_	LTranslit=der|Translit=dem
+6	נײַסטן	נײַ	ADJ	_	_	7	amod	_	LTranslit=nay|Translit=naystn
+7	מיטגליד	מיטגליד	NOUN	_	_	3	obl	_	LTranslit=mitglid|SpaceAfter=No|Translit=mitglid
+8	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-7-grammar.i.comparative_of_adjectives-sample.3
+# text = קײן ערגערע מיטגלידער קענען נישט זײַן.
+# translit = keyn ergere mitglider kenen nisht zayn.
+# text_en = There couldn't be worse members.
+# rtl = yes
+1	קײן	קײן	DET	_	_	3	det	_	LTranslit=keyn|Translit=keyn
+2	ערגערע	שלעכט	ADJ	_	_	3	amod	_	LTranslit=shlekht|Translit=ergere
+3	מיטגלידער	מיטגליד	NOUN	_	_	6	nsubj	_	LTranslit=mitglid|Translit=mitglider
+4	קענען	קענען	AUX	_	_	6	aux	_	LTranslit=kenen|Translit=kenen
+5	נישט	נישט	PART	_	_	6	advmod	_	LTranslit=nisht|Translit=nisht
+6	זײַן	זײַן	AUX	_	_	0	root	_	LTranslit=zayn|SpaceAfter=No|Translit=zayn
+7	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
+
+# sent_id = zucker-12a-10-grammar.iv.word_order-sample.7
+# text = אים װעל איך דאָס הײַנט נישט זאָגן.
+# translit = im vel ikh dos haynt nisht zogn.
+# text_en = I won't tell him that today.
+# rtl = yes
+1	אים	ער	PRON	_	_	7	obl:arg	_	LTranslit=er|Translit=im
+2	װעל	װעלן	AUX	_	_	7	aux	_	LTranslit=veln|Translit=vel
+3	איך	איך	PRON	_	_	7	nsubj	_	LTranslit=ikh|Translit=ikh
+4	דאָס	דער	DET	_	_	7	obj	_	LTranslit=der|Translit=dos
+5	הײַנט	הײַנט	NOUN	_	_	7	obl	_	LTranslit=haynt|Translit=haynt
+6	נישט	נישט	PART	_	_	7	advmod	_	LTranslit=nisht|Translit=nisht
+7	זאָגן	זאָגן	VERB	_	_	0	root	_	LTranslit=zogn|SpaceAfter=No|Translit=zogn
+8	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpacesAfter=\n\n|Translit=.
+
+# sent_id = zucker-12a-9-grammar.ii.superlative_of_adjectives-sample.5
+# text = מיר װילן נישט פֿאַרקױפֿן זײַן נײַסט בוך.
+# translit = mir viln nisht farkoyfn zayn nayst bukh.
+# text_en = We don't want to sell his newest book.
+# rtl = yes
+1	מיר	מיר	PRON	_	_	4	nsubj	_	LTranslit=mir|Translit=mir
+2	װילן	װעלן	AUX	_	_	4	aux	_	LTranslit=veln|Translit=viln
+3	נישט	נישט	PART	_	_	4	advmod	_	LTranslit=nisht|Translit=nisht
+4	פֿאַרקױפֿן	פֿאַרקױפֿן	VERB	_	_	0	root	_	LTranslit=farkoyfn|Translit=farkoyfn
+5	זײַן	זײַן	DET	_	_	7	det:poss	_	LTranslit=zayn|Translit=zayn
+6	נײַסט	נײַ	ADJ	_	_	7	amod	_	LTranslit=nay|Translit=nayst
+7	בוך	בוך	NOUN	_	_	4	obj	_	LTranslit=bukh|SpaceAfter=No|Translit=bukh
+8	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpacesAfter=\n|Translit=.
 
