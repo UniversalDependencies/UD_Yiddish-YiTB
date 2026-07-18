@@ -249,7 +249,7 @@
 # text_en = Sholem Aleichem is one of the classicists of the literature in Yiddish, and he created the canon of this very literature by himself.
 1	שלום־עליכם	שלום־עליכם	PROPN	_	_	3	nsubj	_	Translit=sholem-aleykhem|LTranslit=sholem-aleykhem
 2	איז	זײַן	AUX	_	_	3	cop	_	Translit=iz|LTranslit=zayn
-3	אײנער	אײנער	DET	_	_	0	root	_	Translit=eyner|LTranslit=eyner
+3	אײנער	אײנער	NUM	_	_	0	root	_	Translit=eyner|LTranslit=eyner
 4	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|LTranslit=fun
 5	די	דער	DET	_	_	6	det	_	Translit=di|LTranslit=der
 6	קלאַסיקער	קלאַסיקער	NOUN	_	_	3	nmod	_	Translit=klasiker|LTranslit=klasiker
@@ -861,7 +861,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = py_sholem-aleichem_35
-# text = כאַפּט אַ קוק אױף אַ בילד פֿון זײַן לװיה אין ניו־יאָרק אין 1916 – איר װעט זען טױזענטער מענטשן װאָס זענען געקומען זיך געזעגענען מיט דעם שרײַבער.
+# text = כאַפּט אַ קוק אױף אַ בילד פֿון זײַן לװיה אין ניו־יאָרק אין 1916 – איר װעט זען טױזנטער מענטשן װאָס זענען געקומען זיך געזעגענען מיט דעם שרײַבער.
 # translit = khapt a kuk oyf a bild fun zayn levaye in nyu-york in 1916 – ir vet zen toyzenter mentshn vos zenen gekumen zikh gezegenen mit dem shrayber.
 # rtl = yes
 # source = Proste Yiddish, Season 4: Episode 3 - Sholem Aleichem
@@ -884,7 +884,7 @@
 15	איר	איר	PRON	_	_	17	nsubj	_	Translit=ir|LTranslit=ir
 16	װעט	װעלן	AUX	_	_	17	aux	_	Translit=vet|LTranslit=veln
 17	זען	זען	VERB	_	_	1	parataxis	_	Translit=zen|LTranslit=zen
-18	טױזענטער	טױזענט	NOUN	_	_	17	obj	_	Translit=toyzenter|LTranslit=toyzent
+18	טױזנטער	טױזנט	NOUN	_	_	17	obj	_	Translit=toyznter|LTranslit=toyznt
 19	מענטשן	מענטש	NOUN	_	_	18	nmod	_	Translit=mentshn|LTranslit=mentsh
 20	װאָס	װאָס	SCONJ	_	_	22	mark	_	Translit=vos|LTranslit=vos
 21	זענען	זײַן	AUX	_	_	22	aux	_	Translit=zenen|LTranslit=zayn
@@ -30112,7 +30112,7 @@
 7	די	דער	DET	_	_	8	det	_	Translit=di|LTranslit=der
 8	מאַמע	מאַמע	NOUN	_	_	10	nsubj	_	Translit=mame|LTranslit=mame
 9	קען	קענען	AUX	_	_	10	aux	_	Translit=ken|LTranslit=kenen
-10	אַטענדן	אַטענדן	VERB	_	_	3	acl:relcl	_	SpaceAfter=No|Translit=atendn|LTranslit=atendn
+10	אַטענדן	אַטענדן	VERB	_	_	4	acl:relcl	_	SpaceAfter=No|Translit=atendn|LTranslit=atendn
 11	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = fathers_18
