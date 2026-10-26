@@ -19780,7 +19780,7 @@
 1	פֿאַרװאָס	פֿאַרװאָס	ADV	_	_	2	advmod	_	Translit=farvos|LTranslit=farvos
 2	זוכט	זוכן	VERB	_	_	0	root	_	Translit=zukht|LTranslit=zukhn
 3	איר	איר	PRON	_	_	2	nsubj	_	Translit=ir|LTranslit=ir
-4	זײ	זײען	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=zey|LTranslit=zeyen
+4	זײ	זײען	PRON	_	_	2	obj	_	SpaceAfter=No|Translit=zey|LTranslit=zeyen
 5	?	?	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
 
 # sent_id = tatoeba_1098
@@ -22404,7 +22404,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
 # text_en = I know Tom is a thief.
-1	איך	אוך	NOUN	_	_	2	nsubj	_	Translit=ikh|LTranslit=ukh
+1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|LTranslit=ikh
 2	װײס	ווײַס	VERB	_	_	0	root	_	Translit=veys|LTranslit=vays
 3	אַז	אַז	SCONJ	_	_	7	mark	_	Translit=az|LTranslit=az
 4	טאָם	טאָם	PROPN	_	_	7	nsubj	_	Translit=tom|LTranslit=tom
@@ -24449,7 +24449,7 @@
 # genre = grammar-examples/learner-essays
 # text_en = It took a month.
 1-2	ס׳האָט	_	_	_	_	_	_	_	Translit=s'hot
-1	עס	עסן	PROPN	_	_	3	nsubj	_	Translit=es|LTranslit=esn
+1	עס	עסן	PRON	_	_	3	nsubj	_	Translit=es|LTranslit=esn
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|LTranslit=hobn
 3	געדויערט	געדויערן	VERB	_	_	0	root	_	Translit=gedoyert|LTranslit=gedoyern
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|LTranslit=a

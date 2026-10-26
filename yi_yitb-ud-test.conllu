@@ -2590,7 +2590,7 @@
 # genre = spoken, web
 # text_en = "I don't know," says Solomon.
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
-2	איך	אוך	NOUN	_	_	3	nsubj	_	Translit=ikh|LTranslit=ukh
+2	איך	אוך	PRON	_	_	3	nsubj	_	Translit=ikh|LTranslit=ukh
 3	װײס	ווײַס	VERB	_	_	7	ccomp	_	Translit=veys|LTranslit=vays
 4	נישט	נישט	PART	_	_	3	advmod	_	SpaceAfter=No|Translit=nisht|LTranslit=nisht
 5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -13459,7 +13459,7 @@
 # genre = grammar-examples/learner-essays
 # text_en = He's Hungarian.
 1-2	ר'איז	_	_	_	_	_	_	_	Translit=r'iz
-1	ער	ערן	PROPN	_	_	4	nsubj	_	Translit=er|LTranslit=ern
+1	ער	ערן	PRON	_	_	4	nsubj	_	Translit=er|LTranslit=ern
 2	איז	זײַן	AUX	_	_	4	cop	_	Translit=iz|LTranslit=zayn
 3	אַן	אַ	DET	_	_	4	det	_	Translit=an|LTranslit=a
 4	אונגאַרישער	אונגאַריש	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=ungarisher|LTranslit=ungarish
@@ -16296,7 +16296,7 @@
 60	און	און	CCONJ	_	_	65	cc	_	Translit=un|LTranslit=un
 61	אָן	אָן	ADP	_	_	65	case	_	Translit=on|LTranslit=on
 62	װאָס	װאָס	PRON	_	_	65	nsubj:pass	_	Translit=vos|LTranslit=vos
-63	אײַך	אײַכטײַכן	NOUN	_	_	65	obl:arg	_	Translit=aykh|LTranslit=aykhtaykhn
+63	אײַך	אײַכטײַכן	PRON	_	_	65	obl:arg	_	Translit=aykh|LTranslit=aykhtaykhn
 64	װערט	װערן	AUX	_	_	65	aux:pass	_	Translit=vert|LTranslit=vern
 65	געטאָן	טאָן	VERB	_	_	58	conj	_	Translit=geton|LTranslit=ton
 66	אין	אין	ADP	_	_	67	case	_	Translit=in|LTranslit=in
@@ -16472,7 +16472,7 @@
 # genre = bible
 # text_en = Yet I know that the king of Egypt will let you go only because of a greater might.
 1	און	און	CCONJ	_	_	3	cc	_	Translit=un|LTranslit=un
-2	איך	אוך	NOUN	_	_	3	nsubj	_	Translit=ikh|LTranslit=ukh
+2	איך	אוך	PRON	_	_	3	nsubj	_	Translit=ikh|LTranslit=ukh
 3	װײס	ווײַס	VERB	_	_	0	root	_	Translit=veys|LTranslit=vays
 4	אַז	אַז	SCONJ	_	_	12	mark	_	Translit=az|LTranslit=az
 5	דער	דער	DET	_	_	6	det	_	Translit=der|LTranslit=der
