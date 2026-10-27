@@ -814,8 +814,8 @@
 8	פּערסאָנאַזשן	פּערסאָנאַזש	NOUN	_	_	5	obl:arg	_	Translit=personazhn|LTranslit=personazh
 9	און	און	CCONJ	_	_	11	cc	_	Translit=un|LTranslit=un
 10	סײַ	סײַ	CCONJ	_	_	11	cc	_	Translit=say|LTranslit=say
-11	אונדז	מיר	PRON	_	_	5	conj	_	Translit=undz|LTranslit=mir
-12	איבערלעבן	איבערלעבן	VERB	_	_	11	xcomp	_	Translit=iberlebn|LTranslit=iberlebn
+11	אונדז	מיר	PRON	_	_	8	conj	_	Translit=undz|LTranslit=mir
+12	איבערלעבן	איבערלעבן	VERB	_	_	5	xcomp	_	Translit=iberlebn|LTranslit=iberlebn
 13	טראַגישע	טראַגיש	ADJ	_	_	14	amod	_	Translit=tragishe|LTranslit=tragish
 14	סיטואַציעס	סיטואַציע	NOUN	_	_	12	obj	_	SpaceAfter=No|Translit=situatsyes|LTranslit=situatsye
 15	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -1007,7 +1007,7 @@
 10	צו	צו	ADP	_	_	11	case	_	Translit=tsu|LTranslit=tsu
 11	בעטהאָװענען	בעטהאָװען	PROPN	_	_	9	obl	_	Translit=bethovenen|LTranslit=bethoven
 12	רופֿן	רופֿן	VERB	_	_	9	advcl	_	Translit=rufn|LTranslit=rufn
-13	אים	עס	PRON	_	_	12	obj	_	Translit=im|LTranslit=es
+13	אים	ער	PRON	_	_	12	obj	_	Translit=im|LTranslit=er
 14	שפּאַצירן	שפּאַצירן	VERB	_	_	12	xcomp	_	SpaceAfter=No|Translit=shpatsirn|LTranslit=shpatsirn
 15	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -5214,7 +5214,7 @@
 2	טאָג	טאָג	NOUN	_	_	6	obl	_	Translit=tog|LTranslit=tog
 3	האָב	האָבן	AUX	_	_	6	aux	_	Translit=hob|LTranslit=hobn
 4	איך	איך	PRON	_	_	6	nsubj	_	Translit=ikh|LTranslit=ikh
-5	אים	עס	PRON	_	_	6	obj	_	Translit=im|LTranslit=es
+5	אים	ער	PRON	_	_	6	obj	_	Translit=im|LTranslit=er
 6	געטראָפֿן	טרעפֿן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=getrofn|LTranslit=trefn
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -8755,7 +8755,7 @@
 # text_en = She understands him.
 1	זי	זי	PRON	_	_	2	nsubj	_	Translit=zi|LTranslit=zi
 2	פֿאַרשטײט	פֿאַרשטיין	VERB	_	_	0	root	_	Translit=farshteyt|LTranslit=farshteyn
-3	אים	עס	PRON	_	_	2	obj	_	SpaceAfter=No|Translit=im|LTranslit=es
+3	אים	ער	PRON	_	_	2	obj	_	SpaceAfter=No|Translit=im|LTranslit=er
 4	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = tatoeba_368
@@ -8931,7 +8931,7 @@
 # text_en = She didn't marry him of her own will.
 1	זי	זי	PRON	_	_	5	nsubj	_	Translit=zi|LTranslit=zi
 2	האט	האָבן	AUX	_	_	5	aux	_	Translit=hat|LTranslit=hobn
-3	אים	עס	PRON	_	_	5	obj	_	Translit=im|LTranslit=es
+3	אים	ער	PRON	_	_	5	obj	_	Translit=im|LTranslit=er
 4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|LTranslit=nisht
 5	געחתנט	חתנען	VERB	_	_	0	root	_	Translit=gekhosnt|LTranslit=khasnen
 6	ביי	ביי	ADP	_	_	9	case	_	Translit=bey|LTranslit=bey
@@ -9821,7 +9821,7 @@
 6	בילד	בילד	NOUN	_	_	4	obj	_	Translit=bild|LTranslit=bild
 7	דערקען	דערקענען	VERB	_	_	0	root	_	Translit=derken|LTranslit=derkenen
 8	איך	איך	PRON	_	_	9	nsubj	_	Translit=ikh|LTranslit=ikh
-9	אים	עס	PRON	_	_	7	obj	_	SpaceAfter=No|Translit=im|LTranslit=es
+9	אים	ער	PRON	_	_	7	obj	_	SpaceAfter=No|Translit=im|LTranslit=er
 10	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = tatoeba_440
@@ -10030,7 +10030,7 @@
 # text_en = I'm going to call him now.
 1	איך	איך	PRON	_	_	4	nsubj	_	Translit=ikh|LTranslit=ikh
 2	וועל	װעלן	AUX	_	_	4	aux	_	Translit=vel|LTranslit=veln
-3	אים	עס	PRON	_	_	4	obj	_	Translit=im|LTranslit=es
+3	אים	ער	PRON	_	_	4	obj	_	Translit=im|LTranslit=er
 4	רופן	רופֿן	VERB	_	_	0	root	_	Translit=rufn|LTranslit=rufn
 5	יעצט	יעצט	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=yetst|LTranslit=yetst
 6	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -11634,7 +11634,7 @@
 # genre = grammar-examples/learner-essays
 # text_en = Pet him.
 1	גלעט	גלעט	VERB	_	_	0	root	_	Translit=glet|LTranslit=glet
-2	אים	עס	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=im|LTranslit=es
+2	אים	ער	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=im|LTranslit=er
 3	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # sent_id = tatoeba_555
@@ -16135,7 +16135,7 @@
 3	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|LTranslit=az
 4	אַלע	אַלע	DET	_	_	8	nsubj	_	Translit=ale|LTranslit=ale
 5	זאָלן	זאָלן	AUX	_	_	8	aux	_	Translit=zoln|LTranslit=zoln
-6	אים	עס	PRON	_	_	8	obj	_	Translit=im|LTranslit=es
+6	אים	ער	PRON	_	_	8	obj	_	Translit=im|LTranslit=er
 7	ליב	ליב	NOUN	_	_	8	compound:lvc	_	Translit=lib|LTranslit=lib
 8	האָבן	האָבן	VERB	_	_	2	ccomp	_	SpaceAfter=No|Translit=hobn|LTranslit=hobn
 9	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
@@ -17033,12 +17033,12 @@
 1	די	דער	DET	_	_	2	det	_	Translit=di|LTranslit=der
 2	הינט	הונט	NOUN	_	_	5	nsubj	_	Translit=hint|LTranslit=hunt
 3	האָבן	האָבן	AUX	_	_	5	aux	_	Translit=hobn|LTranslit=hobn
-4	אים	עס	PRON	_	_	5	obj	_	Translit=im|LTranslit=es
+4	אים	ער	PRON	_	_	5	obj	_	Translit=im|LTranslit=er
 5	געדענקט	דענקען	VERB	_	_	0	root	_	Translit=gedenkt|LTranslit=denken
 6	און	און	CCONJ	_	_	8	cc	_	Translit=un|LTranslit=un
 7	זיך	זיך	PRON	_	_	8	expl:pv	_	Translit=zikh|LTranslit=zikh
 8	געפֿרייט	פֿרייט	VERB	_	_	5	conj	_	Translit=gefreyt|LTranslit=freyt
-9	אים	עס	PRON	_	_	11	obj	_	Translit=im|LTranslit=es
+9	אים	ער	PRON	_	_	11	obj	_	Translit=im|LTranslit=er
 10	צו	צו	PART	_	_	11	mark	_	Translit=tsu|LTranslit=tsu
 11	זען	זען	VERB	_	_	8	xcomp	_	SpaceAfter=No|Translit=zen|LTranslit=zen
 12	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -20573,7 +20573,7 @@
 # text_en = No one can stand him.
 1	קיינער	קײנער	DET	_	_	5	nsubj	_	Translit=keyner|LTranslit=keyner
 2	קען	קענען	AUX	_	_	5	aux	_	Translit=ken|LTranslit=kenen
-3	אים	עס	PRON	_	_	5	obj	_	Translit=im|LTranslit=es
+3	אים	ער	PRON	_	_	5	obj	_	Translit=im|LTranslit=er
 4	נישט	נישט	PART	_	_	5	advmod	_	Translit=nisht|LTranslit=nisht
 5	פֿאַרטראָגן	פֿאַרטראָגן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=fartrogn|LTranslit=fartrogn
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -21128,7 +21128,7 @@
 # text_en = Now I cry less.
 1	איצט	איצט	ADV	_	_	2	advmod	_	Translit=itst|LTranslit=itst
 2	וויין	וויין	VERB	_	_	0	root	_	Translit=vayn|LTranslit=vayn
-3	איך	איך	PRON	_	_	2	obj	_	Translit=ikh|LTranslit=ikh
+3	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|LTranslit=ikh
 4	ווייניקער	ווייניק	ADJ	_	_	2	advmod	_	SpaceAfter=No|Translit=veyniker|LTranslit=veynik
 5	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -21170,7 +21170,7 @@
 # text_en = I love him.
 1	איך	איך	PRON	_	_	2	nsubj	_	Translit=ikh|LTranslit=ikh
 2	האָב	האָבן	AUX	_	_	0	root	_	Translit=hob|LTranslit=hobn
-3	אים	עס	PRON	_	_	2	obj	_	Translit=im|LTranslit=es
+3	אים	ער	PRON	_	_	2	obj	_	Translit=im|LTranslit=er
 4	ליב	ליב	NOUN	_	_	2	compound:lvc	_	SpaceAfter=No|Translit=lib|LTranslit=lib
 5	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -25024,7 +25024,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
 # text_en = Eat, otherwise you'll be hungry!
-1	עס	עס	PRON	_	_	0	root	_	SpaceAfter=No|Translit=es|LTranslit=es
+1	עס	עס	VERB	_	_	0	root	_	SpaceAfter=No|Translit=es|LTranslit=es
 2	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 3	אַנישט	אַנישט	ADV	_	_	7	advmod	_	Translit=anisht|LTranslit=anisht
 4-5	וועסטו	_	_	_	_	_	_	_	Translit=vestu
@@ -27654,7 +27654,7 @@
 4	זיך	זיך	PRON	_	_	5	expl:pv	_	Translit=zikh|LTranslit=zikh
 5	קליגן	קליגן	VERB	_	_	2	xcomp	_	Translit=klign|LTranslit=klign
 6	קעגן	קעגן	ADP	_	_	7	case	_	Translit=kegn|LTranslit=kegn
-7	אים	עס	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=im|LTranslit=es
+7	אים	ער	PRON	_	_	5	obl	_	SpaceAfter=No|Translit=im|LTranslit=er
 8	;	;	PUNCT	_	_	13	punct	_	Translit=;|LTranslit=;
 9	אַניט	אַניט	ADV	_	_	13	advmod	_	Translit=anit|LTranslit=anit
 10	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|LTranslit=veln
@@ -27709,11 +27709,11 @@
 2	זײ	זײ	PRON	_	_	3	nsubj	_	Translit=zey|LTranslit=zey
 3	געמאַכט	מאַכן	VERB	_	_	0	root	_	Translit=gemakht|LTranslit=makhn
 4	איבער	איבער	ADP	_	_	5	case	_	Translit=iber|LTranslit=iber
-5	אים	עס	PRON	_	_	3	obl	_	Translit=im|LTranslit=es
+5	אים	ער	PRON	_	_	3	obl	_	Translit=im|LTranslit=er
 6	צינזהאַרן	צינזהאַר	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=tsinzharn|LTranslit=tsinzhar
 7	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 8	כּדי	כּדי	ADP	_	_	11	mark	_	Translit=kedey|LTranslit=kedey
-9	אים	עס	PRON	_	_	11	obj	_	Translit=im|LTranslit=es
+9	אים	ער	PRON	_	_	11	obj	_	Translit=im|LTranslit=er
 10	צו	צו	PART	_	_	11	mark	_	Translit=tsu|LTranslit=tsu
 11	פּײַניקן	פּײַניקן	VERB	_	_	3	advcl	_	Translit=paynikn|LTranslit=paynikn
 12	מיט	מיט	ADP	_	_	14	case	_	Translit=mit|LTranslit=mit
@@ -27744,7 +27744,7 @@
 2	װי	װי	SCONJ	_	_	6	mark	_	Translit=vi|LTranslit=vi
 3	זײ	זײ	PRON	_	_	6	nsubj	_	Translit=zey|LTranslit=zey
 4	האָבן	האָבן	AUX	_	_	6	aux	_	Translit=hobn|LTranslit=hobn
-5	אים	עס	PRON	_	_	6	obj	_	Translit=im|LTranslit=es
+5	אים	ער	PRON	_	_	6	obj	_	Translit=im|LTranslit=er
 6	געפּײַניקט	פּײַניקן	VERB	_	_	12	advcl	_	SpaceAfter=No|Translit=gepaynikt|LTranslit=paynikn
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
 8	אַזױ	אַזױ	ADV	_	_	12	advmod	_	Translit=azoy|LTranslit=azoy
@@ -29369,7 +29369,7 @@
 12	מיט	מיט	ADP	_	_	14	case	_	Translit=mit|LTranslit=mit
 13	אַ	אַ	DET	_	_	14	det	_	Translit=a|LTranslit=a
 14	מאָל	מאָל	NOUN	_	_	11	obl	_	Translit=mol|LTranslit=mol
-15	אים	עס	PRON	_	_	16	obj	_	Translit=im|LTranslit=es
+15	אים	ער	PRON	_	_	16	obj	_	Translit=im|LTranslit=er
 16	אײַנרעדן	אײַנרעד	VERB	_	_	11	xcomp	_	SpaceAfter=No|Translit=aynredn|LTranslit=aynred
 17	,	,	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
 18	אַז	אַז	SCONJ	_	_	25	mark	_	Translit=az|LTranslit=az
@@ -29666,7 +29666,7 @@
 18	זאָל	זאָלן	AUX	_	_	20	aux	_	Translit=zol|LTranslit=zoln
 19	זיך	זיך	PRON	_	_	20	expl:pv	_	Translit=zikh|LTranslit=zikh
 20	פֿאַרדרייען	פֿאַרדרייען	VERB	_	_	2	conj	_	Translit=fardreyen|LTranslit=fardreyen
-21	איר	איר	PRON	_	_	22	det:poss	_	Translit=ir|LTranslit=ir
+21	איר	איר	DET	_	_	22	det:poss	_	Translit=ir|LTranslit=ir
 22	קאָפּ	קאָפּ	NOUN	_	_	20	obj	_	SpaceAfter=No|Translit=kop|LTranslit=kop
 23	,	,	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,
 24	ווערנד	ווערנד	SCONJ	_	_	34	mark	_	Translit=vernd|LTranslit=vernd
@@ -29984,7 +29984,7 @@
 10	יאָך	יאָך	NOUN	_	_	3	obj	_	Translit=yokh|LTranslit=yokh
 11	און	און	CCONJ	_	_	12	cc	_	Translit=un|LTranslit=un
 12	וואַרפֿט	וואַרפֿן	VERB	_	_	3	conj	_	Translit=varft|LTranslit=varfn
-13	אים	עס	PRON	_	_	12	obj	_	Translit=im|LTranslit=es
+13	אים	ער	PRON	_	_	12	obj	_	Translit=im|LTranslit=er
 14	אַרױף	אַרױף	ADV	_	_	12	compound:prt	_	Translit=aroyf|LTranslit=aroyf
 15	אױף	אױף	ADP	_	_	17	case	_	Translit=oyf|LTranslit=oyf
 16	דער	דער	DET	_	_	17	det	_	Translit=der|LTranslit=der
