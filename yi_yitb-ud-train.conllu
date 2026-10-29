@@ -25024,7 +25024,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
 # text_en = Eat, otherwise you'll be hungry!
-1	עס	עס	VERB	_	_	0	root	_	SpaceAfter=No|Translit=es|LTranslit=es
+1	עס	עסן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=es|LTranslit=esn
 2	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 3	אַנישט	אַנישט	ADV	_	_	7	advmod	_	Translit=anisht|LTranslit=anisht
 4-5	וועסטו	_	_	_	_	_	_	_	Translit=vestu

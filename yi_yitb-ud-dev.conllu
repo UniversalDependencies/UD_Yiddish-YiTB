@@ -155,8 +155,8 @@
 7	טרױער־אַקאַדעמיעס	טרױער־אַקאַדעמיע	NOUN	_	_	6	nsubj	_	Translit=troyer-akademyes|LTranslit=troyer-akademye
 8	נאָך	נאָך	ADP	_	_	10	case	_	Translit=nokh|LTranslit=nokh
 9	דעם	דער	DET	_	_	10	det	_	Translit=dem|LTranslit=der
-10	ד“ר	דלרן	NOUN	_	_	7	nmod	_	Translit=“r|LTranslit=dalern
-11	צמח	צמח	PROPN	_	_	10	flat:name	_	Translit=tsamekh|LTranslit=tsamekh
+10	ד“ר	ד“ר	NOUN	_	_	7	nmod	_	Translit=d"r|LTranslit=d"r
+11	צמח	צמח	PROPN	_	_	10	flat:name	_	Translit=tsemekh|LTranslit=tsemekh
 12	שאַבאַד	שאַבאַד	PROPN	_	_	10	flat:name	_	Translit=shabad|LTranslit=shabad
 13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 14	געשטאָרבן	שטאַרבן	VERB	_	_	10	parataxis	_	Translit=geshtorbn|LTranslit=shtarbn
@@ -166,7 +166,7 @@
 18	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 19	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
 20	נאָך	נאָך	ADP	_	_	21	case	_	Translit=nokh|LTranslit=nokh
-21	ד“ר	ד⁜ר	PROPN	_	_	10	conj	_	Translit=“r|LTranslit=d“אַר
+21	ד“ר	ד“ר	PROPN	_	_	10	conj	_	Translit=d"r|LTranslit=d"r
 22	קאָװאַרסקי	קאָװאַרסקי	PROPN	_	_	21	flat:name	_	Translit=kovarski|LTranslit=kovarski
 23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 24	געשטאָרבן	שטאַרבן	VERB	_	_	21	parataxis	_	Translit=geshtorbn|LTranslit=shtarbn
