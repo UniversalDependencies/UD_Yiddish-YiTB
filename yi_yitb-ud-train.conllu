@@ -27566,7 +27566,7 @@
 37	אױפֿגעגאַנגען	אױפֿגיין	VERB	_	_	31	conj	_	Translit=oyfgegangen|LTranslit=oyfgeyn
 38	צו	צו	ADP	_	_	41	case	_	Translit=tsu|LTranslit=tsu
 39	{	{	PUNCT	_	_	41	punct	_	SpaceAfter=No|Translit={|LTranslit={
-40	dn	דאַן	X	_	_	41	dep	_	Translit=dn|LTranslit=dan
+40	dn	dn	X	_	_	41	dep	_	Translit=dn|LTranslit=dn
 41	גאָט	גאָט	PROPN	_	_	37	obl	_	SpaceAfter=No|Translit=got|LTranslit=got
 42	}	}	PUNCT	_	_	41	punct	_	Translit=}|LTranslit=}
 43	פֿון	פֿון	ADP	_	_	45	case	_	Translit=fun|LTranslit=fun
@@ -27583,7 +27583,7 @@
 # text_en = When [the angel of] their moaning, God remembered His covenant with Abraham and Isaac and Jacob.
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|LTranslit=un
 2	{	{	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit={|LTranslit={
-3	dn	דאַן	X	_	_	4	dep	_	Translit=dn|LTranslit=dan
+3	dn	dn	X	_	_	4	dep	_	Translit=dn|LTranslit=dn
 4	גאָט	גאָט	PROPN	_	_	7	nsubj	_	SpaceAfter=No|Translit=got|LTranslit=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|LTranslit=}
 6	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|LTranslit=hobn
@@ -27593,7 +27593,7 @@
 10	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 11	און	און	CCONJ	_	_	17	cc	_	Translit=un|LTranslit=un
 12	{	{	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit={|LTranslit={
-13	dn	דאַן	X	_	_	14	dep	_	Translit=dn|LTranslit=dan
+13	dn	dn	X	_	_	14	dep	_	Translit=dn|LTranslit=dn
 14	גאָט	גאָט	PROPN	_	_	17	nsubj	_	SpaceAfter=No|Translit=got|LTranslit=got
 15	}	}	PUNCT	_	_	14	punct	_	Translit=}|LTranslit=}
 16	האָט	האָבן	AUX	_	_	17	aux	_	Translit=hot|LTranslit=hobn
@@ -27621,7 +27621,7 @@
 # text_en = When God saw the Israelites, He was mindful of the LORD.
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|LTranslit=un
 2	{	{	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit={|LTranslit={
-3	dn	דאַן	X	_	_	4	dep	_	Translit=dn|LTranslit=dan
+3	dn	dn	X	_	_	4	dep	_	Translit=dn|LTranslit=dn
 4	גאָט	גאָט	PROPN	_	_	7	nsubj	_	SpaceAfter=No|Translit=got|LTranslit=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|LTranslit=}
 6	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|LTranslit=hobn
@@ -27633,7 +27633,7 @@
 12	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
 13	און	און	CCONJ	_	_	19	cc	_	Translit=un|LTranslit=un
 14	{	{	PUNCT	_	_	16	punct	_	SpaceAfter=No|Translit={|LTranslit={
-15	dn	דאַן	X	_	_	16	dep	_	Translit=dn|LTranslit=dan
+15	dn	dn	X	_	_	16	dep	_	Translit=dn|LTranslit=dn
 16	גאָט	גאָט	PROPN	_	_	19	nsubj	_	SpaceAfter=No|Translit=got|LTranslit=got
 17	}	}	PUNCT	_	_	16	punct	_	Translit=}|LTranslit=}
 18	האָט	האָבן	AUX	_	_	19	aux	_	Translit=hot|LTranslit=hobn
@@ -27936,7 +27936,7 @@
 6	געהאַט	האָבן	VERB	_	_	0	root	_	Translit=gehat|LTranslit=hobn
 7	פֿאַר	פֿאַר	ADP	_	_	10	case	_	Translit=far|LTranslit=far
 8	{	{	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit={|LTranslit={
-9	dn	דאַן	X	_	_	10	dep	_	Translit=dn|LTranslit=dan
+9	dn	dn	X	_	_	10	dep	_	Translit=dn|LTranslit=dn
 10	גאָט	גאָט	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=got|LTranslit=got
 11	}	}	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=}|LTranslit=}
 12	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
@@ -28054,7 +28054,7 @@
 # text_en = And God dealt well with the midwives; and the people multiplied and increased greatly.
 1	און	און	CCONJ	_	_	7	cc	_	Translit=un|LTranslit=un
 2	{	{	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit={|LTranslit={
-3	dn	דאַן	X	_	_	4	dep	_	Translit=dn|LTranslit=dan
+3	dn	dn	X	_	_	4	dep	_	Translit=dn|LTranslit=dn
 4	גאָט	גאָט	PROPN	_	_	7	nsubj	_	SpaceAfter=No|Translit=got|LTranslit=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|LTranslit=}
 6	האָט	האָבן	AUX	_	_	7	aux	_	Translit=hot|LTranslit=hobn
@@ -28097,7 +28097,7 @@
 11	געהאַט	האָבן	VERB	_	_	21	advcl	_	Translit=gehat|LTranslit=hobn
 12	פֿאַר	פֿאַר	ADP	_	_	15	case	_	Translit=far|LTranslit=far
 13	{	{	PUNCT	_	_	15	punct	_	SpaceAfter=No|Translit={|LTranslit={
-14	dn	דאַן	X	_	_	15	dep	_	Translit=dn|LTranslit=dan
+14	dn	dn	X	_	_	15	dep	_	Translit=dn|LTranslit=dn
 15	גאָט	גאָט	PROPN	_	_	11	obl	_	SpaceAfter=No|Translit=got|LTranslit=got
 16	}	}	PUNCT	_	_	15	punct	_	SpaceAfter=No|Translit=}|LTranslit=}
 17	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
