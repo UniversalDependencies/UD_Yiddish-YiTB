@@ -663,7 +663,7 @@
 24	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No|Translit="|LTranslit="
 25	ביז	ביז	ADP	_	_	27	case	_	Translit=biz|LTranslit=biz
 26	אַכט	אַכט	NUM	_	_	27	nummod	_	Translit=akht|LTranslit=akht
-27	אוהר	אוהר	NOUN	_	_	22	obl	_	SpaceAfter=No|Translit=uhr|LTranslit=uhr
+27	אוהר	אוהר	NOUN	_	Foreign=Yes	22	obl	_	SpaceAfter=No|Translit=uhr|LTranslit=uhr
 28	.	.	PUNCT	_	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 29	"	"	PUNCT	_	_	27	punct	_	Translit="|LTranslit="
 
@@ -5159,7 +5159,7 @@
 4	גאָר	גאָר	ADV	_	_	5	advmod	_	Translit=gor|LTranslit=gor
 5	פּלוצעם	פּלוצעם	ADV	_	_	2	advmod	_	Translit=plutsem|LTranslit=plutsem
 6	אין	אין	ADP	_	_	7	case	_	Translit=in|LTranslit=in
-7	קריפּטאָ־מזומנים	קריפּטאָ־ מזומן	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=kripto-mezumonem|LTranslit=kripto-mezumen
+7	קריפּטאָ־מזומנים	קריפּטאָ־מזומן	NOUN	_	_	2	obl	_	SpaceAfter=No|Translit=kripto-mezumonem|LTranslit=kripto-mezumen
 8	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = tatoeba_1767
@@ -17007,7 +17007,7 @@
 # genre = bible
 # text_en = For they shall assign to youMarch days,A years of life and well-being.
 1	װאָרום	װאָרום	SCONJ	_	_	12	mark	_	Translit=vorum|LTranslit=vorum
-2	אַריכת־ימים	אַריכת־ יום	NOUN	_	_	12	obj	_	Translit=arikhes-yomem|LTranslit=arikhes-yom
+2	אַריכת־ימים	אַריכת־יום	NOUN	_	_	12	obj	_	Translit=arikhes-yomem|LTranslit=arikhes-yom
 3	און	און	CCONJ	_	_	4	cc	_	Translit=un|LTranslit=un
 4	יאָרן	יאָר	NOUN	_	_	2	conj	_	Translit=yorn|LTranslit=yor
 5	פֿון	פֿון	ADP	_	_	6	case	_	Translit=fun|LTranslit=fun
@@ -17370,7 +17370,7 @@
 # source = Book of Proverbs
 # genre = bible
 # text_en = Adult is in her right hand,His left wealth and glory.
-1	אַריכת־ימים	אַריכת־ יום	NOUN	_	_	6	nsubj	_	Translit=arikhes-yomem|LTranslit=arikhes-yom
+1	אַריכת־ימים	אַריכת־יום	NOUN	_	_	6	nsubj	_	Translit=arikhes-yomem|LTranslit=arikhes-yom
 2	איז	זײַן	AUX	_	_	6	cop	_	Translit=iz|LTranslit=zayn
 3	אין	אין	ADP	_	_	6	case	_	Translit=in|LTranslit=in
 4	איר	איר	DET	_	_	6	det:poss	_	Translit=ir|LTranslit=ir
