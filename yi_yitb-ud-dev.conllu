@@ -2193,7 +2193,7 @@
 5	װױן	וווינען	VERB	_	_	2	ccomp	_	Translit=voyn|LTranslit=voynen
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|LTranslit=mit
 7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|LTranslit=tsvey
-8	שטוב־חיות	שטוב־ חיה	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=shtub-khayes|LTranslit=shtub-khaye
+8	שטוב־חיות	שטוב־חיה	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=shtub-khayes|LTranslit=shtub-khaye
 9	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
 10	מײַנע	מײַן	DET	_	_	12	det:poss	_	Translit=mayne|LTranslit=mayn
 11	צװײ	צװײ	NUM	_	_	12	nummod	_	Translit=tsvey|LTranslit=tsvey
