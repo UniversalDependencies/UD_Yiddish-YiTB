@@ -34662,8 +34662,8 @@
 # sent_id = yiddish_grammar_248
 # source = Yiddish grammar books
 # genre = grammar-examples
-# text = דער תּלמיד גיט דעם גוטן לערער אַ קוס.
-# translit = der talmed git dem gutn lerer a kus.
+# text = דער תּלמיד גיט דעם גוטן לערער אַ קוש.
+# translit = der talmed git dem gutn lerer a kush.
 # text_en = The student gives the good teacher a kiss.
 1	דער	דער	DET	_	_	2	det	_	Translit=der|LTranslit=der
 2	תּלמיד	תּלמיד	NOUN	_	_	3	nsubj	_	Translit=talmed|LTranslit=talmed
@@ -34672,7 +34672,7 @@
 5	גוטן	גוט	ADJ	_	_	6	amod	_	Translit=gutn|LTranslit=gut
 6	לערער	לערער	NOUN	_	_	3	obl:arg	_	Translit=lerer|LTranslit=lerer
 7	אַ	אַ	DET	_	_	8	det	_	Translit=a|LTranslit=a
-8	קוס	קוס	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=kus|LTranslit=kus
+8	קוש	קוש	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=kush|LTranslit=kush
 9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = yiddish_grammar_249
