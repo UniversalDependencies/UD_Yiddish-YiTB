@@ -33515,7 +33515,7 @@
 # sent_id = yiddish_grammar_174
 # source = Yiddish grammar books
 # genre = grammar-examples
-# text = קײן קאָצק פֿאָרן מען נישט, קײן קאָצק גײט מען.
+# text = קײן קאָצק פֿאָרט מען נישט, קײן קאָצק גײט מען.
 # translit = keyn kotsk fort men nisht, keyn kotsk geyt men.
 # text_en = You do not ride to Kotsk, you walk to Kotsk.
 # rtl = yes
@@ -33742,7 +33742,7 @@
 # text_en = You will run out into the street.
 # rtl = yes
 1	דו	דו	PRON	_	_	3	nsubj	_	Translit=du|LTranslit=du
-2	װעסט	װלן	AUX	_	_	3	aux	_	Translit=vest|LTranslit=veln
+2	װעסט	װעלן	AUX	_	_	3	aux	_	Translit=vest|LTranslit=veln
 3	אַרױסלױפֿן	אַרױסלױפֿן	VERB	_	_	0	root	_	Translit=aroysloyfn|LTranslit=aroysloyfn
 4	אין	אין	ADP	_	_	5	case	_	Translit=in|LTranslit=in
 5	גאַס	גאַס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=gas|LTranslit=gas
