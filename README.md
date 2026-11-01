@@ -41,7 +41,7 @@ To the best of our knowledge, the source texts used for the creation of this tre
 
 # Changelog
 
-* 2025-05-15 v2.17
+* 2025-11-15 v2.17
   * Initial release in Universal Dependencies.
 
 
