@@ -890,7 +890,7 @@
 # text_en = First they ordered us to clean the trucks, beating us in the process.
 1	פֿריער	פֿריער	ADV	_	_	2	advmod	_	Translit=frier|LTranslit=frier
 2	געהײסן	הײסן	VERB	_	_	0	root	_	Translit=geheysn|LTranslit=heysn
-3	אױפֿרײניקן	אױפֿרײַניק	VERB	_	_	2	xcomp	_	Translit=oyfreynikn|LTranslit=oyfraynik
+3	אױפֿרײניקן	אױפֿרײניקן	VERB	_	_	2	xcomp	_	Translit=oyfreynikn|LTranslit=oyfreynikn
 4	די	דער	DET	_	_	5	det	_	Translit=di|LTranslit=der
 5	אױטאָס	אױטאָ	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=oytos|LTranslit=oyto
 6	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
@@ -1482,10 +1482,10 @@
 15	סצענעס	סצענע	NOUN	_	_	12	obj	_	Translit=stsenes|LTranslit=stsene
 16	פֿון	פֿון	ADP	_	_	18	case	_	Translit=fun|LTranslit=fun
 17	דער	דער	DET	_	_	18	det	_	Translit=der|LTranslit=der
-18	פּסח־געשיכטע	פּסח־געשיכט	NOUN	_	_	15	nmod	_	Translit=peysekh-geshikhte|LTranslit=peysekh-geshikht
+18	פּסח־געשיכטע	פּסח־געשיכטע	NOUN	_	_	15	nmod	_	Translit=peysekh-geshikhte|LTranslit=peysekh-geshikhte
 19	-	-	PUNCT	_	_	21	punct	_	Translit=-|LTranslit=-
 20	אַ	אַ	DET	_	_	21	det	_	Translit=a|LTranslit=a
-21	מין	מין	NOUN	_	_	15	appos	_	Translit=min|LTranslit=מין
+21	מין	מין	NOUN	_	_	15	appos	_	Translit=min|LTranslit=min
 22	פּסח־שפּיל	פּסח־שפּיל	NOUN	_	_	21	nmod	_	SpaceAfter=No|Translit=peysekh-shpil|LTranslit=peysekh-shpil
 23	,	,	PUNCT	_	_	27	punct	_	Translit=,|LTranslit=,
 24	אַזױ	אַזױ	ADV	_	_	27	advmod	_	Translit=azoy|LTranslit=azoy
@@ -1857,13 +1857,13 @@
 # source = Proste Yiddish, Season 4: Episode 8 - Haggadahs and Elijah the Prophet
 # genre = spoken, web
 # text_en = On Saturday night, people sing a song about him, and at a bris, a vacant chair is set out for him.
-1	שבת־צו־נאַכטס	שבת־צו־נאַכט	NOUN	_	_	2	obl	_	Translit=shabes-tsu-nakhts|LTranslit=shabes-tsu-nakht
+1	שבת־צו־נאַכטס	שבת־צו־נאַכטס	NOUN	_	_	2	obl	_	Translit=shabes-tsu-nakhts|LTranslit=shabes-tsu-nakhts
 2	זינגט	זינגען	VERB	_	_	0	root	_	Translit=zingt|LTranslit=zingen
 3	מען	מען	PRON	_	_	2	nsubj	_	Translit=men|LTranslit=men
 4	אַ	אַ	DET	_	_	5	det	_	Translit=a|LTranslit=a
 5	ליד	ליד	NOUN	_	_	2	obj	_	Translit=lid|LTranslit=lid
 6	װעגן	װעגן	ADP	_	_	7	case	_	Translit=vegn|LTranslit=vegn
-7	אים	עס	PRON	_	_	5	nmod	_	Translit=im|LTranslit=es
+7	אים	ער	PRON	_	_	5	nmod	_	Translit=im|LTranslit=er
 8	און	און	CCONJ	_	_	12	cc	_	Translit=un|LTranslit=un
 9	בײַ	בײַ	ADP	_	_	11	case	_	Translit=bay|LTranslit=bay
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|LTranslit=a
@@ -1873,7 +1873,7 @@
 14	פֿאַר	פֿאַר	ADP	_	_	15	case	_	Translit=far|LTranslit=far
 15	אים	ער	PRON	_	_	12	obl	_	Translit=im|LTranslit=er
 16	אַ	אַ	DET	_	_	18	det	_	Translit=a|LTranslit=a
-17	לײדיקן	לײַדיק	ADJ	_	_	18	amod	_	Translit=leydikn|LTranslit=laydik
+17	לײדיקן	לײדיק	ADJ	_	_	18	amod	_	Translit=leydikn|LTranslit=leydik
 18	שטול	שטול	NOUN	_	_	12	obj	_	SpaceAfter=No|Translit=shtul|LTranslit=shtul
 19	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -1940,7 +1940,7 @@
 11	אונדז	מיר	PRON	_	_	8	nmod	_	Translit=undz|LTranslit=mir
 12	-	-	PUNCT	_	_	14	punct	_	Translit=-|LTranslit=-
 13	ער	ער	PRON	_	_	14	nsubj	_	Translit=er|LTranslit=er
-14	װױנט	ווױנט	VERB	_	_	8	parataxis	_	Translit=voynt|LTranslit=voynt
+14	װױנט	װױנען	VERB	_	_	8	parataxis	_	Translit=voynt|LTranslit=voynen
 15	נישט	נישט	PART	_	_	14	advmod	_	Translit=nisht|LTranslit=nisht
 16	נאָר	נאָר	ADV	_	_	14	advmod	_	Translit=nor|LTranslit=nor
 17	אין	אין	ADP	_	_	18	case	_	Translit=in|LTranslit=in
@@ -2670,21 +2670,21 @@
 # genre = grammar-examples/learner-essays
 # text_en = In my eyes, you're beautiful. In my eyes, you have charm. In my eyes, you're the handsomest man in the world.
 1	בײַ	בײַ	ADP	_	_	2	case	_	Translit=bay|LTranslit=bay
-2	מיר	מיר	PRON	_	_	5	obl	_	Translit=mir|LTranslit=mir
+2	מיר	איך	PRON	_	_	5	obl	_	Translit=mir|LTranslit=ikh
 3-4	ביסטו	_	_	_	_	_	_	_	Translit=bistu
 3	ביסט	זײַן	AUX	_	_	5	cop	_	Translit=bist|LTranslit=zayn
 4	דו	דו	PRON	_	_	5	nsubj	_	Translit=du|LTranslit=du
 5	שיין	שיין	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=sheyn|LTranslit=sheyn
 6	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
 7	בײַ	בײַ	ADP	_	_	8	case	_	Translit=bay|LTranslit=bay
-8	מיר	מיר	PRON	_	_	9	obl	_	Translit=mir|LTranslit=mir
+8	מיר	איך	PRON	_	_	9	obl	_	Translit=mir|LTranslit=ikh
 9-10	האָסטו	_	_	_	_	_	_	_	Translit=hostu
 9	האָסט	האָבן	VERB	_	_	5	parataxis	_	Translit=host|LTranslit=hobn
 10	דו	דו	PRON	_	_	9	nsubj	_	Translit=du|LTranslit=du
 11	חן	חן	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=kheyn|LTranslit=kheyn
 12	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
 13	בײַ	בײַ	ADP	_	_	14	case	_	Translit=bay|LTranslit=bay
-14	מיר	מיר	PRON	_	_	18	obl	_	Translit=mir|LTranslit=mir
+14	מיר	איך	PRON	_	_	18	obl	_	Translit=mir|LTranslit=ikh
 15-16	ביסטו	_	_	_	_	_	_	_	Translit=bistu
 15	ביסט	זײַן	AUX	_	_	18	cop	_	Translit=bist|LTranslit=zayn
 16	דו	דו	PRON	_	_	18	nsubj	_	Translit=du|LTranslit=du
@@ -3259,7 +3259,7 @@
 # text_en = Yiddish clearly has features characteristic of Austro-Bavarian.
 1	ייִדיש	ייִדיש	PROPN	_	_	2	nsubj	_	Translit=yidish|LTranslit=yidish
 2	האָט	האָבן	AUX	_	_	0	root	_	Translit=hot|LTranslit=hobn
-3	דײַטלעך	דײַטל	ADJ	_	_	2	advmod	_	Translit=daytlekh|LTranslit=daytl
+3	דײַטלעך	דײַטלעך	ADJ	_	_	2	advmod	_	Translit=daytlekh|LTranslit=daytlekh
 4	אייגנשאַפֿטן	אייגנשאַפֿט	NOUN	_	_	2	obj	_	Translit=eygnshaftn|LTranslit=eygnshaft
 5	וואָס	וואָס	SCONJ	_	_	7	mark	_	Translit=vos|LTranslit=vos
 6	זענען	זײַן	AUX	_	_	7	cop	_	Translit=zenen|LTranslit=zayn
@@ -5381,11 +5381,11 @@
 # text_en = Tom never saw any wolves, but he could hear them.
 1	טאָם	טאָם	PROPN	_	_	6	nsubj	_	Translit=tom|LTranslit=tom
 2	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|LTranslit=hobn
-3	קיין	קײַן	DET	_	_	4	det	_	Translit=keyn|LTranslit=keyn
+3	קיין	קיין	DET	_	_	4	det	_	Translit=keyn|LTranslit=keyn
 4	מאָל	מאָל	NOUN	_	_	6	obl	_	Translit=mol|LTranslit=mol
 5	נישט	נישט	PART	_	_	6	advmod	_	Translit=nisht|LTranslit=nisht
 6	געזען	זען	VERB	_	_	0	root	_	Translit=gezen|LTranslit=zen
-7	קיין	קײַן	DET	_	_	8	det	_	Translit=keyn|LTranslit=keyn
+7	קיין	קיין	DET	_	_	8	det	_	Translit=keyn|LTranslit=keyn
 8	וועלף	וואָלף	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=velf|LTranslit=volf
 9	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
 10	אָבער	אָבער	CCONJ	_	_	15	cc	_	Translit=ober|LTranslit=ober
@@ -5431,7 +5431,7 @@
 # text_en = One of my grandmothers is Jewish, and the other's an antisemite.
 1	איינע	אײנער	DET	_	_	7	nsubj	_	Translit=eyne|LTranslit=eyner
 2	פֿון	פֿון	ADP	_	_	4	case	_	Translit=fun|LTranslit=fun
-3	מײַנע	מײַנע	DET	_	_	4	det:poss	_	Translit=mayne|LTranslit=mayne
+3	מײַנע	מײַן	DET	_	_	4	det:poss	_	Translit=mayne|LTranslit=mayn
 4	באָבעס	באָבע	NOUN	_	_	1	nmod	_	Translit=bobes|LTranslit=bobe
 5	איז	זײַן	AUX	_	_	7	cop	_	Translit=iz|LTranslit=zayn
 6	אַ	אַ	DET	_	_	7	det	_	Translit=a|LTranslit=a
@@ -9407,7 +9407,7 @@
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
 # text_en = My parents live in Australia.
-1	מײַנע	מײַנע	DET	_	_	2	det:poss	_	Translit=mayne|LTranslit=mayne
+1	מײַנע	מײַן	DET	_	_	2	det:poss	_	Translit=mayne|LTranslit=mayn
 2	עלטערן	עלטערן	NOUN	_	_	3	nsubj	_	Translit=eltern|LTranslit=eltern
 3	וואוינען	וואוינען	VERB	_	_	0	root	_	Translit=voynen|LTranslit=voynen
 4	אין	אין	ADP	_	_	5	case	_	Translit=in|LTranslit=in
@@ -10931,7 +10931,7 @@
 1	טאָם	טאָם	PROPN	_	_	3	nsubj	_	Translit=tom|LTranslit=tom
 2	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|LTranslit=hobn
 3	אײַנגערעדט	אײַנרעדן	VERB	_	_	0	root	_	Translit=ayngeredt|LTranslit=aynredn
-4	מערין	מער	PROPN	_	_	3	obj	_	Translit=merin|LTranslit=mer
+4	מערין	מערי	PROPN	_	_	3	obj	_	Translit=merin|LTranslit=meri
 5	צו	צו	ADP	_	_	6	mark	_	Translit=tsu|LTranslit=tsu
 6	גיין	גיין	VERB	_	_	3	xcomp	_	Translit=geyn|LTranslit=geyn
 7	שווימען	שווימען	VERB	_	_	6	xcomp	_	Translit=shvimen|LTranslit=shvimen
@@ -13130,7 +13130,7 @@
 
 # sent_id = tatoeba_2289
 # text = די איינציקע שפּראַך וואָס אסתּר קען רעדן איז ייִדיש.
-# translit = di eyntsike shprakh vos ister ken redn iz yidish.
+# translit = di eyntsike shprakh vos ester ken redn iz yidish.
 # rtl = yes
 # source = tatoeba.org
 # genre = grammar-examples/learner-essays
@@ -13139,7 +13139,7 @@
 2	איינציקע	איינציק	ADJ	_	_	3	amod	_	Translit=eyntsike|LTranslit=eyntsik
 3	שפּראַך	שפּראַך	NOUN	_	_	9	nsubj	_	Translit=shprakh|LTranslit=shprakh
 4	וואָס	וואָס	SCONJ	_	_	7	mark	_	Translit=vos|LTranslit=vos
-5	אסתּר	אסתּר	PROPN	_	_	7	nsubj	_	Translit=ister|LTranslit=ister
+5	אסתּר	אסתּר	PROPN	_	_	7	nsubj	_	Translit=ester|LTranslit=ester
 6	קען	קענען	AUX	_	_	7	aux	_	Translit=ken|LTranslit=kenen
 7	רעדן	רעדן	VERB	_	_	3	acl:relcl	_	Translit=redn|LTranslit=redn
 8	איז	זײַן	AUX	_	_	9	cop	_	Translit=iz|LTranslit=zayn
@@ -14708,7 +14708,7 @@
 2	איז	זײַן	AUX	_	_	6	aux	_	Translit=iz|LTranslit=zayn
 3	געווען	זײַן	AUX	_	_	6	aux	_	Translit=geven|LTranslit=zayn
 4	דער	דער	DET	_	_	6	det	_	Translit=der|LTranslit=der
-5	בעסטער	בעסט	ADJ	_	_	6	amod	_	Translit=bester|LTranslit=best
+5	בעסטער	גוט	ADJ	_	_	6	amod	_	Translit=bester|LTranslit=gut
 6	הונט	הונט	NOUN	_	_	0	root	_	Translit=hunt|LTranslit=hunt
 7	אויף	אויף	ADP	_	_	9	case	_	Translit=oyf|LTranslit=oyf
 8	דער	דער	DET	_	_	9	det	_	Translit=der|LTranslit=der
@@ -15101,7 +15101,7 @@
 2	איז	זײַן	AUX	_	_	5	cop	_	Translit=iz|LTranslit=zayn
 3	ייִדיש	ייִדיש	PROPN	_	_	5	nsubj	_	Translit=yidish|LTranslit=yidish
 4	אַזוי	אַזוי	ADV	_	_	5	advmod	_	Translit=azoy|LTranslit=azoy
-5	ענלעך	ענל	ADJ	_	_	0	root	_	Translit=enlekh|LTranslit=enl
+5	ענלעך	ענלעך	ADJ	_	_	0	root	_	Translit=enlekh|LTranslit=enlekh
 6	צו	צו	ADP	_	_	7	case	_	Translit=tsu|LTranslit=tsu
 7	דײַטש	דײַטש	PROPN	_	_	5	obl	_	SpaceAfter=No|Translit=daytsh|LTranslit=daytsh
 8	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
@@ -15242,7 +15242,7 @@
 4	ניצן	ניצן	VERB	_	_	0	root	_	Translit=nitsn|LTranslit=nitsn
 5	באַנקאָמאַטן	באַנקאָמאַט	NOUN	_	_	4	obj	_	Translit=bankomatn|LTranslit=bankomat
 6	כּדי	כּדי	ADP	_	_	7	mark	_	Translit=kedey|LTranslit=kedey
-7	אַרויסצוציִען	אַרויסצוציִען	VERB	_	_	4	advcl	_	Translit=aroystsutsien|LTranslit=aroystsutsien
+7	אַרויסצוציִען	אַרויסציִען	VERB	_	_	4	advcl	_	Translit=aroystsutsien|LTranslit=aroystsien
 8	געלט	געלט	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=gelt|LTranslit=gelt
 9	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -16049,7 +16049,7 @@
 42	װעלן	װעלן	AUX	_	_	43	aux	_	Translit=veln|LTranslit=veln
 43	זאָגן	זאָגן	VERB	_	_	11	conj	_	Translit=zogn|LTranslit=zogn
 44	צו	צו	ADP	_	_	45	case	_	Translit=tsu|LTranslit=tsu
-45	מיר	מיר	PRON	_	_	43	obl	_	SpaceAfter=No|Translit=mir|LTranslit=mir
+45	מיר	איך	PRON	_	_	43	obl	_	SpaceAfter=No|Translit=mir|LTranslit=ikh
 46	:	:	PUNCT	_	_	47	punct	_	Translit=:|LTranslit=:
 47	װאָס	װאָס	PRON	_	_	43	ccomp	_	Translit=vos|LTranslit=vos
 48	איז	זײַן	AUX	_	_	47	cop	_	Translit=iz|LTranslit=zayn
@@ -16280,7 +16280,7 @@
 44	זיך	זיך	PRON	_	_	45	expl:pv	_	Translit=zikh|LTranslit=zikh
 45	באַװיזן	באַװײַזן	VERB	_	_	12	ccomp	_	Translit=bavizn|LTranslit=bavayzn
 46	צו	צו	ADP	_	_	47	case	_	Translit=tsu|LTranslit=tsu
-47	מיר	מיר	PRON	_	_	45	obl	_	SpaceAfter=No|Translit=mir|LTranslit=mir
+47	מיר	איך	PRON	_	_	45	obl	_	SpaceAfter=No|Translit=mir|LTranslit=ikh
 48	,	,	PUNCT	_	_	51	punct	_	Translit=,|LTranslit=,
 49	אַזױ	אַזױ	ADV	_	_	51	advmod	_	Translit=azoy|LTranslit=azoy
 50	צו	צו	ADP	_	_	51	case	_	Translit=tsu|LTranslit=tsu
@@ -16511,7 +16511,7 @@
 11	מִצרַיִם	מִצרַיִם	PROPN	_	_	10	obj	_	Translit=mitsrayem|LTranslit=mitsrayem
 12	מיט	מיט	ADP	_	_	15	case	_	Translit=mit|LTranslit=mit
 13	אַלע	אַלע	DET	_	_	15	det	_	Translit=ale|LTranslit=ale
-14	מײַנע	מײַנע	DET	_	_	15	det:poss	_	Translit=mayne|LTranslit=mayne
+14	מײַנע	מײַן	DET	_	_	15	det:poss	_	Translit=mayne|LTranslit=mayn
 15	װוּנדער	וווּנדער	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=vunder|LTranslit=vunder
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 17	װאָס	װאָס	SCONJ	_	_	20	mark	_	Translit=vos|LTranslit=vos
@@ -16579,7 +16579,7 @@
 42	פֿון	פֿון	ADP	_	_	43	case	_	Translit=fun|LTranslit=fun
 43	דער	דער	DET	_	_	39	conj	_	Translit=der|LTranslit=der
 44	װאָס	װאָס	SCONJ	_	_	45	mark	_	Translit=vos|LTranslit=vos
-45	װױנט	ווױנען	VERB	_	_	43	acl:relcl	_	Translit=voynt|LTranslit=voynen
+45	װױנט	װױנען	VERB	_	_	43	acl:relcl	_	Translit=voynt|LTranslit=voynen
 46	מיט	מיט	ADP	_	_	47	case	_	Translit=mit|LTranslit=mit
 47	איר	זי	PRON	_	_	45	obl	_	Translit=ir|LTranslit=zi
 48	אין	אין	ADP	_	_	49	case	_	Translit=in|LTranslit=in
@@ -16907,7 +16907,7 @@
 # text_en = Who makes no dumb or deaf, seeing or blind?—such I am, the LORD.
 1	אָדער	אָדער	CCONJ	_	_	3	cc	_	Translit=oder|LTranslit=oder
 2	װער	װער	PRON	_	_	3	nsubj	_	Translit=ver|LTranslit=ver
-3	מאַכט	מאַכט	VERB	_	_	0	root	_	Translit=makht|LTranslit=makht
+3	מאַכט	מאַכן	VERB	_	_	0	root	_	Translit=makht|LTranslit=makhn
 4	שטום	שטום	ADJ	_	_	3	ccomp	_	SpaceAfter=No|Translit=shtum|LTranslit=shtum
 5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 6	אָדער	אָדער	CCONJ	_	_	7	cc	_	Translit=oder|LTranslit=oder
@@ -18521,7 +18521,7 @@
 6	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
 7	נאָר	נאָר	CCONJ	_	_	9	cc	_	Translit=nor|LTranslit=nor
 8	די	דער	DET	_	_	9	det	_	Translit=di|LTranslit=der
-9	קנײדלעך	קנײַדל	NOUN	_	_	5	conj	_	SpaceAfter=No|Translit=kneydlekh|LTranslit=knaydl
+9	קנײדלעך	קנײדל	NOUN	_	_	5	conj	_	SpaceAfter=No|Translit=kneydlekh|LTranslit=kneydl
 10	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = yiddish_proverbs_60
@@ -18674,7 +18674,7 @@
 7	גאָר	גאָר	ADV	_	_	1	advmod	_	Translit=gor|LTranslit=gor
 8	די	דער	DET	_	_	9	det	_	Translit=di|LTranslit=der
 9	מומע	מומע	NOUN	_	_	1	nsubj	_	Translit=mume|LTranslit=mume
-10	אײדלע	אײדל	PROPN	_	_	9	appos	_	SpaceAfter=No|Translit=eydle|LTranslit=eydl
+10	אײדלע	אײדלע	PROPN	_	_	9	appos	_	SpaceAfter=No|Translit=eydle|LTranslit=eydle
 11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # sent_id = foolish_5
@@ -18708,7 +18708,7 @@
 5	ניט	ניט	PART	_	_	6	advmod	_	Translit=nit|LTranslit=nit
 6	שבת	שבת	NOUN	_	_	7	advcl	_	Translit=shabes|LTranslit=shabes
 7	האָט	האָבן	AUX	_	_	0	root	_	Translit=hot|LTranslit=hobn
-8	רײזעלע	רױז	PROPN	_	_	7	nsubj	_	Translit=reyzele|LTranslit=royz
+8	רײזעלע	רײזעלע	PROPN	_	_	7	nsubj	_	Translit=reyzele|LTranslit=reyzele
 9	אַ	אַ	DET	_	_	11	det	_	Translit=a|LTranslit=a
 10	קלאָרן	קלאָר	ADJ	_	_	11	amod	_	Translit=klorn|LTranslit=klor
 11	סימן	סימען	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=simen|LTranslit=simen
@@ -18742,7 +18742,7 @@
 6	קאָכן	קאָכן	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kokhn|LTranslit=kokhn
 7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 8	װײסט	װיסן	VERB	_	_	6	parataxis	_	Translit=veyst|LTranslit=visn
-9	רײזעלע	רױז	PROPN	_	_	8	nsubj	_	SpaceAfter=No|Translit=reyzele|LTranslit=royz
+9	רײזעלע	רײזעלע	PROPN	_	_	8	nsubj	_	SpaceAfter=No|Translit=reyzele|LTranslit=reyzele
 10	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 11	פֿאַר	פֿאַר	ADP	_	_	13	case	_	Translit=far|LTranslit=far
 12	קײן	קײן	DET	_	_	13	det	_	Translit=keyn|LTranslit=keyn
