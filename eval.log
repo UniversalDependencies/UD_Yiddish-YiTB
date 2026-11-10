@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Yiddish-YiTB:
-commit d61f3df0e9d961814031dcfe21277b2e445e415e
-Merge: c489b45 0a628b6
+commit e2304797d93662ad8c2b7df88e1ca67406f0b2fe
+Merge: 90f9703 4ce61fe
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'yi_yitb'
 Language code (from CoNLL-U file name) = 'yi'
 Found the following data files: yi_yitb-ud-dev.conllu, yi_yitb-ud-test.conllu, yi_yitb-ud-train.conllu
-Size: counted 28348 of 28348 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.68911296189602.
+Size: counted 29904 of 29904 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.79598450142641.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 4 out of 28348 total words have one or more features.
+Features: 5 out of 29904 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -61,7 +61,7 @@ Warnings: 14
 [Line 3838 Sent tatoeba_1612]: [L3 WARNING fixed-without-extpos] Fixed expression 'אַ פּאָר' does not have the 'ExtPos' feature
 [Line 4514 Sent tatoeba_1724]: [L3 WARNING fixed-without-extpos] Fixed expression 'אַ ביסל' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-Warnings: 2172
+Warnings: 2176
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang yi --max-err=10 UD_Yiddish-YiTB/yi_yitb-ud-train.conllu
 [Line 21 Sent py_sholem-aleichem_2]: [L3 WARNING pron-det-without-prontype] The word 'איך ikh' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -86,16 +86,16 @@ Warnings: 2172
 [Line 11851 Sent tatoeba_568]: [L3 WARNING fixed-without-extpos] Fixed expression 'ווייניקער ווי' does not have the 'ExtPos' feature
 [Line 12637 Sent tatoeba_619]: [L3 WARNING fixed-without-extpos] Fixed expression 'אַ סך' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-Warnings: 3577
+Warnings: 3955
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
 (weight=0.111111111111111) * (score{genres}=0.444444444444444) = 0.0493827160493827
 (weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
-(weight=0.37037037037037) * (score{size}=0.48417414136316) = 0.179323756060429
+(weight=0.37037037037037) * (score{size}=0.491909761344919) = 0.182188800498118
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
-(TOTAL score=0.545794148021017) * (availability=1) * (validity=1) = 0.545794148021017
+(TOTAL score=0.548659192458706) * (availability=1) * (validity=1) = 0.548659192458706
 STARS = 2.5
-UD_Yiddish-YiTB	0.545794148021017	2.5
+UD_Yiddish-YiTB	0.548659192458706	2.5
